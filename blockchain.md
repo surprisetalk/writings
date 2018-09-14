@@ -7,7 +7,7 @@ How can search be improved with blockchains?
 
 ## Maps
 
-How can maps be improved with blockchains?
+How can maps, AR, and "layers" be improved with blockchains?
 
 ## Information Theory
 

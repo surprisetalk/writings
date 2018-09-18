@@ -1,0 +1,103 @@
+
+<!doctype html>
+<html>
+
+  <head>
+    <title>taysar</title>
+    <link href="https://fonts.googleapis.com/css?family=Lato:700|Lora:300|Fira+Mono|Merriweather:300|Source+Sans+Pro:700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="sakura.css">
+  </head>
+
+  <body>
+
+    <br/>
+
+    <h1>the other invisible hands</h1>
+
+    <br/>
+
+    <img src="http://www.clker.com/cliparts/T/Y/3/W/o/a/clock-spiral.svg"/>
+
+    <br/><br/><br/>
+
+    <p>I think we lost something when we moved from analog to digital clocks.</p>
+    <p>
+        Our lives used to be cyclical.
+        Every moment had its point on the perimiter of a circle.<br/>
+    </p>
+    <p>
+        Clocks used to ask us, "Who will you be in 10 years, if you continue to repeat today again and again?"<br/>
+    </p>
+    <p>
+        Time's hands waved like semaphore operators, reminding us that no ship stays afloat forever.
+        But I guess that time has passed.
+        <!-- No more holding hands. -->
+        <!-- bells -->
+    </p>
+
+        <!-- bells -->
+
+    <h3 id="clock"></h3>
+
+    <p>
+        Now time is linear.
+        Men and machines obey a single number: the milliseconds since <a href="https://en.wikipedia.org/wiki/Unix_time">January 1st, 1970 at 00:00:00</a>.
+    </p>
+
+    <p>
+        Everything seems to be ahead of us and behind us, with no time for "now".
+    </p>
+
+    <p>
+        But we're blessed to live in an age of progress.<br/>
+        Every minute something new is happening (I guess that's why we have so much <em>news</em>). We have access to high-quality goods and services, often instantly-accessible.<br/>
+        I'm grateful that I have the opportunity to binge-watch anime - it means that I'm not farming, or mining, or warding off invaders.
+    </p>
+
+    <!-- I always feel like I'm wasting time, but that just means that I have time to waste! -->
+
+    <p>
+        Sometimes I just wish that our clocks would start holding hands again.
+        And that linear time would slow down enough to remind me that I've already been alive for <span id="age">way too many</span> days.
+    </p>
+
+    <p>
+        We have more time than ever before. Let's make it count.
+    </p>
+
+    <!-- time changing her pace when observed -->
+
+    <!-- Time hasn't increased her pace, we've just been watching her more granuarly -- cutting her up into smaller and smaller pieces.-->
+
+    <blockquote>
+        On one hand, we've got hours.<br/>
+        On the other hand, we've got minutes.
+    </blockquote>
+
+    <br/><br/>
+
+    <a href="/">&larr; back</a>
+
+    <br/><br/><br/><br/> 
+
+  </body>
+
+  <script>
+
+   var clock = document.getElementById('clock');
+
+   function step( ts )
+   {
+       clock.textContent = (new Date()).getTime();
+       window.requestAnimationFrame( step );
+   }
+
+   window.requestAnimationFrame( step );
+
+   var age = document.getElementById('age');
+
+   age.textContent = parseInt( ((new Date()).getTime() - (new Date('1992/10/05')).getTime()) / 1000 / 60 / 60 / 24 );
+   
+  </script>
+
+</html>

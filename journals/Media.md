@@ -1,9 +1,15 @@
 
 # Media
 
+## 2018/09/17 2319h
+
+Here's another awesome subreddit called [r/beansinthings](https://www.reddit.com/r/beansinthings).
+
+![Bean surprise](https://i.redd.it/i6zo1mm6vtm11.jpg)
+
 ## 2018/09/17 2051h
 
-I just found an amazing subreddit called [cursed_images](https://www.reddit.com/r/cursedimages)!
+I just found an amazing subreddit called [r/cursed_images](https://www.reddit.com/r/cursedimages)!
 
 Here are some highlights:
 

@@ -1,0 +1,87 @@
+- Productivity
+  - Only do the Next Thing in The Queue. There is nothing else.
+    - The Queue is a mixture of tasks, flashcards, media, reminders, and prompts.
+  - Set a kitchen-timer before each task. Parkinson's Law is more insidious than it seems.
+  - Make Unreasonable Constraints on each task.
+  - Always ask yourself, "Would it look like if it was easy?"
+  - Eat the Frog: do The Scariest Things first.
+  - Planned Procrastination: use Parkinson's Law and the Pareto Principle to your advantage.
+- Creation
+  - Aim for a 2:1 Creation/Consumption Ratio.
+  - Throw One Away.
+  - Make Junk.
+- Consumption
+  - All content must be placed into The Queue -- consumption materials must be obtained from The Queue.
+  - Read 1 book per day. It's okay if you don't comprehend it all -- re-read until absorbed.
+  - All consumption must result in creation -- essays, videos, etc.
+  - If you watch anime, watch less. If you don't, watch more.
+  - Most media is better at double-speed.
+- Communication
+  - In arguments, use echololia -- summarize their points before beginning your own.
+  - Upon criticism, ask yourself, "What if they're right?".
+  - Everybody likes talking about their "I" and "me" -- not your "I" and "me".
+  - Never lie. You need people to reprimand you for your bad thoughts.
+  - If you like them, stay in touch. Say Hello monthly.
+  - Avoid fowl language. Not because it's morally wrong, but because it's lazy.
+  - Use humor, but not too much.
+  - It can wait. You don't have to respond Right Now.
+  - But always respond Today.
+- Relationships
+  - Don't seek romance. Go to the library and gym -- they'll come to you.
+  - The only Deal-Breaker is maliciousness.
+  - Prune your friendships liberally. Be Intentional with your relationships.
+  - Avoid "hanging out". If you like them, call them.
+  - If you do hang out, always set a hard end-time beforehand.
+  - There's Almost Never any One Person to blame.
+  - Go back and thank your mentors. Yes, it'll be Scary. Yes, you've had mentors.
+- Living
+  - Go with The Flow -- fight nothing and accept everything.
+  - When you don't know what to do next, Do Nothing, or listen to your breath. The Next Thing will happen when it's ready.
+  - Make sure to Frolic at least once a day. Do something that you love.
+  - The uncomfortable recesses of your mind are where your demons lie -- find them and they'll disappear.
+  - Make Your Bed.
+  - Add something to a Grapeful Jar once a day.
+  - No Normal Nights: when's the last time you truly enjoyed yourself? Synthesize that experience.
+  - Do Weird. A lot.
+  - Study The Greats. Copy The Masters. Enjoy The Masterpieces.
+  - Capture 1 Second (of video) Every Day.
+  - Every decision should end with Heck Yes or No.
+  - When Everybody Else is The Problem, you're probably The Problem.
+  - Simulate Rock Bottom.
+  - What is The Worst Thing that could happen?
+  - Nothing is A Big Deal.
+  - Do More Nothing.
+  - Never complain.
+  - If you feel bad, take some deep breaths. If you still feel bad, drink some water. If you still feel bad, figure out why.
+- Health
+  - You must wake up at your Good Morning Time. No matter what. Midday naps are encouraged.
+  - Pair your caffiene with l-theanine.
+  - Drink more water.
+  - No Fast Food. There are no short-cuts.
+  - Shower cold.
+  - If you do drugs, do less. If you don't, you should.
+  - 1 alcohol, 1 water.
+  - Meditate hard.
+- Time
+  - Avoid shopping. Buy online.
+  - Never play video-games without endings. Avoid online/multiplayer games.
+  - There are only 5214 weekends per century. Use yours wisely -- you likely won't have an entire century.
+  - Waiting is the only true waste-of-time.
+- Money
+  - All income should first go to necessities. Then debts. Then meet savings threshold. Then whatever.
+  - Buy it used, then sell it used. It's like borrowing.
+  - There is only one way to make money: convince other people to give you money.
+- Possessions
+  - Talk to your things. Literally. Thank them when you use them.
+  - All your possessions should Spark Joy.
+  - Consider wearing a uniform.
+- Thinking
+  - Break problems into subproblems. Solve each subproblem. Recurse if necessary. If (sub)problem is intractable, change your representation.
+  - Stop pretending like You Know.
+  - Identify The Essence of The Thing -- always start from First Principles.
+  - Use The 80/20 Rule liberally.
+  - Find a supporting example. Find a contra-example.
+  - Use flashcards Every Day.
+- Tech
+  - Vertical Monitors are Better.
+  - Dvorak is Better.

@@ -1,6 +1,4 @@
 
-# Wish List
-
 - plants & gardening supplies
 - physical copies of favorite books
 - pocket knife

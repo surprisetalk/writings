@@ -1,6 +1,90 @@
 
 # Media
 
+## 2018/09/18 1312h 
+
+I'm getting pumped for Life is Beautiful this weekend! I'm about to start listening to all the artists.
+
+Here's my ratings for everybody:
+- ★★★☆☆ The Weeknd
+- ★★★★★ Florence + the Machine
+- ★★★☆☆ Arcade Fire
+- ★★☆☆☆ Travis Scott
+- ★★☆☆☆ DJ Snake
+- ★★★★☆ Odesza
+- ★☆☆☆☆ N.E.R.D
+- ★★★★☆ Death Cab For Cutie
+- ★★★★☆ Tyler, The Creator
+- ★★★★★ Justice
+- ★☆☆☆☆ Bastille
+- ★★★★☆ Galantis
+- ★★☆☆☆ MIGUEL
+- ★★★★★ CHVRCHES
+- ★★★★★ St. Vincent
+- ★★★☆☆ Foster The People
+- ★★★☆☆ RL Grime
+- ★★☆☆☆ French Montana
+- ★★★★☆ Santigold
+- ★☆☆☆☆ A$AP Ferg
+- ★★★★☆ Sylvan Esso
+- ★★★★★ Cold War Kids
+- ★★☆☆☆ Daniel Caesar
+- ★★★★☆ Alison Wonderland
+- ★★☆☆☆ The Neighbourhood
+- ★★★☆☆ GOLDLINK
+- ★★★☆☆ Jungle
+- ★★★☆☆ T-Pain
+- ★★★☆☆ BLOOD ORANGE
+- ★★★★★ Cashmere Cat
+- ★★★☆☆ First Aid Kit
+- ★★★☆☆ Wolfmother
+- ★★★☆☆ What So Not
+- ★★★☆☆ Blackbear
+- ★★★☆☆ Gramatik
+- ★★★☆☆ Flight Facilities
+- ★★★☆☆ Sabrina Claudio
+- ★★☆☆☆ SOFI TUKKER
+- ★★☆☆☆ Lizzo
+- ★☆☆☆☆ LAUV
+- ★★★☆☆ 3lau
+- ★★★☆☆ Poolside
+- ★★★★☆ Lane 8
+- ★★★☆☆ The Drums
+- ★★★☆☆ DVBBS
+- ★☆☆☆☆ The Presets
+- ★☆☆☆☆ ROBERT DELONG
+- ★☆☆☆☆ Tribal Seeds
+- ★☆☆☆☆ AJR
+- ★☆☆☆☆ Party Favor
+- ★★☆☆☆ Denzel Curry
+- ★★☆☆☆ Sir Sly
+- ★★★★☆ Ravyn Lenae
+- ★★☆☆☆ Sam Feldt
+- ★★★★★ Superorganism
+- ★☆☆☆☆ Welshly Arms
+- ★★★☆☆ ELOHIM
+- ★★☆☆☆ Two Feet
+- ★★☆☆☆ ELDERBROOK
+- ★☆☆☆☆ Hinds
+- ★☆☆☆☆ FLETCHER
+- ★☆☆☆☆ Mt. Joy
+- ★★☆☆☆ YUNGBLUD
+- ★★☆☆☆ Amy Shark
+- ★★☆☆☆ Mikky Ekko
+- ★★☆☆☆ Wallows
+- ★★★★★ chet porter
+- ★★☆☆☆ Knox Fortune
+- ★★★☆☆ lovelytheband
+- ★★★★★ GRAVES
+- ★☆☆☆☆ Harry Hudson
+- ★★★★☆ Brasstracks
+- ★★☆☆☆ Morgan Saint
+- ★★★☆☆ NEIL FRANCES
+- ★☆☆☆☆ Young Bombs
+- ★☆☆☆☆ The Dirty Hooks
+- ★★☆☆☆ Mike Xavier
+- ★☆☆☆☆ O WILDLY
+
 ## 2018/09/18 1011h 
 
 I found some lectures I wanted to download and used the following script to download them all:

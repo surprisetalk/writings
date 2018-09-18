@@ -1,6 +1,15 @@
 
 # Media
 
+## 2018/09/18 1011h 
+
+I found some lectures I wanted to download and used the following script to download them all:
+```bash
+youtube-dl -i $(lynx -listonly -nonumbers -dump http://cufp.org/videos/)
+```
+
+Computers are amazing, aren't they?
+
 ## 2018/09/17 2319h
 
 Here's another awesome subreddit called [r/beansinthings](https://www.reddit.com/r/beansinthings).

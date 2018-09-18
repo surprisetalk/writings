@@ -1,4 +1,12 @@
 
+# The Theory of Trustless Data Structures
+
+What is the generalized theory of trustless data structures?
+
+# What is "The Blockchain" Actually Good For?
+
+Where does it shine? What are some applications that people haven't thought about?
+
 # Dumb Blockchain Ideas
 
 ## Search
@@ -22,5 +30,4 @@ What is the game theory behind blockchains?
 What are the possible applications of continuous payments?
 
 Why do continuous payments matter?
-
 

@@ -1,4 +1,8 @@
 
+# Useful & Interestng VR Stuff
+
+What are some unique VR applications?
+
 # Film Theory for Virtual Reality
 
 Serious cinema really hasn't been explored for VR. What are our options?

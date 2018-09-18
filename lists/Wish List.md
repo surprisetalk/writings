@@ -6,7 +6,9 @@
 - mass spectrometer
 - harmonica set
 - bass guitar
+- remarkable tablet and/or sony digital paper
 - miniature silicone molds
+- [e-ink monitor](http://dasungtech.com/english/detail/id/220)
 - favorite albums on vinyl
 - holography supplies
 - audio interface
@@ -14,6 +16,7 @@
 - camera bag
 - chopsticks
 - chemistry cookware & drinking glasses
+- [giant e-ink display for raspberry pi](https://shopkits.eink.com/product/13-3%cb%9d-epaper-display-ed133ut2/)
 - clothes
   - flannel onesie
   - plain, soft t-shirts

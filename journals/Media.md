@@ -1,6 +1,20 @@
 
 # Media
 
+## 2018/09/17 2051h
+
+I just found an amazing subreddit called [cursed_images](https://www.reddit.com/r/cursedimages)!
+
+Here are some highlights:
+
+![cursed_visitor](https://i.redd.it/mjnpq0ojlwy01.jpg)
+
+![cursed_cereal](https://i.redd.it/wy2rh6i9ydb11.jpg)
+
+![cursed_prom](https://i.redd.it/sixw6ysfe2511.jpg)
+
+![cursed_defense](https://i.redd.it/xu6jxmwr67f11.jpg)
+
 ## 2018/09/17 1856h
 
 I'm almost finished listening to _The Rise and Fall of the Dinosaurs_.

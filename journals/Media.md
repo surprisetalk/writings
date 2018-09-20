@@ -1,41 +1,50 @@
 
 # Media
 
+## 2018/09/19 1909h 
+
+I'm almost finished watching [Planet With](http://www.crunchyroll.com/planet-with).
+
+I can say, with confidence, that this series is largest difference in quality I've ever seen between a story and its cinematography. This show has a unique and thought-provoking premise with animation that is _utter garbage_. The CGI is horrendous and most of the robots are super lame.
+
+But once again, its story is actually quite interesting if you can stomach the animation.
+
+Maybe I'll do a more in-depth review later!
+
 ## 2018/09/18 1312h 
 
 I'm getting pumped for Life is Beautiful this weekend! I'm about to start listening to all the artists.
 
 Here's my ratings for everybody:
-- ★★★☆☆ The Weeknd
 - ★★★★★ Florence + the Machine
-- ★★★☆☆ Arcade Fire
-- ★★☆☆☆ Travis Scott
-- ★★☆☆☆ DJ Snake
-- ★★★★☆ Odesza
-- ★☆☆☆☆ N.E.R.D
-- ★★★★☆ Death Cab For Cutie
-- ★★★★☆ Tyler, The Creator
 - ★★★★★ Justice
-- ★☆☆☆☆ Bastille
-- ★★★★☆ Galantis
-- ★★☆☆☆ MIGUEL
 - ★★★★★ CHVRCHES
 - ★★★★★ St. Vincent
+- ★★★★★ Cold War Kids
+- ★★★★★ Cashmere Cat
+- ★★★★★ Superorganism
+- ★★★★★ chet porter
+- ★★★★★ GRAVES
+- ★★★★☆ Brasstracks
+- ★★★★☆ Galantis
+- ★★★★☆ Odesza
+- ★★★★☆ Death Cab For Cutie
+- ★★★★☆ Tyler, The Creator
+- ★★★★☆ Santigold
+- ★★★★☆ Sylvan Esso
+- ★★★★☆ Alison Wonderland
+- ★★★★☆ Lane 8
+- ★★★★☆ Ravyn Lenae
+- ★★★☆☆ The Weeknd
+- ★★★☆☆ lovelytheband
+- ★★★☆☆ NEIL FRANCES
+- ★★★☆☆ Arcade Fire
 - ★★★☆☆ Foster The People
 - ★★★☆☆ RL Grime
-- ★★☆☆☆ French Montana
-- ★★★★☆ Santigold
-- ★☆☆☆☆ A$AP Ferg
-- ★★★★☆ Sylvan Esso
-- ★★★★★ Cold War Kids
-- ★★☆☆☆ Daniel Caesar
-- ★★★★☆ Alison Wonderland
-- ★★☆☆☆ The Neighbourhood
 - ★★★☆☆ GOLDLINK
 - ★★★☆☆ Jungle
 - ★★★☆☆ T-Pain
 - ★★★☆☆ BLOOD ORANGE
-- ★★★★★ Cashmere Cat
 - ★★★☆☆ First Aid Kit
 - ★★★☆☆ Wolfmother
 - ★★★☆☆ What So Not
@@ -43,46 +52,47 @@ Here's my ratings for everybody:
 - ★★★☆☆ Gramatik
 - ★★★☆☆ Flight Facilities
 - ★★★☆☆ Sabrina Claudio
-- ★★☆☆☆ SOFI TUKKER
-- ★★☆☆☆ Lizzo
-- ★☆☆☆☆ LAUV
 - ★★★☆☆ 3lau
 - ★★★☆☆ Poolside
-- ★★★★☆ Lane 8
 - ★★★☆☆ The Drums
 - ★★★☆☆ DVBBS
+- ★★★☆☆ ELOHIM
+- ★★☆☆☆ Travis Scott
+- ★★☆☆☆ DJ Snake
+- ★★☆☆☆ MIGUEL
+- ★★☆☆☆ French Montana
+- ★★☆☆☆ Daniel Caesar
+- ★★☆☆☆ The Neighbourhood
+- ★★☆☆☆ SOFI TUKKER
+- ★★☆☆☆ Lizzo
+- ★★☆☆☆ Denzel Curry
+- ★★☆☆☆ Sir Sly
+- ★★☆☆☆ Sam Feldt
+- ★★☆☆☆ Two Feet
+- ★★☆☆☆ ELDERBROOK
+- ★★☆☆☆ YUNGBLUD
+- ★★☆☆☆ Amy Shark
+- ★★☆☆☆ Mikky Ekko
+- ★★☆☆☆ Wallows
+- ★★☆☆☆ Knox Fortune
+- ★★☆☆☆ Morgan Saint
+- ★★☆☆☆ Mike Xavier
+- ★☆☆☆☆ N.E.R.D
+- ★☆☆☆☆ Bastille
+- ★☆☆☆☆ A$AP Ferg
+- ★☆☆☆☆ LAUV
 - ★☆☆☆☆ The Presets
 - ★☆☆☆☆ ROBERT DELONG
 - ★☆☆☆☆ Tribal Seeds
 - ★☆☆☆☆ AJR
 - ★☆☆☆☆ Party Favor
-- ★★☆☆☆ Denzel Curry
-- ★★☆☆☆ Sir Sly
-- ★★★★☆ Ravyn Lenae
-- ★★☆☆☆ Sam Feldt
-- ★★★★★ Superorganism
 - ★☆☆☆☆ Welshly Arms
-- ★★★☆☆ ELOHIM
-- ★★☆☆☆ Two Feet
-- ★★☆☆☆ ELDERBROOK
 - ★☆☆☆☆ Hinds
 - ★☆☆☆☆ FLETCHER
 - ★☆☆☆☆ Mt. Joy
-- ★★☆☆☆ YUNGBLUD
-- ★★☆☆☆ Amy Shark
-- ★★☆☆☆ Mikky Ekko
-- ★★☆☆☆ Wallows
-- ★★★★★ chet porter
-- ★★☆☆☆ Knox Fortune
-- ★★★☆☆ lovelytheband
-- ★★★★★ GRAVES
 - ★☆☆☆☆ Harry Hudson
-- ★★★★☆ Brasstracks
-- ★★☆☆☆ Morgan Saint
-- ★★★☆☆ NEIL FRANCES
 - ★☆☆☆☆ Young Bombs
 - ★☆☆☆☆ The Dirty Hooks
-- ★★☆☆☆ Mike Xavier
 - ★☆☆☆☆ O WILDLY
 
 ## 2018/09/18 1011h 

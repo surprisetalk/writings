@@ -1,6 +1,10 @@
 
 # Media
 
+## 2018/09/19 2013h 
+
+I __love__ ContraPoints! Her [latest video](https://www.youtube.com/watch?v=z1afqR5QkDM) is incredible!
+
 ## 2018/09/19 1909h 
 
 I'm almost finished watching [Planet With](http://www.crunchyroll.com/planet-with).

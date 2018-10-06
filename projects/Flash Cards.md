@@ -1,6 +1,12 @@
 
 # "Flash" To-Do Cards
 
+## 2018/10/06 1208h
+
+I'd like to learn Japanese, but it'll be difficult to do with physical cards.
+
+I need to finish my todo-list/flash-card app.
+
 ## 2018/09/15 1259h
 
 Lately I've been writing down all my tasks on flash cards.

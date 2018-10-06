@@ -1,6 +1,12 @@
 
 # Productivity
 
+## 2018.10.06 1205h 
+
+I want to write more, but it's difficult to find time!
+
+I'd like to start using iOS dictation while I'm driving. We'll see...
+
 ## 2018.09.15 1435h 
 
 I'd like to revamp the keymaps for my XMonad and Emacs environments, but they're actually kinda fine how they are right now. When do you know when it's time to invest time into tweaking your environment? I could spend weeks doing something that would barely save me any time!

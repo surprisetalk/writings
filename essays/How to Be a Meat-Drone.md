@@ -1,3 +1,8 @@
+Or, "How to Be Meat".
+
+Or, "Being Meat".
+
+Or, "The Meat Manual".
 
 I'd like to make a guide on being an effective meat-drone.
 

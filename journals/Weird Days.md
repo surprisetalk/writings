@@ -15,13 +15,15 @@ I need to make a site where people can find out details, subscribe to the mailin
   - Flour/Powder Photoshoots
   - Odd Snow-Cones
   - Paint Cannon
+- January 13, 2019 :: TEA PARTY
 - January 20, 2019 :: CREATIVE WRITHING
-  - Tea Party
+  - Very Serious Princess Tea Party
   - Snail Mail
   - Collaborative Google-Docs Story
   - Fake Craigslist Ads
   - Positive Roasts
   - Quick Song
+- January 27, 2019 :: TEA PARTY
 - February 03, 2019 :: TBD
 - February 17, 2019 :: TBD
 

@@ -18,7 +18,22 @@ But this rant is not about how amazing Gibson is -- it's about what we're losing
 Some podcasts are just unprinted audiobooks with advertising. 
 Stories like S-Town and The RFK Tapes take advantage of phone-interviews and historical audio, which doesn't translate to text or video very well. 
 And series like Dan Carlin's Hardcore History have carved out a niche where books are too long and articles are too short. Carlin creates 4-hour masterpieces, recounting the past with fresh perspectives and a voice carrying conviction and emotion.
-// TODO: In these audiobook-like podcasts, the creators use audio to forge arguments and information in a deeply satisfying way. It is a careful craft, like film and literature.
+In these audiobook-esque experiences, the creators use audio to forge artistic information experiences in a deeply satisfying way. It is a careful craft, like film and literature.
 
-// TODO: episodic-podcasts, especially ones with guests, cannot possibly compete (depth-wise) with what singular people can expolre in long-form books
-// TODO: they are off-the-cuff and poor means of truly exploring ideas
+But most podcasts aren't audiobooks. They're weekly radio shows. 
+Tim Ferris and Joe Rogan and Preet Bharara and Sam Harris have taught me a lot about the world. I'm very grateful for that. But I'm starting to think that interviews are not optimal for communicating truly deep ideas.
+
+Conversation is good for certain things. It's good for covering current events from a singular perspective. It's good for debates (which usually devolve into mutual confirmation-bias masturbation). It's good for exploring cursory ideas, which the listener can later use The Internet for dissecting in greater detail.
+
+But it's hard to go deep in a few hours. It's not enough time to open up to strangers about your trauma (unless it's rehearsed). It's not enough time to catalog complexity. And it's not enough time to find mutual ground on contentious issues. It's just not enough time for our inefficient mouths and minds.
+
+Books are focused. Authors spend years honing a singular narrative, to communicate very specific ideas. Podcast interviews are diffuse. Conversations ramble and clarify and misstep and interrput and drift. They demand low-resolution regurgitations of their guests' ideas. And they're incentivized to blast through as many low-resolution soundbites as possible, because listeners feel like they're learning when they get the "greatest hits".
+Conversations are, by definition, unexplored territory. You have to phrase things for an interviewer and an audience in real-time. Text is forgiving -- you can write draft, after draft, after draft, until you feel that your paragraphs represent you well. It's difficult to write about difficult things. But it's way harder to talk about them.
+
+Going too quickly for fact-checks
+
+Too much incentive for shocking and entertaining topics, and sound-bites
+
+Advertising
+
+Next, what are the business models for podcasts and books?

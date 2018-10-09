@@ -21,19 +21,17 @@ And series like Dan Carlin's Hardcore History have carved out a niche where book
 In these audiobook-esque experiences, the creators use audio to forge artistic information experiences in a deeply satisfying way. It is a careful craft, like film and literature.
 
 But most podcasts aren't audiobooks. They're weekly radio shows. 
-Tim Ferris and Joe Rogan and Preet Bharara and Sam Harris have taught me a lot about the world. I'm very grateful for that. But I'm starting to think that interviews are not optimal for communicating truly deep ideas.
+Tim Ferris and Joe Rogan and Preet Bharara and Sam Harris have taught me a lot about the world -- I'm very grateful for that. But I'm starting to think that interviews are not optimal for communicating truly deep ideas.
 
 Conversation is good for certain things. It's good for covering current events from a singular perspective. It's good for debates (which usually devolve into mutual confirmation-bias masturbation). It's good for exploring cursory ideas, which the listener can later use The Internet for dissecting in greater detail.
 
-But it's hard to go deep in a few hours. It's not enough time to open up to strangers about your trauma (unless it's rehearsed). It's not enough time to catalog complexity. And it's not enough time to find mutual ground on contentious issues. It's just not enough time for our inefficient mouths and minds.
+But it's hard to go deep in a few hours. It's not enough time to open up to thousands of strangers about your trauma (unless it's rehearsed). It's not enough time to catalog complexity. And it's not enough time to find mutual ground on contentious issues. It's just not enough time for our inefficient mouths and minds.
 
-Books are focused. Authors spend years honing a singular narrative, to communicate very specific ideas. Podcast interviews are diffuse. Conversations ramble and clarify and misstep and interrput and drift. They demand low-resolution regurgitations of their guests' ideas. And they're incentivized to blast through as many low-resolution soundbites as possible, because listeners feel like they're learning when they get the "greatest hits".
-Conversations are, by definition, unexplored territory. You have to phrase things for an interviewer and an audience in real-time. Text is forgiving -- you can write draft, after draft, after draft, until you feel that your paragraphs represent you well. It's difficult to write about difficult things. But it's way harder to talk about them.
+Books are focused. Authors spend years crafting a singular narrative, to communicate a very specific idea. Podcast interviews are diffuse. Conversations ramble and reclarify and misstep and interrput and drift. They demand low-resolution regurgitations of their guests' ideas. And they're incentivized to blast through as many low-resolution sound-bites as possible, because listeners often want the "greatest hits".
+Conversations are, by definition, unexplored territory. You have to phrase things for an interviewer and an audience in real-time. Text is forgiving before it becomes permanent -- you can write draft, after draft, after draft, until your paragraphs approximate that weird Thing deep down in your soul. It's difficult to write about difficult things. But it's often impossible to talk about them.
 
-Going too quickly for fact-checks
+Podcast guests must be careful about what "facts" they use. During interviews, hosts and guests use stats from their faulty memories. And even if they remember their "facts" correctly, there is no easy way to find a reference to the _exact_ thing they mentioned. And if the "fact" was wrong, then most shows don't bother even to fact-check.
 
-Too much incentive for shocking and entertaining topics, and sound-bites
+Podcasts _need_ to be more entertaining than books in order to survive. A book just needs to supply the information it promised on its cover -- the entire text is purchased up-front. And if you purchased the book, you're probably already interested in its contents, and gave the author permission to go as deep as possible. Podcasts, on the other hand, need to keep users engaged for advertisers. They need you to come back every week. They need _novelty_. They need _excitement_. Because they need to gain and retain as many listeners as possible, which stifles depth. Podcasts will always devolve into pulp and click-bait given enough time, because that what advertisers want.
 
-Advertising
-
-Next, what are the business models for podcasts and books?
+Anyway, I'm not saying that all books are better than all podcasts. I'm saying that podcasts aren't a viable replacement for audiobooks. And I'm saying that podcasts shouldn't be your main source of nutrition in your information diet.

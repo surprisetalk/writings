@@ -1,6 +1,10 @@
 
 # Productivity
 
+## 2018/10/08 2114h 
+
+I'm, once again, tempted to update my XMonad and Emacs configs. Resist!
+
 ## 2018.10.06 1205h 
 
 I want to write more, but it's difficult to find time!

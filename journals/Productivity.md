@@ -1,6 +1,12 @@
 
 # Productivity
 
+## 2018/10/08 2145h 
+
+I have _a lot_ of digital notes spread across different systems. And they're very poorly organized.
+
+I desparately want to organize them, but I think they're okay for now.
+
 ## 2018/10/08 2114h 
 
 I'm, once again, tempted to update my XMonad and Emacs configs. Resist!

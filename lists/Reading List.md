@@ -1,2 +1,23 @@
 
-Coming soon!
+- [Which books have made you introspect?](https://news.ycombinator.com/item?id=17045790)
+  - _Gimp_ :: Marc Zupan
+  - _Thinking in Systems_ :: Donella Meadows
+  - _A Guide to the Good Life: The Ancient Art of Stoic Joy_ :: William Irvine
+  - _Why Buddhism is True_
+  - _Finite and Infinite Games_ :: James Carse
+  - _Asterios Polyp_
+  - _The Truth_ :: Neil Straus
+  - _Shop Class as Soulcraft: An Inquiry into the Value of Work_ :: Matthew Crawford
+  - _Harry Potter and Methods of Rationality_
+  - _Man's Search for Meaning_
+  - _Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics_ :: Henry Stuart Hazlitt
+  - _Gig: Americans Talk about Their Jobs_
+  - _A Pattern Language: Towns, Buildings, Construction_
+  - _Nonzero: The Logic of Human Destiny_
+  - _Novice to Master: An Ongoing Lesson in the Extent of My Own Stupidity_
+  - _No More Mr. Nice Guy_ :: Robert Glover
+  - _This Is What I Talk About When I Talk About Running_ :: Haruki Murakami
+  - _The Myth of Sisyphus_ :: Albert Camus
+  - _Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future_ :: Ashlee Vance
+  - _East of Eden_ :: Steinbeck
+  - _The Righteous Mind: Why Good People Are Divided by Politics and Religion_ :: Jonathan Haidt

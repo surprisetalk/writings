@@ -86,7 +86,7 @@ I really want to start doing more music/programming stuff! Haskell seems like a 
 
 Apparently [this book](https://www.amazon.com/Haskell-School-Music-Signals-Symphonies/dp/1108416756/) has high accolades.
 
-## [What are your favority terminal programs?](https://news.ycombinator.com/item?id=17011227)
+## [What are your favorite terminal programs?](https://news.ycombinator.com/item?id=17011227)
 
 ```bash
 history | awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/count*100 "% " a;}' | grep -v "./" | column -c3 -s " " -t | sort -nr | nl |  head -n10

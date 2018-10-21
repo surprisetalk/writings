@@ -1,4 +1,16 @@
 
+# 2018/10/20 2211h 
+
+## Pokemon Master Trainer
+
+I'd love to design a board game like this! It would be really cool to do a journey like this with friends.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zQKZ8XX9UBw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## L5R
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T9jxVbg_RWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 # 2018/10/12 1949h 
 
 I'm still poring over my phone's internet backlog. Here are some cool links:

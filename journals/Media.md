@@ -1,4 +1,16 @@
 
+# 2018/10/22 2102h 
+
+## _Crappy User Interfaces_ by Nakeyjakey
+
+I want to do videos like this. I love complaining about bad design.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8vfbVVkwdQw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## _Let's talk about 3 letters that can make rural whites understand the fear minorities have of cops._ by Beau of the Fifth Column
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J5DBrOBIgNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 # 2018/10/20 2211h 
 
 ## Pokemon Master Trainer

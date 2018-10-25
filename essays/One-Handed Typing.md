@@ -1,0 +1,1 @@
+After reading [this](https://blog.xkcd.com/2007/08/14/mirrorboard-a-one-handed-keyboard-layout-for-the-lazy/) great post on one-handed typing, I've officially decided to eventually make my own autocorrector for typing with one hand.

@@ -1,4 +1,28 @@
 
+# 2018/10/22 2102h 
+
+## _Crappy User Interfaces_ by Nakeyjakey
+
+I want to do videos like this. I love complaining about bad design.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8vfbVVkwdQw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## _Let's talk about 3 letters that can make rural whites understand the fear minorities have of cops._ by Beau of the Fifth Column
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J5DBrOBIgNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+# 2018/10/20 2211h 
+
+## Pokemon Master Trainer
+
+I'd love to design a board game like this! It would be really cool to do a journey like this with friends.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zQKZ8XX9UBw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## L5R
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T9jxVbg_RWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 # 2018/10/12 1949h 
 
 I'm still poring over my phone's internet backlog. Here are some cool links:

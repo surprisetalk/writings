@@ -1,9 +1,12 @@
 
+```bash
+youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-ordinary-life'
+```
+
 # Eventually
 
 - Legend of the Galactic Heroes
 - Yuri on Ice
-- Golden Kamuy
 - Hikaru no Go
 - Revue Starlight
 
@@ -27,20 +30,25 @@
 - [YuriYuri](https://www.crunchyroll.com/yuruyuri)
 - [Rakugo Tennyo Oyui](https://myanimelist.net/anime/2244/Rakugo_Tennyo_Oyui)
 
+## Top Shows from MyAnimeList that I Haven't Seen Already
+
+- Kaiba
+- Detroit Metal City
+- Gosick
+- From the New World
+- Your Lie in April
 
 # Current
 
-- Goblin Slayer
-- Planet With
 - Grand Blue
 - Steins;Gate 0
-- Between the Sky and Sea
 - Chio's School Road
 - Asobi Asobase
 - Overlord
 - Gintama
 - Ancient Magus' Bride
 - Naruto
+- Golden Kamuy
 
 # Finished
 

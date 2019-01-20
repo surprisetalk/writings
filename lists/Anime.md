@@ -10,6 +10,10 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - Hikaru no Go
 - Revue Starlight
 
+## This List
+
+[10 Ten Anime](https://www.reddit.com/r/Animesuggest/comments/a6fn6a/give_me_your_1010_anime/)
+
 ## Fall 2018
 
 - The World in Colors

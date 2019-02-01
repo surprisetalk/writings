@@ -6,645 +6,661 @@
 
 # Upcoming
 
-- [Which books have made you introspect?](https://news.ycombinator.com/item?id=17045790)
-  - _Gimp_ :: Marc Zupan
-  - _Thinking in Systems_ :: Donella Meadows
-  - _A Guide to the Good Life: The Ancient Art of Stoic Joy_ :: William Irvine
-  - _Why Buddhism is True_
-  - _Finite and Infinite Games_ :: James Carse
-  - _Asterios Polyp_
-  - _The Truth_ :: Neil Straus
-  - _Shop Class as Soulcraft: An Inquiry into the Value of Work_ :: Matthew Crawford
-  - _Harry Potter and Methods of Rationality_
-  - _Man's Search for Meaning_
-  - _Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics_ :: Henry Stuart Hazlitt
-  - _Gig: Americans Talk about Their Jobs_
-  - _A Pattern Language: Towns, Buildings, Construction_
-  - _Nonzero: The Logic of Human Destiny_
-  - _Novice to Master: An Ongoing Lesson in the Extent of My Own Stupidity_
-  - _No More Mr. Nice Guy_ :: Robert Glover
-  - _This Is What I Talk About When I Talk About Running_ :: Haruki Murakami
-  - _The Myth of Sisyphus_ :: Albert Camus
-  - _Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future_ :: Ashlee Vance
-  - _East of Eden_ :: Steinbeck
-  - _The Righteous Mind: Why Good People Are Divided by Politics and Religion_ :: Jonathan Haidt
-- [blinkist](https://www.blinkist.com/blinks)
-  - _Scaling Up_
-  - _A Curious Mind_
-  - _The Devided Self_
-  - _Berkshire Beyond Buffet_
-  - _The 1% Windfall_
-  - _Making Globalization Work_
-  - _Insight Selling_
-  - _The Economist: Numbers Guide_
-  - _Holacracy_
-  - _Anticipate_ by Jong
-  - _The Eureka Factor_
-  - _Change the Culture, Change the Game_
-  - _Brainfluence_
-  - _Accounting Made Simple_
-  - _Strategic Connections_
-  - _Non Obvious_
-  - _The New Rules of Real Estate_
-  - _The Conservative Mind_
-  - _Makers_
-  - _Dealing with China_
-  - _Work Simply_
-  - _The Zero Marginal Cost Society_
-- Selections from Alan Kay’s reading list
-  - _the gutenberg galaxy: the making of topographic man_
-  - _understanding media: the extensions of man_
-  - _myth of the machine: technics and human development_
-  - _innovation and entrepreneurship (drucker)_
-  - _to understand is to invent_
-  - _teach your own: a hopeful path for education_
-  - _lateral thinking: creativity step by step_
-  - _six thinking hats: an essential approach to business management_
-  - _mind games: mental fitness for tennis_
-  - _the act of creation_
-  - _myths to live by_
-  - _zen mind beginners mind_
-  - _envisioning information_
-  - _the visual display of quantitative information_
-  - _notes on the synthesis of form_
-  - _the character of physical law_
-  - _building large knowledge-based systems: representation and inference in the cyc project_
-  - _computation: finite and infinite machines_
-  - _soft architecture machines_
-  - _the architecture machine: toward a more human environment_
-  - _lisp 1.5 programmer’s manual_
+## [Which books have made you introspect?](https://news.ycombinator.com/item?id=17045790)
+
+- _Gimp_ :: Marc Zupan
+- _Thinking in Systems_ :: Donella Meadows
+- _A Guide to the Good Life: The Ancient Art of Stoic Joy_ :: William Irvine
+- _Why Buddhism is True_
+- _Finite and Infinite Games_ :: James Carse
+- _Asterios Polyp_
+- _The Truth_ :: Neil Straus
+- _Shop Class as Soulcraft: An Inquiry into the Value of Work_ :: Matthew Crawford
+- _Harry Potter and Methods of Rationality_
+- _Man's Search for Meaning_
+- _Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics_ :: Henry Stuart Hazlitt
+- _Gig: Americans Talk about Their Jobs_
+- _A Pattern Language: Towns, Buildings, Construction_
+- _Nonzero: The Logic of Human Destiny_
+- _Novice to Master: An Ongoing Lesson in the Extent of My Own Stupidity_
+- _No More Mr. Nice Guy_ :: Robert Glover
+- _This Is What I Talk About When I Talk About Running_ :: Haruki Murakami
+- _The Myth of Sisyphus_ :: Albert Camus
+- _Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future_ :: Ashlee Vance
+- _East of Eden_ :: Steinbeck
+- _The Righteous Mind: Why Good People Are Divided by Politics and Religion_ :: Jonathan Haidt
+
+## [blinkist](https://www.blinkist.com/blinks)
+
+- _Scaling Up_
+- _A Curious Mind_
+- _The Devided Self_
+- _Berkshire Beyond Buffet_
+- _The 1% Windfall_
+- _Making Globalization Work_
+- _Insight Selling_
+- _The Economist: Numbers Guide_
+- _Holacracy_
+- _Anticipate_ by Jong
+- _The Eureka Factor_
+- _Change the Culture, Change the Game_
+- _Brainfluence_
+- _Accounting Made Simple_
+- _Strategic Connections_
+- _Non Obvious_
+- _The New Rules of Real Estate_
+- _The Conservative Mind_
+- _Makers_
+- _Dealing with China_
+- _Work Simply_
+- _The Zero Marginal Cost Society_
+
+## Selections from Alan Kay’s reading list
+
+- _the gutenberg galaxy: the making of topographic man_
+- _understanding media: the extensions of man_
+- _myth of the machine: technics and human development_
+- _innovation and entrepreneurship (drucker)_
+- _to understand is to invent_
+- _teach your own: a hopeful path for education_
+- _lateral thinking: creativity step by step_
+- _six thinking hats: an essential approach to business management_
+- _mind games: mental fitness for tennis_
+- _the act of creation_
+- _myths to live by_
+- _zen mind beginners mind_
+- _envisioning information_
+- _the visual display of quantitative information_
+- _notes on the synthesis of form_
+- _the character of physical law_
+- _building large knowledge-based systems: representation and inference in the cyc project_
+- _computation: finite and infinite machines_
+- _soft architecture machines_
+- _the architecture machine: toward a more human environment_
+- _lisp 1.5 programmer’s manual_
   
-- Miscellaneous
-  - _The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal_ by M. Mitchell Waldrop
-  - _Probabilistic Logic Networks: A Comprehensive Framework for Uncertain Inference_ by Ben Goertzel, Matthew Iklé
-  - _How to Read and Do Proofs: An Introduction to Mathematical Thought Processes_ by Daniel Solow
-  - _Judgment Under Uncertainty: Heuristics and Biases_ by Daniel Kahneman
-  - _A Programmer's Introduction to Mathematics_ by Dr. Jeremy Kun
-  - _A Preface to Morals_ by Walter Lippmann
-  - _The Prize: The Epic Quest for Oil, Money & Power_ by Daniel Yergin
-  - _Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture_ by David Kushner
-  - _The Wright Brothers_ by David McCullough
-  - _Calculus Made Easy_ by Silvanus P. Thompson, Martin Gardner
-  - _Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age_ by Michael A. Hiltzik
-  - _Mathematics: Its Content, Methods and Meaning (3 Volumes in One)_ by A. D. Aleksandrov, A. N. Kolmogorov
-  - _On Writing Well: The Classic Guide to Writing Nonfiction_ by William Zinsser
-  - _Programming Collective Intelligence: Building Smart Web 2.0 Applications_ by Toby Segaran
-  - _Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People_ by Stephen Wolfram
-  - _Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture_ by David Kushner
-  - _The Art of Electronics_ by Paul Horowitz, Winfield Hill
-  - _The Elements of Computing Systems: Building a Modern Computer from First Principles_ by Noam Nisan, Shimon Schocken
-  - _Code: The Hidden Language of Computer Hardware and Software_ by Charles Petzold
-  - _What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry_ by John Markoff
-  - _Lisp in Small Pieces_ by Christian Queinnec
-  - _The Design of Design: Essays from a Computer Scientist_ by Frederick P. Brooks Brooks
-  - _A Philosophy of Software Design_ by John Ousterhout
-  - _Money Metropolis: A Locational Study of Financial Activities in the_ by SIDNEY M. ROBBINS
-  - _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_ by Gene Kim, Kevin Behr
-  - _Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age_ by Michael A. Hiltzik
-  - _Where Wizards Stay Up Late: The Origins Of The Internet_ by Katie Hafner
-  - _The Vital Question: Energy, Evolution, and the Origins of Complex Life_ by Nick Lane
-  - _How to Design Programs: An Introduction to Programming and Computing_ by Matthias Felleisen, Robert Bruce Findler
-  - _Hacker's Delight (2nd Edition)_ by Henry S. Warren
-  - _Revolution in The Valley: The Insanely Great Story of How the Mac Was Made_ by Andy Hertzfeld
-  - _A Portrait of the Artist as a Young Man: Centennial Edition (Penguin Classics Deluxe Edition)_ by James Joyce, Seamus Deane
-  - _The Tao of Programming (English and Chinese Edition)_ by Geoffrey James
-  - _I Ching: The Essential Translation of the Ancient Chinese Oracle and Book of Wisdom (Penguin Classics Deluxe Edition)_ by John Minford
-  - _Total Freedom: The Essential Krishnamurti_ by Jiddu Krishnamurti
-  - _Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book_ by Daniel Ingram
-  - _From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism_ by Fred Turner
-  - _Introduction to Modern Digital Holography: With Matlab_ by Professor Ting-Chung Poon, Professor Jung-Ping Liu
-  - _Optics and Optical Instruments: An Introduction_ by B. K. Johnson
-  - _Introduction to Modern Optics (Dover Books on Physics)_ by Grant R. Fowles
-  - _Holography Handbook: Making Holograms the Easy Way_ by Fred Unterseher, Bob Schlesinger
-  - _The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life_ by Timothy Ferriss
-  - _The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage_ by Cliff Stoll
-  - _Geometric Folding Algorithms: Linkages, Origami, Polyhedra_ by Erik D. Demaine, Joseph O'Rourke
-  - _Designing Interactions (The MIT Press)_ by Bill Moggridge
-  - _Zen Flesh, Zen Bones Classic Edition: A Collection of Zen and Pre-Zen Writings_ by Paul Reps, Nyogen Senzaki
-  - _Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice_ by Shunryu Suzuki, Trudy Dixon
-  - _Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers_ by Timothy Ferriss, Arnold Schwarzenegger
-  - _The Art of Prolog: Advanced Programming Techniques (Mit Press Series in Logic Programming)_ by Leon Sterling, Ehud Shapiro
-  - _Notes from the Metalevel: An Introduction to Computer Composition (Studies on New Music Research)_ by Heinrich Taube
-  - _The Timeless Way of Building_ by Christopher Alexander
-  - _A Pattern Language: Towns, Buildings, Construction (Center for Environmental Structure Series)_ by Christopher Alexander, Sara Ishikawa
-  - _The Little MLer_ by Matthias Felleisen, Daniel P. Friedman
-  - _Sales and Service for the Wine Professional_ by Brian K. Julyan
-  - _In Praise of Folly (Dover Thrift Editions)_ by Desiderius Erasmus, John Wilson
-  - _The Shallows: What the Internet Is Doing to Our Brains_ by Nicholas Carr
-  - _Just for Fun: The Story of an Accidental Revolutionary_ by Linus Torvalds, David Diamond
-  - _The Art Of Dramatic Writing: Its Basis in the Creative Interpretation of Human Motives_ by Lajos Egri
-  - _Code Simplicity: The Fundamentals of Software_ by Max Kanat-Alexander
-  - _Genius: The Life and Science of Richard Feynman_ by James Gleick
-  - _5000 B.C. and Other Philosophical Fantasies_ by Raymond Smullyan
-  - _Refactoring: Improving the Design of Existing Code_ by Martin Fowler, Kent Beck
-  - _Design Patterns: Elements of Reusable Object-Oriented Software_ by Erich Gamma, Richard Helm
-  - _Compilers: Principles, Techniques, and Tools (2nd Edition)_ by Alfred V. Aho, Monica S. Lam
-  - _Dental Hygiene: Theory and Practice_ by Michele Leonardi Darby BSDH MS, Margaret Walsh RDH MS MA EdD
-  - _Implementation Patterns_ by Kent Beck
-  - _Homo Deus: A Brief History of Tomorrow_ by Yuval Noah Harari
-  - _Patterns of Software: Tales from the Software Community_ by Richard P. Gabriel
-  - _The Art of UNIX Programming (The Addison-Wesley Professional Computng Series)_ by Eric S. Raymond
-  - _A Mind at Play: How Claude Shannon Invented the Information Age_ by Jimmy Soni, Rob Goodman
-  - _Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving (The MIT Press)_ by Sanjoy Mahajan, Carver A Mead
-  - _The Art of Insight in Science and Engineering: Mastering Complexity (The MIT Press)_ by Sanjoy Mahajan
-  - _Based on a True Story: A Memoir_ by Norm Macdonald
-  - _The Heart of Mathematics: An Invitation to Effective Thinking_ by Edward B. Burger, Michael Starbird
-  - _Drawing on the Right Side of the Brain: The Definitive, 4th Edition_ by Betty Edwards
-  - _How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)_ by G. Polya, John H. Conway
-  - _Isaac Newton_ by James Gleick
-  - _Not a Scientist: How Politicians Mistake, Misrepresent, and Utterly Mangle Science_ by Dave Levitan
-  - _A New Kind of Science_ by Stephen Wolfram
-  - _Sapiens: A Brief History of Humankind_ by Yuval Noah Harari
-  - _I Contain Multitudes: The Microbes Within Us and a Grander View of Life_ by Ed Yong
-  - _Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are_ by Seth Stephens-Davidowitz
-  - _Eating on the Wild Side: The Missing Link to Optimum Health_ by Jo Robinson
-  - _The Food Lab: Better Home Cooking Through Science_ by J. Kenji López-Alt
-  - _Programming Beyond Practices_ by Gregory Brown
-  - _Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health_ by Gary Taubes
-  - _Ship of Theseus_ by J. J. Abrams, Doug Dorst
-  - _The Tao Is Silent_ by Raymond M. Smullyan
-  - _What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles (Dover Recreational Math)_ by Raymond M. Smullyan
-  - _The Bell Curve: Intelligence and Class Structure in American Life (A Free Press Paperbacks Book)_ by Richard J. Herrnstein, Charles Murray
-  - _The Feynman Lectures on Physics, boxed set: The New Millennium Edition_ by Richard P. Feynman, Robert B. Leighton
-  - _The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman (Helix Books)_ by Richard P. Feynman, Jeffrey Robbins
-  - _The Ghost in the Shell 2 Deluxe Edition_ by Shirow Masamune
-  - _The Ghost in the Shell 1.5 Deluxe Edition_ by Shirow Masamune
-  - _The Ghost in the Shell 1 Deluxe Edition_ by Shirow Masamune
-  - _The Art of Learning: An Inner Journey to Optimal Performance_ by Josh Waitzkin
-  - _The Extraordinary Image: Orson Welles, Alfred Hitchcock, Stanley Kubrick, and the Reimagining of Cinema_ by Robert P. Kolker
-  - _And Suddenly the Inventor Appeared: TRIZ, the Theory of Inventive Problem Solving_ by Genrich Altshuller
-  - _How to Read Buildings: A Crash Course in Architectural Styles_ by Carol Davidson Cragoe
-  - _Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies_ by Geoffrey West
-  - _The Magic of Thinking Big_ by David J. Schwartz
-  - _Francis of the Filth_ by George Miller
-  - _Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)_ by Steve Krug
-  - _Thomas Jefferson: The Art of Power_ by Jon Meacham
-  - _Principles: Life and Work_ by Ray Dalio
-  - _American Sketches: Great Leaders, Creative Thinkers, and Heroes of a Hurricane_ by Walter Isaacson
-  - _The Wise Men: Six Friends and the World They Made_ by Walter Isaacson, Evan Thomas
-  - _Benjamin Franklin: An American Life_ by Walter Isaacson
-  - _Leonardo da Vinci_ by Walter Isaacson
-  - _Isaac Newton_ by James Gleick
-  - _Genius: The Life and Science of Richard Feynman_ by James Gleick
-  - _Team of Rivals: The Political Genius of Abraham Lincoln_ by Doris Kearns Goodwin
-  - _AMERICAN LION: Andrew Jackson in the White House_ by Jon Meacham
-  - _101 Things I Learned in Architecture School_ by Matthew Frederick
-  - _Organic Chemistry: Hexagonal Graph Paper Notebook, 160 pages, 1/4 inch hexagons (Hexagonal Graph Paper Notebooks) (Volume 4)_ by The Bear Necessities
-  - _The Diamond Age: Or, a Young Lady's Illustrated Primer (Bantam Spectra Book)_ by Neal Stephenson
-  - _Code Shifter_ by C E Meier
-  - _On Grand Strategy_ by John Lewis Gaddis
-  - _The Story of the Stone, or The Dream of the Red Chamber, Vol. 1: The Golden Days_ by Cao Xueqin, David Hawkes
-  - _Skin in the Game: Hidden Asymmetries in Daily Life_ by Nassim Nicholas Taleb
-  - _Every Grain of Rice: Simple Chinese Home Cooking_ by Fuchsia Dunlop
-  - _The Elephant in the Brain: Hidden Motives in Everyday Life_ by Kevin Simler, Robin Hanson
-  - _The Economics Book: Big Ideas Simply Explained_ by DK
-  - _Inadequate Equilibria: Where and How Civilizations Get Stuck_ by Eliezer Yudkowsky
-  - _Causality: Models, Reasoning and Inference_ by Judea Pearl
-  - _Tao Te Ching, 25th-Anniversary Edition (English and Mandarin Chinese Edition)_ by Lao Tzu, Jane English
-  - _Queueing Systems. Volume 1: Theory_ by Leonard Kleinrock
-  - _Queueing Systems, Vol. 2: Computer Applications_ by Leonard Kleinrock
-  - _One Second After (A John Matherson Novel)_ by William R. Forstchen, William D. Sanders (Mass Market Paperback)
-  - _Trying Not to Try: The Art and Science of Spontaneity_ by Edward Slingerland
-  - _Waiting for the Barbarians: A Novel (Penguin Ink)_ by J. M. Coetzee, C. C. Askew
-  - _Hinamatsuri Volume 1_ by Masao Ohtake
-  - _Trip: Psychedelics, Alienation, and Change_ by Tao Lin
-  - _The Art of the Metaobject Protocol_ by Gregor Kiczales, Jim des Rivieres
-  - _The Machinery of Life_ by David S. Goodsell
-  - _Measurement_ by Paul Lockhart
-  - _Why We Sleep: Unlocking the Power of Sleep and Dreams_ by Matthew Walker PhD
-  - _Modern Coin Magic: 116 Coin Sleights and 236 Coin Tricks_ by J. B. Bobo
-  - _Joe Rindfleisch's Rainbow Rubber Bands (Rainbow Pack)_ by Joe Rindfleisch - Trick
-  - _Kana Flashcards: Learn and Remember Kana in a Flash With Visual and Verbal Mnemonics (Japanese and English Edition)_ by Max Hodges, Tomoko Okazaki (Cards)
-  - _Japanese Reader Collection Volume 1: Hikoichi_ by Clay Boutwell, Yumi Boutwell
-  - _Japanese from Zero! 1: Proven Techniques to Learn Japanese for Students and Professionals_ by George Trombley, Yukari Takenaka
-  - _Speak Japanese in 90 Days: A Self Study Guide to Becoming Fluent (Volume 1) (English and Japanese Edition)_ by Kevin Marx
-  - _A Course in Combinatorics_ by J. H. Van Lint
-  - _Computer Networks 5th_ by Andrew S. Tanenbaum (International Economy Edition)_ by Andrew S. Tanenbaum, David J. Wetherall
-  - _Modern Operating Systems_ by Andrew S Tanenbaum
-  - _Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp_ by Peter Norvig
-  - _Organic Chemistry_ by Jonathan Clayden, Nick Greeves
-  - _The Improv Handbook: The Ultimate Guide to Improvising in Comedy, Theatre, and Beyond_ by Tom Salinsky, Deborah Frances-White
-  - _An Introduction to Tonal Theory_ by Peter Westergaard
-  - _Modern Quantum Mechanics_ by J. J. Sakurai, Jim Napolitano
-  - _Modern Quantum Mechanics (2nd Edition)_ by J. J. Sakurai, Jim J. Napolitano
-  - _Cognitive Science: An Introduction to the Science of the Mind_ by José Luis Bermúdez
-  - _The Great Conversation: A Historical Introduction to Philosophy_ by Norman Melchert
-  - _Mathematics Form and Function_ by Saunders MacLane
-  - _Algebra_ by Israel M. Gelfand, Alexander Shen
-  - _Mathematics: Its Content, Methods and Meaning, Vol. 2_ by A D Aleksandrov
-  - _Fractals and Scaling in Finance: Discontinuity, Concentration, Risk. Selecta Volume E_ by Benoit B. Mandelbrot, R.E. Gomory
-  - _The (Mis)Behaviour of Prices : A Fractal View of Risk, Ruin and Reward_ by Benoit Mandelbrot, Richard L. Hudson
-  - _The Fractal Geometry of Nature_ by Benoit B. Mandelbrot
-  - _The Bridge to Lucy Dunne_ by Exurb1a (Kindle Edition)
-  - _Silicon Snakeoil_ by Clifford Stoll
-  - _Break It Down: Stories (FSG Classics)_ by Lydia Davis
-  - _The Art of Computer Programming, Volumes 1-4A Boxed Set_ by Donald E. Knuth
-  - _On Having No Head: Zen and the Rediscovery of the Obvious_ by Douglas E. Harding
-  - _The I Ching, or, Book of Changes (Bollingen Series XIX) (Bollingen Series (General))_ by Richard Wilhelm, Cary F. Baynes
-  - _The Goal: A Process of Ongoing Improvement_ by Eliyahu M. Goldratt, Jeff Cox
-  - _Physical Chemistry, 9th Edition_ by Peter Atkins, Julio de Paula
-  - _Originals: How Non-Conformists Move the World_ by Adam Grant, Sheryl Sandberg
-  - _Six Easy Pieces: Essentials of Physics Explained_ by Its Most Brilliant Teacher_ by Richard P. Feynman, Robert B. Leighton
-  - _Dark Matter and the Dinosaurs: The Astounding Interconnectedness of the Universe_ by Lisa Randall
-  - _Opening the Dragon Gate: The Making of a Modern Taoist Wizard_ by Chen Kaiguo, Zheng Shunchao
-  - _Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software_ by Scott Rosenberg
-  - _The Essays of Warren Buffett: Lessons for Corporate America_ by Warren E. Buffett, Lawrence A. Cunningham
-  - _How to Lie with Statistics_ by Darrell Huff, Irving Geis
-  - _Hypernumbers and Extrafunctions: Extending the Classical Calculus (SpringerBriefs in Mathematics)_ by Mark Burgin
-  - _An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics)_ by John R. Pierce
-  - _The First 20 Hours: How to Learn Anything . . . Fast!_ by Josh Kaufman
-  - _Interaction Design: Beyond Human - Computer Interaction_ by Yvonne Rogers, Helen Sharp
-  - _Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules_ by Jeff Johnson
-  - _Professional Automated Trading: Theory and Practice_ by Eugene A. Durenard
-  - _I Can Read That: A Traveler's Introduction to Chinese Characters (English and Chinese Edition)_ by Julie Sussman
-  - _Networks, Crowds, and Markets: Reasoning about a Highly Connected World_ by David Easley, Jon Kleinberg
-  - _Stochastic and Integral Geometry (Probability and Its Applications)_ by Rolf Schneider, Wolfgang Weil
-  - _The Illustrated Man_ by Ray Bradbury (Mass Market Paperback)
-  - _The Inmates Are Running the Asylum_ by Alan Cooper
-  - _Private Real Estate Investment - Data Analysis and Decision Making: Second edition_ by Roger J Brown
-  - _Rethinking Neural Networks: Quantum Fields and Biological Data (INNS Series of Texts, Monographs, and Proceedings Series)_ by Karl H. Pribram
-  - _Secrets of a Buccaneer-Scholar: How Self-Education and the Pursuit of Passion Can Lead to a Lifetime of Success_ by James Marcus Bach
-  - _Mindstorms: Children, Computers, And Powerful Ideas_ by Seymour A. Papert
-  - _How to Do Nothing with Nobody All Alone_ by Yourself_ by Robert Paul Smith, Elinor Goulding-Smith
-  - _Tao: The Watercourse Way_ by Alan Watts, Lee Chih-chang
-  - _Functional Programming: Practice and Theory_ by Bruce J. Maclennan
-  - _The Age of Intelligent Machines_ by Ray Kurzweil
-  - _Textiles: Concepts and Principles_ by Virginia Hencken Elsasser
-  - _Textiles (11th Edition)_ by Sara J. Kadolph
-  - _Textiles: The Art of Mankind_ by Mary Schoeser
-  - _Ready-to-Wear Apparel Analysis (4th Edition) (Fashion Series)_ by Patty Brown, Jannett Rice
-  - _Bunka Fashion Series Garment Design Textbook 1 - Fundamentals of Garment Design_ by Bunka Fashion College
-  - _The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs_ by Raymond M. Smullyan
-  - _The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism_ by Fritjof Capra
-  - _Three Ways of Thought in Ancient China_ by Arthur Waley (Mass Market Paperback)
-  - _Although Of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace_ by David Lipsky
-  - _Functional Differential Geometry (The MIT Press)_ by Gerald Jay Sussman, Jack Wisdom
-  - _Learning GNU Emacs, Third Edition_ by Debra Cameron, James Elliott
-  - _Structure and Interpretation of Classical Mechanics (The MIT Press)_ by Gerald Jay Sussman, Jack Wisdom
-  - _The New Polymath: Profiles in Compound-Technology Innovations_ by Vinnie Mirchandani, Marc Benioff
-  - _The Checklist Manifesto: How to Get Things Right_ by Atul Gawande
-  - _The Graveyard Book_ by Neil Gaiman, Dave McKean
-  - _The 20% Doctrine: How Tinkering, Goofing Off, and Breaking the Rules at Work Drive Success in Business_ by Ryan Tate
-  - _The Metafont Book_ by Donald E. Knuth (Spiral-bound)
-  - _I Seem to Be a Verb_
-  - _How to Get Filthy Rich in Rising Asia: A Novel_ by Mohsin Hamid
-  - _Practical Electronics for Inventors, Fourth Edition_ by Paul Scherz, Simon Monk
-  - _Bird_ by Bird: Some Instructions on Writing and Life_ by Anne Lamott
-  - _Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems_ by Steve Krug
-  - _The Little Prover (The MIT Press)_ by Daniel P. Friedman, Carl Eastlund
-  - _The Reasoned Schemer (The MIT Press)_ by Daniel P. Friedman, William E. Byrd
-  - _Diversity and Complexity (Primers in Complex Systems)_ by Scott E. Page
-  - _Complexity: A Very Short Introduction (Very Short Introductions)_ by John H. Holland
-  - _Simply Complexity: A Clear Guide to Complexity Theory_ by Neil Johnson
-  - _Complexity: A Guided Tour_ by Melanie Mitchell
-  - _The Complete Book of Knots_ by Geoffrey Budworth
-  - _From Mathematics to Generic Programming_ by Alexander A. Stepanov, Daniel E. Rose
-  - _The Legend of The Condor Heroes (4 Books) (Revised Edition) (Chinese Edition)_ by jin yong
-  - _Sketching User Experiences: Getting the Design Right and the Right Design (Interactive Technologies)_ by Bill Buxton
-  - _HCI Theory: Classical, Modern, and Contemporary (Synthesis Lectures on Human-Centered Informatics)_ by Yvonne Rogers
-  - _The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition) (Collins Business Essentials)_ by Benjamin Graham, Jason Zweig
-  - _One Hundred Years of Solitude_
-  - _Introduction to Holography_ by Vincent Toal
-  - _The Geometry of Meaning: Semantics Based on Conceptual Spaces (The MIT Press)_ by Peter Gärdenfors
-  - _The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys_ by James Fadiman
-  - _Digital Holography and Digital Image Processing: Principles, Methods, Algorithms_ by Leonid Yaroslavsky
-  - _Shantaram: A Novel_ by Gregory David Roberts
-  - _Conceptual Spaces: The Geometry of Thought (A Bradford Book)_ by Peter Gärdenfors
-  - _Neural and Intelligent Systems Integration: Fifth and Sixth Generation Integrated Reasoning Information Systems (Sixth Generation Computer Technologies)_ by Branko Soucek
-  - _Digital Holography_ by Pascal Picart, Jun-chang Li
-  - _Command Line Kung Fu: Bash Scripting Tricks, Linux Shell Programming Tips, and Bash One-liners_ by Jason Cannon
-  - _Discourses, Fragments, Handbook (Oxford Worlds Classics)_ by Epictetus, Robin Hard
-  - _Learn to Play Go: A Master's Guide to the Ultimate Game (Volume I) (Learn to Play Go Series)_ by Janice Kim, Soo-hyun Jeong
-  - _Learn To Play Go, Volume II: The Way of the Moving Horse_ by Janice Kim, Jeong Soo-Hyun
-  - _Learn to Play Go, Vol. 3: The Dragon Style_ by Janice Kim, Jeong Soo-hyun
-  - _Both Flesh and Not: Essays_ by David Foster Wallace
-  - _Genome: The Autobiography of a Species in 23 Chapters_ by Matt Ridley
-  - _Titan: The Life of John D. Rockefeller, Sr._ by Ron Chernow
-  - _Charlie Munger: The Complete Investor (Columbia Business School Publishing)_ by Tren Griffin
-  - _Deep Simplicity: Bringing Order to Chaos and Complexity_ by John Gribbin
-  - _The Monk and the Philosopher: A Father and Son Discuss the Meaning of Life_ by Jean-Francois Revel, Matthieu Ricard
-  - _The Quantum and the Lotus: A Journey to the Frontiers Where Science and Buddhism Meet_ by Matthieu Ricard, Trinh Xuan Thuan
-  - _Thinking with Type, 2nd revised and expanded edition: A Critical Guide for Designers, Writers, Editors, & Students_ by Ellen Lupton
-  - _The Idea Factory: Bell Labs and the Great Age of American Innovation_ by Jon Gertner
-  - _JJ Pizzuto's Fabric Science 10th Edition_ by Allen C. Cohen, Ingrid Johnson (Ring-bound)
-  - _The Dynamics of Fashion: Studio Access Card_ by Elaine Stone
-  - _Fashion: The Definitive History of Costume and Style_ by DK
-  - _Slade House: A Novel_ by David Mitchell
-  - _The Familiar, Volume 2: Into the Forest_ by Mark Z. Danielewski (Flexibound)
-  - _Probabilistic Inequalities (Concrete and Applicable Mathematics, Vol. 7)_ by George A Anastassiou
-  - _Pearls of Functional Algorithm Design_ by Richard Bird
-  - _Purely Functional Data Structures_ by Okasaki
-  - _Small Giants: Companies That Choose to Be Great Instead of Big_ by Bo Burlingham
-  - _We Learn Nothing: Essays_ by Tim Kreider
-  - _Winners Never Cheat: Even in Difficult Times, New and Expanded Edition_ by Jon M. Huntsman, Glenn Beck
-  - _The Writers Journey: Mythic Structure for Writers, 3rd Edition_ by Christopher Vogler, Michele Montez
-  - _Garden Cities of To-Morrow_ by Ebenezer Howard, F. J Osborn
-  - _Bold: How to Go Big, Create Wealth and Impact the World_ by Peter H. Diamandis, Steven Kotler
-  - _Essential Ornithology_ by Graham Scott
-  - _National Geographic Field Guide to the Birds of North America, Sixth Edition (National Geographic Field Guide to Birds of North America)_ by Jon L. Dunn, Jonathan Alderfer
-  - _The Ultimate Book of Everyday Knots: (over 5,000 copies sold)_ by Geoffrey Budworth
-  - _Knots:The Complete Visual Guide: A Practical Step-by-Step Guide to Tying and Using over 100 Knots_ by Des Pawson
-  - _Pro-Knot Outdoor Knots_ by John E. Sherry (Ring-bound)
-  - _The Nature of Code: Simulating Natural Systems with Processing_ by Daniel Shiffman
-  - _Generative Design: Visualize, Program, and Create with Processing_ by Hartmut Bohnacker, Benedikt Gross
-  - _War in the Age of Intelligent Machines_ by Manuel De Landa
-  - _Access Hacks: Tips & Tools for Wrangling Your Data_ by Ken Bluttman
-  - _Practical Data Science with R_ by Nina Zumel, John Mount
-  - _Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking_ by Foster Provost, Tom Fawcett
-  - _Data Science from Scratch: First Principles with Python_ by Joel Grus
-  - _Doing Data Science: Straight Talk from the Frontline_ by Cathy O'Neil, Rachel Schutt
-  - _Guerrilla Analytics: A Practical Approach to Working with Data_ by Enda Ridge
-  - _The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists_ by Carl Shan, William Chen
-  - _Strange Material: Storytelling through Textiles_ by Leanne Prain
-  - _Patternmaking for Fashion Design (5th Edition)_ by Helen Joseph Armstrong
-  - _Networks: An Introduction_ by Mark Newman
-  - _I Broke My Trunk! (Elephant & Piggie Books) (Chinese Edition)_ by Mo Willems
-  - _Godzilla Doesnt Speak (Chinese Edition)_ by Xia Da
-  - _Flying Fox of Snowy Mountain (Chinese Edition)_ by Jin Yong
-  - _The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2nd Edition)_ by Martin L. Abbott, Michael T. Fisher
-  - _Biodesign: The Process of Innovating Medical Technologies_ by Stefanos Zenios, Josh Makower
-  - _Manufacturing of Pharmaceutical Proteins: From Technology to Economy_ by Stefan Behme
-  - _Building Microservices: Designing Fine-Grained Systems_ by Sam Newman
-  - _Clean Data_ by Megan Squire
-  - _Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython_ by Wes McKinney
-  - _Data Wrangling with Python: Tips and Tools to Make Your Life Easier_ by Jacqueline Kazil, Katharine Jarmul
-  - _Maps of the Mind: Charts and Concepts of the Mind and its Labyrinths_ by Charles Hampden-Turner
-  - _Thing Explainer: Complicated Stuff in Simple Words_ by Randall Munroe
-  - _The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer (Pantheon Graphic Library)_ by Sydney Padua
-  - _Singer Complete Photo Guide to Sewing - Revised + Expanded Edition: 1200 Full-Color How-To Photos_ by Editors of Creative Publishing
-  - _Only Don't Know: Selected Teaching Letters of Zen Master Seung Sahn_ by Seung Sahn
-  - _The Sewing Book: An Encyclopedic Resource of Step-by-Step Techniques_ by Alison Smith, Diana Rupp
-  - _School of Sewing: Learn it. Teach it. Sew Together._ by Shea Henderson
-  - _Systems Thinking For Social Change: A Practical Guide to Solving Complex Problems, Avoiding Unintended Consequences, and Achieving Lasting Results_ by David Peter Stroh
-  - _Surfaces and Essences: Analogy as the Fuel and Fire of Thinking_ by Douglas Hofstadter, Emmanuel Sander
-  - _Taskmaster: Unthinkable_ by Fred Van Lente, Jefte Palo
-  - _Building: 3,000 Years of Design, Engineering and Construction_ by Bill Addis
-  - _History of Strength of Materials (Dover Civil and Mechanical Engineering)_ by Stephen P. Timoshenko
-  - _Mechanical Vibrations (Dover Civil and Mechanical Engineering)_ by J. P. Den Hartog
-  - _Strength of Materials (Dover Books on Physics)_ by J. P. Den Hartog
-  - _Matrices and Linear Transformations: Second Edition (Dover Books on Mathematics)_ by Charles G. Cullen
-  - _Introduction to Analysis (Dover Books on Mathematics)_ by Maxwell Rosenlicht
-  - _Introduction to Topology: Third Edition (Dover Books on Mathematics)_ by Bert Mendelson
-  - _An Introduction to Ordinary Differential Equations (Dover Books on Mathematics)_ by Earl A. Coddington
-  - _Mechanics (Dover Books on Physics)_ by J. P. Den Hartog
-  - _Fourier Series (Dover Books on Mathematics)_ by Georgi P. Tolstov
-  - _Theoretical Physics (Dover Books on Physics)_ by Georg Joos, Ira M. Freeman
-  - _Ordinary Differential Equations (Dover Books on Mathematics)_ by Morris Tenenbaum, Harry Pollard
-  - _Number Theory (Dover Books on Mathematics)_ by George E. Andrews
-  - _In Search of Lost Time_
-  - _Guide to the I Ching_
-  - _If on a Winter's Night Traveler_
-  - _The Art of Dramatic Writing_
-  - _Principia Discordia_
-  - _The Scratch & Sniff Guide to Whiskey_
-  - _The Scratch & Sniff Guide to Wine_
-  - _Poor Charlie's Almanac_
-  - _Finite and Infinite Games_
-  - _Name of the Wind_
-  - _Autobiography of a Yogi_
-  - _Zorbidah the Greek_
-  - _Salvador Dali_ by Salvador Dali
-  - _The Stars: My Destination_
-  - _Neuromancer_
-  - _Do androids dream of electric sheep_
-  - _The Windup Girl_
-  - _Anathem_
-  - _Performing Under Pressure_
-  - _Cooking for Geeks_
-  - _The First Fifteen Lives of…_
-  - _Makers: The New Industrial Revolution_
-  - _S_ by J J Abrams
-  - _Book of Numbers_ by Joshua Cohen
-  - _The Fifty Year Sword_ by Danielewski
-  - _Fooling Houdini_
-  - _The Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons and the Eclipse of Capitalism_
-  - _Work Simply: Embracing the Power of Your Personal Productivity Style_
-  - _The Book Thief_
-  - _Robert Glasper_
-  - _Old Masters Young Geniuses_
-  - _Flikering Pixels_
-  - _Kano_
-  - _The Myth of Mirror Neurons, Breaking Stephan_
-  - _Leonardo da Vinci Books_
-  - _Inquire Within_
-  - _The Cathedral and the Bazaar_
-  - _Seeking Wisdom: From Darwin to Munger_
-  - _New Kind of Science_
-  - _Mises_
-  - _A Whole New Mind: Why Right-Brainers Will Rule the Future_
-  - _Start-up Nation: The Story of Israel’s Economic Miracle_
-  - _An Astronaut’s Guide to Life on Earth_
-  - _Creativity, Inc_
-  - _The great Beanie Babies Bubble_
-  - _How to Fly a Horse_
-  - _The Math Book_ by Pickover
-  - _Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation_
-  - _Johnny Mnemonic_
-  - _Bostrum's Superintelligence_
-  - _The Utopia of Rules_
-  - _Organization Theory: A Libertarian Perspective_
-  - _Homebrew Industrial Revolution: A Low-Overhead Manifesto_
-  - _The Gun_ by CJ Chivers
-  - _Who Gets What and Why_
-  - _How to Not Be Wrong_
-  - _Dont Make Me Think_
-  - _As a Man Thinketh_
-  - _Misbehaving (Econ)_
-  - _A Guide to the Good Life: The Ancient Art of Stoic Joy_
-  - _Mall Maker_
-  - _When to Rob a Bank_
-  - _Patrick Nagel_
-  - _The Bully Pulpit_
-  - _The Rosie Project_
-  - _How Asia Works_
-  - _How to Lie with Statistics_
-  - _Hyperbole and a Half_
-  - _Should We Eat Meat?_
-  - _Innovator's Dilemma_
-  - _Cutting through Spiritual Materialism_
-  - _Zen Mind Beginners Mind_
-  - _Autobiography of a Yogi_
-  - _Lean Anaylitics_
+## Miscellaneous
+
+- _The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal_ by M. Mitchell Waldrop
+- _Probabilistic Logic Networks: A Comprehensive Framework for Uncertain Inference_ by Ben Goertzel, Matthew Iklé
+- _How to Read and Do Proofs: An Introduction to Mathematical Thought Processes_ by Daniel Solow
+- _Judgment Under Uncertainty: Heuristics and Biases_ by Daniel Kahneman
+- _A Programmer's Introduction to Mathematics_ by Dr. Jeremy Kun
+- _A Preface to Morals_ by Walter Lippmann
+- _The Prize: The Epic Quest for Oil, Money & Power_ by Daniel Yergin
+- _Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture_ by David Kushner
+- _The Wright Brothers_ by David McCullough
+- _Calculus Made Easy_ by Silvanus P. Thompson, Martin Gardner
+- _Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age_ by Michael A. Hiltzik
+- _Mathematics: Its Content, Methods and Meaning (3 Volumes in One)_ by A. D. Aleksandrov, A. N. Kolmogorov
+- _On Writing Well: The Classic Guide to Writing Nonfiction_ by William Zinsser
+- _Programming Collective Intelligence: Building Smart Web 2.0 Applications_ by Toby Segaran
+- _Idea Makers: Personal Perspectives on the Lives & Ideas of Some Notable People_ by Stephen Wolfram
+- _Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture_ by David Kushner
+- _The Art of Electronics_ by Paul Horowitz, Winfield Hill
+- _The Elements of Computing Systems: Building a Modern Computer from First Principles_ by Noam Nisan, Shimon Schocken
+- _Code: The Hidden Language of Computer Hardware and Software_ by Charles Petzold
+- _What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry_ by John Markoff
+- _Lisp in Small Pieces_ by Christian Queinnec
+- _The Design of Design: Essays from a Computer Scientist_ by Frederick P. Brooks Brooks
+- _A Philosophy of Software Design_ by John Ousterhout
+- _Money Metropolis: A Locational Study of Financial Activities in the_ by SIDNEY M. ROBBINS
+- _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_ by Gene Kim, Kevin Behr
+- _Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age_ by Michael A. Hiltzik
+- _Where Wizards Stay Up Late: The Origins Of The Internet_ by Katie Hafner
+- _The Vital Question: Energy, Evolution, and the Origins of Complex Life_ by Nick Lane
+- _How to Design Programs: An Introduction to Programming and Computing_ by Matthias Felleisen, Robert Bruce Findler
+- _Hacker's Delight (2nd Edition)_ by Henry S. Warren
+- _Revolution in The Valley: The Insanely Great Story of How the Mac Was Made_ by Andy Hertzfeld
+- _A Portrait of the Artist as a Young Man: Centennial Edition (Penguin Classics Deluxe Edition)_ by James Joyce, Seamus Deane
+- _The Tao of Programming (English and Chinese Edition)_ by Geoffrey James
+- _I Ching: The Essential Translation of the Ancient Chinese Oracle and Book of Wisdom (Penguin Classics Deluxe Edition)_ by John Minford
+- _Total Freedom: The Essential Krishnamurti_ by Jiddu Krishnamurti
+- _Mastering the Core Teachings of the Buddha: An Unusually Hardcore Dharma Book_ by Daniel Ingram
+- _From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism_ by Fred Turner
+- _Introduction to Modern Digital Holography: With Matlab_ by Professor Ting-Chung Poon, Professor Jung-Ping Liu
+- _Optics and Optical Instruments: An Introduction_ by B. K. Johnson
+- _Introduction to Modern Optics (Dover Books on Physics)_ by Grant R. Fowles
+- _Holography Handbook: Making Holograms the Easy Way_ by Fred Unterseher, Bob Schlesinger
+- _The 4-Hour Chef: The Simple Path to Cooking Like a Pro, Learning Anything, and Living the Good Life_ by Timothy Ferriss
+- _The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage_ by Cliff Stoll
+- _Geometric Folding Algorithms: Linkages, Origami, Polyhedra_ by Erik D. Demaine, Joseph O'Rourke
+- _Designing Interactions (The MIT Press)_ by Bill Moggridge
+- _Zen Flesh, Zen Bones Classic Edition: A Collection of Zen and Pre-Zen Writings_ by Paul Reps, Nyogen Senzaki
+- _Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice_ by Shunryu Suzuki, Trudy Dixon
+- _Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers_ by Timothy Ferriss, Arnold Schwarzenegger
+- _The Art of Prolog: Advanced Programming Techniques (Mit Press Series in Logic Programming)_ by Leon Sterling, Ehud Shapiro
+- _Notes from the Metalevel: An Introduction to Computer Composition (Studies on New Music Research)_ by Heinrich Taube
+- _The Timeless Way of Building_ by Christopher Alexander
+- _A Pattern Language: Towns, Buildings, Construction (Center for Environmental Structure Series)_ by Christopher Alexander, Sara Ishikawa
+- _The Little MLer_ by Matthias Felleisen, Daniel P. Friedman
+- _Sales and Service for the Wine Professional_ by Brian K. Julyan
+- _In Praise of Folly (Dover Thrift Editions)_ by Desiderius Erasmus, John Wilson
+- _The Shallows: What the Internet Is Doing to Our Brains_ by Nicholas Carr
+- _Just for Fun: The Story of an Accidental Revolutionary_ by Linus Torvalds, David Diamond
+- _The Art Of Dramatic Writing: Its Basis in the Creative Interpretation of Human Motives_ by Lajos Egri
+- _Code Simplicity: The Fundamentals of Software_ by Max Kanat-Alexander
+- _Genius: The Life and Science of Richard Feynman_ by James Gleick
+- _5000 B.C. and Other Philosophical Fantasies_ by Raymond Smullyan
+- _Refactoring: Improving the Design of Existing Code_ by Martin Fowler, Kent Beck
+- _Design Patterns: Elements of Reusable Object-Oriented Software_ by Erich Gamma, Richard Helm
+- _Compilers: Principles, Techniques, and Tools (2nd Edition)_ by Alfred V. Aho, Monica S. Lam
+- _Dental Hygiene: Theory and Practice_ by Michele Leonardi Darby BSDH MS, Margaret Walsh RDH MS MA EdD
+- _Implementation Patterns_ by Kent Beck
+- _Homo Deus: A Brief History of Tomorrow_ by Yuval Noah Harari
+- _Patterns of Software: Tales from the Software Community_ by Richard P. Gabriel
+- _The Art of UNIX Programming (The Addison-Wesley Professional Computng Series)_ by Eric S. Raymond
+- _A Mind at Play: How Claude Shannon Invented the Information Age_ by Jimmy Soni, Rob Goodman
+- _Street-Fighting Mathematics: The Art of Educated Guessing and Opportunistic Problem Solving (The MIT Press)_ by Sanjoy Mahajan, Carver A Mead
+- _The Art of Insight in Science and Engineering: Mastering Complexity (The MIT Press)_ by Sanjoy Mahajan
+- _Based on a True Story: A Memoir_ by Norm Macdonald
+- _The Heart of Mathematics: An Invitation to Effective Thinking_ by Edward B. Burger, Michael Starbird
+- _Drawing on the Right Side of the Brain: The Definitive, 4th Edition_ by Betty Edwards
+- _How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)_ by G. Polya, John H. Conway
+- _Isaac Newton_ by James Gleick
+- _Not a Scientist: How Politicians Mistake, Misrepresent, and Utterly Mangle Science_ by Dave Levitan
+- _A New Kind of Science_ by Stephen Wolfram
+- _Sapiens: A Brief History of Humankind_ by Yuval Noah Harari
+- _I Contain Multitudes: The Microbes Within Us and a Grander View of Life_ by Ed Yong
+- _Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are_ by Seth Stephens-Davidowitz
+- _Eating on the Wild Side: The Missing Link to Optimum Health_ by Jo Robinson
+- _The Food Lab: Better Home Cooking Through Science_ by J. Kenji López-Alt
+- _Programming Beyond Practices_ by Gregory Brown
+- _Good Calories, Bad Calories: Fats, Carbs, and the Controversial Science of Diet and Health_ by Gary Taubes
+- _Ship of Theseus_ by J. J. Abrams, Doug Dorst
+- _The Tao Is Silent_ by Raymond M. Smullyan
+- _What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles (Dover Recreational Math)_ by Raymond M. Smullyan
+- _The Bell Curve: Intelligence and Class Structure in American Life (A Free Press Paperbacks Book)_ by Richard J. Herrnstein, Charles Murray
+- _The Feynman Lectures on Physics, boxed set: The New Millennium Edition_ by Richard P. Feynman, Robert B. Leighton
+- _The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman (Helix Books)_ by Richard P. Feynman, Jeffrey Robbins
+- _The Ghost in the Shell 2 Deluxe Edition_ by Shirow Masamune
+- _The Ghost in the Shell 1.5 Deluxe Edition_ by Shirow Masamune
+- _The Ghost in the Shell 1 Deluxe Edition_ by Shirow Masamune
+- _The Art of Learning: An Inner Journey to Optimal Performance_ by Josh Waitzkin
+- _The Extraordinary Image: Orson Welles, Alfred Hitchcock, Stanley Kubrick, and the Reimagining of Cinema_ by Robert P. Kolker
+- _And Suddenly the Inventor Appeared: TRIZ, the Theory of Inventive Problem Solving_ by Genrich Altshuller
+- _How to Read Buildings: A Crash Course in Architectural Styles_ by Carol Davidson Cragoe
+- _Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies_ by Geoffrey West
+- _The Magic of Thinking Big_ by David J. Schwartz
+- _Francis of the Filth_ by George Miller
+- _Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)_ by Steve Krug
+- _Thomas Jefferson: The Art of Power_ by Jon Meacham
+- _Principles: Life and Work_ by Ray Dalio
+- _American Sketches: Great Leaders, Creative Thinkers, and Heroes of a Hurricane_ by Walter Isaacson
+- _The Wise Men: Six Friends and the World They Made_ by Walter Isaacson, Evan Thomas
+- _Benjamin Franklin: An American Life_ by Walter Isaacson
+- _Leonardo da Vinci_ by Walter Isaacson
+- _Isaac Newton_ by James Gleick
+- _Genius: The Life and Science of Richard Feynman_ by James Gleick
+- _Team of Rivals: The Political Genius of Abraham Lincoln_ by Doris Kearns Goodwin
+- _AMERICAN LION: Andrew Jackson in the White House_ by Jon Meacham
+- _101 Things I Learned in Architecture School_ by Matthew Frederick
+- _Organic Chemistry: Hexagonal Graph Paper Notebook, 160 pages, 1/4 inch hexagons (Hexagonal Graph Paper Notebooks) (Volume 4)_ by The Bear Necessities
+- _The Diamond Age: Or, a Young Lady's Illustrated Primer (Bantam Spectra Book)_ by Neal Stephenson
+- _Code Shifter_ by C E Meier
+- _On Grand Strategy_ by John Lewis Gaddis
+- _The Story of the Stone, or The Dream of the Red Chamber, Vol. 1: The Golden Days_ by Cao Xueqin, David Hawkes
+- _Skin in the Game: Hidden Asymmetries in Daily Life_ by Nassim Nicholas Taleb
+- _Every Grain of Rice: Simple Chinese Home Cooking_ by Fuchsia Dunlop
+- _The Elephant in the Brain: Hidden Motives in Everyday Life_ by Kevin Simler, Robin Hanson
+- _The Economics Book: Big Ideas Simply Explained_ by DK
+- _Inadequate Equilibria: Where and How Civilizations Get Stuck_ by Eliezer Yudkowsky
+- _Causality: Models, Reasoning and Inference_ by Judea Pearl
+- _Tao Te Ching, 25th-Anniversary Edition (English and Mandarin Chinese Edition)_ by Lao Tzu, Jane English
+- _Queueing Systems. Volume 1: Theory_ by Leonard Kleinrock
+- _Queueing Systems, Vol. 2: Computer Applications_ by Leonard Kleinrock
+- _One Second After (A John Matherson Novel)_ by William R. Forstchen, William D. Sanders (Mass Market Paperback)
+- _Trying Not to Try: The Art and Science of Spontaneity_ by Edward Slingerland
+- _Waiting for the Barbarians: A Novel (Penguin Ink)_ by J. M. Coetzee, C. C. Askew
+- _Hinamatsuri Volume 1_ by Masao Ohtake
+- _Trip: Psychedelics, Alienation, and Change_ by Tao Lin
+- _The Art of the Metaobject Protocol_ by Gregor Kiczales, Jim des Rivieres
+- _The Machinery of Life_ by David S. Goodsell
+- _Measurement_ by Paul Lockhart
+- _Why We Sleep: Unlocking the Power of Sleep and Dreams_ by Matthew Walker PhD
+- _Modern Coin Magic: 116 Coin Sleights and 236 Coin Tricks_ by J. B. Bobo
+- _Joe Rindfleisch's Rainbow Rubber Bands (Rainbow Pack)_ by Joe Rindfleisch - Trick
+- _Kana Flashcards: Learn and Remember Kana in a Flash With Visual and Verbal Mnemonics (Japanese and English Edition)_ by Max Hodges, Tomoko Okazaki (Cards)
+- _Japanese Reader Collection Volume 1: Hikoichi_ by Clay Boutwell, Yumi Boutwell
+- _Japanese from Zero! 1: Proven Techniques to Learn Japanese for Students and Professionals_ by George Trombley, Yukari Takenaka
+- _Speak Japanese in 90 Days: A Self Study Guide to Becoming Fluent (Volume 1) (English and Japanese Edition)_ by Kevin Marx
+- _A Course in Combinatorics_ by J. H. Van Lint
+- _Computer Networks 5th_ by Andrew S. Tanenbaum (International Economy Edition)_ by Andrew S. Tanenbaum, David J. Wetherall
+- _Modern Operating Systems_ by Andrew S Tanenbaum
+- _Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp_ by Peter Norvig
+- _Organic Chemistry_ by Jonathan Clayden, Nick Greeves
+- _The Improv Handbook: The Ultimate Guide to Improvising in Comedy, Theatre, and Beyond_ by Tom Salinsky, Deborah Frances-White
+- _An Introduction to Tonal Theory_ by Peter Westergaard
+- _Modern Quantum Mechanics_ by J. J. Sakurai, Jim Napolitano
+- _Modern Quantum Mechanics (2nd Edition)_ by J. J. Sakurai, Jim J. Napolitano
+- _Cognitive Science: An Introduction to the Science of the Mind_ by José Luis Bermúdez
+- _The Great Conversation: A Historical Introduction to Philosophy_ by Norman Melchert
+- _Mathematics Form and Function_ by Saunders MacLane
+- _Algebra_ by Israel M. Gelfand, Alexander Shen
+- _Mathematics: Its Content, Methods and Meaning, Vol. 2_ by A D Aleksandrov
+- _Fractals and Scaling in Finance: Discontinuity, Concentration, Risk. Selecta Volume E_ by Benoit B. Mandelbrot, R.E. Gomory
+- _The (Mis)Behaviour of Prices : A Fractal View of Risk, Ruin and Reward_ by Benoit Mandelbrot, Richard L. Hudson
+- _The Fractal Geometry of Nature_ by Benoit B. Mandelbrot
+- _The Bridge to Lucy Dunne_ by Exurb1a (Kindle Edition)
+- _Silicon Snakeoil_ by Clifford Stoll
+- _Break It Down: Stories (FSG Classics)_ by Lydia Davis
+- _The Art of Computer Programming, Volumes 1-4A Boxed Set_ by Donald E. Knuth
+- _On Having No Head: Zen and the Rediscovery of the Obvious_ by Douglas E. Harding
+- _The I Ching, or, Book of Changes (Bollingen Series XIX) (Bollingen Series (General))_ by Richard Wilhelm, Cary F. Baynes
+- _The Goal: A Process of Ongoing Improvement_ by Eliyahu M. Goldratt, Jeff Cox
+- _Physical Chemistry, 9th Edition_ by Peter Atkins, Julio de Paula
+- _Originals: How Non-Conformists Move the World_ by Adam Grant, Sheryl Sandberg
+- _Six Easy Pieces: Essentials of Physics Explained_ by Its Most Brilliant Teacher_ by Richard P. Feynman, Robert B. Leighton
+- _Dark Matter and the Dinosaurs: The Astounding Interconnectedness of the Universe_ by Lisa Randall
+- _Opening the Dragon Gate: The Making of a Modern Taoist Wizard_ by Chen Kaiguo, Zheng Shunchao
+- _Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software_ by Scott Rosenberg
+- _The Essays of Warren Buffett: Lessons for Corporate America_ by Warren E. Buffett, Lawrence A. Cunningham
+- _How to Lie with Statistics_ by Darrell Huff, Irving Geis
+- _Hypernumbers and Extrafunctions: Extending the Classical Calculus (SpringerBriefs in Mathematics)_ by Mark Burgin
+- _An Introduction to Information Theory: Symbols, Signals and Noise (Dover Books on Mathematics)_ by John R. Pierce
+- _The First 20 Hours: How to Learn Anything . . . Fast!_ by Josh Kaufman
+- _Interaction Design: Beyond Human - Computer Interaction_ by Yvonne Rogers, Helen Sharp
+- _Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules_ by Jeff Johnson
+- _Professional Automated Trading: Theory and Practice_ by Eugene A. Durenard
+- _I Can Read That: A Traveler's Introduction to Chinese Characters (English and Chinese Edition)_ by Julie Sussman
+- _Networks, Crowds, and Markets: Reasoning about a Highly Connected World_ by David Easley, Jon Kleinberg
+- _Stochastic and Integral Geometry (Probability and Its Applications)_ by Rolf Schneider, Wolfgang Weil
+- _The Illustrated Man_ by Ray Bradbury (Mass Market Paperback)
+- _The Inmates Are Running the Asylum_ by Alan Cooper
+- _Private Real Estate Investment - Data Analysis and Decision Making: Second edition_ by Roger J Brown
+- _Rethinking Neural Networks: Quantum Fields and Biological Data (INNS Series of Texts, Monographs, and Proceedings Series)_ by Karl H. Pribram
+- _Secrets of a Buccaneer-Scholar: How Self-Education and the Pursuit of Passion Can Lead to a Lifetime of Success_ by James Marcus Bach
+- _Mindstorms: Children, Computers, And Powerful Ideas_ by Seymour A. Papert
+- _How to Do Nothing with Nobody All Alone_ by Yourself_ by Robert Paul Smith, Elinor Goulding-Smith
+- _Tao: The Watercourse Way_ by Alan Watts, Lee Chih-chang
+- _Functional Programming: Practice and Theory_ by Bruce J. Maclennan
+- _The Age of Intelligent Machines_ by Ray Kurzweil
+- _Textiles: Concepts and Principles_ by Virginia Hencken Elsasser
+- _Textiles (11th Edition)_ by Sara J. Kadolph
+- _Textiles: The Art of Mankind_ by Mary Schoeser
+- _Ready-to-Wear Apparel Analysis (4th Edition) (Fashion Series)_ by Patty Brown, Jannett Rice
+- _Bunka Fashion Series Garment Design Textbook 1 - Fundamentals of Garment Design_ by Bunka Fashion College
+- _The Gödelian Puzzle Book: Puzzles, Paradoxes and Proofs_ by Raymond M. Smullyan
+- _The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism_ by Fritjof Capra
+- _Three Ways of Thought in Ancient China_ by Arthur Waley (Mass Market Paperback)
+- _Although Of Course You End Up Becoming Yourself: A Road Trip with David Foster Wallace_ by David Lipsky
+- _Functional Differential Geometry (The MIT Press)_ by Gerald Jay Sussman, Jack Wisdom
+- _Learning GNU Emacs, Third Edition_ by Debra Cameron, James Elliott
+- _Structure and Interpretation of Classical Mechanics (The MIT Press)_ by Gerald Jay Sussman, Jack Wisdom
+- _The New Polymath: Profiles in Compound-Technology Innovations_ by Vinnie Mirchandani, Marc Benioff
+- _The Checklist Manifesto: How to Get Things Right_ by Atul Gawande
+- _The Graveyard Book_ by Neil Gaiman, Dave McKean
+- _The 20% Doctrine: How Tinkering, Goofing Off, and Breaking the Rules at Work Drive Success in Business_ by Ryan Tate
+- _The Metafont Book_ by Donald E. Knuth (Spiral-bound)
+- _I Seem to Be a Verb_
+- _How to Get Filthy Rich in Rising Asia: A Novel_ by Mohsin Hamid
+- _Practical Electronics for Inventors, Fourth Edition_ by Paul Scherz, Simon Monk
+- _Bird_ by Bird: Some Instructions on Writing and Life_ by Anne Lamott
+- _Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems_ by Steve Krug
+- _The Little Prover (The MIT Press)_ by Daniel P. Friedman, Carl Eastlund
+- _The Reasoned Schemer (The MIT Press)_ by Daniel P. Friedman, William E. Byrd
+- _Diversity and Complexity (Primers in Complex Systems)_ by Scott E. Page
+- _Complexity: A Very Short Introduction (Very Short Introductions)_ by John H. Holland
+- _Simply Complexity: A Clear Guide to Complexity Theory_ by Neil Johnson
+- _Complexity: A Guided Tour_ by Melanie Mitchell
+- _The Complete Book of Knots_ by Geoffrey Budworth
+- _From Mathematics to Generic Programming_ by Alexander A. Stepanov, Daniel E. Rose
+- _The Legend of The Condor Heroes (4 Books) (Revised Edition) (Chinese Edition)_ by jin yong
+- _Sketching User Experiences: Getting the Design Right and the Right Design (Interactive Technologies)_ by Bill Buxton
+- _HCI Theory: Classical, Modern, and Contemporary (Synthesis Lectures on Human-Centered Informatics)_ by Yvonne Rogers
+- _The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition) (Collins Business Essentials)_ by Benjamin Graham, Jason Zweig
+- _One Hundred Years of Solitude_
+- _Introduction to Holography_ by Vincent Toal
+- _The Geometry of Meaning: Semantics Based on Conceptual Spaces (The MIT Press)_ by Peter Gärdenfors
+- _The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys_ by James Fadiman
+- _Digital Holography and Digital Image Processing: Principles, Methods, Algorithms_ by Leonid Yaroslavsky
+- _Shantaram: A Novel_ by Gregory David Roberts
+- _Conceptual Spaces: The Geometry of Thought (A Bradford Book)_ by Peter Gärdenfors
+- _Neural and Intelligent Systems Integration: Fifth and Sixth Generation Integrated Reasoning Information Systems (Sixth Generation Computer Technologies)_ by Branko Soucek
+- _Digital Holography_ by Pascal Picart, Jun-chang Li
+- _Command Line Kung Fu: Bash Scripting Tricks, Linux Shell Programming Tips, and Bash One-liners_ by Jason Cannon
+- _Discourses, Fragments, Handbook (Oxford Worlds Classics)_ by Epictetus, Robin Hard
+- _Learn to Play Go: A Master's Guide to the Ultimate Game (Volume I) (Learn to Play Go Series)_ by Janice Kim, Soo-hyun Jeong
+- _Learn To Play Go, Volume II: The Way of the Moving Horse_ by Janice Kim, Jeong Soo-Hyun
+- _Learn to Play Go, Vol. 3: The Dragon Style_ by Janice Kim, Jeong Soo-hyun
+- _Both Flesh and Not: Essays_ by David Foster Wallace
+- _Genome: The Autobiography of a Species in 23 Chapters_ by Matt Ridley
+- _Titan: The Life of John D. Rockefeller, Sr._ by Ron Chernow
+- _Charlie Munger: The Complete Investor (Columbia Business School Publishing)_ by Tren Griffin
+- _Deep Simplicity: Bringing Order to Chaos and Complexity_ by John Gribbin
+- _The Monk and the Philosopher: A Father and Son Discuss the Meaning of Life_ by Jean-Francois Revel, Matthieu Ricard
+- _The Quantum and the Lotus: A Journey to the Frontiers Where Science and Buddhism Meet_ by Matthieu Ricard, Trinh Xuan Thuan
+- _Thinking with Type, 2nd revised and expanded edition: A Critical Guide for Designers, Writers, Editors, & Students_ by Ellen Lupton
+- _The Idea Factory: Bell Labs and the Great Age of American Innovation_ by Jon Gertner
+- _JJ Pizzuto's Fabric Science 10th Edition_ by Allen C. Cohen, Ingrid Johnson (Ring-bound)
+- _The Dynamics of Fashion: Studio Access Card_ by Elaine Stone
+- _Fashion: The Definitive History of Costume and Style_ by DK
+- _Slade House: A Novel_ by David Mitchell
+- _The Familiar, Volume 2: Into the Forest_ by Mark Z. Danielewski (Flexibound)
+- _Probabilistic Inequalities (Concrete and Applicable Mathematics, Vol. 7)_ by George A Anastassiou
+- _Pearls of Functional Algorithm Design_ by Richard Bird
+- _Purely Functional Data Structures_ by Okasaki
+- _Small Giants: Companies That Choose to Be Great Instead of Big_ by Bo Burlingham
+- _We Learn Nothing: Essays_ by Tim Kreider
+- _Winners Never Cheat: Even in Difficult Times, New and Expanded Edition_ by Jon M. Huntsman, Glenn Beck
+- _The Writers Journey: Mythic Structure for Writers, 3rd Edition_ by Christopher Vogler, Michele Montez
+- _Garden Cities of To-Morrow_ by Ebenezer Howard, F. J Osborn
+- _Bold: How to Go Big, Create Wealth and Impact the World_ by Peter H. Diamandis, Steven Kotler
+- _Essential Ornithology_ by Graham Scott
+- _National Geographic Field Guide to the Birds of North America, Sixth Edition (National Geographic Field Guide to Birds of North America)_ by Jon L. Dunn, Jonathan Alderfer
+- _The Ultimate Book of Everyday Knots: (over 5,000 copies sold)_ by Geoffrey Budworth
+- _Knots:The Complete Visual Guide: A Practical Step-by-Step Guide to Tying and Using over 100 Knots_ by Des Pawson
+- _Pro-Knot Outdoor Knots_ by John E. Sherry (Ring-bound)
+- _The Nature of Code: Simulating Natural Systems with Processing_ by Daniel Shiffman
+- _Generative Design: Visualize, Program, and Create with Processing_ by Hartmut Bohnacker, Benedikt Gross
+- _War in the Age of Intelligent Machines_ by Manuel De Landa
+- _Access Hacks: Tips & Tools for Wrangling Your Data_ by Ken Bluttman
+- _Practical Data Science with R_ by Nina Zumel, John Mount
+- _Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking_ by Foster Provost, Tom Fawcett
+- _Data Science from Scratch: First Principles with Python_ by Joel Grus
+- _Doing Data Science: Straight Talk from the Frontline_ by Cathy O'Neil, Rachel Schutt
+- _Guerrilla Analytics: A Practical Approach to Working with Data_ by Enda Ridge
+- _The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists_ by Carl Shan, William Chen
+- _Strange Material: Storytelling through Textiles_ by Leanne Prain
+- _Patternmaking for Fashion Design (5th Edition)_ by Helen Joseph Armstrong
+- _Networks: An Introduction_ by Mark Newman
+- _I Broke My Trunk! (Elephant & Piggie Books) (Chinese Edition)_ by Mo Willems
+- _Godzilla Doesnt Speak (Chinese Edition)_ by Xia Da
+- _Flying Fox of Snowy Mountain (Chinese Edition)_ by Jin Yong
+- _The Art of Scalability: Scalable Web Architecture, Processes, and Organizations for the Modern Enterprise (2nd Edition)_ by Martin L. Abbott, Michael T. Fisher
+- _Biodesign: The Process of Innovating Medical Technologies_ by Stefanos Zenios, Josh Makower
+- _Manufacturing of Pharmaceutical Proteins: From Technology to Economy_ by Stefan Behme
+- _Building Microservices: Designing Fine-Grained Systems_ by Sam Newman
+- _Clean Data_ by Megan Squire
+- _Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython_ by Wes McKinney
+- _Data Wrangling with Python: Tips and Tools to Make Your Life Easier_ by Jacqueline Kazil, Katharine Jarmul
+- _Maps of the Mind: Charts and Concepts of the Mind and its Labyrinths_ by Charles Hampden-Turner
+- _Thing Explainer: Complicated Stuff in Simple Words_ by Randall Munroe
+- _The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer (Pantheon Graphic Library)_ by Sydney Padua
+- _Singer Complete Photo Guide to Sewing - Revised + Expanded Edition: 1200 Full-Color How-To Photos_ by Editors of Creative Publishing
+- _Only Don't Know: Selected Teaching Letters of Zen Master Seung Sahn_ by Seung Sahn
+- _The Sewing Book: An Encyclopedic Resource of Step-by-Step Techniques_ by Alison Smith, Diana Rupp
+- _School of Sewing: Learn it. Teach it. Sew Together._ by Shea Henderson
+- _Systems Thinking For Social Change: A Practical Guide to Solving Complex Problems, Avoiding Unintended Consequences, and Achieving Lasting Results_ by David Peter Stroh
+- _Surfaces and Essences: Analogy as the Fuel and Fire of Thinking_ by Douglas Hofstadter, Emmanuel Sander
+- _Taskmaster: Unthinkable_ by Fred Van Lente, Jefte Palo
+- _Building: 3,000 Years of Design, Engineering and Construction_ by Bill Addis
+- _History of Strength of Materials (Dover Civil and Mechanical Engineering)_ by Stephen P. Timoshenko
+- _Mechanical Vibrations (Dover Civil and Mechanical Engineering)_ by J. P. Den Hartog
+- _Strength of Materials (Dover Books on Physics)_ by J. P. Den Hartog
+- _Matrices and Linear Transformations: Second Edition (Dover Books on Mathematics)_ by Charles G. Cullen
+- _Introduction to Analysis (Dover Books on Mathematics)_ by Maxwell Rosenlicht
+- _Introduction to Topology: Third Edition (Dover Books on Mathematics)_ by Bert Mendelson
+- _An Introduction to Ordinary Differential Equations (Dover Books on Mathematics)_ by Earl A. Coddington
+- _Mechanics (Dover Books on Physics)_ by J. P. Den Hartog
+- _Fourier Series (Dover Books on Mathematics)_ by Georgi P. Tolstov
+- _Theoretical Physics (Dover Books on Physics)_ by Georg Joos, Ira M. Freeman
+- _Ordinary Differential Equations (Dover Books on Mathematics)_ by Morris Tenenbaum, Harry Pollard
+- _Number Theory (Dover Books on Mathematics)_ by George E. Andrews
+- _In Search of Lost Time_
+- _Guide to the I Ching_
+- _If on a Winter's Night Traveler_
+- _The Art of Dramatic Writing_
+- _Principia Discordia_
+- _The Scratch & Sniff Guide to Whiskey_
+- _The Scratch & Sniff Guide to Wine_
+- _Poor Charlie's Almanac_
+- _Finite and Infinite Games_
+- _Name of the Wind_
+- _Autobiography of a Yogi_
+- _Zorbidah the Greek_
+- _Salvador Dali_ by Salvador Dali
+- _The Stars: My Destination_
+- _Neuromancer_
+- _Do androids dream of electric sheep_
+- _The Windup Girl_
+- _Anathem_
+- _Performing Under Pressure_
+- _Cooking for Geeks_
+- _The First Fifteen Lives of…_
+- _Makers: The New Industrial Revolution_
+- _S_ by J J Abrams
+- _Book of Numbers_ by Joshua Cohen
+- _The Fifty Year Sword_ by Danielewski
+- _Fooling Houdini_
+- _The Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons and the Eclipse of Capitalism_
+- _Work Simply: Embracing the Power of Your Personal Productivity Style_
+- _The Book Thief_
+- _Robert Glasper_
+- _Old Masters Young Geniuses_
+- _Flikering Pixels_
+- _Kano_
+- _The Myth of Mirror Neurons, Breaking Stephan_
+- _Leonardo da Vinci Books_
+- _Inquire Within_
+- _The Cathedral and the Bazaar_
+- _Seeking Wisdom: From Darwin to Munger_
+- _New Kind of Science_
+- _Mises_
+- _A Whole New Mind: Why Right-Brainers Will Rule the Future_
+- _Start-up Nation: The Story of Israel’s Economic Miracle_
+- _An Astronaut’s Guide to Life on Earth_
+- _Creativity, Inc_
+- _The great Beanie Babies Bubble_
+- _How to Fly a Horse_
+- _The Math Book_ by Pickover
+- _Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation_
+- _Johnny Mnemonic_
+- _Bostrum's Superintelligence_
+- _The Utopia of Rules_
+- _Organization Theory: A Libertarian Perspective_
+- _Homebrew Industrial Revolution: A Low-Overhead Manifesto_
+- _The Gun_ by CJ Chivers
+- _Who Gets What and Why_
+- _How to Not Be Wrong_
+- _Dont Make Me Think_
+- _As a Man Thinketh_
+- _Misbehaving (Econ)_
+- _A Guide to the Good Life: The Ancient Art of Stoic Joy_
+- _Mall Maker_
+- _When to Rob a Bank_
+- _Patrick Nagel_
+- _The Bully Pulpit_
+- _The Rosie Project_
+- _How Asia Works_
+- _How to Lie with Statistics_
+- _Hyperbole and a Half_
+- _Should We Eat Meat?_
+- _Innovator's Dilemma_
+- _Cutting through Spiritual Materialism_
+- _Zen Mind Beginners Mind_
+- _Autobiography of a Yogi_
+- _Lean Anaylitics_
 
 
 # Completed
 
-- 2016-2018
-  - _Sapiens_
-  - _Zero to One_ by Tiel
-  - _How to Stop Worrying and Start Living_ by Carnegie
-  - _Catch-22_ by Heller
-  - _Rise & Fall of Dinosaurs_
-  - _Snowcrash_ by Stephenson
-  - _Seveneves_ by Stephenson
-  - _Dirk Gentley's Holistic Detective Agency_ by Adams
-  - _The Rise of Theodore Roosevelt_ by Morriss
-  - _The Tao of Poo_ by Hoff
-  - _The Broom of the System_ by Wallace
-  - _Consider the Lobster_ by Wallace
-  - _A Supposedly Fun Thing I'll Never Do Again_ by Wallace
-  - _Distrust That Particular Flavor_ by Gibson
-  - _Awaken the Giant Within_
-  - _12 Rules for Life_ by Peterson
-  - _Dune_
-  - _The Graveyard Book_ by Gaiman
-  - _Trigger Warning_ by Gaiman
-  - _The Lies of Loch Lamorah_
-  - _The Information_ by Gleick
-  - _Benjamin Franklin_ by Isaacson
-  - _Ready, Player One_
-  - _The Mythical Man Month_
-  - _Annihilation_ by Van Der Meer
-  - _The Curious Incident of the Dog in the Night Time_
-  - _On the Shortness of Life_ by Seneca
-  - _To Mock a Mockingbird_ by Smullyan
-- 2015
-  - _Let's Explore Diabetes with Owls_ by Sedaris
-  - _Musashi_ by Yoshikawa
-  - _Faster_ by Gleick
-  - _Guns, Germs, and Steel_ by Jared Diamond
-  - _Metamagical Themas_ by Hofstadter
-  - _Spark Joy_ by Kondo
+## 2016-2018
+
+- _Sapiens_
+- _Zero to One_ by Tiel
+- _How to Stop Worrying and Start Living_ by Carnegie
+- _Catch-22_ by Heller
+- _Rise & Fall of Dinosaurs_
+- _Snowcrash_ by Stephenson
+- _Seveneves_ by Stephenson
+- _Dirk Gentley's Holistic Detective Agency_ by Adams
+- _The Rise of Theodore Roosevelt_ by Morriss
+- _The Tao of Poo_ by Hoff
+- _The Broom of the System_ by Wallace
+- _Consider the Lobster_ by Wallace
+- _A Supposedly Fun Thing I'll Never Do Again_ by Wallace
+- _Distrust That Particular Flavor_ by Gibson
+- _Awaken the Giant Within_
+- _12 Rules for Life_ by Peterson
+- _Dune_
+- _The Graveyard Book_ by Gaiman
+- _Trigger Warning_ by Gaiman
+- _The Lies of Loch Lamorah_
+- _The Information_ by Gleick
+- _Benjamin Franklin_ by Isaacson
+- _Ready, Player One_
+- _The Mythical Man Month_
+- _Annihilation_ by Van Der Meer
+- _The Curious Incident of the Dog in the Night Time_
+- _On the Shortness of Life_ by Seneca
+- _To Mock a Mockingbird_ by Smullyan
+
+## 2015
+
+- _Let's Explore Diabetes with Owls_ by Sedaris
+- _Musashi_ by Yoshikawa
+- _Faster_ by Gleick
+- _Guns, Germs, and Steel_ by Jared Diamond
+- _Metamagical Themas_ by Hofstadter
+- _Spark Joy_ by Kondo
   
-- 2014
-  - _Contagious_ by Jonah Berger
-  - _Love Does_ by Goff
-  - _Sex Drugs and Cocoa Puffs_ by Klosterman
-  - _The Tao is Silent_ by Smullyan 
-  - _American Gods_ by Gaiman 
-  - _Business Adventures_ by Brooks
-  - _A Supposedly Fun Thing I'll Never Do Again_ by Wallace
-  - _The Power of Habit_ by Duhigg
-  - _I am a Strange Loop_ by Hofstadter (181/363)
-  - _The Paradox of Choice_ by Schwartz (77/236)
-  - _The Black Swan_ by Taleb (137/300)
-  - _The 4-Hour Body_ by Ferriss
-  - _The Innovators_ by Isaacson
-  - _The Life-Changing Magic of Tidying Up_ by Kondo
-  - _What Do You Care What Other People Think?_ by Richard Feynmann
-  - _Surely You're Joking, Mr. Feynmann!_ by Richard Feynmann
-  - _Being Taoist_ by Wong
-  - _Antifragile_ by Taleb
-  - _How We Got to Now_ by Johnson
-  - _Waking Up_ by Harris
-  - _The Martian_ by Weir
-  - _Learning to Silence the Mind_ by Osho
-  - _Managing Oneself_ by Drucker
-  - _Smartcuts_ by Snow
-  - _Ignore Everybody_ by MacLeod
-  - _What If?_ by Munroe
-  - _The Fountainhead_ by Rand
-  - _Dropping Ashes on the Buddha_ by Sahn
-  - _The Alchemist_ by Cohelo
-- 2013
-  - _Gifted Hands_ by Ben Carson
-  - _Oedipus Rex_ by Sophocles
-  - _Zhuangzi_
-  - _Agricola_ by Tacitus
-  - _David and Goliath_ by Gladwell
-  - _Theodore Roosevelt: His Essential Wisdom_ by Gangi
-  - _Without their Permission_ by Ohanian
-  - _The Bad Beginning_ by Snicket
-  - _Think Big and Kick Ass_ by Trump
-  - _Oedipus Rex_ by Sophocles
-  - _Foundation_ by Asimov
-  - _Second Foundation_ by Asimov
-  - _Foundation's Edge_ by Asimov
-  - _Ender's Game_ by Card
-  - _Speaker for the Dead_ by Card
-  - _Think Like a Freak_ by Levitt & Dubner
-- 2012
-  - _Moonwalking with Einstein_ by Foer
-  - _Siddhartha_ by Hesse
-  - _A Visual Dictionary of Architecture_ by Ching
-  - _The Republic_ by Plato
-  - _This is a Book_ by Martin
-  - _In Pursuit of Elegance_ by May
-  - _Divine Comedy, Part 1: Inferno_ by Alighieri
-  - _The Virtue of Selfishness_ by Rand
-  - _The Selfish Gene_ by Dawkins
-  - _HTML5/CSS3_ by Castro and Hyslop
-  - _Gödel, Escher, Bach: An Eternal Golden Braid_ by Hofstadter
-  - _Zen and the Art of Motorcycle Maintenance_ by Pirsing
-  - _Fermat's Enigma_ by Singh
-  - _The People Code_ by Hartman
-  - _Te-Tao Ching_ by Lao-Tzu
-  - _The Catcher in the Rye_ by Salinger
-  - _The Great Gatsby_ by Fitzgerald
-  - _Cat's Cradle_ by Vonnegut
-  - _5000BC_ by Smullyan
-  - _Walden_ by Thoreau
-  - _Instant: The Story of Polaroid_ by Bonanos
-  - _The Snowball_ by Schroeder
-  - _Musicophilia_ by Sacks
-  - _Second Nature_ by Edelman
-  - _Gödel's Proof_ by Nagel and Newman
-  - _Emergence_ by Johnson
-  - _Two Great Truths_ by Griffin
-  - _The Executive Mind_ by Goldberg
-  - _How to Build a Mind_ by Aleksandern
-  - _How to Become a Straight-A Student_ by Newport
-  - _The Hitchhiker's Guide to the Galaxy_ by Adams
-  - _Halftime_ by Buford
-  - _Mastery_ by Greene
-  - _Taoism_ by Oldstone-Moore
-  - _Artificial Intelligence: The Basics_ by Warwick
-  - _Big Data_ by Schonberger and Cukier
-  - _Show Me How_ by Fagerstrom and Smith
-  - _The Tao of Pooh_ by Hoff
-  - _The Autobiography of Mark Twain_ by Mark Twain
-  - _Hackers and Painters_ by Graham
-- 2011
-  - _iWoz_ by Wozniak
-  - _Steve Jobs_ by Isaacson
-  - _The Age of Reason_ by Paine
-  - _Your God is Too Small_ by Phillips
-  - _The Way to Wealth_ by Franklin
-  - _Stuff Every Man Should Know_ by Cohen
-  - _The Economics of Public Issues_ by Miller, Benjamin, and North
-  - _Cannery Row_ by Steinbeck
-  - _The Communist Manifesto_ by Marx
-  - _The Renaissance Soul_ by Lobenstine
-  - _Flatland_ by Abbott
-  - _Atlas Shrugged_ by Rand
-  - _The Mentor_ by Ayres
-  - _Alice in Quantumland_ by Gilmore
-  - _The Prince_ by Machiavelli
-  - _A Study in Scarlet & Hound of the Baskervilles_ by Doyle
-  - _A Clockwork Orange_ by Burgess
-  - _Catch-22_ by Heller
-  - _Mythology: Timeless Tales of Gods and Heroes_ by Hamilton
-  - _Fight Club_ by Palahnluk
-  - _Slaughterhouse Five_ by Vonnegurt
-  - _The Young Man's Guide_ by Alcott
-  - _A Brave New World_ by Huxley
-  - _Blink_ by Gladwell
-  - _The Rise of Theodore Roosevelt_ by Morris
-  - _A Brief History of Time_ by Hawking
-  - _Steps to Christ_ by White
-  - _Batman: The Killing Joke_ by Moore
-  - _The God Delusion_ by Dawkins
-  - _Rules of Civility_ by Washington
-  - _The Perks of Being a Wall Flawer_ by Chbosky
-  - _The Art of War_ by Sun Tzu
-  - _Twilight_ by Meyers
-  - _Harry Potter and the Sorcerer's Stone_ by Rowling
-  - _King, Warrior, Magician, Lover_ by Moore and Gillette
-  - _There is a God_ by Flew
-  - _Drive_ by Pink
-  - _The Book of Five Rings_ by Musashi
-  - _The Problems of Philosophy_ by Russell
-  - _The Tao of Jeet Kune Do_ by Lee
-  - _Outliers_ by Gladwell
-  - _Reasons for God_ by Keller
-  - _The Art of Getting Things Done_ by David Allen
-  - _The Shape of Design_ by Chimero
-  - _Increasing Personal Efficiency_ by Conwell
-  - _Chaos_ by Gleick
-  - _Anthem_ by Rand
-  - _Consider the Lobster_ by Wallace
-  - _The Alpha Male Guide_ by Beck
-  - _What the Dog Saw_ by Gladwell
-  - _Freakonomics_ by Levitt and Dubner
-  - _The Hunger Games_ by Suzanne Collins
+## 2014
+
+- _Contagious_ by Jonah Berger
+- _Love Does_ by Goff
+- _Sex Drugs and Cocoa Puffs_ by Klosterman
+- _The Tao is Silent_ by Smullyan 
+- _American Gods_ by Gaiman 
+- _Business Adventures_ by Brooks
+- _A Supposedly Fun Thing I'll Never Do Again_ by Wallace
+- _The Power of Habit_ by Duhigg
+- _I am a Strange Loop_ by Hofstadter (181/363)
+- _The Paradox of Choice_ by Schwartz (77/236)
+- _The Black Swan_ by Taleb (137/300)
+- _The 4-Hour Body_ by Ferriss
+- _The Innovators_ by Isaacson
+- _The Life-Changing Magic of Tidying Up_ by Kondo
+- _What Do You Care What Other People Think?_ by Richard Feynmann
+- _Surely You're Joking, Mr. Feynmann!_ by Richard Feynmann
+- _Being Taoist_ by Wong
+- _Antifragile_ by Taleb
+- _How We Got to Now_ by Johnson
+- _Waking Up_ by Harris
+- _The Martian_ by Weir
+- _Learning to Silence the Mind_ by Osho
+- _Managing Oneself_ by Drucker
+- _Smartcuts_ by Snow
+- _Ignore Everybody_ by MacLeod
+- _What If?_ by Munroe
+- _The Fountainhead_ by Rand
+- _Dropping Ashes on the Buddha_ by Sahn
+- _The Alchemist_ by Cohelo
+
+## 2013
+
+- _Gifted Hands_ by Ben Carson
+- _Oedipus Rex_ by Sophocles
+- _Zhuangzi_
+- _Agricola_ by Tacitus
+- _David and Goliath_ by Gladwell
+- _Theodore Roosevelt: His Essential Wisdom_ by Gangi
+- _Without their Permission_ by Ohanian
+- _The Bad Beginning_ by Snicket
+- _Think Big and Kick Ass_ by Trump
+- _Oedipus Rex_ by Sophocles
+- _Foundation_ by Asimov
+- _Second Foundation_ by Asimov
+- _Foundation's Edge_ by Asimov
+- _Ender's Game_ by Card
+- _Speaker for the Dead_ by Card
+- _Think Like a Freak_ by Levitt & Dubner
+
+## 2012
+
+- _Moonwalking with Einstein_ by Foer
+- _Siddhartha_ by Hesse
+- _A Visual Dictionary of Architecture_ by Ching
+- _The Republic_ by Plato
+- _This is a Book_ by Martin
+- _In Pursuit of Elegance_ by May
+- _Divine Comedy, Part 1: Inferno_ by Alighieri
+- _The Virtue of Selfishness_ by Rand
+- _The Selfish Gene_ by Dawkins
+- _HTML5/CSS3_ by Castro and Hyslop
+- _Gödel, Escher, Bach: An Eternal Golden Braid_ by Hofstadter
+- _Zen and the Art of Motorcycle Maintenance_ by Pirsing
+- _Fermat's Enigma_ by Singh
+- _The People Code_ by Hartman
+- _Te-Tao Ching_ by Lao-Tzu
+- _The Catcher in the Rye_ by Salinger
+- _The Great Gatsby_ by Fitzgerald
+- _Cat's Cradle_ by Vonnegut
+- _5000BC_ by Smullyan
+- _Walden_ by Thoreau
+- _Instant: The Story of Polaroid_ by Bonanos
+- _The Snowball_ by Schroeder
+- _Musicophilia_ by Sacks
+- _Second Nature_ by Edelman
+- _Gödel's Proof_ by Nagel and Newman
+- _Emergence_ by Johnson
+- _Two Great Truths_ by Griffin
+- _The Executive Mind_ by Goldberg
+- _How to Build a Mind_ by Aleksandern
+- _How to Become a Straight-A Student_ by Newport
+- _The Hitchhiker's Guide to the Galaxy_ by Adams
+- _Halftime_ by Buford
+- _Mastery_ by Greene
+- _Taoism_ by Oldstone-Moore
+- _Artificial Intelligence: The Basics_ by Warwick
+- _Big Data_ by Schonberger and Cukier
+- _Show Me How_ by Fagerstrom and Smith
+- _The Tao of Pooh_ by Hoff
+- _The Autobiography of Mark Twain_ by Mark Twain
+- _Hackers and Painters_ by Graham
+
+## 2011
+
+- _iWoz_ by Wozniak
+- _Steve Jobs_ by Isaacson
+- _The Age of Reason_ by Paine
+- _Your God is Too Small_ by Phillips
+- _The Way to Wealth_ by Franklin
+- _Stuff Every Man Should Know_ by Cohen
+- _The Economics of Public Issues_ by Miller, Benjamin, and North
+- _Cannery Row_ by Steinbeck
+- _The Communist Manifesto_ by Marx
+- _The Renaissance Soul_ by Lobenstine
+- _Flatland_ by Abbott
+- _Atlas Shrugged_ by Rand
+- _The Mentor_ by Ayres
+- _Alice in Quantumland_ by Gilmore
+- _The Prince_ by Machiavelli
+- _A Study in Scarlet & Hound of the Baskervilles_ by Doyle
+- _A Clockwork Orange_ by Burgess
+- _Catch-22_ by Heller
+- _Mythology: Timeless Tales of Gods and Heroes_ by Hamilton
+- _Fight Club_ by Palahnluk
+- _Slaughterhouse Five_ by Vonnegurt
+- _The Young Man's Guide_ by Alcott
+- _A Brave New World_ by Huxley
+- _Blink_ by Gladwell
+- _The Rise of Theodore Roosevelt_ by Morris
+- _A Brief History of Time_ by Hawking
+- _Steps to Christ_ by White
+- _Batman: The Killing Joke_ by Moore
+- _The God Delusion_ by Dawkins
+- _Rules of Civility_ by Washington
+- _The Perks of Being a Wall Flawer_ by Chbosky
+- _The Art of War_ by Sun Tzu
+- _Twilight_ by Meyers
+- _Harry Potter and the Sorcerer's Stone_ by Rowling
+- _King, Warrior, Magician, Lover_ by Moore and Gillette
+- _There is a God_ by Flew
+- _Drive_ by Pink
+- _The Book of Five Rings_ by Musashi
+- _The Problems of Philosophy_ by Russell
+- _The Tao of Jeet Kune Do_ by Lee
+- _Outliers_ by Gladwell
+- _Reasons for God_ by Keller
+- _The Art of Getting Things Done_ by David Allen
+- _The Shape of Design_ by Chimero
+- _Increasing Personal Efficiency_ by Conwell
+- _Chaos_ by Gleick
+- _Anthem_ by Rand
+- _Consider the Lobster_ by Wallace
+- _The Alpha Male Guide_ by Beck
+- _What the Dog Saw_ by Gladwell
+- _Freakonomics_ by Levitt and Dubner
+- _The Hunger Games_ by Suzanne Collins
 

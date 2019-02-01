@@ -1,23 +1,343 @@
 
-- [Which books have made you introspect?](https://news.ycombinator.com/item?id=17045790)
-  - _Gimp_ :: Marc Zupan
-  - _Thinking in Systems_ :: Donella Meadows
-  - _A Guide to the Good Life: The Ancient Art of Stoic Joy_ :: William Irvine
-  - _Why Buddhism is True_
-  - _Finite and Infinite Games_ :: James Carse
-  - _Asterios Polyp_
-  - _The Truth_ :: Neil Straus
-  - _Shop Class as Soulcraft: An Inquiry into the Value of Work_ :: Matthew Crawford
-  - _Harry Potter and Methods of Rationality_
-  - _Man's Search for Meaning_
-  - _Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics_ :: Henry Stuart Hazlitt
-  - _Gig: Americans Talk about Their Jobs_
-  - _A Pattern Language: Towns, Buildings, Construction_
-  - _Nonzero: The Logic of Human Destiny_
-  - _Novice to Master: An Ongoing Lesson in the Extent of My Own Stupidity_
-  - _No More Mr. Nice Guy_ :: Robert Glover
-  - _This Is What I Talk About When I Talk About Running_ :: Haruki Murakami
-  - _The Myth of Sisyphus_ :: Albert Camus
-  - _Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future_ :: Ashlee Vance
-  - _East of Eden_ :: Steinbeck
-  - _The Righteous Mind: Why Good People Are Divided by Politics and Religion_ :: Jonathan Haidt
+- Upcoming
+
+  - [Which books have made you introspect?](https://news.ycombinator.com/item?id=17045790)
+    - _Gimp_ :: Marc Zupan
+    - _Thinking in Systems_ :: Donella Meadows
+    - _A Guide to the Good Life: The Ancient Art of Stoic Joy_ :: William Irvine
+    - _Why Buddhism is True_
+    - _Finite and Infinite Games_ :: James Carse
+    - _Asterios Polyp_
+    - _The Truth_ :: Neil Straus
+    - _Shop Class as Soulcraft: An Inquiry into the Value of Work_ :: Matthew Crawford
+    - _Harry Potter and Methods of Rationality_
+    - _Man's Search for Meaning_
+    - _Economics in One Lesson: The Shortest and Surest Way to Understand Basic Economics_ :: Henry Stuart Hazlitt
+    - _Gig: Americans Talk about Their Jobs_
+    - _A Pattern Language: Towns, Buildings, Construction_
+    - _Nonzero: The Logic of Human Destiny_
+    - _Novice to Master: An Ongoing Lesson in the Extent of My Own Stupidity_
+    - _No More Mr. Nice Guy_ :: Robert Glover
+    - _This Is What I Talk About When I Talk About Running_ :: Haruki Murakami
+    - _The Myth of Sisyphus_ :: Albert Camus
+    - _Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future_ :: Ashlee Vance
+    - _East of Eden_ :: Steinbeck
+    - _The Righteous Mind: Why Good People Are Divided by Politics and Religion_ :: Jonathan Haidt
+  
+  - [blinkist](https://www.blinkist.com/blinks)
+    - _Scaling Up_
+    - _A Curious Mind_
+    - _The Devided Self_
+    - _Berkshire Beyond Buffet_
+    - _The 1% Windfall_
+    - _Making Globalization Work_
+    - _Insight Selling_
+    - _The Economist: Numbers Guide_
+    - _Holacracy_
+    - _Elon Musk (by Vance_
+    - _Anticipate by Jong_
+    - _The Eureka Factor_
+    - _Change the Culture, Change the Game_
+    - _Brainfluence_
+    - _Accounting Made Simple_
+    - _Strategic Connections_
+    - _Non Obvious_
+    - _The New Rules of Real Estate_
+    - _The Conservative Mind_
+    - _Makers_
+    - _Dealing with China_
+    - _Work Simply_
+    - _The Zero Marginal Cost Society_
+  
+  - Selections from Alan Kay’s reading list
+    - _the gutenberg galaxy: the making of topographic man_
+    - _understanding media: the extensions of man_
+    - _myth of the machine: technics and human development_
+    - _innovation and entrepreneurship (drucker)_
+    - _to understand is to invent_
+    - _teach your own: a hopeful path for education_
+    - _lateral thinking: creativity step by step_
+    - _six thinking hats: an essential approach to business management_
+    - _mind games: mental fitness for tennis_
+    - _the act of creation_
+    - _myths to live by_
+    - _zen mind beginners mind_
+    - _envisioning information_
+    - _the visual display of quantitative information_
+    - _notes on the synthesis of form_
+    - _the character of physical law_
+    - _building large knowledge-based systems: representation and inference in the cyc project_
+    - _computation: finite and infinite machines_
+    - _soft architecture machines_
+    - _the architecture machine: toward a more human environment_
+    - _lisp 1.5 programmer’s manual_
+
+- From Amazon
+  - TODO
+
+- From Goodreads
+  - TODO
+
+- Miscellaneous
+  - _In Search of Lost Time_
+  - _Guide to the I Ching_
+  - _If on a Winter's Night Traveler_
+  - _The Art of Dramatic Writing_
+  - _Principia Discordia_
+  - _The Scratch & Sniff Guide to Whiskey_
+  - _The Scratch & Sniff Guide to Wine_
+  - _Poor Charlie's Almanac_
+  - _Finite and Infinite Games_
+  - _Name of the Wind_
+  - _Autobiography of a Yogi_
+  - _Zorbidah the Greek_
+  - _Salvador Dali_ by Salvador Dali
+  - _The Stars: My Destination_
+  - _Neuromancer_
+  - _Do androids dream of electric sheep_
+  - _The Windup Girl_
+  - _Anathem_
+  - _Performing Under Pressure_
+  - _Cooking for Geeks_
+  - _The First Fifteen Lives of…_
+  - _Makers: The New Industrial Revolution_
+  - _S_ by J J Abrams
+  - _Book of Numbers_ by Joshua Cohen
+  - _The Fifty Year Sword_ by Danielewski
+  - _Fooling Houdini_
+  - _The Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons and the Eclipse of Capitalism_
+  - _Work Simply: Embracing the Power of Your Personal Productivity Style_
+  - _The Book Thief_
+  - _Robert Glasper_
+  - _Old Masters Young Geniuses_
+  - _Flikering Pixels_
+  - _Kano_
+  - _The Myth of Mirror Neurons, Breaking Stephan_
+  - _Leonardo da Vinci Books_
+  - _Basic Economics Books_
+  - _Inquire Within_
+  - _The Cathedral and the Bazaar_
+  - _Seeking Wisdom: From Darwin to Munger_
+  - _New Kind of Science_
+  - _Mises_
+  - _A Whole New Mind: Why Right-Brainers Will Rule the Future_
+  - _Start-up Nation: The Story of Israel’s Economic Miracle_
+  - _An Astronaut’s Guide to Life on Earth_
+  - _Creativity, Inc_
+  - _The great Beanie Babies Bubble_
+  - _How to Fly a Horse_
+  - _The Math Book_ by Pickover
+  - _Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation_
+  - _Johnny Mnemonic_
+  - _Bostrum's Superintelligence_
+  - _The Utopia of Rules_
+  - _Organization Theory: A Libertarian Perspective_
+  - _Homebrew Industrial Revolution: A Low-Overhead Manifesto_
+  - _The Gun_ by CJ Chivers
+  - _Who Gets What and Why_
+  - _How to Not Be Wrong_
+  - _Dont Make Me Think_
+  - _As a Man Thinketh_
+  - _Misbehaving (Econ)_
+  - _A Guide to the Good Life: The Ancient Art of Stoic Joy_
+  - _Mall Maker_
+  - _When to Rob a Bank_
+  - _Patrick Nagel_
+  - _Seneca_
+  - _The Bully Pulpit_
+  - _The Rosie Project_
+  - _How Asia Works_
+  - _How to Lie with Statistics_
+  - _Hyperbole and a Half_
+  - _Should We Eat Meat?_
+  - _Innovator's Dilemma_
+  - _Cutting through Spiritual Materialism_
+  - _Zen Mind Beginners Mind_
+  - _Autobiography of a Yogi_
+  - _Lean Anaylitics_
+
+- Completed
+
+  - 2016-2018
+    - _Sapiens_
+    - _Zero to One_ by Tiel
+    - _How to Stop Worrying and Start Living_ by Carnegie
+    - _Catch-22_ by Heller
+    - _Rise & Fall of Dinosaurs_
+    - _Snowcrash_ by Stephenson
+    - _Seveneves_ by Stephenson
+    - _Dirk Gentley's Holistic Detective Agency_ by Adams
+    - _The Rise of Theodore Roosevelt_ by Morriss
+    - _The Tao of Poo_ by Hoff
+    - _The Broom of the System_ by Wallace
+    - _Consider the Lobster_ by Wallace
+    - _A Supposedly Fun Thing I'll Never Do Again_ by Wallace
+    - _Distrust That Particular Flavor_ by Gibson
+    - _Awaken the Giant Within_
+    - _12 Rules for Life_ by Peterson
+    - _Dune_
+    - _The Graveyard Book_ by Gaiman
+    - _Trigger Warning_ by Gaiman
+    - _The Lies of Loch Lamorah_
+    - _The Information_ by Gleick
+    - _Benjamin Franklin_ by Isaacson
+    - _Ready, Player One_
+    - _The Mythical Man Month_
+    - _Annihilation_ by Van Der Meer
+    - _The Curious Incident of the Dog in the Night Time_
+    - _On the Shortness of Life_ by Seneca
+    - _To Mock a Mockingbird_ by Smullyan
+    - ...and many, many more...
+  
+  - 2015
+    - _Let's Explore Diabetes with Owls_ by Sedaris
+    - _Musashi_ by Yoshikawa
+    - _Faster_ by Gleick
+    - _Guns, Germs, and Steel_ by Jared Diamond
+    - _Metamagical Themas_ by Hofstadter
+    - _Spark Joy_ by Kondo
+    
+  - 2014
+    - _Contagious_ by Jonah Berger
+    - _Love Does_ by Goff
+    - _Sex Drugs and Cocoa Puffs_ by Klosterman
+    - _The Tao is Silent_ by Smullyan 
+    - _American Gods_ by Gaiman 
+    - _Business Adventures_ by Brooks
+    - _A Supposedly Fun Thing I'll Never Do Again_ by Wallace
+    - _The Power of Habit_ by Duhigg
+    - _I am a Strange Loop_ by Hofstadter (181/363)
+    - _The Paradox of Choice_ by Schwartz (77/236)
+    - _The Black Swan_ by Taleb (137/300)
+    - _The 4-Hour Body_ by Ferriss
+    - _The Innovators_ by Isaacson
+    - _The Life-Changing Magic of Tidying Up_ by Kondo
+    - _What Do You Care What Other People Think?_ by Richard Feynmann
+    - _Surely You're Joking, Mr. Feynmann!_ by Richard Feynmann
+    - _Being Taoist_ by Wong
+    - _Antifragile_ by Taleb
+    - _How We Got to Now_ by Johnson
+    - _Waking Up_ by Harris
+    - _The Martian_ by Weir
+    - _Learning to Silence the Mind_ by Osho
+    - _Managing Oneself_ by Drucker
+    - _Smartcuts_ by Snow
+    - _Ignore Everybody_ by MacLeod
+    - _What If?_ by Munroe
+    - _The Fountainhead_ by Rand
+    - _Dropping Ashes on the Buddha_ by Sahn
+    - _The Alchemist_ by Cohelo
+  
+  - 2013
+    - _Gifted Hands_ by Ben Carson
+    - _Oedipus Rex_ by Sophocles
+    - _Zhuangzi_
+    - _Agricola_ by Tacitus
+    - _David and Goliath_ by Gladwell
+    - _Theodore Roosevelt: His Essential Wisdom_ by Gangi
+    - _Without their Permission_ by Ohanian
+    - _The Bad Beginning_ by Snicket
+    - _Think Big and Kick Ass_ by Trump
+    - _Oedipus Rex_ by Sophocles
+    - _Foundation_ by Asimov
+    - _Second Foundation_ by Asimov
+    - _Foundation's Edge_ by Asimov
+    - _Ender's Game_ by Card
+    - _Speaker for the Dead_ by Card
+    - _Think Like a Freak_ by Levitt & Dubner
+  
+  - 2012
+    - _Moonwalking with Einstein_ by Foer
+    - _Siddhartha_ by Hesse
+    - _A Visual Dictionary of Architecture_ by Ching
+    - _The Republic_ by Plato
+    - _This is a Book_ by Martin
+    - _In Pursuit of Elegance_ by May
+    - _Divine Comedy, Part 1: Inferno_ by Alighieri
+    - _The Virtue of Selfishness_ by Rand
+    - _The Selfish Gene_ by Dawkins
+    - _HTML5/CSS3_ by Castro and Hyslop
+    - _Gödel, Escher, Bach: An Eternal Golden Braid_ by Hofstadter
+    - _Zen and the Art of Motorcycle Maintenance_ by Pirsing
+    - _Fermat's Enigma_ by Singh
+    - _The People Code_ by Hartman
+    - _Te-Tao Ching_ by Lao-Tzu
+    - _The Catcher in the Rye_ by Salinger
+    - _The Great Gatsby_ by Fitzgerald
+    - _Cat's Cradle_ by Vonnegut
+    - _5000BC_ by Smullyan
+    - _Walden_ by Thoreau
+    - _Instant: The Story of Polaroid_ by Bonanos
+    - _The Snowball_ by Schroeder
+    - _Musicophilia_ by Sacks
+    - _Second Nature_ by Edelman
+    - _Gödel's Proof_ by Nagel and Newman
+    - _Emergence_ by Johnson
+    - _Two Great Truths_ by Griffin
+    - _The Executive Mind_ by Goldberg
+    - _How to Build a Mind_ by Aleksandern
+    - _How to Become a Straight-A Student_ by Newport
+    - _The Hitchhiker's Guide to the Galaxy_ by Adams
+    - _Halftime_ by Buford
+    - _Mastery_ by Greene
+    - _Taoism_ by Oldstone-Moore
+    - _Artificial Intelligence: The Basics_ by Warwick
+    - _Big Data_ by Schonberger and Cukier
+    - _Show Me How_ by Fagerstrom and Smith
+    - _The Tao of Pooh_ by Hoff
+    - _The Autobiography of Mark Twain_ by Mark Twain
+    - _Hackers and Painters_ by Graham
+  
+  - 2011
+    - _iWoz_ by Wozniak
+    - _Steve Jobs_ by Isaacson
+    - _The Age of Reason_ by Paine
+    - _Your God is Too Small_ by Phillips
+    - _The Way to Wealth_ by Franklin
+    - _Stuff Every Man Should Know_ by Cohen
+    - _The Economics of Public Issues_ by Miller, Benjamin, and North
+    - _Cannery Row_ by Steinbeck
+    - _The Communist Manifesto_ by Marx
+    - _The Renaissance Soul_ by Lobenstine
+    - _Flatland_ by Abbott
+    - _Atlas Shrugged_ by Rand
+    - _The Mentor_ by Ayres
+    - _Alice in Quantumland_ by Gilmore
+    - _The Prince_ by Machiavelli
+    - _A Study in Scarlet & Hound of the Baskervilles_ by Doyle
+    - _A Clockwork Orange_ by Burgess
+    - _Catch-22_ by Heller
+    - _Mythology: Timeless Tales of Gods and Heroes_ by Hamilton
+    - _Fight Club_ by Palahnluk
+    - _Slaughterhouse Five_ by Vonnegurt
+    - _The Young Man's Guide_ by Alcott
+    - _A Brave New World_ by Huxley
+    - _Blink_ by Gladwell
+    - _The Rise of Theodore Roosevelt_ by Morris
+    - _A Brief History of Time_ by Hawking
+    - _Steps to Christ_ by White
+    - _Batman: The Killing Joke_ by Moore
+    - _The God Delusion_ by Dawkins
+    - _Rules of Civility_ by Washington
+    - _The Perks of Being a Wall Flawer_ by Chbosky
+    - _The Art of War_ by Sun Tzu
+    - _Twilight_ by Meyers
+    - _Harry Potter and the Sorcerer's Stone_ by Rowling
+    - _King, Warrior, Magician, Lover_ by Moore and Gillette
+    - _There is a God_ by Flew
+    - _Drive_ by Pink
+    - _The Book of Five Rings_ by Musashi
+    - _The Problems of Philosophy_ by Russell
+    - _The Tao of Jeet Kune Do_ by Lee
+    - _Outliers_ by Gladwell
+    - _Reasons for God_ by Keller
+    - _The Art of Getting Things Done_ by David Allen
+    - _The Shape of Design_ by Chimero
+    - _Increasing Personal Efficiency_ by Conwell
+    - _Chaos_ by Gleick
+    - _Anthem_ by Rand
+    - _Consider the Lobster_ by Wallace
+    - _The Alpha Male Guide_ by Beck
+    - _What the Dog Saw_ by Gladwell
+    - _Freakonomics_ by Levitt and Dubner
+    - _The Hunger Games_ by Suzanne Collins

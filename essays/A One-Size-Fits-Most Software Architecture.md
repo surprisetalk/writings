@@ -58,6 +58,8 @@ Constrain everything. Throw errors if values across your system don't match up. 
 
 There should be no conflicting values in your model. For instance, choose firstname/lastname or fullname. There should be no means for a user to define firstname/lastname _and_ fullname. Everything in your system will be "calculated" elsewhere. Only define the minimal state necessary.
 
+You will feel tempted to separate things into "users" and "transactions" from the beginning, but _watch out_ for clumping! Think of your entire state/model/database as one, coherent body of data.
+
 ## Step 3: Like & Subscribe
 
 Now we need to get data from the storage to the interface. Subscription-based models are really nice, but `GET` requests work just as well.
@@ -65,6 +67,8 @@ Now we need to get data from the storage to the interface. Subscription-based mo
 The point is, we need data from the database. As a rule-of-thumb, organize the queries by _page_ rather than by _object_. The interface doesn't need a _user_, it wants _profile_ or _settings_. Let SQL and the server do all the joins and merging and data-structure stuff. The interface should expect its data completely formatted (with few exceptions). Most applications will only need 5-15 of these queries. And each of these queries should need around 1-5 parameters. If you say "that's impossible!", then you likely built your system incredibly wrong.
 
 PostgreSQL `VIEW`s are really nice for this kind of thing! You can store a query, and PostgreSQL will cache the results and let you compose it in other commands throughout your database. Each `VIEW` should roughly correspond to one `GET` query.
+
+Resist the urge to group things by "users" or "transactions". Group things by _usage_ rather than _meaning_.
 
 ## Step 4: Do Something
 

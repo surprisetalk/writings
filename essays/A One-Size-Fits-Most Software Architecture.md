@@ -33,6 +33,15 @@ interface         state
     ·------ read ←-------·
 ```
 
+```
+    ·-→ PUT/POST/PATCH --·
+    |                    |
+    |                    ↓
+ client                server
+    ↑                    |
+    |                    |
+    ·------- GET ←-------·
+```
 
 ## Step 1: Feel it Out
 

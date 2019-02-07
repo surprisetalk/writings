@@ -1,0 +1,845 @@
+# Music
+
+- ⚬⚬⚬⚬★ :: Bad
+- ⚬⚬⚬★★ :: Fair
+- ⚬⚬★★★ :: Good
+- ⚬★★★★ :: Great
+- ★★★★★ :: Masterpiece
+
+
+## Mixes
+
+Coming soon!
+
+
+## Albums
+
+- ⚬⚬⚬⚬⚬ | Devics :: _Push the Heart_
+- ⚬⚬⚬⚬⚬ | Tigran Hamasyan :: _Mockroot_
+- ⚬⚬⚬⚬⚬ | Khruangbin :: _The Universe Smiles Upon You_
+- ⚬⚬⚬⚬⚬ | Eat Your Heart Out :: _Mind Games_
+- ⚬⚬⚬⚬⚬ | Bobby Tank :: _The Way_
+- ⚬⚬⚬⚬⚬ | Orchards :: _Peggy_
+- ⚬⚬⚬⚬⚬ | Kimbra :: _Primal Heart_
+- ⚬⚬⚬⚬⚬ | Dance Gavin Dance :: _Artificial Selection_
+- ⚬⚬⚬⚬⚬ | Disasterpeace & David Peacock :: _Disasters for Piano_
+- ⚬★★★★ | GoGo Penguin :: _v2.0_
+- ⚬★★★★ | GoGo Penguin :: _A Humdrum Star_
+- ⚬⚬⚬⚬⚬ | Jean Jean :: _Froidepierre_
+- ⚬⚬⚬⚬⚬ | KNOWER :: _Think Thoughts_
+- ⚬⚬⚬⚬⚬ | KNOWER :: _Let Go_
+- ⚬⚬⚬⚬⚬ | KNOWER :: _Life_
+- ⚬⚬⚬⚬⚬ | POLIÇA & s t a r g a z e :: _Music for the Long Emergency_
+- ⚬⚬⚬⚬⚬ | Other Men :: _Wake Up Swimming_
+- ⚬⚬⚬⚬⚬ | Charly Bliss :: _Guppy_
+- ⚬⚬⚬⚬⚬ | Disco Inferno :: _D.I. Go Pop_
+- ⚬⚬⚬⚬⚬ | Yndi Halda :: _Enjoy Eternal Bliss_
+- ⚬⚬⚬⚬⚬ | Tortoise :: _TNT_
+- ⚬⚬⚬⚬⚬ | Tortoise :: _Millions Now Living Will Never Die_
+- ⚬⚬⚬⚬⚬ | Slint :: _Spiderland_
+- ⚬⚬⚬⚬⚬ | Charli XCX :: _Number 1 Angel_
+- ⚬⚬⚬⚬⚬ | Charli XCX :: _Pop 2_
+- ⚬⚬⚬⚬⚬ | Kurt Travis :: _Everything Is Beautiful_
+- ⚬⚬⚬⚬⚬ | Kurt Travis :: _Kurt Travis_
+- ⚬⚬⚬⚬⚬ | Ben Rosett & Eternity Forever :: _Lovespell_
+- ⚬⚬⚬⚬⚬ | Ben Rosett & Eternity Forever :: _Cherry Blossom_
+- ⚬⚬⚬⚬⚬ | Eternity Forever & Ben Rosett :: _Unmixed. Unmastered._
+- ⚬⚬⚬⚬⚬ | Eternity Forever :: _Fantasy EP_
+- ⚬⚬⚬⚬⚬ | Push over :: _Demo EP_
+- ⚬⚬⚬⚬⚬ | Diplo :: _F10RIDA_
+- ⚬⚬⚬⚬⚬ | Archaeologist :: _Odysseys_
+- ⚬⚬⚬⚬⚬ | Jefferson Airplane :: _Surrealistic Pillow_
+- ⚬⚬⚬⚬⚬ | Various Artists :: _Furi (Original Game Soundtrack)_
+- ★★★★★ | Mew :: _Frengers_
+- ⚬⚬⚬⚬⚬ | GFOTY :: _GFOTYBUCKS_
+- ⚬⚬⚬⚬⚬ | Lydia Ainsworth :: _Darling of the Afterglow_
+- ⚬⚬⚬⚬⚬ | Lydia Ainsworth :: _Right from Real_
+- ⚬⚬⚬⚬⚬ | Ullika :: _My Miracle_
+- ⚬⚬⚬⚬⚬ | Ujico* :: _WonderWorld_
+- ⚬⚬⚬⚬⚬ | Snarky Puppy :: _We Like It Here_
+- ⚬⚬⚬⚬⚬ | Jóhann Jóhannsson :: _Arrival (Original Motion Picture Soundtrack)_
+- ⚬⚬⚬⚬⚬ | The Weepies :: _Hideaway_
+- ★★★★★ | Rustie :: _Glass Swords_
+- ⚬⚬⚬⚬⚬ | August Burns Red :: _Phantom Anthem_
+- ⚬⚬⚬⚬⚬ | Circa Survive :: _The Amulet_
+- ★★★★★ | Iglooghost :: _Neō Wax Bloom_
+- ⚬⚬⚬⚬⚬ | Iglooghost :: _Chinese Nü Yr_
+- ⚬⚬⚬⚬⚬ | WagakkiBand :: _Yasouemaki_
+- ⚬⚬⚬⚬⚬ | WagakkiBand :: _八奏絵巻_
+- ⚬⚬⚬⚬⚬ | WagakkiBand :: _四季彩-shikisai-_
+- ⚬⚬⚬⚬⚬ | Vitas :: _Return home_
+- ⚬⚬⚬⚬⚬ | Vitas :: _Dedication_
+- ⚬⚬⚬⚬⚬ | Vitas :: _Philosophy of Miracle_
+- ⚬⚬⚬⚬⚬ | Glacci :: _Lifeforce_
+- ⚬⚬⚬⚬⚬ | Bonobo :: _Black Sands_
+- ★★★★★ | Todd Terje :: _It's Album Time_
+- ⚬⚬⚬⚬⚬ | Blonde Redhead :: _Fake Can Be Just as Good_
+- ⚬⚬⚬⚬⚬ | Blonde Redhead :: _23_
+- ⚬⚬⚬⚬⚬ | Blonde Redhead :: _Melody of Certain Damaged Lemons_
+- ⚬⚬⚬⚬⚬ | Blonde Redhead :: _Misery Is a Butterfly_
+- ⚬⚬⚬⚬⚬ | CHVRCHES :: _The Bones Of What You Believe_
+- ★★★★★ | Carpenter Brut :: _Trilogy_
+- ⚬⚬⚬⚬⚬ | Perturbator :: _New Model_
+- ⚬⚬⚬⚬⚬ | Chiodos :: _All's Well That Ends Well_
+- ⚬⚬⚬⚬⚬ | Chiodos :: _Illuminaudio_
+- ⚬⚬⚬⚬⚬ | Chiodos :: _Bone Palace Ballet: Grand Coda_
+- ⚬⚬⚬⚬⚬ | I Set My Friends On Fire :: _You Can't Spell Slaughter Without Laughter_
+- ⚬⚬⚬⚬⚬ | Morrissey :: _Viva Hate [Remastered]_
+- ⚬⚬⚬⚬⚬ | Österreich :: _無能_
+- ⚬⚬⚬⚬⚬ | TroyBoi :: _Left Is Right_
+- ⚬⚬⚬⚬⚬ | Supernaive :: _Dazed & Confused_
+- ⚬⚬⚬⚬⚬ | DROELOE :: _A Moment In Time_
+- ⚬⚬⚬⚬⚬ | Plini :: _Handmade Cities_
+- ⚬⚬⚬⚬⚬ | Steve Reich & POLIÇA & s t a r g a z e :: _Bruise Blood: Reimagining Steve Reich's Music for Pieces of Wood_
+- ⚬⚬⚬⚬⚬ | 더 멜로디 :: _The Melody_
+- ⚬⚬⚬⚬⚬ | Jaejoo Boys :: _유년에게_
+- ⚬⚬⚬⚬⚬ | 참깨와 솜사탕 :: _속마음_
+- ⚬⚬⚬⚬⚬ | 참깨와 솜사탕 :: _까만 방_
+- ⚬⚬⚬⚬⚬ | Lucite Tokki :: _L+_
+- ⚬⚬⚬⚬⚬ | Sentimental Scenery :: _Harp Song + Sentimentalism_
+- ⚬⚬⚬⚬⚬ | Sentimental Scenery :: _Soundscape_
+- ⚬⚬⚬⚬⚬ | Sentimental Scenery :: _There Is Nowhere Else In The World_
+- ⚬⚬⚬⚬⚬ | Sentimental Scenery :: _11 DAYS_
+- ⚬⚬⚬⚬⚬ | Casker :: _Your Songs_
+- ⚬⚬⚬⚬⚬ | Casker :: _tender_
+- ⚬⚬⚬⚬⚬ | Casker :: _여정(旅程)_
+- ⚬⚬⚬⚬⚬ | Casker :: _ground part 1_
+- ⚬⚬⚬⚬⚬ | 어른아이 :: _B Tl B Tl (비틀비틀)_
+- ⚬⚬⚬⚬⚬ | 어른아이 :: _Dandelion_
+- ⚬⚬⚬⚬⚬ | 한희정 :: _1집 너의 다큐멘트_
+- ⚬⚬⚬⚬⚬ | 한희정 :: _끈_
+- ⚬⚬⚬⚬⚬ | 한희정 :: _잔혹한 여행 -EP_
+- ⚬⚬⚬⚬⚬ | 한희정 :: _NOTATE_
+- ⚬⚬⚬⚬⚬ | 도나웨일 :: _Dive To Blue_
+- ⚬⚬⚬⚬⚬ | 도나웨일 :: _Donawhale_
+- ⚬⚬⚬⚬⚬ | Snarky Puppy :: _the only constant_
+- ⚬⚬⚬⚬⚬ | Snarky Puppy :: _The World is Getting Smaller_
+- ⚬⚬⚬⚬⚬ | Snarky Puppy :: _Bring Us The Bright_
+- ⚬⚬⚬⚬⚬ | Snarky Puppy :: _GroundUP_
+- ⚬⚬⚬⚬⚬ | Snarky Puppy & Metropole Orkest :: _Sylva_
+- ⚬⚬⚬⚬⚬ | Snarky Puppy :: _Family Dinner, Vol. 2_
+- ⚬⚬⚬⚬⚬ | Snarky Puppy :: _Culcha Vulcha_
+- ⚬⚬⚬⚬⚬ | Flap Jack :: _Odd Fart_
+- ⚬⚬⚬⚬⚬ | Richard Dawson :: _Peasant_
+- ⚬⚬⚬⚬⚬ | Tyler, The Creator :: _Flower Boy_
+- ⚬⚬⚬⚬⚬ | Pink Floyd :: _The Dark Side of the Moon_
+- ⚬⚬⚬⚬⚬ | Pink Floyd :: _Wish You Were Here_
+- ⚬⚬⚬⚬⚬ | Pink Floyd :: _The Wall_
+- ⚬⚬⚬⚬⚬ | Manchester Orchestra :: _A Black Mile To The Surface_
+- ⚬⚬⚬⚬⚬ | Deas Vail :: _Birds & Cages_
+- ⚬⚬⚬⚬⚬ | Eisley :: _I'm Only Dreaming_
+- ⚬⚬⚬⚬⚬ | Alexisonfire :: _Crisis_
+- ⚬⚬⚬⚬⚬ | Covet :: _Covet on Audiotree Live_
+- ⚬⚬⚬⚬⚬ | In Love With a Ghost :: _Let's Go_
+- ⚬⚬⚬⚬⚬ | Mura Masa :: _Mura Masa_
+- ⚬⚬⚬⚬⚬ | Mura Masa :: _Soundtrack to a Death_
+- ⚬⚬⚬⚬⚬ | Mura Masa :: _Someday Somewhere_
+- ⚬⚬⚬⚬⚬ | Scale The Summit :: _V_
+- ⚬⚬⚬⚬⚬ | Scale The Summit :: _In a World of Fear_
+- ⚬⚬⚬⚬⚬ | Sinjin Hawke :: _First Opus_
+- ⚬⚬⚬⚬⚬ | King Gizzard & The Lizard Wizard :: _Flying Microtonal Banana_
+- ⚬⚬⚬⚬⚬ | Feist :: _Pleasure_
+- ⚬⚬⚬⚬⚬ | Kirin J Callinan :: _Bravado_
+- ⚬⚬⚬⚬⚬ | The Mountain Goats :: _Goths_
+- ⚬⚬⚬⚬⚬ | Fleet Foxes :: _Crack-Up_
+- ⚬⚬⚬⚬⚬ | Snail's House :: _Ordinary Songs 3_
+- ⚬⚬⚬⚬⚬ | Snail's House :: _Ordinary Songs_
+- ⚬⚬⚬⚬⚬ | Snail's House :: _Ordinary Songs 2_
+- ⚬⚬⚬⚬⚬ | Elder :: _Reflections of a Floating World_
+- ⚬⚬⚬⚬⚬ | Groundislava :: _Groundislava_
+- ⚬⚬⚬⚬⚬ | Groundislava :: _Endless Voyage_
+- ⚬⚬⚬⚬⚬ | Mesita :: _Mall Music EP_
+- ⚬⚬⚬⚬⚬ | Nite Jewel :: _Real High_
+- ⚬⚬⚬⚬⚬ | BRNFKD :: _BRNFKD_
+- ⚬⚬⚬⚬⚬ | The Dears :: _No Cities Left_
+- ⚬⚬⚬⚬⚬ | Petrie :: _Slurs_
+- ⚬⚬⚬⚬⚬ | Emily Haines & The Soft Skeleton :: _What Is Free To A Good Home?_
+- ⚬⚬⚬⚬⚬ | Emily Haines & The Soft Skeleton :: _Knives Don't Have Your Back_
+- ⚬⚬⚬⚬⚬ | Chon :: _Homey_
+- ⚬⚬⚬⚬⚬ | Owane :: _Dunno_
+- ⚬⚬⚬⚬⚬ | Tess Parks :: _Blood Hot_
+- ⚬⚬⚬⚬⚬ | Tommy '86 :: _Frequency Modulations_
+- ⚬⚬⚬⚬⚬ | Tommy '86 :: _Disco Machine_
+- ⚬⚬⚬⚬⚬ | Tommy '86 :: _Transhumanism_
+- ⚬⚬⚬⚬⚬ | Vector Hold :: _Night Marauder_
+- ⚬⚬⚬⚬⚬ | Waveshaper :: _Retro Future_
+- ⚬⚬⚬⚬⚬ | Waveshaper :: _Exploration 84_
+- ⚬⚬⚬⚬⚬ | Waveshaper :: _Station Nova_
+- ⚬⚬⚬⚬⚬ | Timecop1983 :: _Running in the Dark_
+- ⚬⚬⚬⚬⚬ | Daniel Deluxe :: _Corruptor_
+- ⚬⚬⚬⚬⚬ | OGRE Sound :: _Calico Noir_
+- ⚬⚬⚬⚬⚬ | OGRE Sound :: _195_
+- ⚬⚬⚬⚬⚬ | Mew :: _Visuals_
+- ⚬⚬⚬⚬⚬ | Stwo :: _D.T.S.N.T. EP_
+- ⚬⚬⚬⚬⚬ | Jacob Collier :: _In My Room_
+- ⚬⚬⚬⚬⚬ | No Vacation :: _Amo XO_
+- ⚬⚬⚬⚬⚬ | Tuff City Kids :: _Adoldesscent_
+- ⚬⚬⚬⚬⚬ | Susanne Sundfør :: _Take One_
+- ⚬⚬⚬⚬⚬ | Susanne Sundfør :: _The Brothel_
+- ⚬⚬⚬⚬⚬ | Susanne Sundfør :: _The Silicone Veil_
+- ⚬⚬⚬⚬⚬ | Susanne Sundfør :: _A Night At Salle Pleyel_
+- ⚬⚬⚬⚬⚬ | Susanne Sundfør :: _Ten Love Songs_
+- ⚬⚬⚬⚬⚬ | Motion City Soundtrack :: _I Am The Movie_
+- ⚬⚬⚬⚬⚬ | Motion City Soundtrack :: _Commit This To Memory_
+- ⚬⚬⚬⚬⚬ | Michelle Branch :: _Hotel Paper (U.S. Version-Enh'd)_
+- ⚬⚬⚬⚬⚬ | Michelle Branch :: _The Spirit Room (U.S. Version)_
+- ⚬⚬⚬⚬⚬ | Hammock :: _An Introduction to Hammock, Vol. 2_
+- ⚬⚬⚬⚬⚬ | Hammock :: _The Sleepover Series, Vol. 2 (Bonus Track Version)_
+- ⚬⚬⚬⚬⚬ | Hammock :: _The Sleepover Series, Vol. 1_
+- ⚬⚬⚬⚬⚬ | Hammock :: _Kenotic_
+- ⚬⚬⚬⚬⚬ | Hammock :: _Raising Your Voice...Trying to Stop an Echo_
+- ⚬⚬⚬⚬⚬ | Hammock :: _Maybe They Will Sing for Us Tomorrow_
+- ⚬⚬⚬⚬⚬ | Hammock :: _Chasing After Shadows...Living with the Ghosts_
+- ⚬⚬⚬⚬⚬ | Hammock :: _Departure Songs_
+- ⚬⚬⚬⚬⚬ | Hammock :: _Oblivion Hymns_
+- ⚬⚬⚬⚬⚬ | Hammock :: _An Introduction to Hammock_
+- ⚬⚬⚬⚬⚬ | Hammock :: _Everything and Nothing_
+- ⚬⚬⚬⚬⚬ | Jamie Cullum :: _Pointless Nostalgic_
+- ⚬⚬⚬⚬⚬ | Jamie Cullum :: _Catching Tales_
+- ⚬⚬⚬⚬⚬ | Jamie Cullum :: _Twentysomething_
+- ⚬⚬⚬⚬⚬ | Jamie Cullum :: _The Pursuit_
+- ⚬⚬⚬⚬⚬ | Jamie Cullum :: _Devil May Care_
+- ⚬⚬⚬⚬⚬ | Jamie Cullum :: _Momentum_
+- ⚬⚬⚬⚬⚬ | Jamie Cullum :: _Interlude_
+- ⚬⚬⚬⚬⚬ | Sixpence None The Richer :: _Divine Discontent_
+- ⚬⚬⚬⚬⚬ | Sixpence None The Richer :: _Sixpence None the Richer_
+- ⚬⚬⚬⚬⚬ | Sixpence None The Richer :: _This Beautiful Mess_
+- ⚬⚬⚬⚬⚬ | Sixpence None The Richer :: _The Fatherless & The Widow_
+- ⚬⚬⚬⚬⚬ | I See Stars :: _3-D_
+- ⚬⚬⚬⚬⚬ | I See Stars :: _The End Of The World Party_
+- ⚬⚬⚬⚬⚬ | I See Stars :: _Digital Renegade_
+- ⚬⚬⚬⚬⚬ | I See Stars :: _Renegades Forever_
+- ⚬⚬⚬⚬⚬ | I See Stars :: _Treehouse_
+- ⚬⚬⚬⚬⚬ | Nancy Sinatra :: _Woman_
+- ⚬⚬⚬⚬⚬ | Nancy Sinatra :: _Nancy In London_
+- ⚬⚬⚬⚬⚬ | Nancy Sinatra :: _How Does That Grab You?_
+- ⚬⚬⚬⚬⚬ | Nancy Sinatra :: _Sugar_
+- ⚬⚬⚬⚬⚬ | Nancy Sinatra :: _Nancy & Lee_
+- ⚬⚬⚬⚬⚬ | Nancy Sinatra :: _Shifting Gears_
+- ⚬⚬⚬⚬⚬ | Dr. Dog :: _Easy Beat_
+- ⚬⚬⚬⚬⚬ | Dr. Dog :: _Takers and Leavers_
+- ⚬⚬⚬⚬⚬ | Dr. Dog :: _We All Belong_
+- ⚬⚬⚬⚬⚬ | Dr. Dog :: _Passed Away, Vol. 1_
+- ⚬⚬⚬⚬⚬ | Dr. Dog :: _Fate_
+- ⚬⚬⚬⚬⚬ | Dr. Dog :: _Shame, Shame_
+- ⚬⚬⚬⚬⚬ | Dr. Dog :: _Be The Void_
+- ⚬⚬⚬⚬⚬ | Dr. Dog :: _The Psychedelic Swamp_
+- ⚬⚬⚬⚬⚬ | Dr. Dog :: _Abandoned Mansion_
+- ⚬⚬⚬⚬⚬ | Never Shout Never :: _The Summer EP_
+- ⚬⚬⚬⚬⚬ | Never Shout Never :: _What Is Love?_
+- ⚬⚬⚬⚬⚬ | Never Shout Never :: _Harmony_
+- ⚬⚬⚬⚬⚬ | Never Shout Never :: _Time Travel_
+- ⚬⚬⚬⚬⚬ | Never Shout Never :: _Sunflower_
+- ⚬⚬⚬⚬⚬ | Never Shout Never :: _Recycled Youth - Volume One_
+- ⚬⚬⚬⚬⚬ | Never Shout Never :: _Black Cat_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _In The Heat Of The Night_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _Crimes Of Passion_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _Precious Time_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _Get Nervous_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _Tropico_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _Seven The Hard Way_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _Wide Awake In Dreamland_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _True Love_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _Gravity's Rainbow_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _Innamorata_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _Alive In America_
+- ⚬⚬⚬⚬⚬ | Pat Benatar :: _8-15-80_
+- ⚬⚬⚬⚬⚬ | Good Old War :: _Only Way To Be Alone_
+- ⚬⚬⚬⚬⚬ | Good Old War :: _Good Old War_
+- ⚬⚬⚬⚬⚬ | Good Old War :: _Come Back As Rain_
+- ⚬⚬⚬⚬⚬ | Good Old War :: _Broken into Better Shape_
+- ⚬⚬⚬⚬⚬ | Mount Eerie :: _A Crow Looked at Me_
+- ⚬⚬⚬⚬⚬ | Cartel :: _Collider_
+- ⚬⚬⚬⚬⚬ | The Academy Is... :: _Almost Here_
+- ⚬⚬⚬⚬⚬ | The Academy Is... :: _Santi_
+- ⚬⚬⚬⚬⚬ | The Academy Is... :: _Fast Times At Barrington High_
+- ⚬⚬⚬⚬⚬ | Cartel :: _Chroma_
+- ⚬⚬⚬⚬⚬ | Cartel :: _Cartel_
+- ⚬⚬⚬⚬⚬ | Cartel :: _Cycles_
+- ⚬⚬⚬⚬⚬ | Pinback :: _Pinback_
+- ⚬⚬⚬⚬⚬ | Pinback :: _Blue Screen Life_
+- ⚬⚬⚬⚬⚬ | Pinback :: _Summer in Abaddon_
+- ⚬⚬⚬⚬⚬ | Pinback :: _Nautical Antiques_
+- ⚬⚬⚬⚬⚬ | Pinback :: _Autumn of the Seraphs_
+- ⚬⚬⚬⚬⚬ | Pinback :: _Information Retrieved_
+- ⚬⚬⚬⚬⚬ | Pinback :: _Some Offcell Voices_
+- ⚬⚬⚬⚬⚬ | Huey Lewis & The News :: _Huey Lewis & The News_
+- ⚬⚬⚬⚬⚬ | Huey Lewis & The News :: _Hard At Play_
+- ⚬⚬⚬⚬⚬ | Huey Lewis & The News :: _Fore!_
+- ⚬⚬⚬⚬⚬ | Huey Lewis & The News :: _Picture This_
+- ⚬⚬⚬⚬⚬ | Huey Lewis & The News :: _Sports_
+- ⚬⚬⚬⚬⚬ | Flyleaf :: _Flyleaf (Re-Release)_
+- ⚬⚬⚬⚬⚬ | Foxes :: _Glorious_
+- ⚬⚬⚬⚬⚬ | Foxes :: _All I Need (Deluxe Version)_
+- ⚬⚬⚬⚬⚬ | Relient K :: _Relient K_
+- ⚬⚬⚬⚬⚬ | Relient K :: _The Anatomy of the Tongue In Cheek_
+- ⚬⚬⚬⚬⚬ | Relient K :: _Two Lefts Don't Make a Right...But Three Do (Gold Edition)_
+- ⚬⚬⚬⚬⚬ | Relient K :: _Mmhmm_
+- ⚬⚬⚬⚬⚬ | Relient K :: _Apathetic EP_
+- ⚬⚬⚬⚬⚬ | Relient K :: _Five Score and Seven Years Ago_
+- ⚬⚬⚬⚬⚬ | Relient K :: _The Bird And The Bee Sides_
+- ⚬⚬⚬⚬⚬ | Relient K :: _Forget And Not Slow Down_
+- ⚬⚬⚬⚬⚬ | Relient K :: _Is for Karaoke_
+- ⚬⚬⚬⚬⚬ | Relient K :: _Collapsible Lung_
+- ⚬⚬⚬⚬⚬ | Relient K :: _Air for Free_
+- ⚬⚬⚬⚬⚬ | The Red Jumpsuit Apparatus :: _Don't You Fake It_
+- ⚬⚬⚬⚬⚬ | Blue Öyster Cult :: _Agents Of Fortune_
+- ⚬⚬⚬⚬⚬ | Wet :: _Don't You_
+- ⚬⚬⚬⚬⚬ | Vera Blue :: _Fingertips_
+- ⚬⚬⚬⚬⚬ | Låpsley :: _Long Way Home_
+- ⚬⚬⚬⚬⚬ | Aphex Twin :: _Selected Ambient Works 85-92_
+- ⚬⚬⚬⚬⚬ | Aphex Twin :: _I Care Because You Do_
+- ⚬⚬⚬⚬⚬ | Aphex Twin :: _Ventolin EP_
+- ⚬⚬⚬⚬⚬ | Aphex Twin :: _Richard D. James Album_
+- ⚬⚬⚬⚬⚬ | Aphex Twin :: _Come To Daddy_
+- ⚬⚬⚬⚬⚬ | Aphex Twin :: _Drukqs_
+- ⚬⚬⚬⚬⚬ | Aphex Twin :: _Classics_
+- ⚬⚬⚬⚬⚬ | Kings of Convenience :: _Versus_
+- ⚬⚬⚬⚬⚬ | Kings of Convenience :: _Quiet Is The New Loud_
+- ⚬⚬⚬⚬⚬ | Kings of Convenience :: _Riot On An Empty Street_
+- ⚬⚬⚬⚬⚬ | Kings of Convenience :: _Declaration Of Dependence_
+- ⚬⚬⚬⚬⚬ | Lights :: _The Listening_
+- ⚬⚬⚬⚬⚬ | Lights :: _Siberia_
+- ⚬⚬⚬⚬⚬ | Lights :: _Little Machines_
+- ⚬⚬⚬⚬⚬ | Lights :: _Midnight Machines_
+- ⚬⚬⚬⚬⚬ | Christine and the Queens :: _Christine And The Queens_
+- ⚬⚬⚬⚬⚬ | Röyksopp :: _Melody AM_
+- ⚬⚬⚬⚬⚬ | Röyksopp :: _The Understanding_
+- ⚬⚬⚬⚬⚬ | Röyksopp :: _Röyksopp's Night Out_
+- ⚬⚬⚬⚬⚬ | Röyksopp :: _Junior_
+- ⚬⚬⚬⚬⚬ | Röyksopp :: _Senior_
+- ⚬⚬⚬⚬⚬ | Röyksopp :: _The Inevitable End_
+- ⚬⚬⚬⚬⚬ | Bright Eyes :: _I'm Wide Awake, It's Morning_
+- ⚬⚬⚬⚬⚬ | Yeah Yeah Yeahs :: _Fever To Tell_
+- ⚬⚬⚬⚬⚬ | Yeah Yeah Yeahs :: _Show Your Bones_
+- ⚬⚬⚬⚬⚬ | Yeah Yeah Yeahs :: _It's Blitz!_
+- ⚬⚬⚬⚬⚬ | Yeah Yeah Yeahs :: _Fever To Tell (EX)/Show Your Bones_
+- ⚬⚬⚬⚬⚬ | Yeah Yeah Yeahs :: _Mosquito_
+- ⚬⚬⚬⚬⚬ | Rush :: _Permanent Waves_
+- ⚬⚬⚬⚬⚬ | Rush :: _Exit ... Stage Left_
+- ⚬⚬⚬⚬⚬ | Rush :: _Signals_
+- ⚬⚬⚬⚬⚬ | Rush :: _Grace Under Pressure_
+- ⚬⚬⚬⚬⚬ | Rush :: _Power Windows_
+- ⚬⚬⚬⚬⚬ | Rush :: _Hold Your Fire_
+- ⚬⚬⚬⚬⚬ | Rush :: _A Show Of Hands_
+- ⚬⚬⚬⚬⚬ | Rush :: _Presto (Re-Issue)_
+- ⚬⚬⚬⚬⚬ | Rush :: _Roll The Bones (Re-Issue)_
+- ⚬⚬⚬⚬⚬ | Rush :: _Counterparts (Re-Issue)_
+- ⚬⚬⚬⚬⚬ | Rush :: _Test For Echo_
+- ⚬⚬⚬⚬⚬ | Rush :: _Snakes & Arrows_
+- ⚬⚬⚬⚬⚬ | Rush :: _Clockwork Angels_
+- ⚬⚬⚬⚬⚬ | Yuna :: _Chapters (Deluxe)_
+- ⚬⚬⚬⚬⚬ | Yuna :: _Nocturnal_
+- ⚬⚬⚬⚬⚬ | Yuna :: _Yuna_
+- ⚬⚬⚬⚬⚬ | We The Kings :: _We The Kings_
+- ⚬⚬⚬⚬⚬ | Gotye :: _Making Mirrors_
+- ⚬⚬⚬⚬⚬ | Eurythmics :: _In The Garden_
+- ⚬⚬⚬⚬⚬ | Eurythmics :: _Touch (Reissue - Deluxe Edition)_
+- ⚬⚬⚬⚬⚬ | Eurythmics :: _Be Yourself Tonight_
+- ⚬⚬⚬⚬⚬ | Eurythmics :: _Revenge_
+- ⚬⚬⚬⚬⚬ | Eurythmics :: _Savage_
+- ⚬⚬⚬⚬⚬ | Eurythmics :: _We Too Are One_
+- ⚬⚬⚬⚬⚬ | Eurythmics :: _Peace_
+- ⚬⚬⚬⚬⚬ | Third Eye Blind :: _Third Eye Blind_
+- ⚬⚬⚬⚬⚬ | Third Eye Blind :: _Blue_
+- ⚬⚬⚬⚬⚬ | Third Eye Blind :: _Out Of The Vein_
+- ⚬⚬⚬⚬⚬ | Third Eye Blind :: _Ursa Major_
+- ⚬⚬⚬⚬⚬ | Third Eye Blind :: _Dopamine_
+- ⚬⚬⚬⚬⚬ | Third Eye Blind :: _We Are Drugs_
+- ⚬⚬⚬⚬⚬ | Matchbox Twenty :: _Yourself Or Someone Like You_
+- ⚬⚬⚬⚬⚬ | Matchbox Twenty :: _Mad Season_
+- ⚬⚬⚬⚬⚬ | Matchbox Twenty :: _More Than You Think You Are_
+- ⚬⚬⚬⚬⚬ | Matchbox Twenty :: _Exile On Mainstream_
+- ⚬⚬⚬⚬⚬ | Matchbox Twenty :: _North_
+- ⚬⚬⚬⚬⚬ | Tears For Fears :: _Songs From The Big Chair_
+- ⚬⚬⚬⚬⚬ | Cyndi Lauper :: _She's So Unusual_
+- ⚬⚬⚬⚬⚬ | Cyndi Lauper :: _The Body Acoustic_
+- ⚬⚬⚬⚬⚬ | Cyndi Lauper :: _Bring Ya To The Brink_
+- ⚬⚬⚬⚬⚬ | Cyndi Lauper :: _She's So Unusual - Spotify Commentary_
+- ⚬⚬⚬⚬⚬ | Death Cab for Cutie :: _You Can Play These Songs With Chords_
+- ⚬⚬⚬⚬⚬ | Death Cab for Cutie :: _Transatlanticism_
+- ⚬⚬⚬⚬⚬ | Death Cab for Cutie :: _Plans_
+- ⚬⚬⚬⚬⚬ | Death Cab for Cutie :: _Narrow Stairs_
+- ⚬⚬⚬⚬⚬ | Death Cab for Cutie :: _Codes and Keys_
+- ⚬⚬⚬⚬⚬ | Death Cab for Cutie :: _Kintsugi_
+- ⚬⚬⚬⚬⚬ | Simon & Garfunkel :: _Parsley, Sage, Rosemary And Thyme_
+- ⚬⚬⚬⚬⚬ | Simon & Garfunkel :: _Sounds Of Silence_
+- ⚬⚬⚬⚬⚬ | Simon & Garfunkel :: _Bookends_
+- ⚬⚬⚬⚬⚬ | Simon & Garfunkel :: _Bridge Over Troubled Water_
+- ⚬⚬⚬⚬⚬ | From Indian Lakes :: _Absent Sounds Remixed Sounds_
+- ⚬⚬⚬⚬⚬ | Lunar Dunes :: _Galaxsea_
+- ⚬⚬⚬⚬⚬ | Perturbator :: _Terror 404_
+- ⚬⚬⚬⚬⚬ | Perturbator :: _I Am the Night_
+- ⚬⚬⚬⚬⚬ | Perturbator :: _Nocturne City_
+- ⚬⚬⚬⚬⚬ | Perturbator :: _Dangerous Days_
+- ⚬⚬⚬⚬⚬ | Perturbator :: _The Uncanny Valley_
+- ⚬⚬⚬⚬⚬ | Tennyson :: _Like What - EP_
+- ⚬⚬⚬⚬⚬ | S U R V I V E :: _Mnq026_
+- ⚬⚬⚬⚬⚬ | S U R V I V E :: _RR7349_
+- ⚬⚬⚬⚬⚬ | Dream Girl :: _Dream Girl_
+- ⚬⚬⚬⚬⚬ | Dreamgirl :: _Illuminaughty - EP_
+- ⚬⚬⚬⚬⚬ | Björk :: _Vulnicura Strings (Vulnicura: The Acoustic Version - Strings , Voice and Viola Organista Only)_
+- ⚬⚬⚬⚬⚬ | Chon :: _Grow_
+- ⚬⚬⚬⚬⚬ | Keenhouse :: _A Future Past_
+- ⚬⚬⚬⚬⚬ | Keenhouse :: _A Future Past (Remixed)_
+- ⚬⚬⚬⚬⚬ | Tides Of Man :: _Dreamhouse_
+- ⚬⚬⚬⚬⚬ | Tides Of Man :: _Empire Theory_
+- ⚬⚬⚬⚬⚬ | Sky Eats Airplane :: _Sky Eats Airplane_
+- ⚬⚬⚬⚬⚬ | The Milk Carton Kids :: _Prologue_
+- ⚬⚬⚬⚬⚬ | Sampha :: _Process_
+- ⚬⚬⚬⚬⚬ | Moon Bounce :: _Wheelhouse EP_
+- ⚬⚬⚬⚬⚬ | Moon Bounce :: _Drugs - Single_
+- ⚬⚬⚬⚬⚬ | Punch Brothers :: _Punch_
+- ⚬⚬⚬⚬⚬ | Vasudeva :: _Life in Cycles_
+- ⚬⚬⚬⚬⚬ | Dance Gavin Dance :: _Downtown Battle Mountain_
+- ⚬⚬⚬⚬⚬ | sleepmakeswaves :: _sleepmakeswaves_
+- ⚬⚬⚬⚬⚬ | sleepmakeswaves :: _...And so We Destroyed Everything_
+- ⚬⚬⚬⚬⚬ | sleepmakeswaves :: _Love Of Cartography_
+- ⚬⚬⚬⚬⚬ | Palm :: _Trading Basics_
+- ⚬⚬⚬⚬⚬ | Oathbreaker :: _Rheia_
+- ⚬⚬⚬⚬⚬ | Heather Woods Broderick :: _Glider_
+- ⚬⚬⚬⚬⚬ | Heather Woods Broderick :: _From The Ground_
+- ⚬⚬⚬⚬⚬ | Danny Brown :: _Old_
+- ⚬⚬⚬⚬⚬ | Danny Brown :: _XXX_
+- ⚬⚬⚬⚬⚬ | Danny Brown :: _Atrocity Exhibition_
+- ⚬⚬⚬⚬⚬ | David Bowie :: _Blackstar_
+- ⚬⚬⚬⚬⚬ | Swans :: _The Seer_
+- ⚬⚬⚬⚬⚬ | Swans :: _To Be Kind_
+- ⚬⚬⚬⚬⚬ | A Tribe Called Quest :: _We got it from Here... Thank You 4 Your service_
+- ⚬⚬⚬⚬⚬ | Frank Ocean :: _Blonde_
+- ⚬⚬⚬⚬⚬ | Car Seat Headrest :: _Teens Of Denial_
+- ⚬⚬⚬⚬⚬ | YG :: _Still Brazy (Deluxe)_
+- ⚬⚬⚬⚬⚬ | Touché Amoré :: _Stage Four_
+- ⚬⚬⚬⚬⚬ | Crying :: _Beyond the Fleeting Gales_
+- ⚬⚬⚬⚬⚬ | Matmos :: _Ultimate Care II_
+- ⚬⚬⚬⚬⚬ | King Gizzard & The Lizard Wizard :: _Nonagon Infinity_
+- ⚬⚬⚬⚬⚬ | Street Sects :: _End Position_
+- ⚬⚬⚬⚬⚬ | clipping. :: _Splendor & Misery_
+- ⚬⚬⚬⚬⚬ | Nick Cave & The Bad Seeds :: _Skeleton Tree_
+- ⚬⚬⚬⚬⚬ | Sturgill Simpson :: _A Sailor's Guide to Earth_
+- ⚬⚬⚬⚬⚬ | Preoccupations :: _Preoccupations_
+- ⚬⚬⚬⚬⚬ | Vektor :: _Terminal Redux_
+- ⚬⚬⚬⚬⚬ | Ka :: _Honor Killed the Samurai_
+- ⚬⚬⚬⚬⚬ | Metá Metá :: _MM3_
+- ⚬⚬⚬⚬⚬ | Run The Jewels :: _Run the Jewels 3_
+- ⚬⚬⚬⚬⚬ | Corey Feldman :: _Angelic 2 the Core : Angelic Funkadelic / Angelic Rockadelic_
+- ⚬⚬⚬⚬⚬ | Charli XCX :: _Vroom Vroom EP_
+- ⚬⚬⚬⚬⚬ | The Sweeplings :: _Rise & Fall_
+- ★★★★★ | Lydia :: _Illuminate_
+- ⚬⚬⚬⚬⚬ | Various Artists :: _Cloud Atlas: Original Motion Picture Soundtrack_
+- ⚬⚬⚬⚬⚬ | The Mars Volta :: _Deloused in the Comatorium_
+- ⚬⚬⚬⚬⚬ | EASYFUN :: _Easyfun - EP_
+- ⚬⚬⚬⚬⚬ | Son Lux :: _Stranger Forms_
+- ⚬★★★★ | Kanye West :: _My Beautiful Dark Twisted Fantasy_
+- ⚬⚬⚬⚬⚬ | MONO :: _You Are There_
+- ⚬⚬⚬⚬⚬ | MONO :: _For My Parents_
+- ⚬⚬⚬⚬⚬ | MONO :: _Walking Cloud and Deep Red Sky, Flag Fluttered and the Sun Shined_
+- ⚬⚬⚬⚬⚬ | MONO & World's End Girlfriend :: _Palmless Prayer / Mass Murder Refrain_
+- ⚬⚬⚬⚬⚬ | MONO :: _Gone_
+- ⚬⚬⚬⚬⚬ | MONO :: _Hymn to the Immortal Wind_
+- ⚬⚬⚬⚬⚬ | MONO :: _The Last Dawn_
+- ⚬⚬⚬⚬⚬ | MONO :: _Rays of Darkness_
+- ⚬⚬⚬⚬⚬ | MONO :: _Requiem for Hell_
+- ⚬⚬⚬⚬⚬ | Dario Marianelli & Jean-Yves Thibaudet :: _Pride and Prejudice OST (US and Canada Version)_
+- ⚬⚬⚬⚬⚬ | tide/edit :: _Foreign Languages_
+- ⚬⚬⚬⚬⚬ | tide/edit :: _Lightfoot_
+- ⚬⚬⚬⚬⚬ | BROCKHAMPTON :: _ALL-AMERICAN TRASH_
+- ⚬⚬⚬⚬⚬ | Moniker :: _Hunt for the Wilderpeople (Original Motion Picture Soundtrack)_
+- ⚬⚬⚬⚬⚬ | Swans :: _The Glowing Man_
+- ⚬⚬⚬⚬⚬ | World's End Girlfriend & Vampillia :: _在りし日の声 Voices of Days Past_
+- ⚬⚬⚬⚬⚬ | Animals As Leaders :: _The Madness Of Many_
+- ⚬⚬⚬⚬⚬ | Caspian :: _Dust And Disquiet_
+- ⚬⚬⚬⚬⚬ | This Will Destroy You :: _Another Language_
+- ⚬⚬⚬⚬⚬ | This Will Destroy You :: _Live in Reykjavik, Iceland_
+- ⚬⚬⚬⚬⚬ | This Will Destroy You :: _Tunnel Blanket_
+- ⚬⚬⚬⚬⚬ | This Will Destroy You :: _S/T_
+- ⚬⚬⚬⚬⚬ | This Will Destroy You :: _Young Mountain_
+- ⚬⚬⚬⚬⚬ | Cloudkicker :: _Beacons_
+- ⚬⚬⚬⚬⚬ | Cloudkicker :: _Let Yourself Be Huge_
+- ⚬⚬⚬⚬⚬ | Cloudkicker :: _Fade_
+- ⚬⚬⚬⚬⚬ | Cloudkicker :: _Live with Intronaut_
+- ⚬⚬⚬⚬⚬ | Cloudkicker :: _Little Histories_
+- ⚬⚬⚬⚬⚬ | Olivier Latry :: _Charles-Marie Widor: 5e & 6e Symphonies pour Orgue aux Grandes Orgues de Notre-Dame de Paris_
+- ⚬⚬⚬⚬⚬ | Enya :: _A Day Without Rain_
+- ⚬⚬⚬⚬⚬ | Cut Copy :: _Bright Like Neon Love_
+- ⚬⚬⚬⚬⚬ | Blank Banshee :: _Mega_
+- ⚬⚬⚬⚬⚬ | Infinity Shred :: _Long Distance_
+- ⚬⚬⚬⚬⚬ | Papadosio :: _Pattern Integrities_
+- ⚬⚬⚬⚬⚬ | Covet :: _Currents_
+- ⚬⚬⚬⚬⚬ | The Octopus Project :: _Hexadecagon_
+- ⚬⚬⚬⚬⚬ | Mr. Maps :: _Wire Empire_
+- ⚬⚬⚬⚬⚬ | Kero Kero Bonito :: _Intro Bonito_
+- ⚬⚬⚬⚬⚬ | Kero Kero Bonito :: _Bonito Generation_
+- ⚬⚬⚬⚬⚬ | Machinedrum :: _Human Energy_
+- ⚬⚬⚬⚬⚬ | Melanie Martinez :: _Cry Baby (Deluxe)_
+- ⚬⚬⚬⚬⚬ | The Flaming Lips :: _Yoshimi Battles The Pink Robots (U.S. Version)_
+- ⚬⚬⚬⚬⚬ | Mew :: _Mew And The Glass Handed Kites_
+- ⚬⚬⚬⚬⚬ | Mew :: _And The Glass Handed Kites_
+- ⚬⚬⚬⚬⚬ | Mew :: _No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away_
+- ⚬⚬⚬⚬⚬ | The Fall of Troy :: _Doppelganger_
+- ⚬⚬⚬⚬⚬ | The Fall of Troy :: _Phantom on the Horizon_
+- ⚬⚬⚬⚬⚬ | The Fall of Troy :: _OK#2_
+- ⚬⚬⚬⚬⚬ | Circa Survive :: _Descensus_
+- ⚬⚬⚬⚬⚬ | Scary Kids Scaring Kids :: _Scary Kids Scaring Kids_
+- ⚬⚬⚬⚬⚬ | Regina Spektor :: _Soviet Kitsch (U.S. Version)_
+- ⚬⚬⚬⚬⚬ | Regina Spektor :: _Far_
+- ⚬⚬⚬⚬⚬ | Regina Spektor :: _What We Saw From The Cheap Seats (Deluxe Version)_
+- ⚬⚬⚬⚬⚬ | Regina Spektor :: _Remember Us To Life_
+- ⚬⚬⚬⚬⚬ | Yellowcard :: _Yellowcard_
+- ⚬⚬⚬⚬⚬ | The Fall of Troy :: _OK_
+- ⚬⚬⚬⚬⚬ | Bon Iver :: _For Emma, Forever Ago_
+- ⚬⚬⚬⚬⚬ | Tycho :: _Epoch_
+- ⚬⚬⚬⚬⚬ | Lone :: _Galaxy Garden_
+- ⚬⚬⚬⚬⚬ | GoGo Penguin :: _Man Made Object (Deluxe)_
+- ⚬⚬⚬⚬⚬ | GoGo Penguin :: _Fanfares_
+- ⚬⚬⚬⚬⚬ | Chick Corea & Hiromi :: _Duet_
+- ⚬⚬⚬⚬⚬ | Hiromi :: _Place To Be_
+- ⚬⚬⚬⚬⚬ | Hiromi :: _Voice_
+- ⚬⚬⚬⚬⚬ | Hiromi :: _Move_
+- ⚬⚬⚬⚬⚬ | Hiromi :: _Alive_
+- ⚬⚬⚬⚬⚬ | Hiromi :: _Spark_
+- ⚬⚬⚬⚬⚬ | The Almost :: _Southern Weather_
+- ⚬⚬⚬⚬⚬ | The Almost :: _Monster Monster_
+- ⚬⚬⚬⚬⚬ | The Almost :: _Fear Inside Our Bones_
+- ⚬⚬⚬⚬⚬ | All Time Low :: _So Wrong, It's Right_
+- ⚬⚬⚬⚬⚬ | All Time Low :: _Future Hearts_
+- ⚬⚬⚬⚬⚬ | Yellowcard :: _Ocean Avenue_
+- ⚬⚬⚬⚬⚬ | Capital Lights :: _Rhythm 'N' Moves_
+- ⚬⚬⚬⚬⚬ | Capital Lights :: _This Is An Outrage!_
+- ⚬⚬⚬⚬⚬ | Coheed and Cambria :: _The Second Stage Turbine Blade (Re-Issue)_
+- ⚬⚬⚬⚬⚬ | Coheed and Cambria :: _In Keeping Secrets Of Silent Earth: 3_
+- ⚬⚬⚬⚬⚬ | Coheed and Cambria :: _No World For Tomorrow_
+- ⚬⚬⚬⚬⚬ | Coheed and Cambria :: _Year Of The Black Rainbow_
+- ⚬⚬⚬⚬⚬ | Coheed and Cambria :: _The Afterman (Deluxe)_
+- ⚬⚬⚬⚬⚬ | Coheed and Cambria :: _The Color Before The Sun_
+- ⚬⚬⚬⚬⚬ | A Skylit Drive :: _Wires...And The Concept Of Breathing_
+- ⚬⚬⚬⚬⚬ | A Skylit Drive :: _She Watched The Sky_
+- ⚬⚬⚬⚬⚬ | Temples :: _Certainty_
+- ⚬⚬⚬⚬⚬ | Copeland :: _Beneath Medicine Tree_
+- ⚬⚬⚬⚬⚬ | Copeland :: _In Motion_
+- ⚬⚬⚬⚬⚬ | Copeland :: _Eat, Sleep, Repeat_
+- ⚬⚬⚬⚬⚬ | Copeland :: _You Are My Sunshine_
+- ⚬⚬⚬⚬⚬ | Copeland :: _Ixora_
+- ⚬⚬⚬⚬⚬ | Copeland :: _Ixora Twin_
+- ⚬⚬⚬⚬⚬ | Anthony Green :: _Avalon_
+- ⚬⚬⚬⚬⚬ | Anthony Green :: _Beautiful Things_
+- ⚬⚬⚬⚬⚬ | Anthony Green :: _Young Legs_
+- ⚬⚬⚬⚬⚬ | Anthony Green :: _Pixie Queen_
+- ⚬⚬⚬⚬⚬ | Lydia :: _Devil_
+- ⚬⚬⚬⚬⚬ | Lydia :: _Paint It Golden_
+- ⚬⚬⚬⚬⚬ | Lydia :: _Run Wild_
+- ⚬⚬⚬⚬⚬ | Eisley :: _Defeatist_
+- ⚬⚬⚬⚬⚬ | Baby Alpaca :: _Under Water_
+- ⚬⚬⚬⚬⚬ | Shana Halligan :: _Back to Me_
+- ⚬⚬⚬⚬⚬ | Sally Shapiro :: _Elsewhere_
+- ⚬⚬⚬⚬⚬ | Aesop Rock :: _The Impossible Kid_
+- ⚬⚬⚬⚬⚬ | TTNG :: _Disappointment Island_
+- ⚬⚬⚬⚬⚬ | Grace Joyner :: _Maybe Sometimes – in C_
+- ⚬⚬⚬⚬⚬ | Ólafur Arnalds :: _Arnalds: Eulogy for Evolution_
+- ⚬⚬⚬⚬⚬ | Ólafur Arnalds :: _Found Songs_
+- ⚬⚬⚬⚬⚬ | Ólafur Arnalds :: _Dyad 1909_
+- ⚬⚬⚬⚬⚬ | Ólafur Arnalds :: _...and they have escaped the weight of darkness_
+- ⚬⚬⚬⚬⚬ | Ólafur Arnalds :: _Living Room Songs_
+- ⚬⚬⚬⚬⚬ | Ólafur Arnalds :: _For Now I Am Winter_
+- ⚬⚬⚬⚬⚬ | Ólafur Arnalds & Alice Sara Ott :: _The Chopin Project_
+- ⚬⚬⚬⚬⚬ | Ólafur Arnalds & Nils Frahm :: _Trance Frendz_
+- ⚬⚬⚬⚬⚬ | Ólafur Arnalds :: _Island Songs_
+- ⚬⚬⚬⚬⚬ | Peter McConnell :: _Grim Fandango Remastered (Original Soundtrack)_
+- ⚬⚬⚬⚬⚬ | Peter McConnell :: _Broken Age (Original Soundtrack)_
+- ⚬⚬⚬⚬⚬ | Toby Fox :: _UNDERTALE Soundtrack_
+- ⚬⚬⚬⚬⚬ | Disasterpeace :: _Level_
+- ⚬⚬⚬⚬⚬ | Disasterpeace :: _Rise of the Obsidian Interstellar_
+- ⚬⚬⚬⚬⚬ | Disasterpeace :: _Strays_
+- ⚬⚬⚬⚬⚬ | Disasterpeace :: _Monsters Ate My Birthday Cake_
+- ⚬⚬⚬⚬⚬ | Run The Jewels :: _Run the Jewels_
+- ⚬⚬⚬⚬⚬ | Run The Jewels :: _Run the Jewels 2_
+- ⚬⚬⚬⚬⚬ | Run The Jewels :: _Meow the Jewels_
+- ⚬⚬⚬⚬⚬ | Sia :: _Some People Have REAL Problems_
+- ⚬⚬⚬⚬⚬ | Sia :: _We Are Born_
+- ⚬⚬⚬⚬⚬ | Sia :: _1000 Forms Of Fear_
+- ⚬⚬⚬⚬⚬ | Sia :: _This Is Acting_
+- ⚬⚬⚬⚬⚬ | Oskar Schuster :: _Les Valses Invisibles_
+- ⚬⚬⚬⚬⚬ | Oskar Schuster :: _Tristesse Télescopique_
+- ⚬⚬⚬⚬⚬ | Oskar Schuster :: _Dear Utopia_
+- ⚬⚬⚬⚬⚬ | Oskar Schuster :: _Singur_
+- ⚬⚬⚬⚬⚬ | Oskar Schuster :: _Sneeuwland_
+- ⚬⚬⚬⚬⚬ | Ricardo Padua & Miku Hatsune :: _Electronic Heartbeat_
+- ⚬⚬⚬⚬⚬ | Earthside :: _A Dream in Static_
+- ⚬⚬⚬⚬⚬ | The Helix Nebula :: _Meridian_
+- ⚬⚬⚬⚬⚬ | Hrvrd :: _The Inevitable And I_
+- ⚬⚬⚬⚬⚬ | Swimming With Dolphins :: _Ambient Blue_
+- ⚬⚬⚬⚬⚬ | Townes Van Zandt :: _Townes Van Zandt_
+- ⚬⚬⚬⚬⚬ | Fela Kuti :: _Zombie_
+- ⚬⚬⚬⚬⚬ | Bob Marley & The Wailers :: _Exodus_
+- ⚬⚬⚬⚬⚬ | Triana :: _El patio 40 Aniversario_
+- ⚬⚬⚬⚬⚬ | Santana :: _Santana (Legacy Edition)_
+- ⚬⚬⚬⚬⚬ | Santana :: _Caravanserai_
+- ⚬⚬⚬⚬⚬ | Johnny Cash :: _American IV: The Man Comes Around_
+- ⚬⚬⚬⚬⚬ | Songs: Ohia :: _Magnolia Electric Co. (10th Anniversary Deluxe Edition)_
+- ⚬⚬⚬⚬⚬ | 16 Horsepower :: _Sackcloth 'N' Ashes_
+- ⚬⚬⚬⚬⚬ | Os Mutantes :: _Os Mutantes_
+- ⚬⚬⚬⚬⚬ | Chico Buarque :: _Construção_
+- ⚬⚬⚬⚬⚬ | João Gilberto & Stan Getz :: _Getz/Gilberto_
+- ⚬⚬⚬⚬⚬ | Milton Nascimento :: _Club Da Esquina 1_
+- ⚬⚬⚬⚬⚬ | Mew :: _Eggs Are Funny_
+- ⚬⚬⚬⚬⚬ | Mew :: _+ -_
+- ⚬⚬⚬⚬⚬ | İsmail H.Demircioğlu & Erkan Oğur :: _Gülün Kokusu Vardı_
+- ⚬⚬⚬⚬⚬ | Erkan Oğur & İsmail H.Demircioğlu :: _Anadolu Beşik_
+- ⚬⚬⚬⚬⚬ | Erkan Oğur & Derya Türkan & İlkin Deniz :: _Dokunmak_
+- ⚬⚬⚬⚬⚬ | Kocani Orkestar :: _Alone At My Wedding_
+- ⚬⚬⚬⚬⚬ | Soda Island :: _A Trip To Soda Island_
+- ⚬⚬⚬⚬⚬ | Edward Vanzet :: _Everyday_
+- ⚬⚬⚬⚬⚬ | Made in Heights :: _MADE IN HEIGHTS_
+- ⚬⚬⚬⚬⚬ | Angelo De Augustine :: _How Past Begins_
+- ⚬⚬⚬⚬⚬ | Giraffes? Giraffes! :: _SugaaaaaSpazzazazz_
+- ⚬⚬⚬⚬⚬ | Emarosa :: _131_
+- ⚬⚬⚬⚬⚬ | BADBADNOTGOOD & Ghostface Killah :: _SOUR SOUL_
+- ⚬⚬⚬⚬⚬ | BADBADNOTGOOD :: _IV_
+- ⚬⚬⚬⚬⚬ | Oneohtrix Point Never :: _R Plus Seven_
+- ⚬⚬⚬⚬⚬ | Arca :: _Stretch 2_
+- ⚬⚬⚬⚬⚬ | DJ Shadow :: _The Mountain Will Fall_
+- ⚬⚬⚬⚬⚬ | Tycho :: _Division_
+- ⚬⚬⚬⚬⚬ | Radiohead :: _A Moon Shaped Pool_
+- ⚬⚬⚬⚬⚬ | Kevin Morby :: _Singing Saw_
+- ⚬⚬⚬⚬⚬ | Marissa Nadler :: _Strangers_
+- ⚬⚬⚬⚬⚬ | Kayo Dot :: _Plastic House on Base of Sky_
+- ⚬⚬⚬⚬⚬ | Silent Planet :: _Everything Was Sound_
+- ⚬⚬⚬⚬⚬ | Gojira :: _Magma_
+- ⚬⚬⚬⚬⚬ | Dance Gavin Dance :: _Tree City Sessions_
+- ⚬⚬⚬⚬⚬ | William Basinski :: _Melancholia_
+- ⚬⚬⚬⚬⚬ | Bobby Tank :: _Afterburn EP_
+- ⚬⚬⚬⚬⚬ | Bobby Tank :: _Undone_
+- ⚬⚬⚬⚬⚬ | Bobby Tank & Godwolf :: _Paradox_
+- ⚬⚬⚬⚬⚬ | Bobby Tank :: _Vanquish_
+- ⚬⚬⚬⚬⚬ | Bobby Tank :: _The Way EP_
+- ⚬⚬⚬⚬⚬ | Thirty Seconds To Mars :: _A Beautiful Lie_
+- ⚬⚬⚬⚬⚬ | Éric Serra :: _Le cinquième élément - The Fifth Element (Original Motion Picture Soundtrack) [Remastered]_
+- ⚬⚬⚬⚬⚬ | Vangelis :: _Blade Runner (Music From The Original Soundtrack)_
+- ⚬⚬⚬⚬⚬ | Gesu No Kiwami Otome :: _Odorenainara Gesuninatte Shimaeyo_
+- ⚬⚬⚬⚬⚬ | Yndi Halda :: _Under Summer_
+- ⚬⚬⚬⚬⚬ | Niechec :: _Smierc W Miekkim Futerku_
+- ⚬⚬⚬⚬⚬ | Deakin :: _Sleep Cycle_
+- ⚬⚬⚬⚬⚬ | Death Grips :: _Bottomless Pit_
+- ⚬⚬⚬⚬⚬ | Kendrick Lamar :: _untitled unmastered._
+- ⚬⚬⚬⚬⚬ | Xiu Xiu :: _Plays the Music of Twin Peaks_
+- ⚬⚬⚬⚬⚬ | Metá Metá :: _MetaL MetaL_
+- ⚬⚬⚬⚬⚬ | Flume :: _Skin_
+- ⚬⚬⚬⚬⚬ | Tennyson :: _With You_
+- ⚬⚬⚬⚬⚬ | CFCF :: _The Colours of Life_
+- ⚬⚬⚬⚬⚬ | Saosin :: _Along The Shadow_
+- ⚬⚬⚬⚬⚬ | scntfc :: _Oxenfree_
+- ⚬⚬⚬⚬⚬ | Disasterpeace :: _Hyper Light Drifter_
+- ⚬⚬⚬⚬⚬ | Sweet Valley :: _Stay Calm_
+- ⚬⚬⚬⚬⚬ | Sweet Valley :: _Eternal Champ_
+- ⚬⚬⚬⚬⚬ | Sweet Valley :: _Jenova_
+- ★★★★★ | Son Lux :: _Lanterns_
+- ⚬⚬⚬⚬⚬ | Flybear :: _The Hook - Single_
+- ⚬⚬⚬⚬⚬ | The Jezabels :: _Synthia_
+- ⚬⚬⚬⚬⚬ | Sarah Neufeld :: _The Ridge_
+- ⚬⚬⚬⚬⚬ | Esperanza Spalding :: _Emily’s D+Evolution_
+- ⚬⚬⚬⚬⚬ | Orchards :: _Chemystery_
+- ⚬⚬⚬⚬⚬ | Orchards :: _Constantly Moving_
+- ⚬⚬⚬⚬⚬ | Johann Sebastian Bach & Glenn Gould :: _Bach: The Goldberg Variations, BWV 988 (1981) - Gould Remastered_
+- ⚬⚬⚬⚬⚬ | Caravan Palace :: _<I°_°I>_
+- ⚬⚬⚬⚬⚬ | Maximum Love :: _Midnight Astronaut_
+- ⚬⚬⚬⚬⚬ | Tomggg :: _Butter Sugar Cream_
+- ⚬⚬⚬⚬⚬ | Macross 82-99 :: _CHAM!_
+- ⚬⚬⚬⚬⚬ | Laura Stevenson :: _Cocksure_
+- ⚬⚬⚬⚬⚬ | Zu :: _Carboniferous_
+- ⚬⚬⚬⚬⚬ | Esperanza Spalding :: _Radio Music Society_
+- ⚬⚬⚬⚬⚬ | Esperanza Spalding :: _Chamber Music Society_
+- ⚬⚬⚬⚬⚬ | Esperanza Spalding :: _Esperanza_
+- ⚬⚬⚬⚬⚬ | Esperanza Spalding :: _Junjo_
+- ⚬⚬⚬⚬⚬ | Tame Impala :: _InnerSpeaker_
+- ⚬⚬⚬⚬⚬ | Tame Impala :: _Lonerism_
+- ⚬⚬⚬⚬⚬ | bôa :: _Twilight_
+- ⚬⚬⚬⚬⚬ | Com Truise :: _Galactic Melt_
+- ⚬⚬⚬⚬⚬ | Giraffage :: _No Reason_
+- ⚬⚬⚬⚬⚬ | aspidistrafly :: _A Little Fable_
+- ⚬⚬⚬⚬⚬ | Polyphia :: _Muse_
+- ⚬⚬⚬⚬⚬ | Hyperduck Soundworks :: _Penny Arcade's On the Rain-Slick Precipice Of Darkness Episode 4_
+- ⚬⚬⚬⚬⚬ | Austin Wintory :: _Transfiguration_
+- ⚬⚬⚬⚬⚬ | Basenji :: _Trackpad_
+- ⚬⚬⚬⚬⚬ | Mark Redito :: _Promise - EP_
+- ⚬⚬⚬⚬⚬ | Kaskade :: _In The Moment_
+- ⚬⚬⚬⚬⚬ | Late Night Alumni :: _Empty Streets_
+- ⚬⚬⚬⚬⚬ | BADBADNOTGOOD :: _III_
+- ⚬⚬⚬⚬⚬ | Eyeliner :: _High Fashion Mood Music_
+- ⚬⚬⚬⚬⚬ | Oneohtrix Point Never :: _Replica_
+- ⚬⚬⚬⚬⚬ | James Ferraro :: _Far Side Virtual_
+- ⚬⚬⚬⚬⚬ | Strawberry Girls :: _Italian Ghosts_
+- ⚬⚬⚬⚬⚬ | Strawberry Girls :: _French Ghetto_
+- ⚬⚬⚬⚬⚬ | Strawberry Girls :: _American Graffiti_
+- ⚬⚬⚬⚬⚬ | Poolside :: _Pacific Standard Time_
+- ⚬⚬⚬⚬⚬ | Seoul :: _I Become A Shade_
+- ⚬⚬⚬⚬⚬ | The Cranberries :: _Everybody Else Is Doing It, So Why Can't We?_
+- ⚬⚬⚬⚬⚬ | The Cranberries :: _No Need To Argue_
+- ⚬⚬⚬⚬⚬ | RAC :: _Master Spy (Original Soundtrack)_
+- ⚬⚬⚬⚬⚬ | LukHash :: _The Other Side_
+- ⚬⚬⚬⚬⚬ | Slime Girls :: _Heart On Wave_
+- ⚬⚬⚬⚬⚬ | Slime Girls :: _Yumemi / Lonely Planet Girl_
+- ⚬⚬⚬⚬⚬ | Slime Girls :: _Vacation Wasteland_
+- ⚬⚬⚬⚬⚬ | Lifeformed :: _Fastfall - Dustforce Original Soundtrack_
+- ⚬⚬⚬⚬⚬ | Empress Of :: _Me_
+- ⚬⚬⚬⚬⚬ | Oneohtrix Point Never :: _Garden Of Delete_
+- ⚬⚬⚬⚬⚬ | Rustie :: _EVENIFUDONTBELIEVE_
+- ⚬⚬⚬⚬⚬ | Foxing :: _The Albatross_
+- ⚬⚬⚬⚬⚬ | Foxing :: _Dealer_
+- ⚬⚬⚬⚬⚬ | Listener :: _Time Is a Machine_
+- ⚬⚬⚬⚬⚬ | Tall Ships :: _T=0_
+- ⚬⚬⚬⚬⚬ | Kevin Devine :: _Bubblegum_
+- ⚬⚬⚬⚬⚬ | Hop Along :: _Get Disowned_
+- ⚬⚬⚬⚬⚬ | You Slut! :: _Medium Bastard_
+- ⚬⚬⚬⚬⚬ | You Slut! :: _Critical Meat (Remastered)_
+- ⚬⚬⚬⚬⚬ | Tangled Hair :: _Two EPs_
+- ⚬⚬⚬⚬⚬ | Sleeping People :: _Growing_
+- ⚬⚬⚬⚬⚬ | The Speed of Sound in Seawater :: _First Contact_
+- ⚬⚬⚬⚬⚬ | Quadrupède :: _T O G O B a N_
+- ⚬⚬⚬⚬⚬ | Pneu :: _Highway to Health_
+- ⚬⚬⚬⚬⚬ | Pneu :: _Pince monseigneur_
+- ⚬⚬⚬⚬⚬ | The Physics House Band :: _Horizons / Rapture_
+- ⚬⚬⚬⚬⚬ | Monobody :: _Monobody_
+- ⚬⚬⚬⚬⚬ | The Littlest Viking :: _The Littlest Viking_
+- ⚬⚬⚬⚬⚬ | LITE :: _Installation_
+- ⚬⚬⚬⚬⚬ | Invalids :: _Strengths_
+- ⚬⚬⚬⚬⚬ | Giraffes? Giraffes! :: _More Skin With Milk-Mouth_
+- ⚬⚬⚬⚬⚬ | Giraffes? Giraffes! :: _Pink Magick_
+- ⚬⚬⚬⚬⚬ | Enemies :: _We've Been Talking_
+- ⚬⚬⚬⚬⚬ | Enemies :: _Embark, Embrace_
+- ⚬⚬⚬⚬⚬ | Don Caballero :: _What Burns Never Returns_
+- ⚬⚬⚬⚬⚬ | Don Caballero :: _Don Caballero 2_
+- ⚬⚬⚬⚬⚬ | Don Caballero :: _American Don_
+- ⚬⚬⚬⚬⚬ | Delta Sleep :: _Twin Galaxies_
+- ⚬⚬⚬⚬⚬ | Battles :: _Gloss Drop_
+- ⚬⚬⚬⚬⚬ | Axes :: _Axes_
+- ⚬⚬⚬⚬⚬ | Plini :: _Other Things_
+- ⚬⚬⚬⚬⚬ | The Algorithm :: _Polymorphic Code_
+- ⚬⚬⚬⚬⚬ | Cloudkicker :: _Woum_
+- ⚬⚬⚬⚬⚬ | The Safety Fire :: _Grind the Ocean_
+- ⚬⚬⚬⚬⚬ | The Safety Fire :: _Mouth of Swords_
+- ⚬⚬⚬⚬⚬ | Sithu Aye :: _Senpai - EP_
+- ⚬⚬⚬⚬⚬ | Sithu Aye :: _Cassini_
+- ⚬⚬⚬⚬⚬ | Sithu Aye :: _Isles EP_
+- ⚬⚬⚬⚬⚬ | Sithu Aye :: _Invent the Universe_
+- ⚬⚬⚬⚬⚬ | Ever Forthright :: _Ever Forthright_
+- ⚬⚬⚬⚬⚬ | Plini :: _Sweet Nothings_
+- ⚬⚬⚬⚬⚬ | Plini :: _The End of Everything_
+- ⚬⚬⚬⚬⚬ | Pomegranate Tiger :: _Entities_
+- ⚬⚬⚬⚬⚬ | Deerhunter :: _Fading Frontier_
+- ⚬⚬⚬⚬⚬ | KAUAN :: _Pirut_
+- ⚬⚬⚬⚬⚬ | KAUAN :: _Sorni Nai_
+- ⚬⚬⚬⚬⚬ | KEN Mode :: _Success_
+- ⚬⚬⚬⚬⚬ | Unknown Mortal Orchestra :: _Multi-Love_
+- ⚬⚬⚬⚬⚬ | Prurient :: _Frozen Niagara Falls_
+- ⚬⚬⚬⚬⚬ | The Mountain Goats :: _Beat the Champ_
+- ⚬⚬⚬⚬⚬ | Zs :: _Xe_
+- ⚬⚬⚬⚬⚬ | Lianne La Havas :: _Blood_
+- ⚬⚬⚬⚬⚬ | Milo :: _So the Flies Don't Come_
+- ⚬⚬⚬⚬⚬ | Protomartyr :: _Under Color of Official Right_
+- ⚬⚬⚬⚬⚬ | Corbin Butler :: _Rolling Ridge_
+- ⚬⚬⚬⚬⚬ | Say Lou Lou :: _Lucid Dreaming_
+- ⚬⚬⚬⚬⚬ | Chairlift :: _Something_
+- ⚬⚬⚬⚬⚬ | Chairlift :: _Does You Inspire You_
+- ⚬⚬⚬⚬⚬ | Pianos Become The Teeth :: _Old Pride_
+- ⚬⚬⚬⚬⚬ | Pianos Become The Teeth :: _Keep You_
+- ⚬⚬⚬⚬⚬ | Gengahr :: _Tired Eyes_
+- ⚬⚬⚬⚬⚬ | Noah Gundersen :: _Carry The Ghost_
+- ⚬⚬⚬⚬⚬ | From Indian Lakes :: _Absent Sounds_
+- ⚬⚬⚬⚬⚬ | Animal Collective :: _Merriweather Post Pavilion_
+- ⚬⚬⚬⚬⚬ | The Weepies :: _Sirens_
+- ⚬⚬⚬⚬⚬ | Vessels :: _Helioscope_
+- ⚬⚬⚬⚬⚬ | John Debney, Alan Silvestri, Royal Scottish National Orchestra :: _Back to the Future Trilogy_
+- ⚬⚬⚬⚬⚬ | Various Artists :: _Hohokum (Original Game Soundtrack)_
+- ⚬⚬⚬⚬⚬ | Disasterpeace :: _It Follows (Original Motion Picture Soundtrack)_
+- ⚬⚬⚬⚬⚬ | C418 :: _Minecraft - Volume Alpha_
+- ⚬⚬⚬⚬⚬ | Anamanaguchi :: _Endless Fantasy_
+- ⚬⚬⚬⚬⚬ | Hermitude :: _HyperParadise_
+- ⚬⚬⚬⚬⚬ | Hermitude :: _Dark Night Sweet Light_
+- ⚬⚬⚬⚬⚬ | Eskmo :: _Terra_
+- ⚬⚬⚬⚬⚬ | Eskmo :: _SOL_
+- ⚬⚬⚬⚬⚬ | Slugabed :: _Coolest_
+- ⚬⚬⚬⚬⚬ | Slugabed :: _Time Team_
+- ⚬⚬⚬⚬⚬ | Mux Mool :: _Just Saying Is All_
+- ⚬⚬⚬⚬⚬ | Mux Mool :: _Skulltaste_
+- ⚬⚬⚬⚬⚬ | Dimlite :: _Prismic Tops_
+- ⚬⚬⚬⚬⚬ | TOKiMONSTA :: _Half Shadows_
+- ⚬⚬⚬⚬⚬ | Gavin Turek & TOKiMONSTA :: _You're Invited_
+- ⚬⚬⚬⚬⚬ | Courtney Barnett :: _The Double Ep: A Sea of Split Peas_
+- ⚬⚬⚬⚬⚬ | Courtney Barnett :: _Sometimes I Sit and Think, And Sometimes I Just Sit_
+- ⚬⚬⚬⚬⚬ | The Tallest Man On Earth :: _Shallow Grave_
+- ⚬⚬⚬⚬⚬ | The Tallest Man On Earth :: _Dark Bird Is Home_
+- ⚬⚬★★★ | Chilly Gonzales :: _Chambers_
+- ⚬⚬⚬⚬⚬ | Tennyson :: _Tennyson_
+- ⚬⚬⚬⚬⚬ | George & Jonathan :: _George & Jonathan III_
+- ⚬⚬⚬⚬⚬ | Swings :: _Vintage Swings_
+- ⚬⚬⚬⚬⚬ | Primary & OHHYUK :: _Lucky You! - EP_
+- ⚬⚬⚬⚬⚬ | John Powell :: _How To Train Your Dragon (Music From The Motion Picture)_
+- ⚬⚬⚬⚬⚬ | Alexander O'Neal :: _Hearsay_
+- ⚬⚬⚬⚬⚬ | Javelin :: _No Más_
+- ⚬⚬⚬⚬⚬ | Javelin :: _Hi Beams_
+- ⚬⚬⚬⚬⚬ | Rush :: _Hemispheres_
+- ⚬⚬⚬⚬⚬ | Rush :: _Moving Pictures (2011 Remaster)_
+- ⚬⚬⚬⚬⚬ | Deerhunter :: _Halcyon Digest_
+- ⚬⚬⚬⚬⚬ | Parov Stelar :: _Coco Part 1_
+- ⚬⚬⚬⚬⚬ | Jean-Michel Jarre :: _Oxygène_
+- ⚬⚬⚬⚬⚬ | Toundra :: _(II)_
+- ⚬⚬⚬⚬⚬ | Toundra :: _III_
+- ⚬⚬⚬⚬⚬ | City and Colour :: _If I Should Go Before You_
+- ⚬⚬⚬⚬⚬ | Kyary Pamyu Pamyu :: _ぱみゅぱみゅレボリューション_
+- ⚬⚬⚬⚬⚬ | Kyary Pamyu Pamyu :: _なんだこれくしょん_
+- ⚬⚬⚬⚬⚬ | Various Artists :: _PC Music, Vol. 1_
+- ⚬⚬⚬⚬⚬ | Kyary Pamyu Pamyu :: _Pika Pika Fantajin_
+- ⚬⚬⚬⚬⚬ | Vessels :: _Dilate_
+- ⚬⚬⚬⚬⚬ | Vennart :: _The Demon Joke (NotSet)_
+- ⚬⚬⚬⚬⚬ | Agent Fresco :: _Destrier (Bonus Edition)_
+- ⚬⚬⚬⚬⚬ | Palm Reader :: _Beside the Ones We Love_
+- ⚬⚬⚬⚬⚬ | Down I Go :: _You're Lucky God, That I Cannot Reach You_
+- ⚬⚬⚬⚬⚬ | Late Night Alumni :: _Eclipse_
+- ⚬⚬⚬⚬⚬ | Sally Shapiro :: _My Guilty Pleasure_
+- ⚬⚬⚬⚬⚬ | Sally Shapiro :: _Somewhere Else_
+- ⚬⚬⚬⚬⚬ | Riverside :: _Love, Fear and the Time Machine_
+- ⚬⚬⚬⚬⚬ | Julia Holter :: _Have You In My Wilderness_
+- ⚬⚬⚬⚬⚬ | Destroyer :: _Poison Season_
+- ⚬⚬⚬⚬⚬ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
+- ⚬⚬⚬⚬⚬ | Meg Myers :: _Sorry_
+- ⚬⚬⚬⚬⚬ | Scale The Summit :: _The Collective_
+- ⚬⚬⚬⚬⚬ | Scale The Summit :: _Carving Desert Canyons_
+- ⚬⚬⚬⚬⚬ | Scale The Summit :: _Monument_
+- ⚬⚬⚬⚬⚬ | Leftover Cuties :: _Game Called Life EP_
+- ⚬⚬⚬⚬⚬ | Leftover Cuties :: _Places to Go_
+- ⚬⚬⚬⚬⚬ | Leftover Cuties :: _The Spark & the Fire_
+- ⚬⚬⚬⚬⚬ | Mystery Skulls :: _Forever_
+- ⚬⚬⚬⚬⚬ | CHVRCHES :: _Every Open Eye_
+- ⚬★★★★ | Punch Brothers :: _The Phosphorescent Blues_
+- ⚬⚬⚬⚬⚬ | The World Is A Beautiful Place & I Am No Longer Afraid To Die :: _Harmlessness_
+- ⚬⚬⚬⚬⚬ | Axes :: _Glory_
+- ⚬⚬⚬⚬⚬ | Dirty Projectors :: _Swing Lo Magellan_
+- ⚬★★★★ | Hop Along :: _Painted Shut_
+- ⚬⚬⚬⚬⚬ | By The End Of Tonight & Tera Melos :: _Complex Full Of Phantoms_
+- ⚬⚬⚬⚬⚬ | Marnie Stern :: _This Is It and I Am It and You Are It and So Is..._
+- ⚬★★★★ | Nuito :: _Unutella_
+- ⚬⚬⚬⚬⚬ | tricot :: _The_
+- ⚬⚬⚬⚬⚬ | Ólöf Arnalds :: _Vid Og Vid_
+- ⚬⚬⚬⚬⚬ | mewithoutYou :: _Pale Horses_
+- ⚬⚬⚬⚬⚬ | FKA twigs :: _M3LL155X_
+- ⚬⚬⚬⚬⚬ | Machinedrum :: _Room(s)_
+- ⚬⚬⚬⚬⚬ | Wovenhand :: _Refractory Obdurate_
+- ⚬⚬⚬⚬⚬ | Youth Novel :: _Turned Around Abruptly Beside a Mirror and Jumped at My Own Reflection_
+- ⚬⚬⚬⚬⚬ | The August :: _Lizard King_
+- ⚬⚬⚬⚬⚬ | The Evpatoria Report :: _Golevka_
+- ⚬⚬⚬⚬⚬ | Toundra :: _IV (NotSet)_
+- ⚬⚬⚬⚬⚬ | Der Weg einer Freiheit :: _Stellar_
+- ⚬⚬⚬⚬⚬ | Elder :: _Lore_
+- ⚬⚬⚬⚬⚬ | Slow Magic :: _How to Run Away_
+- ⚬⚬⚬⚬⚬ | Son Lux :: _Bones_
+- ⚬★★★★ | Lido :: _I Love You_
+- ⚬★★★★ | World's End Girlfriend :: _Hurtbreak Wonderland_
+- ⚬⚬⚬⚬⚬ | Jeremy Zuckerman :: _The Legend of Korra: Original Music From Book One_
+
+
+## Incoming Artists
+
+- High Wasted
+- Cults
+- Alon Mor
+- Zach Hill

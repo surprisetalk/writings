@@ -22,7 +22,7 @@
   - Everybody likes talking about their "I" and "me" -- not your "I" and "me".
   - Never lie. You need people to reprimand you for your bad thoughts.
   - If you like them, stay in touch. Say Hello monthly.
-  - Avoid fowl language. Not because it's morally wrong, but because it's lazy.
+  - Avoid foul language. Not because it's morally wrong, but because it's lazy.
   - Use humor, but not too much.
   - It can wait. You don't have to respond Right Now.
   - But always respond Today.

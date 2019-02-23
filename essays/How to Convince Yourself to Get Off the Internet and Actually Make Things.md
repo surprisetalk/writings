@@ -1,3 +1,56 @@
+
+Contrary to the title, I have no h*cking idea _[How To Convince Myself to Get Off the Internet and Actually Make Things](/essays/How%20to%20Convince%20Yourself%20to%20Get%20Off%20the%20Internet%20and%20Actually%20Make%20Things)_.
+
+I feel like The Internet™ is an inescapable Black Hole that apes weren't nearly prepared for. But everyone knows that already -- I don't need to tell you that.
+But nobody seems to have solutions for how to escape the Black Hole. 
+
+
+## "Oh, I only hang out in the Black Hole ocassionally."
+
+I secretly judge people who unwittingly spend just as much time in the Black Hole as me.
+
+It's hard to know for sure, but here are some signs that you might be in the Black Hole without realizing it:
+- If you have a hard time explaining what you do with your free time, you're probably a resident of the Black Hole.
+- If you spend time on social-media daily, you're probably a resident of the Black Hole.
+- If you're under the age of 79 or over the age of 65, you're probably a resident of the Black Hole.
+- If you regularly binge-watch series on Netflix (or a comparable streaming service), you're almost certainly a resident of the Black Hole.
+- If you're reading this article (which you are), you're literally in the Black Hole right now -- go away!
+
+
+## "I will never escape the Black Hole."
+
+So I hope I've convinced you that you're part of this category just like everyone else.
+
+The Black Hole is a pretty textbook form of addiction: it provides relief from the discomfort it creates.
+
+I probably watch anime because it helps me forget that I waste my life [watching anime](https://www.youtube.com/watch?v=psi5-7YC1g8).
+Actually, anime is not nearly the worst of it -- it's the mindless pursuit of "wow, that's moderately entertaining". I could spend the rest of my life on 4Chan (don't look it up), Reddit, and YouTube, but _I don't want to_. Sooooooo how do I escape? No h*cking clue. I guess I'll write about how healther people live and see if I can find any insight there.
+
+
+## "Eh, I've got better things to do."
+
+So let's talk about the category of people who never venture into the Black Hole. How the h*ck do they do it‽ Let's dissect some of their traits.
+
+### "I don't know how to use the Black Hole."
+
+I don't think we can unlearn to use the Black Hole, but we can sure learn from those who never cared to learn! 
+
+I'm a total neophyte -- I love my Shiny Things. But not everyone gets distracted by Shining Things. What do luddites have that I don't? Maybe they care more about timeless things? That's not a satisfying answer -- I know plenty of luddites who don't particularly care for anything.
+
+I guess, by definition, they just somehow had no interest in _harnessing the limitless power of modern technology_. How could anybody not be enticed by it‽
+
+I think the pursuit of Shiny Things is falling for the delusion that _Shiny Things Will Make You Happier_. It's so obviously false. But I guess, to some degree, they just deep down don't believe that _The Black Hole Will Make You Happier_.
+
+I guess I haven't fully internalized it. There is so much Good in the Black Hole -- it _seems_ like it makes me Happier. But maybe it's illusory. Or just really complicated. Nothing can really make me Happier. I guess I know this, but how do I get myself to truly, deep down, really _believe_ it? Maybe it's small essays like this. Maybe it's conversations with friends. Maybe it's excercise, or drugs, or a spoon collection. I don't know. But hopefully one day I'll _feel_ the fact that Shiny Things are not so cool. Hopefully.
+
+Ah, what a defeatist I'm being. I'll re-probe myself later.
+
+### "Sorry, I don't have enough time for Your Favorite Part of the Black Hole."
+
 Coming soon!
 
-(I need to get off the internet and actually make things!)
+### "The Black Hole isn't that interesting."
+
+Coming soon!
+
+

@@ -54,3 +54,6 @@ Coming soon!
 Coming soon!
 
 
+## Out of the Frying Pan...
+
+I guess, in some sense, writing this essay was an escape from the Black Hole. I'm glad to be out for a little while, but I don't know how I got here. And I don't want to feel like I'm escaping the Black Hole (or anything else) for the rest of my life. So how do I become a permanent resident of _Not the Black Hole_? I'm starting to think that it's a unique challenge for everyone, but I may as well write down some more notes for the short while I'm out here in _Not the Black Hole_.

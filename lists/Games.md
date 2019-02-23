@@ -5,6 +5,7 @@
 - [Super Amazing Wagon Adventure](http://www.sparsevector.com/wagon-adventure/)
 - Manifold Garden
 - Papers, Please
+- WarGroove
 - The Republia Times
 - Where the Water Tastes...
 - Miegakure

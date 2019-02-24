@@ -1,4 +1,4 @@
-    If you repeated today, over and over, where would you be in 10 years?
+> If you repeated today, over and over, where would you be in 10 years?
 
 Life has no signposts. There's nobody to tell you to speed up or slow down. There's nothing preventing you from smelling roses or falling in brambles. 
 I think we feel lost because there's no absolute destination. Most people agree that maximizing the happiness of yourself and others is a decent way to live. But even this is a tricky endeavor - exercising and eating ice cream make me happy in very different ways!

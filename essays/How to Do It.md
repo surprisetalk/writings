@@ -1,22 +1,19 @@
 
-TODO: tooling/automation: git, etc.
-TODO: more book recommendations
+<!-- TODO: tooling/automation: git, etc. -->
+<!-- TODO: more book recommendations -->
+<!-- TODO: just do it pic -->
 
-# HOW TO DO X
+This is not a productivity guide. "Productivity hacks" are just efficiency tweaks for people with too many priorities.
 
-This is not a productivity guide. "Productivity methods" are just efficiency tweaks for people with too many priorities.
+This essay should probably be called [How to Do Absolutely Nothing and Get Everything Done](/essays/How to Do It). The ultimate goal is to live your life without effort -- to live your life without getting in your own way.
 
-<"how to do x" is a misleading title. "how to do nothing" is probably closer to the truth. because the real goal is to live your life without effort>
+There is no pressure. Expectations are imaginary. You don't have to do anything.
 
-<there is no pressure. expectations are imaginary. you don't have to do anything.>
+## Step 0: Win the Ovarian Lottery
 
-<Lastly, I'm not a sage. This is just a list that have improved how I feel about myself and the world around me.>
-
-<To be clear, I didn't write this for you. I wrote it because I have an unhealthy obsession with self-improvement. But I hope that you can find some gems in my madness>
-
-## STEP 0: WIN THE OVARIAN LOTTERY
-
-<warren buffet anecdote>
+Consider Warren Buffet's [Ovarian Lottery](https://www.youtube.com/watch?v=zeD8NOPyatw):
+> My political views were formed by this process. Just imagine that it is 24 hours before you are born. A genie comes and says to you in the womb, "You look like an extraordinarily responsible, intelligent, potential human being. [You're] going to emerge in 24 hours and it is an enormous responsibility I am going to assign to you — determination of the political, economic and social system into which you are going to emerge. You set the rules, any political system, democracy, parliamentary, anything you wish — you can set the economic structure, communistic, capitalistic, set anything in motion and I guarantee you that when you emerge this world will exist for you, your children and grandchildren.
+> What's the catch? One catch — just before you emerge you have to go through a huge bucket with 7 billion slips, one for each human. Dip your hand in and that is what you get — you could be born intelligent or not intelligent, born healthy or disabled, born black or white, born in the US or in Bangladesh, etc. You have no idea which slip you will get. Not knowing which slip you are going to get, how would you design the world? Do you want men to push around females? It's a 50/50 chance you get female. If you think about the political world, you want a system that gets what people want. You want more and more output because you'll have more wealth to share around.
 
 You are already winning at life. The fact that you're reading this means that (1) your basic needs are met, (2) you have access to a computer, and (3) you have enough leisure-time to read low-quality essays.
 
@@ -49,7 +46,7 @@ Step 1 is probably a higher priority. It's easier to eat well when you're surrou
 
 Nutrition is fundamental. Diet affects your lifespan, intelligence, willpower, sleep, finances, and mood. Bad diets ruin lives.
 
-<calories/joules fun-fact>
+<!-- <calories/joules fun-fact> -->
 
 If you listen to your body, eating well requires no effort. Just (1) use common-sense, (2) do some research, and (3) avoid stuff that makes you feel gross. If a healthy diet sounds difficult, go talk to a dietician; a one-hour session may change your life.
 
@@ -79,13 +76,13 @@ Just pick something that gets your heart pumping and do it a few times a week.
 If exercise seems like a chore, you're doing it wrong. You won't do it if you don't want to do it. Don't fight yourself.
 
 Recommended Reading:
-- *Starting Strength* by <?>
+- [Starting Strength](https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522746/ref=sr_1_1?keywords=starting+strength&qid=1551033657&s=gateway&sr=8-1&tag=duc0c-20)
 
 ## STEP 4: MEDITATE
 
 Steps 1-3 are higher priority. If you're listening to people, then you're not letting your ego run wild. If you're eating well and exercising, then you're already listening to your body.
 
-<Every melody needs silence between its notes. Meditation is a great way to reconnect to the songs of the universe.>
+Every melody needs silence between its notes. Meditation is a great way to reconnect to the songs of the universe.
 
 Meditation practices vary across cultures and even teachers, but the scientific evidence from recent years is very convincing: practicing awareness can measurable improve your life.
 
@@ -104,9 +101,9 @@ Lately, meditation has been becoming my "default mode". When I don't want to do 
 If meditation isn't fun, you're doing it wrong.
 
 Recommended Reading: 
-- *Tao te Ching* by Lao Tzu
-- *Meditations* by <?> 
-- *Waking Up* by Sam Harris
+- [Tao te Ching](https://www.sacred-texts.com/tao/taote.htm)
+- [Meditations](http://classics.mit.edu/Antoninus/meditations.html)
+- [Waking Up](https://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636024)
 
 ## STEP 5: PURGE
 
@@ -131,13 +128,14 @@ Now, my uniform hangs in my closet with all the other clothes that I love. It's 
 Organization shouldn't be a chore. When you're surrounded by things you love, everything will seem to magically find its place in your home.
 
 Recommended Reading:
-- <konmari>
+- [The Life-Changing Magic of Tidying Up](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308/ref=sr_1_1?keywords=konmari&qid=1551033773&s=gateway&sr=8-1&tag=duc0c-20)
 
 ## STEP 6: LEARN LIFE BASICS
 
-Steps 1-5 are higher priority. If they fall out of line, you will not be your best self. <why?>
+Steps 1-5 are higher priority. If they fall out of line, you will not be your best self.
+<!-- why? -->
 
-<cleaning toilets to software engineering><interdisciplinary; michael jordans vs benjamin franklins>
+<!-- <cleaning toilets to software engineering><interdisciplinary; michael jordans vs benjamin franklins> -->
 
 ## STEP 7: DO X
 
@@ -147,19 +145,20 @@ Step 7 seems simple: reduce X to something you *want* to do *right now*. But mos
 
 As a note, you cannot do X and Y at the same time. You will do both poorly or not-at-all. Pick one or pick none. Doing X and doing nothing are equally satisfying options; doing X and Y will cause certain grief. If you won't let either go, figure out how to merge them into Z.
 
-<refer to metalearning.org>
+<!-- <refer to metalearning.org> -->
 
-<buffet's list>
+<!-- <buffet's list> -->
 
-<scott adams>
+<!-- <scott adams> -->
+
 If X is a goal, stop now. 
 If you go to school to be a doctor, you will be stressed about work and tests. You will crumble under the weight of your own expectations. You will cram, and produce cortisol, which will make you more stressed, and you'll fall behind, which will result in a disastrous spiral. And even if you do succeed, did you really want to spend 10 years doing something bad to do something that you THINK might be good? I know a lot of doctors who hate being doctors -- they trapped themselves with their own expectations.
 The better way to become a doctor is to just "accidentally" become a doctor one day. When going to school, you'll study exactly what you want to study. Even when it's hard, it'll be fun, because you really want to do X. And because you were always interested, you'll find that you're magically really good at X. And if suddenly you get to medical school, and you're not in tune with what you're doing, you may transition into pharmacy, dentistry, public service, administration, etc. With this strategy, you many not always love your job, but you'll always love your profession.
 If your X is "become a musician", you'll find that you're never good enough. Practicing won't be fun, because you won't feel any improvement in comparison to your own dreams. And you'll live your life maybe picking up your guitar every few days/weeks without ever improving that much. And even if you get lucky and make it "big", you'll find that you don't have any real skill or experience, and your music label will have complete power over you. And even if they don't, you'll probably feel like a fake. And your albums will stink. And you'll never have the fans that you truly wanted.
 On the other hand, if your X is "play music", all you have to do is play music. And if your big break comes, it will be because you deserve it. And if it's not on your terms, then you can say "no thanks" and maybe catch another break. Because you're not waiting for anything, you'll take the good opportunities on your own terms. And if you're not good enough for opportunities, you'll rise to the occasion, because you are simply doing X.
 
-<destination vs journey>
-<you can only be who you are now. you will always be unhappy if you pretend to be the person you want to be>
+<!-- <destination vs journey> -->
+<!-- <you can only be who you are now. you will always be unhappy if you pretend to be the person you want to be> -->
 
 If X is not something that you can't/won't start now, then pick a different X. 
 	- You can't make a billion-dollar software company right now, but you can make a nifty website. 
@@ -169,34 +168,34 @@ Note the difference between can't/won't. If X is "travel the world", then maybe 
 
 If X is a non-goal you can start now, X is likely some sort of skill.
 
-<the reason you can't do x right now is because of lack of theory and/or practice>
+<!-- <the reason you can't do x right now is because of lack of theory and/or practice> -->
 <you cannot succeed with theory or practice alone. and don't fool yourself into thinking that there is no theory and/or practice for X. to solve theoretical problems in physics, you need to practice math, social-skills, etc.>
 
-<these are meant to be done in parallel. you should probably be doing 2:1 practice/study. always do the harder one first in the day.>
-<if you don't want to do X, then sit and do nothing until you want to do it. if this happens a few days in a row, then you either need to make X easier or quit altogether because you obviously don't want to do X at its current level of willpower expenditure>
+<!-- <these are meant to be done in parallel. you should probably be doing 2:1 practice/study. always do the harder one first in the day.> -->
+<!-- <if you don't want to do X, then sit and do nothing until you want to do it. if this happens a few days in a row, then you either need to make X easier or quit altogether because you obviously don't want to do X at its current level of willpower expenditure> -->
 
-<staying motivated is crap. if you never feel like you have enough time to do X, or you feel like you spend too much time out with friends, then you don't deserve to do X, and you should quit now and abandon your dreams. because you don't want X -- you want Y -- and you should focus all your energy on Y>
+<!-- <staying motivated is crap. if you never feel like you have enough time to do X, or you feel like you spend too much time out with friends, then you don't deserve to do X, and you should quit now and abandon your dreams. because you don't want X -- you want Y -- and you should focus all your energy on Y> -->
 
-<if X is a problem to solve, quit now. you cannot "solve" problems. you are probably asking the wrong question, or you are lacking in skill/knowledge.>
-<but when you do encounter things that seem like problems, the only four options are (1) the solution is obvious, (2) break it into subproblems, (3) change your representation, or (4) give up. with this approach, there are no problems! just non-obvious solutions.>
-<attribute to sussman>
+<!-- <if X is a problem to solve, quit now. you cannot "solve" problems. you are probably asking the wrong question, or you are lacking in skill/knowledge.> -->
+<!-- <but when you do encounter things that seem like problems, the only four options are (1) the solution is obvious, (2) break it into subproblems, (3) change your representation, or (4) give up. with this approach, there are no problems! just non-obvious solutions.> -->
+<!-- <attribute to sussman> -->
 
-<feynmann's algorithm vs sussman's algorithm: is genius something inherited or earned?>
+<!-- <feynmann's algorithm vs sussman's algorithm: is genius something inherited or earned?> -->
 
 
 ### STEP 7.P: PRACTICE X
 
 #### STEP 7.P.0: PRACTICE SIBLING SKILLS OF X
 
-<if you wanna learn guitar, learn music theory and a bunch of instruments>
-<if you wanna speak chinese, also learn a very small amount of english, french, icelandic, etc.>
+<!-- <if you wanna learn guitar, learn music theory and a bunch of instruments> -->
+<!-- <if you wanna speak chinese, also learn a very small amount of english, french, icelandic, etc.> -->
 
-<the goal is to get a cursory understanding of your domain's landscape.>
-<for programming, learning 8 (EXTREMELY DIFFERENT) languages will teach you pretty much everything you need to know: lisp, smalltalk, apl, erlang, etc.>
-<for instruments, it's probably best to play around with one brass, one woodwind, one stringed, one percussion, etc.>
+<!-- <the goal is to get a cursory understanding of your domain's landscape.> -->
+<!-- <for programming, learning 8 (EXTREMELY DIFFERENT) languages will teach you pretty much everything you need to know: lisp, smalltalk, apl, erlang, etc.> -->
+<!-- <for instruments, it's probably best to play around with one brass, one woodwind, one stringed, one percussion, etc.> -->
 
-<the first resaon you do this is because your skill doesn't work in a vacuum. you will usually be interfacing quite frequently with the sibling skills. and being able to anticipate their actions better will make the entire team flourish>
-<the second reason is that you're forcing yourself to learn different representations of the same thing, which will help you dig into the theoretical core MUCH quicker. in fact, just learning the C major scale on 10 sufficiently different instruments will teach you an insane amount of information about music theory. because it FORCES you to see the TRUE themes of the discipline>
+<!-- <the first resaon you do this is because your skill doesn't work in a vacuum. you will usually be interfacing quite frequently with the sibling skills. and being able to anticipate their actions better will make the entire team flourish> -->
+<!-- <the second reason is that you're forcing yourself to learn different representations of the same thing, which will help you dig into the theoretical core MUCH quicker. in fact, just learning the C major scale on 10 sufficiently different instruments will teach you an insane amount of information about music theory. because it FORCES you to see the TRUE themes of the discipline> -->
 
 #### STEP 7.P.1: PRACTICE X
 
@@ -214,7 +213,7 @@ Focusing on the basics (1) makes you very aware of details and (2) encourages "b
 
 I recently started making bread (it's wonderful!). Herbs and spices are tempting, but they're just distractions unless you're a master of the four [bread] elements: salt, water, flour, and yeast. My next bread-experiment is to make hundreds of half-loaves, varying ingredients, temperature, time, and kneading. Be curious!
 
-<begin with 80/20>
+<!-- <begin with 80/20> -->
 
 ##### STEP 7.P.0.I: IMITATE THE GREATS
 
@@ -224,16 +223,16 @@ Practice X in the spirit of some master.
 
 ##### STEP 7.T.0: STUDY X'S PARENT FIELD(S)
 
-<feynmann>
-<to learn cooking, you must study at the chemistry level>
+<!-- <feynmann> -->
+<!-- <to learn cooking, you must study at the chemistry level> -->
 
 ##### STEP 7.T.1: STUDY X
 
-<multiple texts>
+<!-- <multiple texts> -->
 
-<don't memorize ANYTHING>
+<!-- <don't memorize ANYTHING> -->
 
-<make analogies to fields you already know. if you come from math, programming may look like funny equations. if you come from biology, programming may look like dna. take advantage of your existing mental models.>
+<!-- <make analogies to fields you already know. if you come from math, programming may look like funny equations. if you come from biology, programming may look like dna. take advantage of your existing mental models.> -->
 
 ###### STEP 7.T.1.0: IF STUDYING BECOMES DIFFICULT, CHANGE REPRESENTATION
 

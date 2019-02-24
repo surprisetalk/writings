@@ -9,11 +9,19 @@ And yet, math isn't programming. Most day-to-day programming plays with the tran
 
 ## Where Math is Limited
 
+TODO
+
 ### Sequential Processes
+
+TODO
 
 ### Strings
 
+TODO
+
 ### Large, Interconnected Systems
+
+TODO
 
 ### Accessibility & Documentation
 
@@ -22,11 +30,17 @@ Math docs are written for, well, nobody really.
 
 ### Practical Classes
 
-<e.g. customers>
+TODO
+
+<!-- <e.g. customers> -->
 
 ### Floating-Point Errors
 
+TODO
+
 ### Error-Handling
+
+TODO
 
 ## Where Math Shines
 
@@ -36,7 +50,7 @@ This presentation is filled with shortcuts you can make with math.
 Examples of how to use math in practical programming.
 
 Show how in all these examples, it's better to design these systems with mathematics on-paper.
-If you see <this>, you should think of <that>.
+If you see _this_, you should think of _that_.
 
 Express elegant representations to make life easier and avoid mistakes.
 
@@ -45,15 +59,21 @@ Express elegant representations to make life easier and avoid mistakes.
 
 ### Paper & Terse Notation
 
-<apl>
+TODO
+
+<!-- <apl> -->
 
 ### Types & Guarantees
 
-<type theory>
+TODO
+
+<!-- <type theory> -->
 
 ### Rigorous Communication
 
-<{R}->{N}>
+TODO
+
+<!-- <{R}->{N}> -->
 
 ### Identity
 
@@ -101,11 +121,13 @@ Whenever you're selectively applying functions in cases, `identity` makes a grea
            + (             new_max   )
     };
     
-    <todo: using pos/neg infinity as a max/min>
+    <!-- <todo: using pos/neg infinity as a max/min> -->
 
-    <todo: piping/composing functions into rescale>
+    <!-- <todo: piping/composing functions into rescale> -->
 
 ### Mathematical Data Structures
+
+TODO
 
 #### Sets
 
@@ -146,21 +168,23 @@ Whenever you have a list of pairs, or an object where you need duplicate keys, y
 
 #### Trees
 
-<trees as functors>
+TODO
+
+<!-- <trees as functors> -->
 
 #### Categories
 
 Large systems often have a bunch of encapsulated objects. Category theory sometimes helps translate to/from different instances of classes.
 
-<classes & objects>
-<functors & mapping>
-<monads & io>
+<!-- <classes & objects> -->
+<!-- <functors & mapping> -->
+<!-- <monads & io> -->
 
-<lists & maybes as functors>
+<!-- <lists & maybes as functors> -->
 
 #### Rings & Modular Things
 
-<todo: hours, minutes, and seconds>
+<!-- <todo: hours, minutes, and seconds> -->
 
 If you find yourself needing to access lists of things in strange ways, you'll often need the modulo operator!
 
@@ -170,19 +194,25 @@ If you find yourself needing to access lists of things in strange ways, you'll o
 
 #### Queues
 
-<todo: queuing theory>
+<!-- <todo: queuing theory> -->
+
+TODO
 
 ### Hashing
 
+TODO
+
 ### Cryptography & Security
+
+TODO
 
 ### Union Types, GADTs, & Symbols
 
 Most dynamic languages don't give us union types! 
 
-<todo: constants as Symbol('debug')>
+<!-- <todo: constants as Symbol('debug')> -->
 
-<todo: enums as Map:Symbol->x with myEnum[ sym ] >
+<!-- <todo: enums as Map:Symbol->x with myEnum[ sym ] > -->
 
 What else are symbols good for?
 
@@ -194,7 +224,7 @@ What else are symbols good for?
 
     f' = λx.λy.x+y
     
-<todo: sometimes easier to write and reason about!>
+<!-- <todo: sometimes easier to write and reason about!> -->
 
 ### Composition & Combinators
 
@@ -211,38 +241,62 @@ In JS, it's often better to make your functions curryable!
 
     const = x => y => x + y;
     
-<todo: benefits of currying! mappable, and function builders>
+<!-- <todo: benefits of currying! mappable, and function builders> -->
 
 
 ### Domains, Co-Domains, & Ranges
 
+TODO
+
 ### Animation & Parameterized Functions
+
+TODO
 
 ### Linear Algebra
 
+TODO
+
 ### Parallelization & GPUs
+
+TODO
 
 ### Reversibility
 
+TODO
+
 ### Common Types
+
+TODO
 
 #### Infinity
 
-<when to use infinity in your code>
+TODO
+
+<!-- <when to use infinity in your code> -->
 
 #### NaN
 
-<when to use NaN in your code>
+TODO
+
+<!-- <when to use NaN in your code> -->
 
 #### Null
 
-<when to use null in your code>
+TODO
+
+<!-- <when to use null in your code> -->
 
 ### Fractals & Infinite Curves
 
+TODO
+
 ### Reduction & Efficiency
 
+TODO
+
 ### Dates & Time
+
+TODO
 
 ### Conditionals
 
@@ -256,49 +310,91 @@ In JS, it's often better to make your functions curryable!
 
 ### Un-Unrolling Loops, Accumulation & Map/Filter/Reduce
 
+TODO
+
 #### Reductions & Folds
+
+TODO
 
 ### Monads & IO
 
+TODO
+
 ### Sampling & Approximation
+
+TODO
 
 ### Statistics
 
+TODO
+
 ### Ands & Ors with Bitmaps
+
+TODO
 
 ### Sequences, Series, Streams, and Infinite Lists
 
+TODO
+
 ### Encoding/Decoding/Serialization/Mapping
+
+TODO
 
 ### Processes (Pi Calculus)
 
+TODO
+
 ### Code Analysis (Graph Theory x Systems)
+
+TODO
 
 ### Graphics
 
+TODO
+
 ### Signals & Sampling
+
+TODO
 
 ### State Machines
 
-(ui in particular)
+TODO
+
+<!-- (ui in particular) -->
 
 ### Colors
 
+TODO
+
 ### Equivalency Proofs
+
+TODO
 
 ### Tests, Guards, Estimations, and Error Bounds
 
-<testing reasonableness>
+TODO
+
+<!-- <testing reasonableness> -->
 
 ### Magic Functions & Constants
 
+TODO
+
 #### sin, cos, & tan
+
+TODO
 
 #### π
 
+TODO
+
 #### e
 
+TODO
+
 #### ln & log
+
+TODO
 
 ### Min & Max
 
@@ -332,38 +428,68 @@ In JS, it's often better to make your functions curryable!
 
 ### Testing
 
+TODO
+
 #### Ranges
+
+TODO
 
 #### Distributions
 
+TODO
+
 ### Negativity
 
-<abs>
+TODO
 
-<-1^n>
+<!-- <abs> -->
+
+<!-- <-1^n> -->
 
 ### Floors & Ceilings
 
+TODO
+
 ### Seeds & Randomness
+
+TODO
 
 ### Optimization Problems
 
+TODO
+
 ### Simulations
+
+TODO
 
 ### Currency, Tax, & Interest
 
+TODO
+
 ### Complex Numbers
+
+TODO
 
 ### Geolocation & Trig
 
+TODO
+
 ### Rationals
+
+TODO
 
 ### Rederivation
 
-<storing state losslessly, and re-computing on the fly>
+TODO
+
+<!-- <storing state losslessly, and re-computing on the fly> -->
 
 ### Graph Theory & Associative Arrays
 
+TODO
+
 ### Logic & DeMorgan's Law
 
-<making if-statements easier-to-read>
+TODO
+
+<!-- <making if-statements easier-to-read> -->

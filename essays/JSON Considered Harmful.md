@@ -1,12 +1,12 @@
 
 # JSON Considered Harmful
 
--- So you want to make a server, and a client to accompany it.
--- Both systems are running on separate machines that have insane amounts of processing power. Network capacity may be limited, but both systems, in general, are capable of pretty much anything.
--- So what's the current state of affairs in "modern" software development? We have an extremely verbose, low-level common notation (JSON) that takes up a lot of network capacity AND a reasonable amount of encoding/decoding processing power.
--- Seriously, even if two systems are capable of speaking the same programming language, we encode ALL our communications into lists of numbers and strings. And there's no formalized method for sharing schemas, or even a vague amount of discovery of APIs.
+<!-- So you want to make a server, and a client to accompany it. -->
+<!-- Both systems are running on separate machines that have insane amounts of processing power. Network capacity may be limited, but both systems, in general, are capable of pretty much anything. -->
+<!-- So what's the current state of affairs in "modern" software development? We have an extremely verbose, low-level common notation (JSON) that takes up a lot of network capacity AND a reasonable amount of encoding/decoding processing power. -->
+<!-- Seriously, even if two systems are capable of speaking the same programming language, we encode ALL our communications into lists of numbers and strings. And there's no formalized method for sharing schemas, or even a vague amount of discovery of APIs. -->
 
--- https://www.youtube.com/watch?v=K_AfmRc-TLE&feature=youtu.be&t=21m30s
+<!-- https://www.youtube.com/watch?v=K_AfmRc-TLE&feature=youtu.be&t=21m30s -->
 
 
 So you want to powerful systems to talk to each other over a network with limited capacity and unreliable connections?

@@ -173,15 +173,18 @@ On the other hand, if your X is "play music", all you have to do is play music. 
 <!-- <you can only be who you are now. you will always be unhappy if you pretend to be the person you want to be> -->
 
 <!-- <scott adams> -->
+
 If X is not something that you can't/won't start now, then pick a different X. 
-	- You can't make a billion-dollar software company right now, but you can make a nifty website. 
-	- You can't be Mr. Universe right now, but you can do some deadlifts. 
-	- You can't make an album right now, but you can make a sick beat. 
+- You can't make a billion-dollar software company right now, but you can make a nifty website. 
+- You can't be Mr. Universe right now, but you can do some deadlifts. 
+- You can't make an album right now, but you can make a sick beat. 
 Note the difference between can't/won't. If X is "travel the world", then maybe you *can't* do it because of lack of money, or you *won't* do it because you're actually comfortable at home. In both cases, be honest with yourself. If you can't/won't find a clever solution to do X now, you don't want X badly enough.
 
 If X is a non-goal you can start now, X is likely some sort of skill.
 
 ###### Theory & Practice
+
+TODO
 
 <!-- <the reason you can't do x right now is because of lack of theory and/or practice> -->
 <!-- <you cannot succeed with theory or practice alone. and don't fool yourself into thinking that there is no theory and/or practice for X. to solve theoretical problems in physics, you need to practice math, social-skills, etc.> -->
@@ -191,9 +194,13 @@ If X is a non-goal you can start now, X is likely some sort of skill.
 
 ###### Motivation
 
+TODO
+
 <!-- <staying motivated is crap. if you never feel like you have enough time to do X, or you feel like you spend too much time out with friends, then you don't deserve to do X, and you should quit now and abandon your dreams. because you don't want X -- you want Y -- and you should focus all your energy on Y> -->
 
 ###### Problem-Solving
+
+TODO
 
 <!-- <if X is a problem to solve, quit now. you cannot "solve" problems. you are probably asking the wrong question, or you are lacking in skill/knowledge.> -->
 <!-- <but when you do encounter things that seem like problems, the only four options are (1) the solution is obvious, (2) break it into subproblems, (3) change your representation, or (4) give up. with this approach, there are no problems! just non-obvious solutions.> -->
@@ -204,7 +211,11 @@ If X is a non-goal you can start now, X is likely some sort of skill.
 
 ### Step 7.P: Practice It
 
+TODO
+
 #### Step 7.P.0: Practice Sibling Skills
+
+TODO
 
 <!-- <if you wanna learn guitar, learn music theory and a bunch of instruments> -->
 <!-- <if you wanna speak chinese, also learn a very small amount of english, french, icelandic, etc.> -->
@@ -240,12 +251,18 @@ Practice X in the spirit of some master.
 
 #### Step 7.T: Study It
 
+TODO
+
 ##### Step 7.T.0: Study the Underlying Principles
+
+TODO
 
 <!-- <feynmann> -->
 <!-- <to learn cooking, you must study at the chemistry level> -->
 
 ##### Step 7.T.1: Study It
+
+TODO
 
 <!-- <multiple texts> -->
 

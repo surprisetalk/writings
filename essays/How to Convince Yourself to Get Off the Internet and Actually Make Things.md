@@ -1,5 +1,5 @@
 
-Contrary to the title, I have no h*cking idea _[How To Convince Myself to Get Off the Internet and Actually Make Things](/essays/How%20to%20Convince%20Yourself%20to%20Get%20Off%20the%20Internet%20and%20Actually%20Make%20Things)_.
+Contrary to the title, I have no h*cking idea _[How To Convince Myself to Get Off the Internet and Actually Make Things](/essays/How to Convince Yourself to Get Off the Internet and Actually Make Things)_.
 
 I feel like The Internet™ is an inescapable Black Hole that apes weren't nearly prepared for. But everyone knows that already -- I don't need to tell you that.
 But nobody seems to have solutions for how to escape the Black Hole. 
@@ -47,7 +47,11 @@ Ah, what a defeatist I'm being. I'll re-probe myself later.
 
 ### "Sorry, I don't have enough time for Your Favorite Part of the Black Hole."
 
-Coming soon!
+A large subset of _Not the Black Hole_ residents select their media very carefully (or don't select media at all).
+
+When I recommend certain shows to people, they often say, "Isn't that an anime?", like it's an insult or something. And they say "Oh, that's not my style.", and I'm somewhat relieved that they just saved themselves from becoming a particularly nasty species of Black Hole resident. But at the same time, these works of art touched me so deeply, and I want others to feel the same way I did when I experienced them! But I don't want them to waste their lives away trying to gorge themselves on the infinite amount of art out there in the Black Hole. Why don't I feel this way about myself?
+
+To start, maybe I should set my standards higher. Maybe I should stop wading through B- content just to numb myself from whatever-else-is-going-on. I don't know, there's so much good content out there -- maybe saving my time for the tried-and-true classics is good enough to last forever.
 
 ### "The Black Hole isn't that interesting."
 

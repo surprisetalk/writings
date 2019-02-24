@@ -12,11 +12,17 @@ But then I started doing nothing.
 ![todo](/images/32619_sponge_bob_todo_list_nothing-825x510.jpg)
 
 > Three hikers saw a lone monk standing atop a small mountain. After hours of climbing, they finally met him.
+
 > The first hiker asked, “are you waiting for a friend?”
+
 > “Nope.”
+
 > The second hiker asked, “you’re just out here observing nature, right?”
+
 > “Nope.”
+
 > The third exclaimed, “so you’re just standing here, enjoying the fresh air?”
+
 > “No, I’m just standing here.”
 
 

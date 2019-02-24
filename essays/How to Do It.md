@@ -21,7 +21,7 @@ Take a moment to be grateful for how lucky you are to be here today.
 
 Now take a moment to reflect on how much you've grown. It's okay if you feel like you've plateaued -- that means you're still growing.
 
-## STEP 1: CONNECT WITH MENTOR(S)
+## Step 1: Connect with Mentor(s)
 
 You will break everything. Many times. Mentors can't prevent you from failing, but good ones will help you bounce back.
 
@@ -38,15 +38,15 @@ If you feel like you don't need a mentor, it's probably a sign that you need one
 If talking to a mentor is hard for you, take a deeper look inside yourself. It should be fun and effortless.
 
 Recommended Reading:
-- *How to Win Friends and Influence People* by Dale Carnegie
+- [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/1439167346/ref=sr_1_3?keywords=how+to+win+friends&qid=1551041653&s=gateway&sr=8-3&tag=duckduckgo-20)
 
-## STEP 2: EAT WELL
+## Step 2: Eat Well
 
 Step 1 is probably a higher priority. It's easier to eat well when you're surrounded by people that care about you.
 
-Nutrition is fundamental. Diet affects your lifespan, intelligence, willpower, sleep, finances, and mood. Bad diets ruin lives.
+Fun fact: [humans are about as powerful as 100W lightbulbs](http://sustainability.blogs.brynmawr.edu/2012/07/31/understanding-energy-part-1/). But if you don't supply lightbulbs and humans with sufficient energy, they won't _work_.
 
-<!-- <calories/joules fun-fact> -->
+Nutrition is fundamental. Diet affects your lifespan, intelligence, willpower, sleep, finances, and mood. Bad diets ruin lives.
 
 If you listen to your body, eating well requires no effort. Just (1) use common-sense, (2) do some research, and (3) avoid stuff that makes you feel gross. If a healthy diet sounds difficult, go talk to a dietician; a one-hour session may change your life.
 
@@ -58,10 +58,10 @@ There's a lot of cool research on fasting and ketosis. It's a fun little rabbit-
 
 Again, eating well shouldn't be a chore. Fruits and vegetables are delicious once you gain some dietary momentum!
 
-Recommended Reading:
-- TODO
+<!-- Recommended Reading: -->
+<!-- - TODO -->
 
-## STEP 3: EXERCISE
+## Step 3: Exercise
 
 Steps 1-2 are higher priority. It's easier to keep in touch with your self-image when you're surrounded by positive people. And it's much easier to exercise when you fill yourself with good food/fuel.
 
@@ -78,13 +78,13 @@ If exercise seems like a chore, you're doing it wrong. You won't do it if you do
 Recommended Reading:
 - [Starting Strength](https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522746/ref=sr_1_1?keywords=starting+strength&qid=1551033657&s=gateway&sr=8-1&tag=duc0c-20)
 
-## STEP 4: MEDITATE
+## Step 4: Meditate
 
 Steps 1-3 are higher priority. If you're listening to people, then you're not letting your ego run wild. If you're eating well and exercising, then you're already listening to your body.
 
 Every melody needs silence between its notes. Meditation is a great way to reconnect to the songs of the universe.
 
-Meditation practices vary across cultures and even teachers, but the scientific evidence from recent years is very convincing: practicing awareness can measurable improve your life.
+Meditation practices vary across cultures and even teachers, but the scientific evidence from recent years is very convincing: practicing awareness can measurably improve your life.
 
 I still have *a lot* to learn about meditation. I don't feel experienced enough to tell you what to do, but I can tell you some mistakes I made.
 
@@ -105,7 +105,7 @@ Recommended Reading:
 - [Meditations](http://classics.mit.edu/Antoninus/meditations.html)
 - [Waking Up](https://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636024)
 
-## STEP 5: PURGE
+## Step 5: Purge
 
 Steps 1-4 are higher priority. If you have a happy body, good friends, and a quiet mind, you may notice that your life has accumulated a lot of clutter!
 
@@ -122,7 +122,7 @@ Lately, I've been finding wisdom in Steve Jobs's tenacity of selecting possessio
 My mother independently discovered this practice. By only buying clothes that she loved, she dressed better for less money! I've heard that it's more expensive to buy cheap shoes, because they don't last as long.
 During my last purge, I decided to sell my record-player (don't judge me). Even though I used it daily, I really wanted a different model that cost about the same price. I was able to replace it with very little cost-difference! Listening to music is much more enjoyable now, even though the sound is probably equivalent. Possessions won't make you happy, but they can still be fun!
 
-Be careful not to get carried away by purging! A few years ago, I decided to buy nine navy shirts, and three pairs of khaki pants; all my other clothes went to my parents' house (thanks, Mom and Dad!). I imagined that wearing a uniform would magically fix how I felt about myself; I hoped that it would "release" me from clothes. What a joke. After switching to the uniform, I was suddenly afraid that my peers found it weird. I started using lint-rollers to an extreme degree. I used my iron more often. So in the end, trying to release myself from clothes made me completely obsessed with them! 
+Be careful not to get carried away by purging! A few years ago, I decided to buy nine navy shirts, and three pairs of khaki pants; all my other clothes went to my parents' house (thanks, Mom and Dad!). I imagined that wearing a uniform would magically fix how I felt about myself; I hoped that it would "release" me from clothes. What a joke! After switching to the uniform, I was suddenly afraid that my peers found it weird. I started using lint-rollers to an extreme degree. I used my iron more often. So in the end, trying to release myself from clothes made me completely obsessed with them! 
 Now, my uniform hangs in my closet with all the other clothes that I love. It's naturally become my "default" outfit, but I don't beat myself up for wanting to wear Hawaiian shirts on Fridays. Minimalism can be just as unhealthy as consumerism. Just do what feels right.
 
 Organization shouldn't be a chore. When you're surrounded by things you love, everything will seem to magically find its place in your home.
@@ -130,24 +130,36 @@ Organization shouldn't be a chore. When you're surrounded by things you love, ev
 Recommended Reading:
 - [The Life-Changing Magic of Tidying Up](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308/ref=sr_1_1?keywords=konmari&qid=1551033773&s=gateway&sr=8-1&tag=duc0c-20)
 
-## STEP 6: LEARN LIFE BASICS
+## Step 6: Learn Common Sense
 
-Steps 1-5 are higher priority. If they fall out of line, you will not be your best self.
-<!-- why? -->
+Steps 1-5 are higher priority. If they fall out of line, you will not be your best self. Like, don't worry about your furniture if your house is about to fall apart.
 
-<!-- <cleaning toilets to software engineering><interdisciplinary; michael jordans vs benjamin franklins> -->
+Common-sense is learned by doing common things. It's not rocket-science (by definition).
 
-## STEP 7: DO X
+I was a janitor during my high-school years. I painted curbs, swept sidewalks, and bleached toilets. Surpringly, my experience _cleaning bathrooms_ was crucial for my growth as a _software-engineer_. For instance, I learned that when you don't replace toilet-paper rolls, people wipe themselves with paper-towels. And paper-towels don't flush well. And so you have toilet overflows. And then people walk in the overflowing toilet-water, tracking it all over the place. And they slip in the fluid and get it on the walls and sinks and mirrors. And so on.
+The point is that forgetting the tedium (like toilet-paper) can have large unintended catastrophes (like the poopocalypse). And now, as a software-engineer, I have the importance of tedium stamped onto my core. I'm entrusted with multi-million dollar projects because _I worry about tedium that nobody else sees_. Because I learned it first in a simple environment.
+
+The point is that doing basic things teaches you basic lessons that can be easily translated to _every_ career and way of life. It's like learning music theory before you try to play Mozart's works -- it's, uh, common-sense.
+
+<!-- <interdisciplinary; michael jordans vs benjamin franklins> -->
+
+## Step 7: Do It
+
+Let's call your objective "X".
 
 Steps 1-6 are higher priority. If they fall out of line, you will not do X to the best of your ability (or probably at all). 
 
 Step 7 seems simple: reduce X to something you *want* to do *right now*. But most of us are bad at reducing problems, examining our desires, escaping our past, and dropping our expectations.
 
-As a note, you cannot do X and Y at the same time. You will do both poorly or not-at-all. Pick one or pick none. Doing X and doing nothing are equally satisfying options; doing X and Y will cause certain grief. If you won't let either go, figure out how to merge them into Z.
-
 <!-- <refer to metalearning.org> -->
 
+###### Priorities
+
+You cannot do X and Y at the same time. You will do both poorly or not-at-all. Pick one or pick none. Doing X and doing nothing are equally satisfying options; doing X and Y will cause certain grief. If you won't let either go, figure out how to merge them into Z.
+
 <!-- <buffet's list> -->
+
+###### No Goals
 
 <!-- <scott adams> -->
 
@@ -160,6 +172,7 @@ On the other hand, if your X is "play music", all you have to do is play music. 
 <!-- <destination vs journey> -->
 <!-- <you can only be who you are now. you will always be unhappy if you pretend to be the person you want to be> -->
 
+<!-- <scott adams> -->
 If X is not something that you can't/won't start now, then pick a different X. 
 	- You can't make a billion-dollar software company right now, but you can make a nifty website. 
 	- You can't be Mr. Universe right now, but you can do some deadlifts. 
@@ -168,13 +181,19 @@ Note the difference between can't/won't. If X is "travel the world", then maybe 
 
 If X is a non-goal you can start now, X is likely some sort of skill.
 
+###### Theory & Practice
+
 <!-- <the reason you can't do x right now is because of lack of theory and/or practice> -->
-<you cannot succeed with theory or practice alone. and don't fool yourself into thinking that there is no theory and/or practice for X. to solve theoretical problems in physics, you need to practice math, social-skills, etc.>
+<!-- <you cannot succeed with theory or practice alone. and don't fool yourself into thinking that there is no theory and/or practice for X. to solve theoretical problems in physics, you need to practice math, social-skills, etc.> -->
 
 <!-- <these are meant to be done in parallel. you should probably be doing 2:1 practice/study. always do the harder one first in the day.> -->
 <!-- <if you don't want to do X, then sit and do nothing until you want to do it. if this happens a few days in a row, then you either need to make X easier or quit altogether because you obviously don't want to do X at its current level of willpower expenditure> -->
 
+###### Motivation
+
 <!-- <staying motivated is crap. if you never feel like you have enough time to do X, or you feel like you spend too much time out with friends, then you don't deserve to do X, and you should quit now and abandon your dreams. because you don't want X -- you want Y -- and you should focus all your energy on Y> -->
+
+###### Problem-Solving
 
 <!-- <if X is a problem to solve, quit now. you cannot "solve" problems. you are probably asking the wrong question, or you are lacking in skill/knowledge.> -->
 <!-- <but when you do encounter things that seem like problems, the only four options are (1) the solution is obvious, (2) break it into subproblems, (3) change your representation, or (4) give up. with this approach, there are no problems! just non-obvious solutions.> -->
@@ -183,9 +202,9 @@ If X is a non-goal you can start now, X is likely some sort of skill.
 <!-- <feynmann's algorithm vs sussman's algorithm: is genius something inherited or earned?> -->
 
 
-### STEP 7.P: PRACTICE X
+### Step 7.P: Practice It
 
-#### STEP 7.P.0: PRACTICE SIBLING SKILLS OF X
+#### Step 7.P.0: Practice Sibling Skills
 
 <!-- <if you wanna learn guitar, learn music theory and a bunch of instruments> -->
 <!-- <if you wanna speak chinese, also learn a very small amount of english, french, icelandic, etc.> -->
@@ -197,11 +216,11 @@ If X is a non-goal you can start now, X is likely some sort of skill.
 <!-- <the first resaon you do this is because your skill doesn't work in a vacuum. you will usually be interfacing quite frequently with the sibling skills. and being able to anticipate their actions better will make the entire team flourish> -->
 <!-- <the second reason is that you're forcing yourself to learn different representations of the same thing, which will help you dig into the theoretical core MUCH quicker. in fact, just learning the C major scale on 10 sufficiently different instruments will teach you an insane amount of information about music theory. because it FORCES you to see the TRUE themes of the discipline> -->
 
-#### STEP 7.P.1: PRACTICE X
+#### Step 7.P.1: Practice It
 
 Your ratio of basics/imitation should probably be about 2:1
 
-##### STEP 7.P.1.B: BACK TO BASICS
+##### Step 7.P.1.B: Back to Basics
 
 In a sense, you can't practice anything besides the basics.
 
@@ -215,18 +234,18 @@ I recently started making bread (it's wonderful!). Herbs and spices are tempting
 
 <!-- <begin with 80/20> -->
 
-##### STEP 7.P.0.I: IMITATE THE GREATS
+##### Step 7.P.0.I: Imitate the Greats
 
 Practice X in the spirit of some master.
 
-#### STEP 7.T: STUDY X
+#### Step 7.T: Study It
 
-##### STEP 7.T.0: STUDY X'S PARENT FIELD(S)
+##### Step 7.T.0: Study the Underlying Principles
 
 <!-- <feynmann> -->
 <!-- <to learn cooking, you must study at the chemistry level> -->
 
-##### STEP 7.T.1: STUDY X
+##### Step 7.T.1: Study It
 
 <!-- <multiple texts> -->
 
@@ -234,7 +253,7 @@ Practice X in the spirit of some master.
 
 <!-- <make analogies to fields you already know. if you come from math, programming may look like funny equations. if you come from biology, programming may look like dna. take advantage of your existing mental models.> -->
 
-###### STEP 7.T.1.0: IF STUDYING BECOMES DIFFICULT, CHANGE REPRESENTATION
+###### Step 7.T.1.0: If Studying Becomes Difficult, Change Your Representation
 
 There are no magic people. You can learn anything.
 
@@ -250,5 +269,5 @@ If you are still motivated to do X despite the learning hurdles, then change you
 3. exercise
 4. meditate
 5. purge
-6. learn life basics
+6. learn common sense
 7. do a thing

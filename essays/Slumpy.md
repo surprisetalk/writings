@@ -9,7 +9,7 @@ Many say that Slump Corp isn't doing well because its management is doing a poor
 In the same way, we aren't in charge of our own minds. We get frustrated when our frequent attempts to usurp control are thwarted. To some extent, all we can do is negotiate, but most of the time, we haven't been very observant. So it's difficult to even know what management wants unless we're listening to them and maintaining an open dialogue.
 Your management may not be the best, but nobody leaves Slump Corp, so you may as well try to get them on your side.
 
-<slumpy coworkers: being a good influence (starting good habits)>
-<bad business partners: garbage in, garbage forever>
-<the good nows: 20% of your defects cause 80% of the problems>
+<!-- <slumpy coworkers: being a good influence (starting good habits)> -->
+<!-- <bad business partners: garbage in, garbage forever> -->
+<!-- <the good nows: 20% of your defects cause 80% of the problems> -->
 

@@ -45,7 +45,7 @@ We can do a lot of weird stuff with depth-perception!
 
 For instance, while maintaining the same image, we can invert the depth so that the world seems to be coming "out" at you where it shouldn't.
 
-TODO: This would make for a really good webpage with graphics that can be viewed with the red/blue glasses, or something. Or maybe a VR essay?
+<!-- TODO: This would make for a really good webpage with graphics that can be viewed with the red/blue glasses, or something. Or maybe a VR essay? -->
 
 ## Dynamic
 

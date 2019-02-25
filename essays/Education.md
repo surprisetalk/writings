@@ -3,7 +3,7 @@
 
 "Improving education" is not improving education.
 
-<consider second-person for emotional affect>
+<!-- <consider second-person for emotional affect> -->
 
 Suppose we championed the noble cause of "improving gyms". 
 First, we'd say that our gym equipment is ineffective. We'd complain that our treadmills are not "forward-thinking", and that our weights are outdated. We'd pressure our gym-districts into buying the latest-and-greatest exercise-equipment, and watch the next generation do just as poorly as all the previous ones. 
@@ -20,7 +20,7 @@ And it's okay if you're still out-of-shape after the first 13 years. It's not li
 Both learning and exercise are difficult. And they aren't "fun". Telling kids otherwise makes them feel like they're lazy and stupid. 
 The truth is that these practices are *fulfilling*. They inspire wonder. They pull your dreams closer to reality. They improve every quantifiable metric of your life.
 
-TODO: more ranting
+<!-- TODO: more ranting -->
 
-*True learning* is about asking questions -- our "education system" teaches kids how to sit-down and shut-up.
+<!-- *True learning* is about asking questions -- our "education system" teaches kids how to sit-down and shut-up. -->
 

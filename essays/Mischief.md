@@ -21,7 +21,7 @@ They're not mutually exclusive, but to me, adventure is diving into somebody els
 A good mischievious friend never allows a dull moment. They remind people to live and laugh. They remind people that they're more than meat with a career and family -- after a prank, people should feel like just a plain ol' piece of meat.
 
 
-But in order to create mischief again, I need to create. But I distract myself with shiny things, rather than having fun! What a waste of meat I've been for the past few years.
+But in order to create mischief again, I need to create. But I distract myself with Shiny Things, rather than having fun! What a waste of meat I've been for the past few years.
 
 I'm inclined to make a rule like "send a video to a friend everyday" or "send snail-mail every other day", but I don't tend to follow my own regimens.
 I haven't been able to force myself to do things, but I've actually been pretty good at removing things from my life (for a month or two at a time). For example, I couldn't start meditating, but I reduced my dependence on substances. 

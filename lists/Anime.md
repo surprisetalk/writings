@@ -24,6 +24,15 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - Rascal Does Not Dream of Bunny Girl Senpai
 - Zombieland Saga
 
+## [Top 15 Anime of 2018](https://www.youtube.com/watch?v=vhSD5-CU42Q)
+- Back Street Girls
+- Penguin Highway
+- Mirai of the Future
+- Aikatsu Friends!
+- Uchuu Senkan Tiramisu
+- March Comes in Like in a Lion
+- Takunomi
+
 ## [Shows like Asobe Asobase](https://www.reddit.com/r/AsobiAsobase/comments/9m31h8/similar_shows/)
 
 - [Plastic Neesan](https://myanimelist.net/anime/10711/Plastic_Neesan)

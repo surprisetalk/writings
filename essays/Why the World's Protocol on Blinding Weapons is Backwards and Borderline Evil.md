@@ -31,7 +31,7 @@ Humans favor sight over all other senses -- seriously, [a huge proportion of our
 
 So why would you want to _purposefully_ destroy somebody's most precious connection to the world? Shouldn't we rather aim for the limbs?
 
-Unfortunately, our current method is "_bombard them with bombs and bullets and maybe they'll survive_". We currently have no way of purposefully aiming for limbs during war. Right now, every combatant plays a game of roulette where injuries ranging from deafness to burns to limb loss to chronic respiratory illness to _death_. Wouldn't most soldiers rather play a game of "blind or not-blind"?
+Unfortunately, our current method is "_bombard them with bombs and bullets and maybe they'll survive_". We currently have no way of purposefully aiming for limbs during war. Right now, every combatant plays a game of roulette with prizes ranging from deafness to burns to limb loss to chronic respiratory illness to _death_. Wouldn't most soldiers rather play a game of "blind or not-blind"?
 
 Becoming blind may reduce your quality of life, but it doesn't reduce the quantity of your life, and it doesn't result in chronic pain.
 
@@ -74,6 +74,6 @@ Imagine if US police officers used lasers instead of bullets -- how many deaths 
 Imagine if the US used lasers rather than atomic bombs. Imagine if we _blinded_ hundreds of thousands of Japanese civilians, rather than _killing_ them? Wouldn't that something like that still do the trick?
 Of course, blinding an entire city would cause a few casualties (e.g. people driving), but once again, _it's better than exposing them to radiation_.
 
-Of course, war is terrible and we stop fighting forever. 
+Of course, war is terrible and we should stop fighting forever. 
 
 But until we figure out how to achieve world-peace, we'll be the blind leading the blind.

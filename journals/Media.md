@@ -1,4 +1,24 @@
 
+# 2019/03/10 1638h 
+
+## [Academia is a Cult (HackerNews Comments)](https://news.ycombinator.com/item?id=18373737)
+
+This comment-section had a lot of beautiful little remarks!
+
+Somebody [compared academia to an MLM scheme](https://news.ycombinator.com/item?id=18375276):
+> MLM you say?
+> Ok, let me see
+> - peddling in private homes (friends and family)? check!
+> - using social connections as marketing channel (classmates, friends and family)? check!
+> - promising benefits, while customers have to pay upfront and wait years for see their investment (never) pay off? check!
+> - turning customers to promoters (work environments turn away applicants without XYZ degree)? check!
+> - kick-back/ROI is distributed in ways that are "opaque" at best for customers? check! 
+
+Somebody else [recommended teaching pop and hip-hop in high-schools rather than classical](https://news.ycombinator.com/item?id=18374624). Somebody made an interesting comparison to teaching JS vs. C++.
+
+Lastly, I found [this little gem](https://news.ycombinator.com/item?id=18375146):
+> The difference between a cult and a religion: a cult wants it all, a religion just wants its cut. 
+
 # 2019/02/23 0817h 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iy49P-8wrEw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

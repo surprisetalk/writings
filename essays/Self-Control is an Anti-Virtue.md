@@ -27,7 +27,7 @@ Short of threat of physical force, all beliefs are fair-game. If you don't test 
 
 But I don't know -- what if all your peers are impressionable and your bad beliefs spread and mutate and become terrible monstrosities? Oof. Maybe I overestimate people's ability to change. Tell me I'm wrong, I guess 💁
 
-I suppose this is more advice about listening than speaking. Become someone who others can expose bad ideas to. Most people will provide enough self-criticism -- just be there.
+I suppose this advice is more about listening than speaking. Become someone who others can expose bad ideas to. Most people will provide enough self-criticism -- just be there.
 
 
 ## Never Do Things You Dislike
@@ -75,7 +75,7 @@ I have a lot of things to say about Christianity, but I guess I'll save it for a
     
 ## Feeling Bad About What I Do All-Alone All By Myself
 
-I don't remember what I was originally going to write here, but I love this heading 🐸
+I don't remember what I was originally going to write here, but I love this subtitle 🐸
 
 
 ## TL;DR

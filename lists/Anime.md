@@ -43,6 +43,13 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - [YuriYuri](https://www.crunchyroll.com/yuruyuri)
 - [Rakugo Tennyo Oyui](https://myanimelist.net/anime/2244/Rakugo_Tennyo_Oyui)
 
+## I Don't Remember Where I Found These Recommendations
+
+- [Honey & Clover](https://anilist.co/anime/16/Hachimitsu-to-Clover/)
+- [KareKano](https://anilist.co/anime/145/Kareshi-Kanojo-no-Jijou/)
+- [Baka to Test to Shoukanjuu](https://anilist.co/anime/6347/Baka-to-Test-to-Shoukanjuu/)
+- [Special A](https://anilist.co/anime/3470/Special-A/)
+
 ## Top Shows from MyAnimeList that I Haven't Seen Already
 
 - Kaiba

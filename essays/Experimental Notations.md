@@ -12,3 +12,9 @@
 # [Feynman Diagrams](https://en.wikipedia.org/wiki/Petri_net)
 
 ![feynman diagram](https://upload.wikimedia.org/wikipedia/commons/1/1f/Feynmann_Diagram_Gluon_Radiation.svg)
+
+
+# [APL](https://en.wikipedia.org/wiki/APL_(programming_language))
+
+![APL](http://www.chilton.com/~jimw/a2ap1g1.gif)
+

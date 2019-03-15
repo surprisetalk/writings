@@ -2,6 +2,8 @@ Coming soon!
 
 (Alternatively: Why Waterfall Still Beats Agile)
 
+<!-- Rapids vs. Waterfalls: Inertia! -->
+
 # Thesis
 - Upfront design and planning and batching reduce maintenance (and maintenance is costly). Agile pushes design/planning to the implementation phases. This is bad.
 

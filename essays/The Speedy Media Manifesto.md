@@ -1,0 +1,36 @@
+<!--
+  --
+  --   Intent: The How & Why of Speedy Media
+  --
+  --   Arguments:
+  --     - When consuming media, we want to maximize comprehension.
+  --       - This is true when media is for information, or enjoyment, or both.
+  --       - This is also true when consuming surreal or non-comprehensible art.
+  --     - We want to maximize comprehension, but comprehension has diminishing returns.
+  --       - In most cases, we shoot for 60%-85% comprehension.
+  --       - In other words, "We shouldn't spend forever on a single piece of media".
+  --       - Or in other other words, "The optimal comprehension rate is not 100%".
+  --     - The easiest way to tune comprehension is to moderate speed.
+  --       - Comprehension drops when the media is way too slow.
+  --       - Comprehension is wasted when the media is slightly too slow.
+  --       - Comprehension drops when the media is too fast.
+  --     - Logarithmic learning, combined with the inverted-U-curve of speed gives us a nice little min/max equation.
+  --       - ( Media difficulty, Personal comprehension rate, Target comprehension ) => Optimal consumption speed
+  --       - e.g. ( Textbook, Moderate, 65% ) => 350WPM
+  --       - e.g. ( "Neon Genesis Evangelion", High, 85% ) => 1.15X
+  --       - e.g. ( 4TH Grade, 5TH Grade, 70% ) => 500WPM
+  --
+  --   Pitfalls:
+  --     - Parallelizing media?
+  --     - "But what about music?"
+  --       - Passive vs. Active media
+  --     - Effective media consumption is an entirely different topic.
+  --       - But as a rule-of-thumb, "Go with the greats."
+  --     - "But that's not how the artist intended..."
+  --
+  --   Media:
+  --     Provide a calculator or interactive-graph for "optimal speed"!
+  --
+  -->
+
+Coming soon!

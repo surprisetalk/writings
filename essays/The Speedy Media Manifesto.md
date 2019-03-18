@@ -136,11 +136,11 @@ I love ATLA dearly, so why would I watch the series at double-speed‽ Here's my
 The following is true for most people in most situations:
 <table>
   <thead>
-    <th>
-      <td>Speed</td>
-      <td>Comprehension</td>
-      <td>Engagement</td>
-    </th>
+    <tr>
+      <th>Speed</th>
+      <th>Comprehension</th>
+      <th>Engagement</th>
+    </tr>
   </thead>
   <tbody>
     <tr>

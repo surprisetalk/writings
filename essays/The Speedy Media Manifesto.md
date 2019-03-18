@@ -188,7 +188,7 @@ The key is staying *engaged*. It's about tuning the speed of incoming ideas to t
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/brHkNI5qca0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="height:315px;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/brHkNI5qca0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Asymmetries of Understanding
 

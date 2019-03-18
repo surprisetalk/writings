@@ -41,8 +41,11 @@
 2. Speeding your media makes it _more_ fun and informational!
 3. But speeding _too much_ makes it _less_ fun and informational!
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L8FCvtpZVRo?start=386" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<!-- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_vL4DQeRe_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+---
+
+<iframe style="height:315px;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/L8FCvtpZVRo?start=386" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe style="height:315px;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/_vL4DQeRe_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 # The Speedy Media Manifesto
 
@@ -51,6 +54,9 @@ You can literally watch every episode of _[Stranger Things (Season 1)](https://w
 Yes, you can _literally_ watch a 400-minute series in 200 minutes. All you have to do is watch it faster!
 
 But why would you want to‽
+
+
+---
 
 ## In Search of Lost
 
@@ -66,9 +72,12 @@ Movies, podcasts, etc. naturally move at the rhythm of watches, but do they have
 
 Rather than asking "how many hours will this media take?" — ask "how many hours does this media _deserve_?"
 
-## 100% Comprehension
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GxKPBLjHAEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+
+<iframe style="height:315px;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/GxKPBLjHAEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 100% Comprehension
 
 Consider the [Law of Diminishing Marginal Utility](https://en.wikipedia.org/wiki/Marginal_utility#Diminishing_marginal_utility):
 > The law says, first, that the marginal utility of each homogenous unit decreases as the supply of units increases (and vice versa)....
@@ -105,9 +114,12 @@ The point is, everything has an infinite amount of detail, and it's okay to miss
 
 The amount of time and effort required of a consumer does not scale linearly. On average, each additional second pored into a piece of media returns less and less.
 
-<!-- Utility derived from a long, complex book will look like a shifted bell-curve, because it takes a while to understand the deeper ideas in the book. Plot utility vs. percent-complete. Surpass 100% completion as a way to communicate reviews. Give a few different examples of books and movies. -->
+<!-- TODO: Utility derived from a long, complex book will look like a shifted bell-curve, because it takes a while to understand the deeper ideas in the book. Plot utility vs. percent-complete. Surpass 100% completion as a way to communicate reviews. Give a few different examples of books and movies. -->
 
 Why don't people spend their lives watching their favorite films on repeat? Because at some point, they get it. They get what the film was doing. They get what the film was trying to say, or what the film uniquely spoke to them. At some point, they heard the message and hung up the phone. And maybe months or years later they'll watch it again with brand new eyes.
+
+
+---
 
 ## Comprehension and Control Theory
 
@@ -121,6 +133,140 @@ I love ATLA dearly, so why would I watch the series at double-speed‽ Here's my
 - My attention doesn't drift when I watch ATLA at ~1.75X.
 - Therefore I enjoy ATLA _more_ at ~1.75X.
 
+The following is true for most people in most situations:
+<table>
+  <thead>
+    <th>
+      <td>Speed</td>
+      <td>Comprehension</td>
+      <td>Engagement</td>
+    </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>way too slow</td>
+      <td>incomprehensible</td>
+      <td>💀</td>
+    </tr>
+    <tr>
+      <td>too slow</td>
+      <td>lost comprehension</td>
+      <td>😴</td>
+    </tr>
+    <tr>
+      <td>slightly slow</td>
+      <td>inefficient comprehension</td>
+      <td>🙄</td>
+    </tr>
+    <tr>
+      <td>perfect</td>
+      <td>full comprehension</td>
+      <td>🤔</td>
+    </tr>
+    <tr>
+      <td>slightly fast</td>
+      <td>lost comprehension</td>
+      <td>😰</td>
+    </tr>
+    <tr>
+      <td>too fast</td>
+      <td>incomprehensible</td>
+      <td>😵</td>
+    </tr>
+    <tr>
+      <td>way too fast</td>
+      <td></td>
+      <td>🤯</td>
+    </tr>
+  </tbody>
+</table>
+
+The key is staying *engaged*. It's about tuning the speed of incoming ideas to the speed of your mind. If the flow is too slow, you'll actually _lose_ comprehension due to distractions.
+
+<!-- TODO: movie speed vs. utility as graph: inverted-U curve -->
+
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/brHkNI5qca0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Asymmetries of Understanding
+
+So how inefficient is _recommended_ speed?
+
+### Ears ⋙ Mouth
+
+<table>
+  <tbody>
+    <tr>
+      <td>listening</td>
+      <td>250-315 WPM</td>
+    </tr>
+    <tr>
+      <td>speaking</td>
+      <td>140-180 WPM</td>
+    </tr>
+  </tbody>
+</table>
+
+Humans can listen about _twice_ as fast as they can speak without loss of comprehenison.
+
+Sources:
+- [Using Time-Compression To Make Multimedia Learning More Efficient: Current Research and Practice](http://www.aritzhaupt.com/eprofessional/papers/2015/PastoreRitzhaupt.pdf)
+- [Time-Compression: Systems Concerns, Usage, and Benefits](https://www.microsoft.com/en-us/research/publication/time-compression-systems-concerns-usage-and-benefits/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fredmond%2Fgroups%2Fcoet%2Fcompression%2Fchi99%2Fpaper.pdf)
+- [Techniques, Perception, and Applications of Time-Compressed Speech](http://alumni.media.mit.edu/~barons/html/avios92.html)
+
+
+### Eyes ⋙ Ears
+
+<table>
+  <tbody>
+    <tr>
+      <td>reading</td>
+      <td>300+ WPM</td>
+    </tr>
+    <tr>
+      <td>listening</td>
+      <td>250-315 WPM</td>
+    </tr>
+  </tbody>
+</table>
+
+Audiobooks are great, but they're not as efficient as books. We can read much faster than we can listen!
+
+<!-- TODO: Research? Diagrams? -->
+
+### Eyes ⋙ Hands
+
+<table>
+  <tbody>
+    <tr>
+      <td>watching</td>
+      <td>?</td>
+    </tr>
+    <tr>
+      <td>acting</td>
+      <td>1X</td>
+    </tr>
+  </tbody>
+</table>
+
+We can understand movements and behaviors _much_ faster than we can perform them.
+
+<!-- TODO: Research? Diagrams? -->
+
+#### [Subs are Better than Dubs](https://tvtropes.org/pmwiki/pmwiki.php/Main/SubbingVersusDubbing)
+
+My top listening speed is ~350WPM, which means dialogue becomes unintelligble at 3X. But my top _reading_ speed is ~1100WPM, which means I can theoretically process subtitles at 7-8X.
+In practice, video-comprehension (personally) starts plummeting at 4X speed. It is possible to keep up with simple stories, but trying to read 600WPM subtitles while watching the images flash by is no easy feat.
+
+I'm not sure if I recommend moving to subtitles for speed purposes, but it definitely raises the speed limit for videos.
+
+
+---
+
+## The Scenic Route ≠ The Slow Route 
+
 Every person and media forge a new experience together. Sometimes you want to savor every morsel of every frame. Sometimes you want to understand the bare minimum of the plot. Sometimes you want to skip around to the fight scenes.
 
 Let's step through some hypotheticals:
@@ -128,28 +274,7 @@ Let's step through some hypotheticals:
   - ...are rollercoasters more fun at half-speed?
   - ...why wouldn't we spend more time on dessert than dinner?
   - ...why isn't [Porter Robinson's _Worlds_ (Slowed 800%)](https://www.youtube.com/watch?v=_vL4DQeRe_4) as enjoyable as the original?
-- 
 
 Every experience has a sweet-spot on its speedometer.
 
-<!--
-  --  Analogies:
-  --    - Would ATLA be twice as good at 0.5X? How about 30X?
-  --    - Would a rollercoaster be twice as much fun if you slowed it down?
-  --    - When you love a meal, do you consume it faster or slower?
-  -->
-
-<!-- movie speed vs. utility as graph -->
-
-<!-- 
-  --  Speed vs. Comprehension (Example)
-  --   0.50 ==   66%
-  --   0.75 ==   87%
-  --   1.00 ==   82%
-  --   1.25 ==   83%
-  --   1.50 ==   75%
-  --   2.00 ==   71%
-  --   2.50 ==   59%
-  -->
-
-<!-- We can trade quality for quantity. Skimming vs. dissecting. But diminishing returns... -->
+<!-- TODO: We can trade quality for quantity. Skimming vs. dissecting. But diminishing returns... -->

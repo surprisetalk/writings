@@ -15,6 +15,8 @@
 - Katana Zero
 - Griftlands
 - The Westport Independent
+- Labyrinthe of Refrain
+- Disgaea 5
 
 
 # Played

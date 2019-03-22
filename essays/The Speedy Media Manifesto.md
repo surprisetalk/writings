@@ -37,9 +37,7 @@
 
 ## _TL;DR_
 
-1. Media is fun and informational!
-2. Speeding your media makes it _more_ fun and informational!
-3. But speeding _too much_ makes it _less_ fun and informational!
+We can trade small amounts of comprehension for large amounts of time.
 
 
 ---
@@ -108,15 +106,55 @@ What if you were required to submit written exams as you left theaters? What lev
 - Did you [notice what was written on the raptors](https://www.reddit.com/r/JurassicPark/comments/3ah37c/this_was_always_my_favorite_shot_in_jurassic_park/)?
 - Did you understand the significance of [the seatbelt scene](https://www.youtube.com/watch?v=51Za8lQqgqs)?
 - Did you understand [the contrasting plots of neophilia and ludditism](https://www.youtube.com/watch?v=VWz1E3oHd8w)?
-The point is, everything has an infinite amount of detail, and it's okay to miss things. It's okay to comprehend 85% of _Jurassic Park_.
+The point is, everything has an infinite amount of detail, and it's okay to miss things. It's okay to comprehend 85% of _Jurassic Park_. 
 
-> Nobody aims for 100% comprehension.
+Nobody aims for 100% comprehension.
 
-The amount of time and effort required of a consumer does not scale linearly. On average, each additional second pored into a piece of media returns less and less.
+> Comprehension does not scale linearly with effort.
+
+On average, each additional second pored into a piece of media returns less and less utility.
 
 <!-- TODO: Utility derived from a long, complex book will look like a shifted bell-curve, because it takes a while to understand the deeper ideas in the book. Plot utility vs. percent-complete. Surpass 100% completion as a way to communicate reviews. Give a few different examples of books and movies. -->
 
 Why don't people spend their lives watching their favorite films on repeat? Because at some point, they get it. They get what the film was doing. They get what the film was trying to say, or what the film uniquely spoke to them. At some point, they heard the message and hung up the phone. And maybe months or years later they'll watch it again with brand new eyes.
+
+So what if you had a magic dial that traded comprehension for time/effort? Assume the following:
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Comprehension</th>
+      <th>Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🐛</td>
+      <td>86%</td>
+      <td>2 hours</td>
+    </tr>
+    <tr>
+      <td>🐢</td>
+      <td>80%</td>
+      <td>1.5 hours</td>
+    </tr>
+    <tr>
+      <td>🐇</td>
+      <td>71%</td>
+      <td>1 hour</td>
+    </tr>
+    <tr>
+      <td>🐆</td>
+      <td>46%</td>
+      <td>30 minutes</td>
+    </tr>
+  </tbody>
+</table>
+
+If you could magically choose between 🐛/🐢/🐇/🐆 on any book or television series or film, would you? 
+
+Spoiler alert: you _can_ choose. Even better, 🐛 and 🐢 probably yield the same comprehension.
 
 
 ---
@@ -209,7 +247,7 @@ So how inefficient is _recommended_ speed?
   </tbody>
 </table>
 
-Humans can listen about _twice_ as fast as they can speak without loss of comprehenison.
+Humans can listen about _twice_ as fast as they can speak without loss of comprehension.
 
 Sources:
 - [Using Time-Compression To Make Multimedia Learning More Efficient: Current Research and Practice](http://www.aritzhaupt.com/eprofessional/papers/2015/PastoreRitzhaupt.pdf)
@@ -278,3 +316,18 @@ Let's step through some hypotheticals:
 Every experience has a sweet-spot on its speedometer.
 
 <!-- TODO: We can trade quality for quantity. Skimming vs. dissecting. But diminishing returns... -->
+
+
+---
+
+## Conclusion(s)
+
+1. Time is precious.
+2. Ideas are also precious.
+3. Comprehension is a measure of idea transmission.
+4. Comprehension is precious (following *(2)* and *(3)*).
+5. You can trade small amounts of comprehension for large amounts of time.
+6. Speeding up media is a natural way to trade comprehension for time.
+7. You _should_ speed up media when time is more precious than its ideas (following *(1)*, *(4)*, *(5)*, and *(6)*).
+8. There exist naturally inefficient asymmetries between the speeds of transmission and comprehension, e.g. speaking vs. listening.
+9. When transmission inefficiencies can be exploited at no cost of comprehension, you _should_ speed up your media (following *(1)*, *(4)*, *(5)*, *(6)*, and *(8)*).

@@ -184,7 +184,7 @@ Nothing. Go away.
 
 But what if I smoke a cigarette?
 
-I hope every cell in your lungs simultaneously bursts into cancer.
+I hope every cell in your lungs simultaneously burst into cancer.
 
 Master!
 

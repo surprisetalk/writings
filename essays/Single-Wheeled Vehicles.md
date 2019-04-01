@@ -1,7 +1,5 @@
 
-# Wheels
-
-## The Elegance of Single-Wheeled Vehicles
+# The Elegance of Single-Wheeled Vehicles
 
 I'm surprised that there's not more single-wheeled vehicles out in the world.
 

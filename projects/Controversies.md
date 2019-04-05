@@ -13,16 +13,15 @@ I'd like to make a YouTube channel exploring radical thoughts and famous wars of
 - portrait monitors
 - vision charts
 - thorium salt reactors
-- "Cantor's ideas about infinity invoked such harsh criticism, he literally went insane"
 
 ## Feuds
 
-<!-- Book: Great Feuds in Mathematics: Ten of the Liveliest Disputes Ever -->
+<!-- TODO: Outsource research to Reddit, HackerNews, and Quora. -->
+
+<!-- BUG: I want to focus on controversies with no obvious winner. -->
 
 -[List of Controversial Issues](https://en.wikipedia.org/wiki/Wikipedia:List_of_controversial_issues)
 -[Scientific Controversies](https://en.wikipedia.org/wiki/Category:Scientific_controversies)
-
-BUG: I want to focus on controversies with no obvious winner.
 
 - the fed
 - carbon credits
@@ -54,7 +53,7 @@ BUG: I want to focus on controversies with no obvious winner.
 - leibniz vs. newton
 - infintesimals
 - grigori perelman
-- https://www.quora.com/What-are-the-most-controversial-mathematical-theories
+- [what are the most controversial math theories?](https://www.quora.com/What-are-the-most-controversial-mathematical-theories)
   - intuitionism
   - potential vs. completed infinity
   - axiom of choice

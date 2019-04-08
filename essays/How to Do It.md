@@ -27,7 +27,7 @@ You will break everything. Many times. Mentors can't prevent you from failing, b
 
 Mentors will keep you humble. When you feel like an apprentice, you're more prepared to listen and learn.
 
-Finding a mentor is easy. Choose a respectable person and communicate regularly. If they seem standoffish, then you're probably talking about yourself too much. Every conversation shouldn't revolve around your problems.
+Finding a mentor is easy. Choose a respectable person and communicate regularly. If they seem standoffish, then you're probably talking about yourself too much. Conversations shouldn't revolve around your problems.
 
 I find that children are very good with this kind of stuff. By the time you've simplified a problem, the solution seems obvious. They're also really good at filtering out garbage -- they haven't been programmed to care about careers, marriage, and other adult junk. And children are always gracious with their time (especially if you barter ice-cream or other sweets). This really only works if you have kids or young siblings; otherwise, you're probably being creepy.
 
@@ -67,7 +67,7 @@ Steps 1-2 are higher priority. It's easier to keep in touch with your self-image
 
 Exercise can improve your lifespan, mood, sleep, strength, self-confidence, willpower, intelligence, and attractiveness. It's the closest thing we have to a "cheat-code" for life.
 
-Dudes, if you have to pick just one exercise, do deadlifts. And do them right, or you'll, uh, die.
+Dudes, if you have to pick just one exercise, do deadlifts. And do them right, or you'll, uh, die or something.
 
 Ladies, if you're looking to be more "curvy", do squats. But do them correctly, or you'll wreck your back.
 
@@ -98,7 +98,7 @@ The last pitfall was expectations. I started meditation to improve myself. I wan
 
 Lately, meditation has been becoming my "default mode". When I don't want to do anything, I just don't do anything. And if I want to sit down and think, that's okay too.
 
-If meditation isn't fun, you're doing it wrong.
+If meditation isn't enjoyable, you're doing it wrong.
 
 Recommended Reading: 
 - [Tao te Ching](https://www.sacred-texts.com/tao/taote.htm)

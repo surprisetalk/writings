@@ -1,5 +1,5 @@
 
-![david](https://upload.wikimedia.org/wikipedia/commons/a/a0/%27David%27_by_Michelangelo_Fir_JBU002.jpg)
+<!-- ![david](https://upload.wikimedia.org/wikipedia/commons/a/a0/%27David%27_by_Michelangelo_Fir_JBU002.jpg) -->
 
 > Michelangelo was asked by the pope about the secret of his genius, particularly in regards to the statue of David, largely considered to be the greatest sculpting masterpiece of all time. Michelangelo responded by saying, “It’s simple. I just remove everything that isn't David.”
 

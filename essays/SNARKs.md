@@ -1,5 +1,7 @@
 Coming soon!
 
+<!-- https://github.com/gluk64/awesome-zero-knowledge-proofs -->
+
 <!-- https://codaprotocol.com -->
 <!-- chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://codaprotocol.com/static/coda-whitepaper-05-10-2018-0.pdf -->
 <!-- https://codaprotocol.com/blog/scanning_for_scans.html -->

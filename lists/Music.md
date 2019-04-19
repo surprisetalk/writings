@@ -837,9 +837,29 @@ Coming soon!
 - ☆☆☆☆☆ | Jeremy Zuckerman :: _The Legend of Korra: Original Music From Book One_
 
 
-## Incoming Artists
+## Incoming Music
 
 - High Wasted
 - Cults
 - Alon Mor
 - Zach Hill
+- https://soundcloud.com/TraJD
+- https://soundcloud.com/airuei
+- https://soundcloud.com/maidcloset
+- https://pastebin.com/yi2Li6fr
+- https://soundcloud.com/watgood
+- https://soundcloud.com/bringyourknapsack
+- https://soundcloud.com/alfie-casanova
+- https://soundcloud.com/r3llofficial/43mins-jerseyclub-exclusive
+- https://soundcloud.com/itsr3llofficial/r3ll-ignition-mix
+- https://soundcloud.com/nesthq/nest-hq-minimix-r3ll
+- https://soundcloud.com/itsr3llofficial/r3ll-dots1118-nagoya-japan-live
+- https://soundcloud.com/thump/on-deck-r3ll-1
+- https://soundcloud.com/futatsuki/summer-bae-future-bass-mix
+- https://soundcloud.com/search?q=glacci%20endorphine
+- https://soundcloud.com/search?q=Feel%20Like%20This%20Deon%20Custom%20glacci
+- https://soundcloud.com/reverie-sound/vindicated-001
+- https://soundcloud.com/shita-mix/noise-fanaticsdeon-custom-in-osaka-mix
+- https://soundcloud.com/dzzmusic
+- https://soundcloud.com/search?q=firefest
+- https://soundcloud.com/officialgalex/kawaii-x-w3ird-hour-mix-galex

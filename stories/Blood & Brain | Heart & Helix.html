@@ -1,0 +1,91 @@
+<style>
+ 
+ #root
+ {
+     display: grid;
+     grid-template-columns: auto auto;
+     white-space: nowrap;
+     /* font-size: 0.8rem; */
+ }
+
+ .gene, .brian
+ {
+     /* border: 1px solid black; */
+ }
+
+ .gene
+ {
+     color: #029683;
+ }
+
+ .brian
+ {
+     color: #7d024f;
+ }
+
+ .both
+ {
+     color: #205bbc;
+     grid-column: 1 / span  2;
+ }
+
+
+</style>
+
+<a href="/images/blood_brain_heart_helix.png">
+  <img class="is-hidden-tablet" src="/images/blood_brain_heart_helix.png"/>
+</a>
+
+<div id="root" class="is-hidden-mobile"></div>
+
+<script>
+
+ var root = document.getElementById('root');
+
+ function createElement( nucleotide )
+ {
+     var t = document.createTextNode(nucleotide);
+     var s = document.createElement('span');
+     s.appendChild(t);
+     root.appendChild(s);
+     return s;
+ }
+
+ var brian = "Behavior is beautiful. Beyond the blood and bones lies brains: the basis for our biases and beliefs. Breathe in the beauty! I saw him on a street corner. Beneath a bright, blinking body stood a soul so steeped in allure I couldn't avert my eyes. An experience unlike any other: unbridled attraction. This thirst threw my thoughts throughout the mind's theater; I've always had fonder feelings for feminine physiques. I became alone although I was all alone all along. In retrospect, remembering my rear-view mirror, something sad stole this sweet smile from his vivid visage. The entire ordeal hung high and heavy over my head for a mirthless month, until a strange circumstance saved my sorrowed soul. On an evening ridden with regularity and routine like all wonted work weeks, I went for a walk on a park's promenade, for fate forces her fingers on finite forms. So I stopped to see the stars. Surely somebody sent a signal from the skies, for at that moment I met the man that mixed such strange sensations into me. I tripped on a tree's rotten roots, which ran through deep dirt and aged earth, and he hurred to help me up by the hand. \"My name's Gene,\" while strolling to his spot on the sod; as our souls sought a sitting space on this soil, we spoke of small subjects, like whether the weather was windy and wet. But eternity's effulgent ether overhead eventually opened our eyes and ears to the blood beating between each others' arteries. Our choices create currents of kismet. God may be the differing dogmas, the contradictory convictions, and the opposing opinions that mixed in my mortal mind as I found five foreign fingers to intertwine mine on a lawn limited only by the light from our lanterns, lit long ago and light-years away. Holding hands here, nature and nurture hold their breaths, for the freedom to feel seems to supplant the determinism in our DNA. May our minds meld as the Summer's sun."
+     .split(' ');
+
+ var gene = "Our hands are not the handiwork of humankind, but of humble helices and hearts harboring hundreds of hymns. Souls seek survival. I saw him hand-in-hand with a handsome man, happier than he held my hurting heart. When we met eyes, mine wet, I pined for his pretty pupils. His hand held firm, for I fell from first to forgotten in four fractions of a fly's flutter. Flooded with feelings, I became alone on a crowded concrete curb, caught by Cupid's lead-laden arrow. But the gods gave me grit to get through that gruesome event, and over a few fortnights I was free to feel fine, but I couldn't shake the shreds of sentiment that shrouded my senses. On an evening unline all others, I embarked on a spontaneous stroll in a proximate park. A patch of gilded grass looked like a lovely location to lie under the heralded heavens' scintilla of suns and stars. For many minutes I mused about Monoceros's meaning. In this memorable moment I met fate in the funniest fashion. Isn't fact more fantastic than fiction? This fellow fell flat in front of a fir, so I hurriedly hopped up to help him. He arose, blooming as a rose, with a spiky stem of sorrow too secret to see. But as our souls sense sweet scents, we find that stems' spikes slough off as ice in the ides of March's madness. He sweetly sighed, \"call me Brian,\" though I swear he said \"call me Brain.\" Genomes guarantee our grief and glee just as destiny determines our dates' descriptions. God may be the ebb of ages, the flow in the helices' histories, and the new Clio tides; my muse programs all peoples' preferences. This common code compelled me to clutch the passive palm of a person, propelling us into a pleasant yet prdetermined picture of passion. Now nature and nurture talk of time; each era has humans whose hearts contiune the chaos and clockwork of constellations. May our bodies blend as the Winter wind."
+     .split(' ');
+ 
+ var len = Math.min( brian.length, gene.length );
+
+ for( var i = 0; i < len; i+=3 )
+ {
+     if( 7 === i/3%16 )
+     {
+         var l = createElement( brian.slice(i,i+3).join(' ') );
+         l.className = "both";
+         l.style.textAlign = "center";
+         l.style.fontSize = 1.55 + "rem";
+
+     } else
+     {
+         var k = Math.abs((i/3+1)%16-8);
+
+         var l = createElement( (i/3+8%32<16 ? brian : gene).slice(i,i+3).join(' ') );
+         l.className = ((i/3+8)%32<15 ? "brian" : "gene");
+         l.style.textAlign = "center";
+         l.style.marginRight =  0 + 1.50 * k - 5.5 + "rem";
+         l.style.marginLeft  = 13 - 1.50 * k - 5.5 + "rem";
+         l.style.fontSize = 0.1 * k + 1 + "rem";
+
+         var r = createElement( (i/3+8%32>16 ? brian :gene).slice(i,i+3).join(' ') );
+         r.className = ((i/3+8)%32>=15 ? "brian" : "gene");
+         r.style.textAlign = "center";
+         r.style.marginLeft  =  0 + 1.50 * k - 5.5 + "rem";
+         r.style.marginRight = 13 - 1.50 * k - 5.5 + "rem";
+         r.style.fontSize = 0.1 * k + 1 + "rem";
+     }
+ }
+
+</script>

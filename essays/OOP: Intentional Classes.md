@@ -1,10 +1,13 @@
+<!-- TODO: think of a more creative name! -->
+
 <!-- TODO: make a mock customer object, showing which parts are values, classes, and structs -->
 
 <!-- TODO: if it's unclear whether a class should be a value or state or structure, then your class is probably poorly-defined and doing too many things. -->
 
 <!-- TODO: performance -->
 
-## Value {: #Value}
+## Value 
+{: #Value}
 
 > Classes for _singular_ and _stateless_ chunks of information.
 
@@ -71,7 +74,7 @@ That's it! Easy!
 
 ### Constant Methods
 
-Examples: `Number.infinity()`, `Color.green()`, `DateTime.unixEpoch()`, `FilePath.root()`, TODO
+Examples: `Number.infinity()`, `Color.green()`, `DateTime.unixEpoch()`, `FilePath.root()`
 
 Constant methods are static methods for generating unique/significant value objects.
 
@@ -87,7 +90,7 @@ The constructor handles validation and declares the instance's properties. So al
 
 ### Encoder Methods
 
-Examples: `datetime.toUnixTimestamp()`, `filePath.toString()`, `json.stringify()`, `hash.toString(privateKey)`, `color.toHexString()`, TODO
+Examples: `datetime.toUnixTimestamp()`, `filePath.toString()`, `json.stringify()`, `hash.toString(privateKey)`, `color.toHexString()`
 
 Encoder methods produce equivalent objects of different types.
 
@@ -97,7 +100,7 @@ If any information is lost during the encoding process, _make sure_ it's clear. 
 
 ### Extract Methods
 
-Examples: `uri.host()`, `float.floor()`, `string.charAt(7)`, `color.saturation()`, `string.startsWith('🐸')`, `signature.isSignedBy(publicKey)`, TODO
+Examples: `uri.host()`, `float.floor()`, `string.charAt(7)`, `color.saturation()`, `string.startsWith('🐸')`, `signature.isSignedBy(publicKey)`
 
 Extraction methods are exactly the same as encoder methods, but with a lot more information loss. They're used to construct a view of a small subset of the value object.
 
@@ -107,19 +110,19 @@ When extracting an `Integer` from a `Float`, you're forced to throw away the fra
 
 ### Cut Methods
 
-Examples: `int.absoluteValue()`, `string.slice(1,3)`, `datetime.midnight()`, `string.toLowerCase()`, TODO
+Examples: `int.absoluteValue()`, `string.slice(1,3)`, `datetime.midnight()`, `string.toLowerCase()`
 
 Cut methods simply throw away some information. They produce objects of the same type, just with some stuff missing.
 
 ### Mix Methods
 
-Examples: `string.reverse()`, `number.negate()`, `boolean.not()`,  `string.exclaim()`, TODO
+Examples: `string.reverse()`, `number.negate()`, `boolean.not()`,  `string.exclaim()`
 
 Mixers produce objects of the same type with no information loss!
 
 ### Merge Methods
 
-Examples: `int.add(21)`, `string.concat('!')`, `path.join(Path.home())`, `uri1.equal(uri2)`, TODO
+Examples: `int.add(21)`, `string.concat('!')`, `path.join(Path.home())`, `uri1.equal(uri2)`
 
 Merge methods add information to the object that may or may not destroy information. Merge methods always produce objects of the same type. For instance, `datetime.addMinutes(10)` will create a new `DateTime` object offset by an equivalent amount of minutes.
 
@@ -146,11 +149,12 @@ Another common use case of operators is to use `value.compare()` with `structure
 
 ---
 
-## State {: #State}
+## State
+{: #State}
 
 > Classes are for _singular_ and _stateful_ chunks of information.
 
-Examples: `Customer`, `HttpRequest`, `Transaction`, `Socket`, TODO
+Examples: `Customer`, `HttpRequest`, `Transaction`, `Socket`
 
 The methods of state classes are verbs. Actions like `customer.purchase(item)` and `httpRequest.respond(200,body)` describe how things change internally or produce change in other systems.
 
@@ -217,7 +221,7 @@ Beyond that, there's little restriction to what you can do in your constructors!
 
 ### Constant Methods
 
-Examples: `ShoppingCart.empty()`, TODO
+Examples: `ShoppingCart.empty()`
 
 With state classes, constant methods are useful as "starting points" for creating objects.
 
@@ -233,7 +237,7 @@ await cart.purchase(paymentInfo);
 
 ### Perspective Methods
 
-Examples: `customer.sendNewsletterEmail(newsletter)`, `document.print(printer)`, `cark.honk()`, TODO
+Examples: `customer.sendNewsletterEmail(newsletter)`, `document.print(printer)`, `cark.honk()`
 
 Sending messages to the outside world!
 
@@ -281,7 +285,7 @@ try
 }
 ```
 
-Examples: `shoppingCart.addItem(item)`, `customer.setAddress(address)`, `car.applyGas(force)`, TODO
+Examples: `shoppingCart.addItem(item)`, `customer.setAddress(address)`, `car.applyGas(force)`
 
 Manipulation methods are for non-state-transition updates.
 
@@ -345,7 +349,7 @@ class TrafficLight
 }
 ```
 
-Examples: `shoppingCart.submit()`, `httpRequest.respond(200,body)`, `user.suspend(reason)`, `trafficLight.stop()`, `customer.verifyEmail(verificationCode)`, `car.park()`, TODO
+Examples: `shoppingCart.submit()`, `httpRequest.respond(200,body)`, `user.suspend(reason)`, `trafficLight.stop()`, `customer.verifyEmail(verificationCode)`, `car.park()`
 
 The intent of these methods is to move an object into a different "stage" of its lifecycle.
 
@@ -357,7 +361,7 @@ A car object may have stages like `PARK`, `REVERSE`, `NEUTRAL`, and `DRIVE`. The
 
 ### Query Methods
 
-Examples: `shoppingCart.items()`, `user.isEmailVerified()`, `trafficLight.color()`, `car.speed()`, TODO
+Examples: `shoppingCart.items()`, `user.isEmailVerified()`, `trafficLight.color()`, `car.speed()`
 
 Query methods are getters.
 
@@ -365,7 +369,8 @@ Outside code shouldn't be poking and prodding around objects' internal propertie
 
 ---
 
-## Structure {: #Structure}
+## Structure
+{: #Structure}
 
 > Classes for organizing multiple [values](#Value) or [states](#State) generalized over any type.
 

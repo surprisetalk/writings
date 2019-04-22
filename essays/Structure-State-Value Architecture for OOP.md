@@ -15,19 +15,28 @@ This framework is [No Silver Bullet](https://en.wikipedia.org/wiki/No_Silver_Bul
 
 SSV unabashedly promotes clarity over performance. If you find that performance is lacking, it's usually a [structural](#Structure) problem. Learning to think with [pipes](https://en.wikipedia.org/wiki/Pipeline_(software)) is a good start for making fast, memory-efficient systems without touching the smaller pieces of the system.
 
+In this guide, I present common methods that you'll find in each class. This does _not_ mean that you should try to implement them if they don't exist! The methods described in the SSV framework are for _identifying_ how a class might work, rather than _prescribing_ how a class should work.
+
 Thanks to [Jon Anderson](https://jander.land) for sparking this idea!
 
 Class                   | Singular?   | Stateless?  | Examples
-----------------------: | :---------: | :---------: | ----------------------------------------------------------
-[Structure](#Structure) | ❌          | ❌          | `Array`, `Tree`, `Graph`, `Tuple`, `Set`
-[State](#State)         | ✅          | ❌          | `Customer`, `HttpRequest`, `Transaction`, `Socket`
-[Value](#Value)         | ✅          | ✅          | `String`, `Email`, `UUID`, `URI`, `Color`, `Maybe`
+----------------------: | :---------: | :---------: | ----------
+[Structure](#Structure) | ❌          | ❌          | `Array` {: .lang-javascript}, `Tree` {: .lang-javascript}, `Graph` {: .lang-javascript}, `Tuple` {: .lang-javascript}, `Set` {: .lang-javascript}
+[State](#State)         | ✅          | ❌          | `Customer` {: .lang-javascript}, `HttpRequest` {: .lang-javascript}, `Transaction` {: .lang-javascript}, `Socket` {: .lang-javascript}
+[Value](#Value)         | ✅          | ✅          | `String` {: .lang-javascript}, `Email` {: .lang-javascript}, `UUID` {: .lang-javascript}, `URI` {: .lang-javascript}, `Color` {: .lang-javascript}, `Maybe` {: .lang-javascript}
 
 <!-- TODO: make a mock customer object, showing which parts are values, classes, and structs -->
 
 <!-- TODO: table of which Design Patterns correspond to what in SSV -->
 
 ---
+
+## Value
+{: #Value}
+
+> Classes for _singular_ and _stateless_ chunks of information.
+
+Examples: `String` {: .lang-javascript}, `Time` {: .lang-javascript}, `Dollar` {: .lang-javascript}, `DateRange` {: .lang-javascript}, `EmailAddress` {: .lang-javascript}, `LastName` {: .lang-javascript}, `UUID` {: .lang-javascript}, `JSON` {: .lang-javascript}, `PostalAddress` {: .lang-javascript}, `URI` {: .lang-javascript}, `FilePath` {: .lang-javascript}, `SHA5` {: .lang-javascript}, `Color` {: .lang-javascript}
 
 ```javascript
 class Length
@@ -67,13 +76,6 @@ class Length
   }
 }
 ```
-
-## Value
-{: #Value}
-
-> Classes for _singular_ and _stateless_ chunks of information.
-
-Examples: `String` {: .lang-javascript}, `Time` {: .lang-javascript}, `Dollar` {: .lang-javascript}, `DateRange` {: .lang-javascript}, `EmailAddress` {: .lang-javascript}, `LastName` {: .lang-javascript}, `UUID` {: .lang-javascript}, `JSON` {: .lang-javascript}, `PostalAddress` {: .lang-javascript}, `URI` {: .lang-javascript}, `FilePath` {: .lang-javascript}, `SHA5` {: .lang-javascript}, `Color` {: .lang-javascript}
 
 Values objects are useful as immutable structures that can be combined and transformed. [States](#State) and [structures](#Structure) use value objects to store information.
 
@@ -172,6 +174,13 @@ Another common use case of operators is to use `value.compare()` {: .lang-javasc
 
 ---
 
+## State
+{: #State}
+
+> Classes are for _singular_ and _stateful_ chunks of information.
+
+Examples: `Customer` {: .lang-javascript}, `HttpRequest` {: .lang-javascript}, `Transaction` {: .lang-javascript}, `Socket` {: .lang-javascript}
+
 ```javascript
 // This is a contrived example to show off weird state stuff.
 // Please do not copy this; it's not a very good way to handle requests.
@@ -219,13 +228,6 @@ class WebPage
 }
 ```
 
-## State
-{: #State}
-
-> Classes are for _singular_ and _stateful_ chunks of information.
-
-Examples: `Customer` {: .lang-javascript}, `HttpRequest` {: .lang-javascript}, `Transaction` {: .lang-javascript}, `Socket` {: .lang-javascript}
-
 The methods of state classes are verbs. Actions like `customer.purchase(item)` {: .lang-javascript} and `httpRequest.respond(200,body)` {: .lang-javascript} describe how things change internally or produce change in other systems.
 
 <!-- TODO: is it a value or state? -->
@@ -248,8 +250,6 @@ Beyond that, there's little restriction to what you can do in your constructors!
 
 Examples: `ShoppingCart.empty()` {: .lang-javascript}
 
-With state classes, constant methods are useful as "starting points" for creating objects.
-
 ```javascript
 const cart = ShoppingCart.empty();
 
@@ -259,6 +259,7 @@ cart.addItem(item3);
 
 await cart.purchase(paymentInfo);
 ```
+With state classes, constant methods are useful as "starting points" for creating objects.
 
 ### Perspective Methods
 
@@ -322,6 +323,8 @@ Manipulation methods like `customer.setAvatarImage(imageUrl)` {: .lang-javascrip
 
 ### State-Transition Methods
 
+Examples: `shoppingCart.submit()` {: .lang-javascript}, `httpRequest.respond(200,body)` {: .lang-javascript}, `user.suspend(reason)` {: .lang-javascript}, `trafficLight.stop()` {: .lang-javascript}, `customer.verifyEmail(verificationCode)` {: .lang-javascript}, `car.park()` {: .lang-javascript}
+
 ```javascript
 class TrafficLight
 {
@@ -374,8 +377,6 @@ class TrafficLight
 }
 ```
 
-Examples: `shoppingCart.submit()` {: .lang-javascript}, `httpRequest.respond(200,body)` {: .lang-javascript}, `user.suspend(reason)` {: .lang-javascript}, `trafficLight.stop()` {: .lang-javascript}, `customer.verifyEmail(verificationCode)` {: .lang-javascript}, `car.park()` {: .lang-javascript}
-
 The intent of these methods is to move an object into a different "stage" of its lifecycle.
 
 It's helpful to map out these transitions using a state-transition diagram! In particular, it's helpful to throw errors on illegal state-transitions, so that your program can't be put into an errant state.
@@ -393,6 +394,13 @@ Query methods are getters.
 Outside code shouldn't be poking and prodding around objects' internal properties, so use these methods to expose controlled "views" of the data.
 
 ---
+
+## Structure
+{: #Structure}
+
+> Classes for organizing multiple [values](#Value) or [states](#State) generalized over any type.
+
+Examples: `Array` {: .lang-javascript}, `List` {: .lang-javascript}, `Graph` {: .lang-javascript}, `Tuple` {: .lang-javascript}, `Tree` {: .lang-javascript}, `Stack` {: .lang-javascript}
 
 ```javascript
 class NonEmptyStack
@@ -435,11 +443,6 @@ class NonEmptyStack
   }
 }
 ```
-
-## Structure
-{: #Structure}
-
-> Classes for organizing multiple [values](#Value) or [states](#State) generalized over any type.
 
 Lastly, we have structures! Structures are _generalized_ classes for holding other objects.
 

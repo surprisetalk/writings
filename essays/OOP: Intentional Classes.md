@@ -6,24 +6,9 @@
 
 <!-- TODO: performance -->
 
-## Value
-{: #Value}
+<!-- TODO: table of three different classes -->
 
-> Classes for _singular_ and _stateless_ chunks of information.
-
-Examples: `String`, `Time`, `Dollar`, `DateRange`, `EmailAddress`, `LastName`, `UUID`, `JSON`, `PostalAddress`, `URI`, `FilePath`, `SHA5`, `Color`
-
-Values objects are useful as immutable structures that can be combined and transformed. [States](#State) and [structures](#Structure) use value objects to store information.
-
-Value classes should _never_ have side-effects. They don't make HTTP requests, they don't touch the file-system, and they don't talk to databases.
-
-Value classes should be _immutable_. Nothing inside the object should ever be updated after construction. Value classes have no setter methods. Of course, sometimes it's necessary to mutate data in-place for memory/performance reasons, but that kind of stuff should be avoided when possible.
-
-<!-- TOOD: maybes? -->
-
-<!-- TODO: enums? -->
-
-<!-- TODO: the key to all the methods: is it producing an object of different type? does it accept an object of different type? is it losing informaiton? make a table! -->
+---
 
 ```javascript
 class Length
@@ -63,6 +48,25 @@ class Length
   }
 }
 ```
+
+## Value
+{: #Value}
+
+> Classes for _singular_ and _stateless_ chunks of information.
+
+Examples: `String`, `Time`, `Dollar`, `DateRange`, `EmailAddress`, `LastName`, `UUID`, `JSON`, `PostalAddress`, `URI`, `FilePath`, `SHA5`, `Color`
+
+Values objects are useful as immutable structures that can be combined and transformed. [States](#State) and [structures](#Structure) use value objects to store information.
+
+Value classes should _never_ have side-effects. They don't make HTTP requests, they don't touch the file-system, and they don't talk to databases.
+
+Value classes should be _immutable_. Nothing inside the object should ever be updated after construction. Value classes have no setter methods. Of course, sometimes it's necessary to mutate data in-place for memory/performance reasons, but that kind of stuff should be avoided when possible.
+
+<!-- TOOD: maybes? -->
+
+<!-- TODO: enums? -->
+
+<!-- TODO: the key to all the methods: is it producing an object of different type? does it accept an object of different type? is it losing informaiton? make a table! -->
 
 ### Constructor
 
@@ -149,21 +153,6 @@ Another common use case of operators is to use `value.compare()` with `structure
 
 ---
 
-## State
-{: #State}
-
-> Classes are for _singular_ and _stateful_ chunks of information.
-
-Examples: `Customer`, `HttpRequest`, `Transaction`, `Socket`
-
-The methods of state classes are verbs. Actions like `customer.purchase(item)` and `httpRequest.respond(200,body)` describe how things change internally or produce change in other systems.
-
-<!-- TODO: is it a value or state? -->
-
-<!-- TODO: enums may be values or states -->
-
-<!-- TODO: does an email send a message, or does a user send a message using an email? -->
-
 ```javascript
 // This is a contrived example to show off weird state stuff.
 // Please do not copy this; it's not a very good way to handle requests.
@@ -210,6 +199,23 @@ class WebPage
   }
 }
 ```
+
+## State
+{: #State}
+
+> Classes are for _singular_ and _stateful_ chunks of information.
+
+Examples: `Customer`, `HttpRequest`, `Transaction`, `Socket`
+
+The methods of state classes are verbs. Actions like `customer.purchase(item)` and `httpRequest.respond(200,body)` describe how things change internally or produce change in other systems.
+
+<!-- TODO: is it a value or state? -->
+
+<!-- TODO: enums may be values or states -->
+
+<!-- TODO: does an email send a message, or does a user send a message using an email? -->
+
+<!-- TODO: table of method types -->
 
 ### Constructor
 
@@ -369,24 +375,6 @@ Outside code shouldn't be poking and prodding around objects' internal propertie
 
 ---
 
-## Structure
-{: #Structure}
-
-> Classes for organizing multiple [values](#Value) or [states](#State) generalized over any type.
-
-Lastly, we have structures! Structures are _generalized_ classes for holding other objects.
-
-Structures should be immutable when performance permits it.
-
-<!-- TODO: composability and pipelines -->
-
-<!-- TODO: records? -->
-
-<!-- TODO: Why is String a value and not a structure? because it's not generalized -->
-<!-- TODO: Why is shopping-cart a state and not a structure? because it's not generalized -->
-
-<!-- TODO: https://package.elm-lang.org/packages/elm-community/list-extra/latest/List-Extra -->
-
 ```javascript
 class NonEmptyStack
 {
@@ -428,6 +416,26 @@ class NonEmptyStack
   }
 }
 ```
+
+## Structure
+{: #Structure}
+
+> Classes for organizing multiple [values](#Value) or [states](#State) generalized over any type.
+
+Lastly, we have structures! Structures are _generalized_ classes for holding other objects.
+
+Structures should be immutable when performance permits it.
+
+<!-- TODO: composability and pipelines -->
+
+<!-- TODO: records? -->
+
+<!-- TODO: Why is String a value and not a structure? because it's not generalized -->
+<!-- TODO: Why is shopping-cart a state and not a structure? because it's not generalized -->
+
+<!-- TODO: https://package.elm-lang.org/packages/elm-community/list-extra/latest/List-Extra -->
+
+<!-- TODO: table of method types -->
 
 ### MAP METHODS
 

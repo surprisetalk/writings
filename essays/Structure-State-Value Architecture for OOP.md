@@ -1,12 +1,31 @@
-<!-- TODO: think of a more creative name! -->
+
+# Structure-State-Value Architecture for OOP
+
+Why aren't there any OOP guidelines for creating small/medium-sized classes? [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) is cool, but it's too high-level! MVC tells you _where_ components should go, but it doesn't inform engineers on _how_ the components should operate or communicate or fit together.
+Of course [design-patterns](https://en.wikipedia.org/wiki/Software_design_pattern) are also cool, but there are so many! Each design pattern is focused for very specific problems and optimizations, and doesn't provide any "framework" for thinking about how fit everything together.
+
+So to complement large frameworks like MVC and focused templates like design-patterns, I present to you the Structure-State-Value (SSV) Architecture! Here are some major principles of SSV:
+- assert information-loss
+- isolate moving-parts
+- minimize moving-parts
+- reuse structures
+- compose structures
+
+This framework is [No Silver Bullet](https://en.wikipedia.org/wiki/No_Silver_Bullet)! However, if a new class doesn't fit into SSV, it's sometimes an indicator that your object is doing _too many things_ — just sayin' 💁
+
+SSV unabashedly promotes clarity over performance. If you find that performance is lacking, it's usually a [structural](#Structure) problem. Learning to think with [pipes](https://en.wikipedia.org/wiki/Pipeline_(software)) is a good start for making fast, memory-efficient systems without touching the smaller pieces of the system.
+
+Thanks to [Jon Anderson](https://jander.land) for sparking this idea!
+
+Class                   | Singular?   | Stateless?  | Examples
+----------------------: | :---------: | :---------: | ----------------------------------------------------------
+[Structure](#Structure) | ❌          | ❌          | `Array`, `Tree`, `Graph`, `Tuple`, `Set`
+[State](#State)         | ✅          | ❌          | `Customer`, `HttpRequest`, `Transaction`, `Socket`
+[Value](#Value)         | ✅          | ✅          | `String`, `Email`, `UUID`, `URI`, `Color`, `Maybe`
 
 <!-- TODO: make a mock customer object, showing which parts are values, classes, and structs -->
 
-<!-- TODO: if it's unclear whether a class should be a value or state or structure, then your class is probably poorly-defined and doing too many things. -->
-
-<!-- TODO: performance -->
-
-<!-- TODO: table of three different classes -->
+<!-- TODO: table of which Design Patterns correspond to what in SSV -->
 
 ---
 
@@ -62,7 +81,7 @@ Value classes should _never_ have side-effects. They don't make HTTP requests, t
 
 Value classes should be _immutable_. Nothing inside the object should ever be updated after construction. Value classes have no setter methods. Of course, sometimes it's necessary to mutate data in-place for memory/performance reasons, but that kind of stuff should be avoided when possible.
 
-<!-- TOOD: maybes? -->
+<!-- TOOD: maybes -->
 
 <!-- TODO: enums? -->
 
@@ -434,6 +453,10 @@ Structures should be immutable when performance permits it.
 <!-- TODO: Why is shopping-cart a state and not a structure? because it's not generalized -->
 
 <!-- TODO: https://package.elm-lang.org/packages/elm-community/list-extra/latest/List-Extra -->
+
+<!-- TODO: pipes -->
+
+<!-- TODO: async -->
 
 <!-- TODO: table of method types -->
 

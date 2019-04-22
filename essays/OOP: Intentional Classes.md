@@ -1,3 +1,5 @@
+<!-- TODO: think of a more creative name! -->
+
 <!-- TODO: make a mock customer object, showing which parts are values, classes, and structs -->
 
 <!-- TODO: if it's unclear whether a class should be a value or state or structure, then your class is probably poorly-defined and doing too many things. -->

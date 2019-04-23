@@ -17,16 +17,16 @@ Christians believe that God is omniscient (all-knowing), omnipotent (all-powerfu
 ## What is _Everywhere_ and _Everything_ and _Always_?
 
 First, we should find a common definition of the universe (via Merriam-Webster):
-> 1 : the whole body of things and phenomena observed or postulated : cosmos: such as
->   a : a systematic whole held to arise by and persist through the direct intervention of divine power
->   b : the world of human experience
->   c (1) : the entire celestial cosmos
->     (2) : milky way galaxy
->     (3) : an aggregate of stars comparable to the Milky Way galaxy
-> 2 : a distinct field or province of thought or reality that forms a closed system or self-inclusive and independent organization
-> 3 : population sense 4
-> 4 : a set that contains all elements relevant to a particular discussion or problem
-> 5 : a great number or quantity
+    1 : the whole body of things and phenomena observed or postulated : cosmos: such as
+      a : a systematic whole held to arise by and persist through the direct intervention of divine power
+      b : the world of human experience
+      c (1) : the entire celestial cosmos
+        (2) : milky way galaxy
+        (3) : an aggregate of stars comparable to the Milky Way galaxy
+    2 : a distinct field or province of thought or reality that forms a closed system or self-inclusive and independent organization
+    3 : population sense 4
+    4 : a set that contains all elements relevant to a particular discussion or problem
+    5 : a great number or quantity
 
 Many people, including myself, believe "universe" means _everything_ and _everywhere_ and _always_.
 
@@ -144,4 +144,4 @@ Quick recap:
 - God is exactly as powerful as the universe
 - God is exactly as knowledgable as the universe
 
-So according to Christians, God _is_ the universe!
+So according to Christians, the universe _is_ God!

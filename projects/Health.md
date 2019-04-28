@@ -1,5 +1,5 @@
 
-# Human Guinea-Pig
+<!-- TODO: revamp this into a non-journal format -->
 
 ## 2018/09/17 2132h
 

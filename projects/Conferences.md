@@ -1,11 +1,9 @@
 
-# Conferences
+<!-- TODO: tone all this down -->
 
-## 2018/10/08 2006h
+<!-- TODO: include that other cfp site i just found -->
 
-I'm going to make a meme/internet-subculture conference called _InFest_.
-
-It's going to be great.
+<!-- TODO: actually, i just want to create an api for listing conferences -->
 
 ## 2018/10/08 1952h 
 
@@ -131,8 +129,3 @@ And here a few more conferences that have recently caught my eye:
 
 [Haskell's conference page](https://wiki.haskell.org/Conferences) was a pretty good find.
 
-## 2018/09/15 1557h 
-
-This is my conference log!
-
-Here I'll be posting pics with cool people I meet, lecture notes, and the journey to becoming a conference speaker!

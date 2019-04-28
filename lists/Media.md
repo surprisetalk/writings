@@ -1,4 +1,6 @@
 
+<!-- TODO: make searchable/sortable? list of videos/memes/etc -->
+
 # 2019/04/06 0732h 
 
 ## VULFPECK /// Live at AB
@@ -52,6 +54,16 @@ I'd love to design a board game like this! It would be really cool to do a journ
 ## L5R
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T9jxVbg_RWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+# 2018/10/14 0923h
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4GMf43z_vc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Drum Corps seems a bit silly from the outside. I mean, it's impressive in its scope, but it's definitely not my cup-of-tea.
+
+Anyway, I just wanted to make a mental note of the music composition in these pieces -- SO HYPE. I'm totally going to steal some of the melody and rhythms for my own music!
+
+The part from [2:45](https://youtu.be/X4GMf43z_vc?t=165) to [3:27](https://youtu.be/X4GMf43z_vc?t=210) is incredible! That glide effect mixes so beautifully with those giant jazz chords!
 
 # 2018/10/12 1949h 
 

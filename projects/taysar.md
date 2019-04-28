@@ -1,1 +1,60 @@
-Coming soon!
+
+## What is "[taysar.com](/)"?
+
+This website is a dirty window into [my](/essays/Who%20the%20H*ck%20is%20Taylor%20Sarrafian?) mind.
+
+It's an attempt to jot what I'm thinking, how I'm feeling, and what I'm doing. 
+
+<!-- TODO: moar! why am i doing this? why is it important? -->
+
+<!-- TODO: talk about gwern inspiration -->
+
+
+## Behind the Scenes
+
+The website is written in [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)) and viewable at [surprisetalk/taysar](https://github.com/surprisetalk/taysar).
+
+All the content is written in [MarkDown](https://en.wikipedia.org/wiki/Markdown) and viewable at [surprisetalk/writings](https://github.com/surprisetalk/taysar).
+
+<!-- TODO: More explanation! -->
+
+
+## Coming Soon
+
+- [ ] git-pull refresh endpoint
+- [ ] reorganize content
+- [ ] front-page: recent/now/coming-soon
+- [ ] quantified-self
+  - [ ] "how am I feeling?"
+  - [ ] "what did i do all day?"
+    - [ ] app usage (arbtt)
+    - [ ] keystrokes
+    - [ ] routines
+      - [ ] bedtime
+      - [ ] waketime
+      - [ ] meditation
+      - [ ] pages read by book
+      - [ ] spaced-repitition
+    - [ ] line-changes by day/hour by filetype by repo
+    - [ ] hours livestreamed
+    - [ ] hours wasted: internet + reddit/youtube/hackernews timer
+    - [ ] tasklist
+    - [ ] unread emails / texts
+  - [ ] "what am i doing right now?"
+    - [ ] public todolist
+  - [ ] "how is my body doing?"
+    - [ ] exercise
+    - [ ] weight
+    - [ ] blood pressure morning/day/night
+    - [ ] substance1/substance2/substance3...
+  - [ ] research other useful things to publish
+- [ ] metadata
+  - [ ] json-ld
+  - [ ] filter "unpublished" works
+- [ ] spellcheck/linter
+- [ ] links
+  - [ ] hover/previews?
+  - [ ] annotations
+    - [ ] wikipedia 
+    - [ ] taysar (toad emoji)
+    - [ ] specific media (pdf, csv, etc)

@@ -1,29 +1,24 @@
 
-## 2018/10/06 1214h 
+<!-- TODO: grab the list from the repo -->
 
-I'm starting an event called Weird Days.
+I'm starting an event called Strange Times.
 
-Every other Sunday, I want to get a group of people together to get _weird_.
-
-The first one will be January 6, 2019.
+Every other Sunday, I want to get a group of people together to get _strange_.
 
 I need to make a site where people can find out details, subscribe to the mailing list, and vote on what to do next.
 
-- January 06, 2019 :: BEACH EPISODE IN TECHNICOLOR
+- BEACH EPISODE IN TECHNICOLOR
   - Tie-Dye Clothes & Tie-Die Flowers
   - Finger Finger Painting
   - Flour/Powder Photoshoots
   - Odd Snow-Cones
   - Paint Cannon
-- January 13, 2019 :: TEA PARTY
-- January 20, 2019 :: CREATIVE WRITHING
+- TEA PARTY
+- CREATIVE WRITHING
   - Very Serious Princess Tea Party
   - Snail Mail
   - Collaborative Google-Docs Story
   - Fake Craigslist Ads
   - Positive Roasts
   - Quick Song
-- January 27, 2019 :: TEA PARTY
-- February 03, 2019 :: TBD
-- February 17, 2019 :: TBD
 

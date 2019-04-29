@@ -1,4 +1,4 @@
-# Music
+## Music
 
 - ★☆☆☆☆ :: Bad
 - ★★☆☆☆ :: Fair
@@ -7,12 +7,12 @@
 - ★★★★★ :: Masterpiece
 
 
-## Mixes
+### Mixes
 
 Coming soon!
 
 
-## Albums
+### Albums
 
 - ☆☆☆☆☆ | Devics :: _Push the Heart_
 - ☆☆☆☆☆ | Tigran Hamasyan :: _Mockroot_
@@ -837,7 +837,7 @@ Coming soon!
 - ☆☆☆☆☆ | Jeremy Zuckerman :: _The Legend of Korra: Original Music From Book One_
 
 
-## Incoming Music
+### Incoming Music
 
 - High Wasted
 - Cults

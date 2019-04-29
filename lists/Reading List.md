@@ -1,12 +1,12 @@
 
-# Currently Reading
+## Currently Reading
 
 - _Consider Phlebas_
 
 
-# Upcoming
+## Upcoming
 
-## [Which books have made you introspect?](https://news.ycombinator.com/item?id=17045790)
+### [Which books have made you introspect?](https://news.ycombinator.com/item?id=17045790)
 
 - _Gimp_ :: Marc Zupan
 - _Thinking in Systems_ :: Donella Meadows
@@ -30,7 +30,7 @@
 - _East of Eden_ :: Steinbeck
 - _The Righteous Mind: Why Good People Are Divided by Politics and Religion_ :: Jonathan Haidt
 
-## [blinkist](https://www.blinkist.com/blinks)
+### [blinkist](https://www.blinkist.com/blinks)
 
 - _Scaling Up_
 - _A Curious Mind_
@@ -55,7 +55,7 @@
 - _Work Simply_
 - _The Zero Marginal Cost Society_
 
-## Selections from Alan Kay’s reading list
+### Selections from Alan Kay’s reading list
 
 - _the gutenberg galaxy: the making of topographic man_
 - _understanding media: the extensions of man_
@@ -79,7 +79,7 @@
 - _the architecture machine: toward a more human environment_
 - _lisp 1.5 programmer’s manual_
   
-## Miscellaneous
+### Miscellaneous
 
 - _The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal_ by M. Mitchell Waldrop
 - _Probabilistic Logic Networks: A Comprehensive Framework for Uncertain Inference_ by Ben Goertzel, Matthew Iklé
@@ -473,9 +473,9 @@
 - _Lean Anaylitics_
 
 
-# Completed
+## Completed
 
-## 2016-2018
+### 2016-2018
 
 - _Sapiens_
 - _Zero to One_ by Tiel
@@ -506,7 +506,7 @@
 - _On the Shortness of Life_ by Seneca
 - _To Mock a Mockingbird_ by Smullyan
 
-## 2015
+### 2015
 
 - _Let's Explore Diabetes with Owls_ by Sedaris
 - _Musashi_ by Yoshikawa
@@ -515,7 +515,7 @@
 - _Metamagical Themas_ by Hofstadter
 - _Spark Joy_ by Kondo
   
-## 2014
+### 2014
 
 - _Contagious_ by Jonah Berger
 - _Love Does_ by Goff
@@ -547,7 +547,7 @@
 - _Dropping Ashes on the Buddha_ by Sahn
 - _The Alchemist_ by Cohelo
 
-## 2013
+### 2013
 
 - _Gifted Hands_ by Ben Carson
 - _Oedipus Rex_ by Sophocles
@@ -566,7 +566,7 @@
 - _Speaker for the Dead_ by Card
 - _Think Like a Freak_ by Levitt & Dubner
 
-## 2012
+### 2012
 
 - _Moonwalking with Einstein_ by Foer
 - _Siddhartha_ by Hesse
@@ -609,7 +609,7 @@
 - _The Autobiography of Mark Twain_ by Mark Twain
 - _Hackers and Painters_ by Graham
 
-## 2011
+### 2011
 
 - _iWoz_ by Wozniak
 - _Steve Jobs_ by Isaacson

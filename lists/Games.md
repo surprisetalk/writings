@@ -1,4 +1,4 @@
-# Eventually
+## Eventually
 
 - [Return of the Obra Dinn](https://obradinn.com)
 - [VA-11 HALL-A](https://waifubartending.com)
@@ -19,7 +19,7 @@
 - Disgaea 5
 
 
-# Played
+## Played
 
 Coming soon!
 

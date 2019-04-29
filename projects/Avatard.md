@@ -1,5 +1,5 @@
 
-# Avatard
+## Avatard
 
 I'm surprised that there's no file-upload and profile-pic services besides Gravatar!
 

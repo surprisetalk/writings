@@ -1,9 +1,9 @@
 
-# Controversies
+## Controversies
 
 I'd like to make a YouTube channel exploring radical thoughts and famous wars of ideas.
 
-## Radical Ideas
+### Radical Ideas
 
 - ranked voting
 - random airline seating
@@ -14,7 +14,7 @@ I'd like to make a YouTube channel exploring radical thoughts and famous wars of
 - vision charts
 - thorium salt reactors
 
-## Feuds
+### Feuds
 
 <!-- TODO: Outsource research to Reddit, HackerNews, and Quora. -->
 

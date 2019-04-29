@@ -1,7 +1,7 @@
 
-# Stink.ink
+## Stink.ink
 
-## 2018/09/15 1112h
+### 2018/09/15 1112h
 
 I want to make a generalized cryptographic-based comments service!
 

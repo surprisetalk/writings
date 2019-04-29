@@ -1,15 +1,15 @@
 
 <!-- TODO: make searchable/sortable? list of videos/memes/etc -->
 
-# 2019/04/06 0732h 
+## 2019/04/06 0732h 
 
-## VULFPECK /// Live at AB
+### VULFPECK /// Live at AB
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dDL5k9LpZ9w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# 2019/03/10 1638h 
+## 2019/03/10 1638h 
 
-## [Academia is a Cult (HackerNews Comments)](https://news.ycombinator.com/item?id=18373737)
+### [Academia is a Cult (HackerNews Comments)](https://news.ycombinator.com/item?id=18373737)
 
 This comment-section had a lot of beautiful little remarks!
 
@@ -27,35 +27,35 @@ Somebody else [recommended teaching pop and hip-hop in high-schools rather than 
 Lastly, I found [this little gem](https://news.ycombinator.com/item?id=18375146):
 > The difference between a cult and a religion: a cult wants it all, a religion just wants its cut. 
 
-# 2019/02/23 0817h 
+## 2019/02/23 0817h 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iy49P-8wrEw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# 2018/10/22 2102h 
+## 2018/10/22 2102h 
 
-## _Crappy User Interfaces_ by Nakeyjakey
+### _Crappy User Interfaces_ by Nakeyjakey
 
 I want to do videos like this. I love complaining about bad design.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8vfbVVkwdQw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## _Let's talk about 3 letters that can make rural whites understand the fear minorities have of cops._ by Beau of the Fifth Column
+### _Let's talk about 3 letters that can make rural whites understand the fear minorities have of cops._ by Beau of the Fifth Column
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J5DBrOBIgNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# 2018/10/20 2211h 
+## 2018/10/20 2211h 
 
-## Pokemon Master Trainer
+### Pokemon Master Trainer
 
 I'd love to design a board game like this! It would be really cool to do a journey like this with friends.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zQKZ8XX9UBw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## L5R
+### L5R
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T9jxVbg_RWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# 2018/10/14 0923h
+## 2018/10/14 0923h
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4GMf43z_vc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -65,7 +65,7 @@ Anyway, I just wanted to make a mental note of the music composition in these pi
 
 The part from [2:45](https://youtu.be/X4GMf43z_vc?t=165) to [3:27](https://youtu.be/X4GMf43z_vc?t=210) is incredible! That glide effect mixes so beautifully with those giant jazz chords!
 
-# 2018/10/12 1949h 
+## 2018/10/12 1949h 
 
 I'm still poring over my phone's internet backlog. Here are some cool links:
 - [Pure math is THE SHIT (esp. on drugs)](https://www.reddit.com/r/Drugs/comments/8oo8fs/pure_math_is_the_shit_esp_on_drugs/)
@@ -80,30 +80,30 @@ I'm still poring over my phone's internet backlog. Here are some cool links:
   -[No more zero days!](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/cdah4af/)
 - [Troubled Times for Alternatives to Einstein's Theory of Gravity](https://news.ycombinator.com/item?id=17000903)
 
-# 2018/10/12 1853h 
+## 2018/10/12 1853h 
 
 I have _a ton_ of open tabs on my phone from over the years, and today I'm cleaning the up! I'm going to put some notes and random highlights here:
 
-## [Patrick Collison's Questions for Tyler Cohen](https://patrickcollison.com/questions)
+### [Patrick Collison's Questions for Tyler Cohen](https://patrickcollison.com/questions)
 
 This inspired me! I started my own list of questions [here](/lists/Questions).
 
-## Slime Socks
+### Slime Socks
 
 ![slime socks](https://static.mltd.com/images/products/1395872072_IMG_1533.jpg)
 ![slime socks](https://images-na.ssl-images-amazon.com/images/I/61XZ7eLp54L._UY445_.jpg)
 ![slime socks](https://www.mynerdyneeds.com/wp-content/uploads/2018/02/mockup-bde49e2c.jpg)
 ![slime socks](https://rlv.zcache.com/slime_melting_pink_and_mint_colored_socks-r08bbab7e8c1c429b80f1cba564dfcd52_ejsjd_307.jpg?rlvnet=1)
 
-## [Finger Ring](http://nadjabuttendorf.com/fingerring/?utm_source=dudeiwantthat.com&utm_medium=referral)
+### [Finger Ring](http://nadjabuttendorf.com/fingerring/?utm_source=dudeiwantthat.com&utm_medium=referral)
 
 ![finger ring](http://nadjabuttendorf.com/fingerring/Nadja-Buttendorf-Fingerring-3-1000.jpg)
 
-## [BigTuna.io](http://bigtuna.io/)
+### [BigTuna.io](http://bigtuna.io/)
 
 ![miuini32](http://bigtuna.io/wp-content/uploads/2017/05/cropped-DSC07115-1.jpg)
 
-## [Petri Nets](https://en.wikipedia.org/wiki/Petri_net)
+### [Petri Nets](https://en.wikipedia.org/wiki/Petri_net)
 
 Petri Nets are really neat! They're a nice graphical notation for distributed systems. It seems much nicer than using the [π-calculus](https://en.wikipedia.org/wiki/%CE%A0-calculus) (which is also super cool).
 Apparently it was invented by Carl Petri at age 13 for desrcibing chemical interactions!
@@ -112,51 +112,51 @@ I'd like to see more notations like this and Feynman diagrams.
 
 Check out my new page on [Experimental Notations](/essays/Experimental Notations)!
 
-## [Herbie](https://herbie.uwplse.org/demo/)
+### [Herbie](https://herbie.uwplse.org/demo/)
 
 It's a floating-point equation optimizer!
 
-## [Homestuck](https://www.google.com/search?hl=en&q=homestuck)
+### [Homestuck](https://www.google.com/search?hl=en&q=homestuck)
 
 I love niche communities!
 
 This is definitely rabbit-hole I want to investigate.
 
-## Sinatra at the Sands (Live Recording 1966)
+### Sinatra at the Sands (Live Recording 1966)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WoZZ08S4eyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## [Ballerina](https://ballerina.io)
+### [Ballerina](https://ballerina.io)
 
 What a nifty concurrent languge!
 
-## [Cyberise.Me](https://cyberise.me/)
+### [Cyberise.Me](https://cyberise.me/)
 
 I'm a sucker for _literal_ bleeding-edge technology.
 
-## The Wiggles - Hot Potato from an 18+ only show in Melbourne 2016
+### The Wiggles - Hot Potato from an 18+ only show in Melbourne 2016
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c_8duRVTPoM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Art with Haskell
+### Art with Haskell
 
-### [Generating artwork with Haskell](https://www.kovach.me/posts/2018-03-07-generating-art.html)
+#### [Generating artwork with Haskell](https://www.kovach.me/posts/2018-03-07-generating-art.html)
 
 I had the pleasure of meeting Benjamin at Strange Loop this year.
 
 His work is so inspiring!
 
-### [Euterpea](http://www.euterpea.com/)
+#### [Euterpea](http://www.euterpea.com/)
 
 I really want to start doing more music/programming stuff! Haskell seems like a great language for that.
 
 Apparently [this book](https://www.amazon.com/Haskell-School-Music-Signals-Symphonies/dp/1108416756/) has high accolades.
 
-## [What are your favorite terminal programs?](https://news.ycombinator.com/item?id=17011227)
+### [What are your favorite terminal programs?](https://news.ycombinator.com/item?id=17011227)
 
 ```bash
 history | awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/count*100 "% " a;}' | grep -v "./" | column -c3 -s " " -t | sort -nr | nl |  head -n10
-# or use zsh_stats
+## or use zsh_stats
 ```
 
 - new surprises
@@ -208,11 +208,11 @@ history | awk '{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/c
   - _xrandr_ : manage external monitors
   - _ffmpeg_ : video magic
 
-# 2018/09/19 2013h 
+## 2018/09/19 2013h 
 
 I __love__ ContraPoints! Her [latest video](https://www.youtube.com/watch?v=z1afqR5QkDM) is incredible!
 
-# 2018/09/19 1909h 
+## 2018/09/19 1909h 
 
 I'm almost finished watching [Planet With](http://www.crunchyroll.com/planet-with).
 
@@ -222,7 +222,7 @@ But once again, its story is actually quite interesting if you can stomach the a
 
 Maybe I'll do a more in-depth review later!
 
-# 2018/09/18 1312h 
+## 2018/09/18 1312h 
 
 I'm getting pumped for Life is Beautiful this weekend! I'm about to start listening to all the artists.
 
@@ -306,7 +306,7 @@ Here's my ratings for everybody:
 - ★☆☆☆☆ The Dirty Hooks
 - ★☆☆☆☆ O WILDLY
 
-# 2018/09/18 1011h 
+## 2018/09/18 1011h 
 
 I found some lectures I wanted to download and used the following script to download them all:
 ```bash
@@ -315,13 +315,13 @@ youtube-dl -i $(lynx -listonly -nonumbers -dump http://cufp.org/videos/)
 
 Computers are amazing, aren't they?
 
-# 2018/09/17 2319h
+## 2018/09/17 2319h
 
 Here's another awesome subreddit called [r/beansinthings](https://www.reddit.com/r/beansinthings).
 
 ![Bean surprise](https://i.redd.it/i6zo1mm6vtm11.jpg)
 
-# 2018/09/17 2051h
+## 2018/09/17 2051h
 
 I just found an amazing subreddit called [r/cursed_images](https://www.reddit.com/r/cursedimages)!
 
@@ -335,13 +335,13 @@ Here are some highlights:
 
 ![cursed_defense](https://i.redd.it/xu6jxmwr67f11.jpg)
 
-# 2018/09/17 1856h
+## 2018/09/17 1856h
 
 I'm almost finished listening to _The Rise and Fall of the Dinosaurs_.
 
 I want to do a recap/review when I'm finished, but for now, all I can say is "whoa".
 
-# 2018/09/17 1853h
+## 2018/09/17 1853h
 
 I spend a lot of time watching "interesting" things and listening to other people's opinons.
 
@@ -351,7 +351,7 @@ And like, why do I care so much about others' opinions? You wouldn't believe how
 
 I'd like to rid myself of these desires, but I don't know how.
 
-# 2018/09/15 1406h
+## 2018/09/15 1406h
 
 I'll be posting stuff about my media consumption here.
 

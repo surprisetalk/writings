@@ -1,4 +1,4 @@
-# Interactive Equations
+## Interactive Equations
 
 I'd like to make a site with interactive deep-dives into cool equations!
 

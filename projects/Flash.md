@@ -1,15 +1,15 @@
 
 <!-- TODO: I just found [pocket-cli](https://github.com/rakanalh/pocket-cli) -- it's so nifty! If you plan on using it, [this page](http://reader.fxneumann.de/plugins/oneclickpocket/auth.php) is super helpful for creating an authentication token. -->
 
-# "Flash" To-Do Cards
+## "Flash" To-Do Cards
 
-## 2018/10/06 1208h
+### 2018/10/06 1208h
 
 I'd like to learn Japanese, but it'll be difficult to do with physical cards.
 
 I need to finish my todo-list/flash-card app.
 
-## 2018/09/15 1259h
+### 2018/09/15 1259h
 
 Lately I've been writing down all my tasks on flash cards.
 

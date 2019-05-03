@@ -9,6 +9,10 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - Yuri on Ice
 - Hikaru no Go
 - Revue Starlight
+- We Never Learn
+- Penguindrum
+- Revolutionary Girl Utena
+
 
 ### This List
 

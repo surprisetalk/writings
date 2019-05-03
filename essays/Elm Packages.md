@@ -8,6 +8,8 @@ Improved package site for Elm:
 - github integration
 - history
 
+https://www.elmfinder.org/
+
 -->
 
 Coming soon!

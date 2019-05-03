@@ -109,7 +109,7 @@ Start | Subroutine | Description
       | Strategize | review to-dos; purge distractions; make to-dos doable; cheat-codes; ask for help; prioritize
       | Connect    | snail-mail; fan-mail; "you're special"; help/favors/recommendations; memes
       | Learn      | spaced-repetition; practice; teach
-      | Create     | latest [project](/projects)
+      | Create     | [taysar.com](/); latest [project](/projects)
 1000h | Toil       | [just do it](https://www.youtube.com/watch?v=OCfT8uD9WBU)
 2000h | Review     | reflect; automate
       | Simplify   | let it go
@@ -169,8 +169,18 @@ So here's my newest life-structure: everything I do (outside of work) must relat
 
 The other benefit of piping everything I do through the website is that I've been very clear with my thoughts. Because I'm taking the time to translate my mind's noise into text with the presumption that _somebody else_ might look at it, it forces me to distill all the inner-workings of my mind into a presentable form.
 
+Ongoing problems and possible solutions:
+- it's not a habit yet
+  - stick to [good habits](#Good-Habits)
+- media is still distracting
+  - fix [media consuption](#Media-Consumption)
+- small tasks just need to get done
+  - again, [good habits](#Good-Habits)
+  - consider a public task-list
+  
 
 ### Good Habits
+{: #Good-Habits}
 
 <!-- TODO: metrics? progress? -->
 
@@ -180,8 +190,20 @@ My first habit is that [everything must be related to this website](#taysar). I'
 
 Next, I'm going to work on sticking to [my routine](#Routine). My biggest hurdle with the routine right now is going to bed early! I'm much more productive when I have the discipline to go to sleep early, but it's a hard habit to form when all your friends gather so late in the evening.
 
+Ongoing problems and possible solutions:
+- no motivation to start
+  - start right now
+  - create lil' interface
+  - copy roommate's good habits as launch pad
+- staying up too late
+  - do nothing and shift schedule to be later
+  - strict wake time
+- missing the morning routine causes me to avoid the rest of the subroutines
+  - create lil' interface
+
 
 ### Media Consumption
+{: #Media-Consumption}
 
 <!-- TODO: metrics? progress? -->
 
@@ -199,10 +221,15 @@ Soon I'll make a queue (hopefully integrated with [my spaced-repetition setup](#
 
 <!-- TODO: computer organization! destroy org! -->
 
+Ongoing problems and possible solutions:
+- overwhelmed by sheer volume of backlog and incoming stream
+  - break it up into smaller pieces
+  - document the journey
+
 
 <!-- 
 ### Spaced Repetition 
-{: #SpacedRepetition} 
+{: #Spaced-Repetition} 
 -->
 
 <!-- ### Fitness -->

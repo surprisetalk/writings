@@ -24,7 +24,12 @@ All the content is written in [MarkDown](https://en.wikipedia.org/wiki/Markdown)
 - [ ] domains
   - [ ] swa.mp
   - [ ] blog.taysar.com
+- [ ] tune max-width of articles
 - [X] correct h1 tags
+- [ ] sticky section markers
+  - [ ] section title, summary, and further reading
+  - [ ] hidden on mobile
+  - [ ] generated from earmark macros
 - [ ] seo
   - [ ] [site-checker](https://sitechecker.pro/seo-report/https://taysar.com)
 - [ ] git-pull refresh endpoint
@@ -66,3 +71,4 @@ All the content is written in [MarkDown](https://en.wikipedia.org/wiki/Markdown)
     - [ ] wikipedia 
     - [ ] taysar (toad emoji)
     - [ ] specific media (pdf, csv, etc)
+- [ ] future-proof the site — it should last 100 years

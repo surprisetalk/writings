@@ -1,5 +1,7 @@
 
 <!-- TODO: postgres -->
+<!-- TODO: compliance -->
+<!-- TODO: privacy -->
 
 It's hard to even describe what I want to do here.
 

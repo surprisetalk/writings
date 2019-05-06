@@ -20,17 +20,37 @@ So I categorized [myself](/essays/Who the H*ck is Taylor Sarrafian?) under [proj
 >
 > — [Ferdinand Demara](https://en.wikipedia.org/wiki/Ferdinand_Waldo_Demara)
 
+Knowing _why_ you're going somewhere doesn't guarantee the exact path to get there. A journey's _Why_ is a compass that helps you generate maps when the path is blocked.
+
+Values don't tell you where to go, but they point you in the right direction. Unfortunately, the compass I _want_ is not the compass I actually _have_.
+
+### In Theory
+
 In theory, my values are compassion and honesty. In an Optimal world, I would ooze empathy and kindness and give myself completely to every stranger that strikes up a conversation. But I'm not Optimal. I'm often stubborn and manipulative and full of self-criticism.
 
-<!-- TODO: sidenote for why i care about honesty -->
+But why honesty and compassion?
 
-<!-- TODO: sidenote for why i care about compassion -->
+Honesty aligns your insides with your outsides. When you're completely honest with yourself and others, you can avoid becoming trapped by your own fantasies and others' misunderstandings. Total, unbridled sincerity glues you to The Way Things Work. And when you follow The Way Things Work, what can go wrong? Everything _just happens_.
+
+And without honesty, all other values are useless — your life becomes a stew of excuses and falsehoods. When you abandon truth, what is there to guide you? All decisions are equally viable when everything is "correct".
+
+Compassion is useful. Life is _easier_ when you're nice to people. Interpersonal interactions are not isolated. Looking at the [Iterated Prisoners' Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#The_iterated_prisoner's_dilemma), establishing mutually-beneficial relationships can be optimal in the long-run. Trust permits preferred treatment and frictionless communications; better deals with no wasted time/effort! And because of network-effects, good reputations with one person _transfer to others_. When you're kind to others, you'll find strangers _wanting_ to help you for no good reason.
+
+And being compassionate to yourself is just as important! If anything, hating yourself is inefficient.
+
+Compassion fills in the gaps of an honest lifestyle.
+
+"Am I Getting Fat?" | Dishonest  | Honest
+------------------- | ---------- | ----------
+Uncompassionate     | "You're not fat, you're just plain ugly." | "Yes."
+Compassionate       | "No, I love your body just the way it is." | "Yeah, I think we both can improve our bodies a little — let's start going to the gym?"
+
+
+### In Practice
 
 In practice, my values are unclear. Looking at how I spend my money, I value housing, food, music, technology, and experiences. Looking at how I spend my [time](/essays/Time), I value laughter, learning, storytelling, and making things. Looking at how I treat others, I value smiles, openness, and disruption.
 
 Ideal values are useful for [System II](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#Summary) thinking. When you're caught in an ethical dilemma, it helps to compare your options against each of your values. But this is slow, conscious process. [System I](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#Summary)'s values are habits. They can be only be changed at the level of practice.
-
-<!-- TODO: why is this useful? general direction. a compass (not a map) -->
 
 
 ---
@@ -45,7 +65,7 @@ But how do you create a map for a journey with a constantly-changing terrain‽
 
 [Systems are better than goals](https://blog.dilbert.com/2013/11/18/goals-vs-systems/). But in order to create some better systems for myself, I need to have a general understanding of _what_ I want to occupy my time.
 
-<!-- "Become a rockstar" is not a goal — it's a fantasy. Most goals are not achievable, because they're things that can't be done _now_. But "practice ukulele" is  -->
+"Become a rockstar" is not a goal — it's a fantasy. Most goals are not achievable, because they're things that can't be done _now_. But "practice ukulele" is a system that _may_ turn you into rockstar. And the best part is, if you enjoy the journey, there's no possibility of reaching a wrong destination!
 
 But it's hard to juggle short-term and long-term behavior. What I want to do every _minute_ usually doesn't align with what I want to do over the span of the entire _day_.
 
@@ -89,7 +109,7 @@ Once I found the Right Thing™ for the moment, I would focus on it until comple
 There's a bunch of things I want to do everyday. The actual time-of-day (e.g. 5AM) is not as important as the sequence. I tried to order/group the subroutines something like the following:
 1. Be Happy
 2. Be Healthy
-3. Have a Gameplan
+3. Make a Gameplan
 4. Make Dope Shit
 5. Make Shit Dope
 6. Garbage In · Garbage Forever
@@ -102,7 +122,7 @@ Start | Subroutine | Description
       | Grow       | happy plants
       | Tidy       | hello home
       | Nothing    |
-0600h | Exercise   | swolify with spotify
+0600h | Lift       | swolify with spotify
       | Fuel       | meal prep
       | Groom      | look good, smell good, feel good
 0700h | Calibrate  | relax; review systems, goals, & values; consult "shrine"
@@ -190,6 +210,8 @@ My first habit is that [everything must be related to this website](#taysar). I'
 
 Next, I'm going to work on sticking to [my routine](#Routine). My biggest hurdle with the routine right now is going to bed early! I'm much more productive when I have the discipline to go to sleep early, but it's a hard habit to form when all your friends gather so late in the evening.
 
+Consider making a "home page" or interface for _each_ habit! Actually, they can be interactive sections on the [routine page](/routine). I definitely need to do a lot of work for the Learn and Lift sections.
+
 Ongoing problems and possible solutions:
 - no motivation to start
   - start right now
@@ -200,7 +222,7 @@ Ongoing problems and possible solutions:
   - strict wake time
 - missing the morning routine causes me to avoid the rest of the subroutines
   - create lil' interface
-
+  
 
 ### Media Consumption
 {: #Media-Consumption}
@@ -215,11 +237,32 @@ So now my problem is that my "quick internet checks" end up being rabbit-holes t
 
 The problem is, I occasionally want to consume media. And I have a huge, methodically-tracked backlog of things I want to consume. But I keep reaching for new, shiny things instead.
 
-Soon I'll make a queue (hopefully integrated with [my spaced-repetition setup](#SpacedRepetition)) that automatically downloads new media and prioritizes it and controls the flow in a way that I think is healthier.
+Soon I'll make a queue (hopefully integrated with [my spaced-repetition setup](#Spaced-Repetition)) that automatically downloads new media and prioritizes it and controls the flow in a way that I think is healthier.
 
 <!-- TODO: the queue -->
 
 <!-- TODO: computer organization! destroy org! -->
+
+Digital clean:
+- [ ] Sources
+  - [ ] Dropbox
+    - [ ] download everything to external drive
+    - [ ] delete everything
+    - [ ] upload the essentials
+  - [ ] HackerNews binge (July 1, 2018 to now)
+  - [ ] Pocket
+    - [ ] download directory
+  - [ ] organize harddrives
+  - [ ] Apple devices
+    - [ ] clean up tabs
+    - [ ] clean up apps
+  - [ ] clean up tabs in Toby
+  - [ ] add books/movies/albums/etc to [lists](/lists)
+  - [ ] org-mode
+    - [ ] move org repo to [taysar](/)
+    - [ ] delete org
+- [ ] Sink
+  - [ ] media queue
 
 Ongoing problems and possible solutions:
 - overwhelmed by sheer volume of backlog and incoming stream
@@ -227,9 +270,11 @@ Ongoing problems and possible solutions:
   - document the journey
 
 
-<!-- 
-### Spaced Repetition 
-{: #Spaced-Repetition} 
--->
+### No Stress
+{: #No-Stress}
 
-<!-- ### Fitness -->
+Stress is useless. Making decisions under duress is unwise. Learning under stress is inefficient. And stress feels terrible! Why do we want to feel this way?
+
+I don't want to feel stressed anymore. I want to take life on stoically. I want to face the future with full confidence. I want total, unrelenting peace.
+
+

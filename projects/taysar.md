@@ -1,4 +1,56 @@
 
+<!--
+Domains:
+https://www.namecheap.com/domains/registration/results.aspx?domain=taylor
+https://domainr.com/to.ads?q=taylor
+https://domainr.com/taylor.io?q=taylor
+https://domainr.com/tay.sa?q=taysar
+https://domainr.com/taylormoon.com?q=taylormoon
+https://domainr.com/taylormoon.com?q=taylormoon
+https://domainr.com/toadmo.de?q=toadmode
+https://domainr.com/to.ad?q=toad
+https://domainr.com/to.ads?q=tay
+https://domainr.com/tay.tips?q=tay.tips
+https://domainr.com/tay.lol?q=tay.lol
+https://domainr.com/tay.land?q=tay.land
+https://domainr.com/tay.co?q=tay.land
+https://domainr.com/sli.my?q=slimy
+https://domainr.com/slimeti.me?q=slimetime
+https://domainr.com/slim.ee?q=slimee
+https://domainr.com/fro.gg?q=frogg
+https://domainr.com/slime.ee?q=slimeee
+https://domainr.com/slim.es?q=slimes
+https://domainr.com/slimie.st?q=slimiest
+https://domainr.com/ooz.ing?q=oozing
+https://domainr.com/oozi.ng?q=oozing
+https://domainr.com/ooz.i.ng?q=oozing
+https://domainr.com/swa.mp?q=swamp
+https://domainr.com/surprise.talk?q=surprisetalk
+https://domainr.com/surpriseta.lk?q=surprisetalk
+https://domainr.com/surprisetalk.com?q=surprisetalk
+https://domainr.com/?q=surprisetalk
+https://my.101domain.com/dQBkAQAQAJdqMWLN1mH3IRIoEznLzId6s7jI5R1WU26VBCutAZoXXby1nVIM-Hlpzk8BXIm4UBmZGaJroTyLHOBBSpkyXKZo3I5W-s0kv1_jNajCsm/fN.html
+https://dash.cloudflare.com/44b282bd87950931f70db66ed07bfb19/taysar.com/dns
+https://domains.google.com/m/registrar/search?searchTerm=tay&hl=en&tab=1
+https://domains.google.com/m/registrar/search?searchTerm=slime&hl=en&tab=1
+https://domains.google.com/m/registrar/search?searchTerm=toad&hl=en&tab=1
+https://domains.google.com/m/registrar/search?searchTerm=frog&hl=en&tab=1
+https://domains.google.com/m/registrar/search?searchTerm=ooze&hl=en&tab=1
+https://domainr.com/scrapscri.pt?q=scrapscript
+https://domainr.com/sewerscri.pt?q=sewerscript
+https://domainr.com/sewe.rs?q=sewers
+https://domainr.com/scra.ps?q=scraps
+https://domainr.com/scrap.land?q=scrapland
+https://domainr.com/?q=tay.goo
+https://domainr.com/goo.goo?q=goo.goo
+https://domainr.com/tay.goo?q=tay.goo
+https://domainr.com/?q=letsgoo
+https://domainr.com/?q=letsgoooo
+https://domainr.com/letsg.ooo?q=letsgooo
+https://domainr.com/letsg.ooo?q=letsgooo
+https://domainr.com/letsgo.ooo?q=letsgoooo
+-->
+
 ## What is "[taysar.com](/)"?
 
 This website is a dirty window into [my](/essays/Who%20the%20H*ck%20is%20Taylor%20Sarrafian?) mind.
@@ -20,6 +72,56 @@ All the content is written in [MarkDown](https://en.wikipedia.org/wiki/Markdown)
 
 
 ## Coming Soon
+
+<!--
+https://www.gwern.net/About
+https://www.gwern.net/Archiving-URLs
+https://hackage.haskell.org/package/archiver
+https://en.wikipedia.org/wiki/WebCite
+https://www.gwern.net/DNB-FAQ
+http://wummel.github.io/linkchecker/
+https://www.gwern.net/About#markdown-checker
+https://www.emacswiki.org/emacs/MarkdownMode#toc1
+https://github.com/amperser/proselint/
+-->
+
+<!--
+https://taysar.com/sitemaps/sitemap1.xml
+https://search.google.com/u/0/search-console/not-verified?original_url=/search-console?resource_id%3Dsc-domain:taysar.com&original_resource_id=sc-domain:taysar.com
+https://search.google.com/u/1/search-console?resource_id=sc-domain:taysar.com
+https://search.google.com/u/1/search-console?resource_id=sc-domain:taysar.com
+https://search.google.com/u/0/search-console/not-verified?original_url=/search-console/sitemaps?resource_id%3Dsc-domain:taysar.com&original_resource_id=sc-domain:taysar.com
+https://search.google.com/u/1/search-console/sitemaps?resource_id=sc-domain:taysar.com
+https://search.google.com/u/1/search-console/sitemaps?resource_id=sc-domain:taysar.com
+https://www.bing.com/toolbox/webmaster/
+https://www.bing.com/toolbox/webmaster/
+https://webmaster.yandex.com/site/https:taysar.com:443/dashboard/
+https://developers.google.com/search/docs/guides/sd-policies
+https://developers.google.com/search/docs/guides/mark-up-listings#summary-page-multiple-full-details-pages
+https://developers.google.com/search/docs/guides/intro-structured-data
+https://search.google.com/structured-data/testing-tool/u/0/
+https://www.google.com/search?hl=en&q=json%2Dld%20blog
+https://www.schemaapp.com/tools/jsonld-schema-generator/Person/
+https://jsonld-examples.com/schema.org/code/blog-markup.php
+https://jsonld-examples.com/schema.org/code/article-markup.php
+https://jsonld-examples.com/schema.org/code/breadcrumblist-markup.php
+https://jsonld-examples.com/schema.org/code/webpage-markup.php
+https://jsonld-examples.com/schema.org/code/website-markup.php
+https://jsonld.com/web-page/
+https://jsonld.com/blog-post/
+https://jsonld.com/article/
+https://jsonld.com/person/
+https://developers.google.com/search/docs/data-types/logo
+https://developers.google.com/search/docs/data-types/breadcrumb
+https://developers.google.com/search/docs/data-types/social-profile
+https://developers.google.com/search/docs/guides/prototype#common-sd-errors
+https://schema.org/isPartOf
+https://schema.org/docs/search_results.html?q=blog
+https://schema.org/docs/search_results.html?q=blogpost
+https://schema.org/Article
+https://schema.org/TechArticle
+https://github.com/marcelotto/jsonld-ex
+-->
 
 - <input type="checkbox" disabled/> domains
   - <input type="checkbox" disabled/> swa.mp

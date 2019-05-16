@@ -863,3 +863,40 @@ Coming soon!
 - https://soundcloud.com/dzzmusic
 - https://soundcloud.com/search?q=firefest
 - https://soundcloud.com/officialgalex/kawaii-x-w3ird-hour-mix-galex
+- https://soundcloud.com/hencello/diveo-mix-4-a-m-d-i-s-c-s-2015
+- https://soundcloud.com/futuresocietycollective/moe-shop-waifu-material-mixtape
+- https://soundcloud.com/paslamsystem/20150725djset-mad-decent-night
+- https://soundcloud.com/nonstoppop
+- https://soundcloud.com/futatsuki/summer-bae-future-bass-mix
+- https://soundcloud.com/orlando_boom/summer-mixin-vol2-anime-sunsets
+- https://soundcloud.com/magical-girl-bre/anime-dreamz-mix
+- https://soundcloud.com/nesthq/nest-hq-minimix-activia-benz
+- https://soundcloud.com/daniel-dj-480688544/pas-lam-system-meganto-mix
+- https://soundcloud.com/komono/customs-seattle-nov-12-set
+- Spiderland by Slint
+- Red by King Crimson
+- Self-Titled by The Velvet Underground & Nico
+- Pet Sounds by The Beach Boys
+- Primal Heart by Kimbra
+- Elephant Gym
+- Schumann
+- Hershey Felder
+- Wincing the Night Away by The Shins
+- James Brown
+- Django Reinhardt
+- Vaughan Williams
+- Suburbs by Arcade Fire
+- genres (deep-dives)
+  - big band
+  - future funk
+  - japanese math rock
+  - japanese rock
+  - japanese jazz
+- recommendations
+  - uriel herman
+  - avishai cohen
+  - girafot
+  - tuna
+  - shouting matches
+  - camel
+  - fela kuti

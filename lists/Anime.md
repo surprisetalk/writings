@@ -12,6 +12,12 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - We Never Learn
 - Penguindrum
 - Revolutionary Girl Utena
+- Dream Hunter Rem
+- Code Geass
+
+### Manga
+
+- Vinland Saga
 
 
 ### This List

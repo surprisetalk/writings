@@ -77,7 +77,7 @@ class Length
 }
 ```
 
-Values objects are useful as immutable structures that can be combined and transformed. [States](#State) and [structures](#Structure) use value objects to store information.
+Value objects are useful as immutable structures that can be combined and transformed. [States](#State) and [structures](#Structure) use value objects to store information.
 
 Value classes should _never_ have side-effects. They don't make HTTP requests, they don't touch the file-system, and they don't talk to databases.
 

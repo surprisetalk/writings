@@ -149,6 +149,7 @@ Uh, won't I die if—
 {: .student}
 
 Eat every cigarette, one-by-one!
+{: .master}
 
 I'll die!
 {: .student}
@@ -180,7 +181,7 @@ That's not a secret ritual! And besides, it requires too much willpower!
 You fool! It only requires willpower if you want to smoke!
 {: .master}
 
-_Screams internally._ You're infuriating!
+_[Screams internally]._ You're infuriating!
 {: .student}
 
 Okay, how about this: every time you want to smoke, fling every cigarette into the sea.

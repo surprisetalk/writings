@@ -105,49 +105,15 @@ At the one-hour level, it's all about meta-cognition: "What's the best use of my
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oAOcBphgKRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_"Everyday"_ is a powerful force. When you do something _everyday_, you improve. When you do something _everyday_, it effortless. When you do something _everyday_, you define who you're becoming.
+_"Everyday"_ is a powerful force. When you do something _everyday_, you improve. When you do something _everyday_, it becomes effortless. When you do something _everyday_, you define who you're becoming.
 
-![Benjamin Franklin's Daily Routine](https://dw8stlw9qt0iz.cloudfront.net/IG8P7fErIdd5T7Y-eLijaa--cCg=/fit-in/675x799/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/portrait/standard/bc021863-2e1b-4ba5-e624-2d93b21f9ac9.png)
-
-There are a bunch of things I want to do _everyday_. The actual time-of-day (e.g. 5AM) is not as important as the overarching sequence. I tried to order/group my subroutines something like the following:
+Specifically, I want to stick to [my routine](/routine) everyday. Generally, I want to:
 1. Be Happy
 2. Be Healthy
 3. Make a Gameplan
 4. Make Dope Shit
 5. Make Shit Dope
 6. Garbage In · Garbage Forever
-
-First of all, it's important to start the day off full of joy. Otherwise, what's the point? An unhappy life is an unsuccessful life. And more importantly, nobody intentionally sticks to routines that makes them unhappy.
-
-And once your spirit is charged, it's time to take care of your body. Basic fuel/exercise/hygiene improves mood, intelligence, longevity, and attractiveness. It's going to make _everything else_ you do easier. So get it done first.
-
-> "Work expands so as to fill the time available for its completion."
->
-> — [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
-
-After your spirit and body are acknowledged, it's time to do everything else. First, it's important to reflect on _what you actually want to do_. I try to prioritize tasks based on what takes the most brainpower: learning, then creativity, then chores, then media. Learning and creating are difficult after a long day's work, so I try to get it done before I expend willpower on tedium. I use procastination to my advantage — [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law) forces me to work smarter, not harder.
-
-Start | Subroutine | Description
-----: | :--------- | :----------
-0500h | Frolic     | drink tea; smell stuff; dance
-      | Grow       | happy plants
-      | Tidy       | hello home
-      | Nothing    |
-      | Lift       | swolify with spotify
-      | Fuel       | meal prep; vitamins & supplements
-      | Groom      | look good, smell good, feel good
-0700h | Calibrate  | relax; review systems, goals, & values; consult "shrine"
-      | Strategize | review to-dos; purge distractions; make to-dos doable; cheat-codes; ask for help; prioritize
-      | Connect    | snail-mail; fan-mail; "you're special"; favors; recommendations; memes
-      | Learn      | spaced-repetition; practice; teach
-      | Create     | [taysar.com](/); latest [project](/projects)
-1000h | Toil       | [just do it](https://www.youtube.com/watch?v=OCfT8uD9WBU)
-2000h | Review     | reflect; automate
-      | Simplify   | let it go
-      | Consume    | hackernews; crunchyroll; youtube; reddit
-2100h | Read       | [grab a book](/lists/Reading List)
-      | Sleep      | [it's f*cking bedtime](https://www.youtube.com/watch?v=JurGajlyEew)
-{: .table .is-narrow .is-bordered}
 
 
 ### An Ideal Month
@@ -181,6 +147,31 @@ Here are some _systems_ I'm experimenting with:
 <!-- TODO: coming soon: hormesis! -->
 
 
+<!-- TODO: metrics? progress? -->
+
+
+### No Stress
+{: #No-Stress}
+
+Stress is useless. Making decisions under duress is unwise. Learning under stress is inefficient. And stress feels terrible! Why do we want to feel this way?
+
+I don't want to feel stressed anymore. I want to take life on stoically. I want to face the future with full confidence. I want total, unrelenting peace.
+
+
+### No More Internet (At Home)
+{: #No-More-Internet}
+
+I'm starting to realize that my media consumption habits are the single greatest threat to my well-being.
+
+I've wasted so much of my life on The Internet™; [Reddit and YouTube and 4chan are black-holes](/essays/How to Convince Yourself to Get Off the Internet and Actually Make Things). I'm sick of being trapped by my own lack of self-control.
+
+Historically, I've been too weak to solve this problem. I've made so many systems to resist The Internet™, but all resistance has been futile.
+
+So that's it. I lost my internet privileges. No more internet at home. If I want to read Wikipedia, I need to download the page somewhere else (probably work) and bring it home with me.
+
+I want to stop my mindless consuption; I want to start making wonderful things again!
+
+
 ### [taysar.com](/projects/taysar)
 {: #taysar}
 
@@ -201,7 +192,7 @@ Ongoing problems and possible solutions:
 - it's not a habit yet
   - stick to [good habits](#Good-Habits)
 - media is still distracting
-  - fix [media consuption](#Media-Consumption)
+  - fix [media consuption](#No-More-Internet)
 - small tasks just need to get done
   - again, [good habits](#Good-Habits)
   - consider a public task-list
@@ -218,8 +209,6 @@ My first habit is that [everything must be related to this website](#taysar). I'
 
 Next, I'm going to work on sticking to [my routine](#Routine). My biggest hurdle with the routine right now is going to bed early! I'm much more productive when I have the discipline to go to sleep early, but it's a hard habit to form when all your friends gather so late in the evening.
 
-Consider making a "home page" or interface for _each_ habit! Actually, they can be interactive sections on the [routine page](/routine). I definitely need to do a lot of work for the Learn and Lift sections.
-
 Ongoing problems and possible solutions:
 - no motivation to start
   - start right now
@@ -230,12 +219,13 @@ Ongoing problems and possible solutions:
   - strict wake time
 - missing the morning routine causes me to avoid the rest of the subroutines
   - create lil' interface
+- media is still distracting
   
+
+<!--
 
 ### Media Consumption
 {: #Media-Consumption}
-
-<!-- TODO: metrics? progress? -->
 
 I've been desparately trying to limit my media consumption. It's actually been going better than expected!
 
@@ -247,44 +237,15 @@ The problem is, I occasionally want to consume media. And I have a huge, methodi
 
 Soon I'll make a queue (hopefully integrated with [my spaced-repetition setup](#Spaced-Repetition)) that automatically downloads new media and prioritizes it and controls the flow in a way that I think is healthier.
 
-<!-- TODO: the queue -->
+TODO: the queue
 
-<!-- TODO: computer organization! destroy org! -->
+TODO: computer organization! destroy org!
 
-<!-- TODO: move these notes to a personal-computing repo -->
-
-Digital clean:
-- <input type="checkbox" disabled/> Sources
-  - <input type="checkbox" disabled/> Dropbox
-    - <input type="checkbox" disabled/> download everything to external drive
-    - <input type="checkbox" disabled/> delete everything
-    - <input type="checkbox" disabled/> upload the essentials
-  - <input type="checkbox" disabled/> HackerNews binge (July 1, 2018 to now)
-  - <input type="checkbox" disabled/> Pocket
-    - <input type="checkbox" disabled/> download directory
-  - <input type="checkbox" disabled/> organize harddrives
-  - <input type="checkbox" disabled/> Apple devices
-    - <input type="checkbox" disabled/> clean up tabs
-    - <input type="checkbox" disabled/> clean up apps
-  - <input type="checkbox" disabled/> clean up tabs in Toby
-  - <input type="checkbox" disabled/> add books/movies/albums/etc to [lists](/lists)
-  - <input type="checkbox" disabled/> org-mode
-    - <input type="checkbox" disabled/> move org repo to [taysar](/)
-    - <input type="checkbox" disabled/> delete org
-- <input type="checkbox" disabled/> Sink
-  - <input type="checkbox" disabled/> media queue
+TODO: move these notes to a personal-computing repo
 
 Ongoing problems and possible solutions:
 - overwhelmed by sheer volume of backlog and incoming stream
   - break it up into smaller pieces
   - document the journey
 
-
-### No Stress
-{: #No-Stress}
-
-Stress is useless. Making decisions under duress is unwise. Learning under stress is inefficient. And stress feels terrible! Why do we want to feel this way?
-
-I don't want to feel stressed anymore. I want to take life on stoically. I want to face the future with full confidence. I want total, unrelenting peace.
-
-
+-->

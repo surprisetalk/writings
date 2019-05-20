@@ -24,7 +24,7 @@ So I hope I've convinced you that you're part of this category just like everyon
 The Black Hole is a pretty textbook form of addiction: it provides relief from the discomfort it creates.
 
 I probably watch anime because it helps me forget that I waste my life [watching anime](https://www.youtube.com/watch?v=psi5-7YC1g8).
-Actually, anime is not nearly the worst of it -- it's the mindless pursuit of "wow, that's moderately entertaining". I could spend the rest of my life on 4Chan (don't look it up), Reddit, and YouTube, but _I don't want to_. Sooooooo how do I escape? No h*cking clue. I guess I'll write about how healther people live and see if I can find any insight there.
+Actually, anime is not nearly the worst of it -- it's the mindless pursuit of "wow, that's moderately entertaining". I could spend the rest of my life on 4chan (don't look it up), Reddit, and YouTube, but _I don't want to_. Sooooooo how do I escape? No h*cking clue. I guess I'll write about how healther people live and see if I can find any insight there.
 
 
 ### "Eh, I've got better things to do."
@@ -41,7 +41,7 @@ I guess, by definition, they just somehow had no interest in _harnessing the lim
 
 I think the pursuit of Shiny Things is falling for the delusion that _Shiny Things Will Make You Happier_. It's so obviously false. But I guess, to some degree, they just deep down don't believe that _The Black Hole Will Make You Happier_.
 
-I guess I haven't fully internalized it. There is so much Good in the Black Hole -- it _seems_ like it makes me Happier. But maybe it's illusory. Or just really complicated. Nothing can really make me Happier. I guess I know this, but how do I get myself to truly, deep down, really _believe_ it? Maybe it's small essays like this. Maybe it's conversations with friends. Maybe it's excercise, or drugs, or a spoon collection. I don't know. But hopefully one day I'll _feel_ the fact that Shiny Things are not so cool. Hopefully.
+I guess I haven't fully internalized it. There is so much Good in the Black Hole -- it _seems_ like it makes me Happier. But maybe it's illusory. Or just really complicated. Nothing can really make me Happier. I guess I know this, but how do I get myself to truly, deep down, really _believe_ it? Maybe it's small essays like this. Maybe it's conversations with friends. Maybe it's exercise, or drugs, or a spoon collection. I don't know. But hopefully one day I'll _feel_ the fact that Shiny Things are not so cool. Hopefully.
 
 Ah, what a defeatist I'm being. I'll re-probe myself later.
 

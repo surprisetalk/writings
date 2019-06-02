@@ -1,5 +1,55 @@
 
 <!--
+- [ ] reorganize
+  - [ ] videos
+  - [ ] writing
+	- [ ] essays
+	- [ ] stories
+  - [ ] music
+  - [ ] software
+  - [ ] hardware
+  - [ ] photos
+  - [ ] studies
+  - [ ] else
+	- [ ] hello
+	- [ ] contact
+	- [ ] favorites
+- [ ] static files + elm
+  - [ ] qs charts
+	- [ ] github commits
+  - [ ] interactive stuff by field
+- [ ] make a static file generator (in racket)?
+  - [ ] from stories/essays repos
+- [ ] make simple templates with handlebars?
+- [ ] body mods page
+- [ ] favorites
+    - [ ] les mis
+    - [ ] deloused
+    - [ ] foundation
+    - [ ] one punch man
+    - [ ] better off ted
+    - [ ] gits
+
+- [ ] tutorials
+- [ ] reading notes
+- [ ] media reviews
+- [ ] project diaries
+- [ ] more rants
+- [ ] more cool things
+- [ ] longer stories under version control
+- [ ] saved posts from reddit
+- [ ] podcasts & podcasts reviews
+- [ ] videos
+- [ ] translate white papers for laypersons
+- [ ] weekly "creature feature" videos. cool stuff in math/tech/art/etc
+- [ ] start ONE WRITING A DAY -- can be stupid, but need to publish / revise SOMETHING
+- [ ] start throwing stuff into ~/create/write or ~/create/writing ?
+- [ ] Iteratively write essay prompts, write notes on writing, compile notes in an essay on learning to write
+- [ ] the taysar course: lists of videos, essays, podcasts, pictures, etc. everyone should experience
+- [ ] taysar skilltrees / microcourses
+-->
+
+<!--
 Domains:
 https://www.namecheap.com/domains/registration/results.aspx?domain=taylor
 https://domainr.com/to.ads?q=taylor
@@ -175,3 +225,4 @@ https://github.com/marcelotto/jsonld-ex
     - <input type="checkbox" disabled/> specific media (pdf, csv, etc)
 - <input type="checkbox" disabled/> future-proof the site — it should last 100 years
 - <input type="checkbox" disabled/> artictle tags/categories
+

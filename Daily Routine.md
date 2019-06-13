@@ -34,7 +34,7 @@ Start | Subroutine | Description
       | Connect    | snail-mail; fan-mail; "you're special"; favors; recommendations; memes
       | Learn      | spaced-repetition; practice; teach
       | Create     | [taysar.com](/); latest [project](/projects)
-1000h | Toil       | [just do it](https://www.youtube.com/watch?v=OCfT8uD9WBU)
+1000h | Toil       | inbox; [just do it](https://www.youtube.com/watch?v=OCfT8uD9WBU)
 2000h | Review     | reflect; automate
       | Simplify   | let it go
       | Consume    | hackernews; crunchyroll; youtube; reddit

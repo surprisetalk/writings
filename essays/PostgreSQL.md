@@ -33,3 +33,5 @@ https://postgrespro.com/list/thread-id/1554536
 https://news.ycombinator.com/item?id=10622426
 http://blog.pgaddict.com/posts/postgresql-on-ssd-4kb-or-8kB-pages
 -->
+
+TODO: explicitly version 11

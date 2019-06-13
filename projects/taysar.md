@@ -175,3 +175,4 @@ https://github.com/marcelotto/jsonld-ex
     - <input type="checkbox" disabled/> specific media (pdf, csv, etc)
 - <input type="checkbox" disabled/> future-proof the site — it should last 100 years
 - <input type="checkbox" disabled/> artictle tags/categories
+- <input type="checkbox" disabled/> gzip/compression

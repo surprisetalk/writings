@@ -167,7 +167,7 @@ I've wasted so much of my life on The Internet™; [Reddit and YouTube and 4chan
 
 Historically, I've been too weak to solve this problem. I've made so many systems to resist The Internet™, but all resistance has been futile.
 
-So that's it. I lost my internet privileges. No more internet at home. If I want to read Wikipedia, I need to download the page somewhere else (probably work) and bring it home with me.
+So that's it. I lost my internet privileges. [No more internet at home](https://www.youtube.com/watch?v=kiMcX3Fa2Us). If I want to read Wikipedia, I need to download the page somewhere else (probably work) and bring it home with me.
 
 I want to stop my mindless consuption; I want to start making wonderful things again!
 

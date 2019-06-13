@@ -1,6 +1,12 @@
 
 <!-- TODO: grab the list from the repo -->
 
+<!-- TODO: make a dedicated website -->
+
+<!-- TODO: "making weird things and making things weird" -->
+
+<!-- TODO: start a mailing list -->
+
 I'm starting an event called Strange Times.
 
 Every other Sunday, I want to get a group of people together to get _strange_.

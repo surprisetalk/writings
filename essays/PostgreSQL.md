@@ -1,4 +1,8 @@
 <!--
+Internals of PostgreSQL: https://news.ycombinator.com/item?id=18950460
+-->
+
+<!--
 
 https://www.youtube.com/watch?v=BvsZbIP3HXM
 https://www.youtube.com/watch?v=xrMbzHdPLKM

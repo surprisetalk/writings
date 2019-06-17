@@ -28,13 +28,17 @@ I think I'm very funny.
 
 ![Oxalis Triangularis](/images/Oxalis Triangularis.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VrZI5pDSifI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="height:315px;" width="560" height="315" src="https://www.youtube.com/embed/VrZI5pDSifI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Oxalis Triangularis
 
 [Oxalis Triangularis](https://en.wikipedia.org/wiki/Oxalis_triangularis) is a fun little plant! I love how much it moves around.
 
 ---
+
+<!-- TODO: little sprout guy -->
+
+<!-- TODO: dainty gal -->
 
 ## Coming Soon
 

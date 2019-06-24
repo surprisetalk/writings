@@ -173,6 +173,7 @@ https://schema.org/TechArticle
 https://github.com/marcelotto/jsonld-ex
 -->
 
+- <input type="checkbox" disabled/> slightly decrease font-size
 - <input type="checkbox" disabled/> domains
   - <input type="checkbox" disabled/> swa.mp
   - <input type="checkbox" disabled/> blog.taysar.com

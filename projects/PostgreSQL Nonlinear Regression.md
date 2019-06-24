@@ -3,7 +3,9 @@ Coming soon!
 
 <!--
 
-Nonlinear regression with postgres.
+This should really be Time-Series Smoothing in Postgres, or something like that.
+
+---
 
 Best with something like pgpartman for keeping running polynomial representations of tables.
 

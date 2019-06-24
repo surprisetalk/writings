@@ -82,7 +82,7 @@ SELECT * FROM books WHERE title = 'Frog Blood 6';
 
 "Wow, how clever! In that case, could you help me find _Frog Blood 6_?"
 
-The librarian quickly looks through each library card alphabetically to until she finds _Frog Blood 6_. After writing down its location, she says, "I'll be right back."
+The librarian sifts through the stack of index cards in a very strange pattern. Although there are hundreds of cards there, she only looks at 4-5 cards before finding _Frog Blood 6_. After writing down its location, she says, "I'll be right back."
 
 _26 seconds later._
 
@@ -102,7 +102,7 @@ A shipment of new book donations slide onto her desk from a worn conveyor belt. 
 SELECT * FROM books WHERE isbn = '0345391802';
 ```
 
-"I see. Well, do you think you could help me out with one more request? My friend asked me to grab a book with an ISBN of _0345391802_."
+"I see. Well, do you think you could help me out with another request? My friend asked me to grab a book with an ISBN of _0345391802_."
 
 "Do you have the title by any chance? That would make things a lot easier for me."
 
@@ -147,7 +147,7 @@ CREATE INDEX published_idx ON books ( published );
 
 "Hey! How's it going?"
 
-"Well, my boss asked me to keep track of even more index cards since I last saw you, which has been a bit overwhelming."
+The librarian smiles, but looks like she could use a good nap. "Well, my boss asked me to keep track of even more index cards since I last saw you, which has been a bit overwhelming."
 
 ``` sql
 EXPLAIN SELECT * FROM books WHERE title ILIKE 'A%';
@@ -160,6 +160,8 @@ EXPLAIN SELECT * FROM books WHERE title ILIKE 'A%';
 "Really, why? I thought `Sequential Scan`s were slower."
 
 "Well, when you ask for a lot of books that are spread all over the library, it ends up taking more time looking through index cards than just looking through books one-by-one."
+
+<!-- TODO: Picture! -->
 
 "But don't you have all book titles alphabetized in your cards? It should be really quick to find all the names."
 
@@ -210,9 +212,9 @@ ON CONFLICT DO UPDATE SET copies = EXCLUDED.copies + 1
 ;
 ```
 
-Another copy of the book slides in from the conveyor belt. First, the librarian pulls out the stack of ISBN cards; she already forgot that another copy of the book already exists. She sifts through the stack of index cards that records how many copies of each book there are. In order to update the indexed number of copies, first she must erase the original entry ordered with the 1s, and then insert the location into the 2s.
+Another copy of the book slides in from the conveyor belt. First, the librarian pulls out the stack of ISBN cards; she already forgot that another copy of the book already exists. She sifts through the stack of index cards that records how many copies of each book there are. In order to update the indexed number of copies, first she must erase the original entry ordered with the 1s, and then insert the book's location into the 2s.
 
-"Sorry again! It helps to know that each book has a unique ISBN, because it saves me some record-keeping trouble, and also reduces the amount of things I have to read through. But it's a real pain to update the number of copies, because I keep everything sorted in that stack. So I have to erase one of the cards and then find a new place for the new book value somewhere in the stack."
+"Sorry again! It helps to know that each book has a unique ISBN, because it saves me some record-keeping trouble, and also reduces the amount of things I have to read through. But it's a real pain to update the number of copies, because I keep everything sorted in the copies stack. So I have to erase one of the cards and then find a new place for the value somewhere in the stack."
 
 ``` sql
 -- Select from some pg_* function that shows the internals.
@@ -236,6 +238,7 @@ Another copy of the book slides in from the conveyor belt. First, the librarian 
 "Odd analogy, but —"
 
 "Each card is exactly 8kb — I'm a bit of a perfectionist, ya know — and the first card in the stack is usually a metacard that has some indicators to help me remember information about the index itself. After that, I have my _branch_-cards, and then all my _leaf_-cards."
+<!-- TODO: Are the branch-cards dense like leaf-cards, or sparse? What's the mapping of tree-nodes to cards? -->
 
 "How do you use the branch-cards?"
 
@@ -248,7 +251,7 @@ Another copy of the book slides in from the conveyor belt. First, the librarian 
 
 <!-- TODO: Picture. -->
 
-"— which takes me to another tree-card —"
+"— which takes me to another branch-card —"
 
 <!-- TODO: Picture. -->
 
@@ -256,7 +259,7 @@ Another copy of the book slides in from the conveyor belt. First, the librarian 
 
 <!-- TODO: Picture. -->
 
-"Tada! And that's how tree-cards work."
+"Tada! And that's how branch-cards work."
 
 "Neato! Well, what do you do with the leaf-card?"
 
@@ -276,15 +279,15 @@ Another copy of the book slides in from the conveyor belt. First, the librarian 
 
 "Uh, sorry, I'm not sure I follow."
 
-"Well, not all values can be compared easily. For instance, is `(1,2)` greater than `(2,1)`? It's unclear. And I refuse to do anything I don't know how to do. You know?"
+"Well, not all values can be compared easily. For instance, is `(1,2)` greater than `(2,1)`? It's unclear. And I refuse to do anything I don't know how to do. Ya know?"
 
 "Umm—"
 
-"Oh yes, you're looking for things that start with 'Frank—'. Well, because everything in these cards are sorted by title, all I have to do is find where 'Frank' starts, and then read through until it doesn't start with 'Frank' anymore."
+"Oh yes, you're looking for things that start with 'Frank—'. Well, because everything in these cards are sorted by title, all I have to do is find where 'Frank' starts in the leaf-cards, and then read through until it doesn't start with 'Frank' anymore."
 
-"What happens if there is 'Frank—' stuff stored on multiple cards? How do you know which card is next? Are the cards sorted too?"
+"What happens if there is 'Frank—' stuff stored on multiple leaf-cards cards? How do you know which card is next? Are the cards sorted too?"
 
-"Actually no, the cards themselves are not sorted. For `BTREE` cards, I scribble the locations of the 'previous' and 'next' card on the bottom of the card like this:"
+"Actually no, the cards themselves are not sorted. For `BTREE` leaf-cards, I scribble the locations of the 'previous' and 'next' leaf-card on the bottom of the card like this:"
 
 <!-- TODO: Picture. -->
 
@@ -313,11 +316,11 @@ EXPLAIN ( BUFFERS ) SELECT * FROM books WHERE author = 'Asimov, Isaac';
 
 "I see. Wait, no, why are you using those scans rather than `Index Scan` or `Sequential Scan`?"
 
-"When I grab too many things with `Index Scan`, I have to run back and forth a lot. But when I grab too few things with `Sequential Scan`, I waste my time running through the library. So these scans are a fine middle-ground when I have to grab a moderate quantity of books from all over the library."
+"When I grab too many things with `Index Scan`, I have to run back and forth a lot. But when I grab too few things with `Sequential Scan`, I waste my time running through the library. So the bitmap scans are a fine middle-ground when I have to grab a moderate quantity of books from all over the library."
 
 "Got it. So why do you need two different scans?"
 
-"It sounds like two different scans, but you can think of them as only one scan for now. In smaller libraries `Bitmap Index Scan`, I imagine a yawning-kitty —"
+"It sounds like two different scans, but you can think of them as only one scan for now. In smaller libraries, for `Bitmap Index Scan`, I imagine a yawning-kitty —"
 
 "Did you say 'yawning-kitty'? How, uh, cute."
 
@@ -337,14 +340,36 @@ EXPLAIN ( BUFFERS ) SELECT * FROM books WHERE author = 'Asimov, Isaac';
 
 "Ah, yes, I'm glad you asked. During the `Bitmap Heap Scan`, I have to do a `Recheck Condition` on every book on the shelf. In other words, I go to all the yawning-kitty shelves in order, checking each book to see if it's by Isaac Asimov, and placing them all on my cart. Anyway, let me go do that before I forget where the yawning-kitties are."
 
+<!-- TODO: picture! make sure to use a thought bubble. -->
+
 _14 minutes later._
+
+"...and here are your Asimov books."
+
+``` sql
+EXPLAIN 
+  SELECT * 
+    FROM books 
+   WHERE author = 'Asimov, Isaac' 
+     AND name LIKE 'Foundation%';
+```
+
+"Thanks! Just curious: what if I had asked you to grab all the books starting with 'Foundation—' by Isaac Asimov? Which stack of index cards would you use to find it? We already know there's a lot of books by Asimov spread over the library, but I can guess there's a lot of books starting with 'Foundation—'. Both approaches sounds rather difficult."
+
+"Good observation! In that case, I would use a `Bitmap Index Scan` with a `Bitmap Heap Scan` with title _and_ author."
+
+"But your titles and authors are in two different stacks of index cards! How do you use both together?"
+
+"Okay, well first I imagine my sad-cacti and yawning-kitties for Asimov shelf-locations from the author cards. And then I go back over the shelves again in my mind as I read over all the 'Foundation—' shelf-locations from title cards. It's a neat little trick called a `BitmapAnd`."
+<!-- TODO: which stack does postgres choose first? -->
 
 <!-- TODO: picture! make sure to use a thought bubble. -->
 
-
+"Huh. Okay, so if I understand correctly
 
 
 <!-- TODO: using an OR condition to do bitmap ORs -->
+<!-- TODO: using an AND condition to do bitmap ANDs -->
 
 <!-- TODO: make a query that requires multiple look-ups from multiple indexes: finding biographies of author of "The Brothers Karamazov" -->
 
@@ -361,7 +386,7 @@ _14 minutes later._
 <!-- TODO:  -->
 
 ``` sql
-CREATE UNIQUE INDEX genre_idx ON books ( genre );
+CREATE UNIQUE INDEX tags_idx ON books ( tags );
 -- TODO: genre is an array of enums
 -- TODO: gin/gist or whatever
 
@@ -370,6 +395,8 @@ CREATE UNIQUE INDEX genre_idx ON books ( genre );
 <!-- TODO: index tradeoffs -->
 
 <!-- TODO: primary and foreign keys -->
+
+<!-- TODO: physical location of books are CLUSTERed by genre/topic -->
 
 <!-- TODO: 1: use the right index. 2: err on the side of multicolumn, but make sure to order them correctly. 3: make it as small and specific as possible -->
 

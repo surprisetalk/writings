@@ -873,6 +873,8 @@ Coming soon!
 - https://soundcloud.com/nesthq/nest-hq-minimix-activia-benz
 - https://soundcloud.com/daniel-dj-480688544/pas-lam-system-meganto-mix
 - https://soundcloud.com/komono/customs-seattle-nov-12-set
+- https://soundcloud.com/search/sounds?q=sadkey&filter.duration=long
+- https://soundcloud.com/search?q=lexis%20shii
 - Spiderland by Slint
 - Red by King Crimson
 - Self-Titled by The Velvet Underground & Nico

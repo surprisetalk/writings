@@ -68,6 +68,10 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - From the New World
 - Your Lie in April
 
+### Recommendations from Nathan W.
+- Suke Hime
+- Macross: Do You Remember Love?
+
 ## Current
 
 - Grand Blue

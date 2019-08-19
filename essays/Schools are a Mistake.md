@@ -26,6 +26,8 @@ Coming soon!
 - The Real World
   - Nobody takes tests in the real world. But we praise students who get good grades, even though it shouldn't be a metric for success. At work, the "right answer" matters a whole lot less than people skills. I'd much rather hire a likeable person who makes mistakes. Tests don't teach that.
   - Tests also don't teach shortcuts. Most "real" problem-solving skills are about finding solutions _that aren't on the test_. Like, your boss may ask you to take out the trash everyday, but also finding ways to generate less trash is a completely valid alternative that wouldn't score any points in the classroom.
+- Dirt
+  - Dirt is good.
   
 - What would a perfect program look like?
 

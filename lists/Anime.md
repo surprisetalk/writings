@@ -72,6 +72,11 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - Suke Hime
 - Macross: Do You Remember Love?
 
+### I Don't Know
+- [Fujimoto manga](https://www.google.com/search?hl=en&q=fujimoto%20manga)
+- [Minami-ke](https://www.google.com/search?hl=en&q=Minami-ke&stick=H4sIAAAAAAAAAOOQUeLSz9U3ME6qSq-0MOJPzs9NTalUyMxTSMzLzE2Nks3NzEvMzVTITlUozslMTlXIT1PIyUxLhUifYkTSDOUkZxgUJxefYuQEcQzTs0oM4RImRpXGMImC3KQKqERlgbFRbg6UU2FYbpGbAuWYm5XkFKf8YuR3RnXWIlZOX7C7dLNTAfkDyIbCAAAA&sa=X&ved=2ahUKEwj0oKWti7vjAhWQUs0KHWIrBsYQxA0wCnoECAsQBQ&biw=1392&bih=822)
+
+
 ## Current
 
 - Grand Blue

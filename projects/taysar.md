@@ -136,6 +136,10 @@ https://github.com/amperser/proselint/
 -->
 
 <!--
+www.petecorey.com
+-->
+
+<!--
 https://taysar.com/sitemaps/sitemap1.xml
 https://search.google.com/u/0/search-console/not-verified?original_url=/search-console?resource_id%3Dsc-domain:taysar.com&original_resource_id=sc-domain:taysar.com
 https://search.google.com/u/1/search-console?resource_id=sc-domain:taysar.com

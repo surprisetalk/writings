@@ -18,6 +18,10 @@
 - Labyrinthe of Refrain
 - Disgaea 5
 - 999
+- astray
+- death stranding
+- untitled goose game
+- noita
 
 
 ## Played

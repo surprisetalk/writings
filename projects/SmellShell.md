@@ -11,3 +11,28 @@ On second thought, this could be a "view" or an "app" that people run within the
 But yeah, the primary goal of the shell should be data and schemas. It should have access to giant datasets (like Wolfram Language), and it should be easy to use tags and shapes to do things! Because honestly, one of the biggest problems with BASH (and modern OSes) is that we have to do a lot of messy (and often faulty) conversions to/from strings. Let's put some structure in the world!
 
 I also like the idea of having an APL-like language designed specifically for string manipulation.
+
+<!--
+
+Make smellshell a scrapscript scrap-platform.
+
+e.g. smellshell expects evaluation to a type like
+
+    =:[ fs-query ...
+        fs-write ...
+        os-stats ...
+      ]
+  
+so something like
+
+     ls |> filter (size >> (> MB 10)) |> filter (ext >> (= ".jpg"))
+     
+would evaluate to a lazily-assembled query/command like
+
+        (fs-query [])       -- file-query constructor from ls
+        (fs-query [(fs-filter (fs-size gt 10 mb))])
+        (fs-query [(fs-filter (fs-size gt 10 mb)) (fs-filter (fs-ext eq ".jpg"))])
+        
+or something
+
+-->

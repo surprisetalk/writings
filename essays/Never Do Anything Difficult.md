@@ -1,4 +1,8 @@
-Coming soon!
+
+|              | It's Easy | It's Difficult
+| ------------ | --------- | --------------
+| It's Fun     | ✅        | 🤷
+| It's Not Fun | 🤷        | ❌
 
 <!--
 

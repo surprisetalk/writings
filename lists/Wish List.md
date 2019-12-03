@@ -35,6 +35,6 @@
   - [planck thk](https://github.com/olkb/planck_thk)
   - [plaid](https://github.com/hsgw/plaid)
 - onewheel pint
-
-
-  
+- yamaha hs-8
+- midifighter (64 + knobs)
+- planck rev6

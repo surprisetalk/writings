@@ -14,6 +14,10 @@ Coming soon!
 
 ### Albums
 
+<!-- TODO: Merge this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
+
+- ★★☆☆☆ | Bill Laurance :: _Aftersun_
+- ★★★★☆ | Han Hee Jung :: _1집 너의 다큐멘트_
 - ☆☆☆☆☆ | Devics :: _Push the Heart_
 - ☆☆☆☆☆ | Tigran Hamasyan :: _Mockroot_
 - ☆☆☆☆☆ | Khruangbin :: _The Universe Smiles Upon You_
@@ -74,7 +78,7 @@ Coming soon!
 - ☆☆☆☆☆ | Bonobo :: _Black Sands_
 - ★★★★★ | Todd Terje :: _It's Album Time_
 - ☆☆☆☆☆ | Blonde Redhead :: _Fake Can Be Just as Good_
-- ☆☆☆☆☆ | Blonde Redhead :: _23_
+- ★★★☆☆ | Blonde Redhead :: _23_
 - ☆☆☆☆☆ | Blonde Redhead :: _Melody of Certain Damaged Lemons_
 - ☆☆☆☆☆ | Blonde Redhead :: _Misery Is a Butterfly_
 - ☆☆☆☆☆ | CHVRCHES :: _The Bones Of What You Believe_
@@ -99,7 +103,7 @@ Coming soon!
 - ☆☆☆☆☆ | Sentimental Scenery :: _Harp Song + Sentimentalism_
 - ☆☆☆☆☆ | Sentimental Scenery :: _Soundscape_
 - ☆☆☆☆☆ | Sentimental Scenery :: _There Is Nowhere Else In The World_
-- ☆☆☆☆☆ | Sentimental Scenery :: _11 DAYS_
+- ★★☆☆☆ | Sentimental Scenery :: _11 DAYS_
 - ☆☆☆☆☆ | Casker :: _Your Songs_
 - ☆☆☆☆☆ | Casker :: _tender_
 - ☆☆☆☆☆ | Casker :: _여정(旅程)_
@@ -168,12 +172,12 @@ Coming soon!
 - ☆☆☆☆☆ | Timecop1983 :: _Running in the Dark_
 - ☆☆☆☆☆ | Daniel Deluxe :: _Corruptor_
 - ☆☆☆☆☆ | OGRE Sound :: _Calico Noir_
-- ☆☆☆☆☆ | OGRE Sound :: _195_
+- ★☆☆☆☆ | OGRE Sound :: _195_
 - ☆☆☆☆☆ | Mew :: _Visuals_
 - ☆☆☆☆☆ | Stwo :: _D.T.S.N.T. EP_
 - ☆☆☆☆☆ | Jacob Collier :: _In My Room_
 - ☆☆☆☆☆ | No Vacation :: _Amo XO_
-- ☆☆☆☆☆ | Tuff City Kids :: _Adoldesscent_
+- ★☆☆☆☆ | Tuff City Kids :: _Adoldesscent_
 - ☆☆☆☆☆ | Susanne Sundfør :: _Take One_
 - ☆☆☆☆☆ | Susanne Sundfør :: _The Brothel_
 - ☆☆☆☆☆ | Susanne Sundfør :: _The Silicone Veil_
@@ -205,7 +209,7 @@ Coming soon!
 - ☆☆☆☆☆ | Sixpence None The Richer :: _Sixpence None the Richer_
 - ☆☆☆☆☆ | Sixpence None The Richer :: _This Beautiful Mess_
 - ☆☆☆☆☆ | Sixpence None The Richer :: _The Fatherless & The Widow_
-- ☆☆☆☆☆ | I See Stars :: _3-D_
+- ★★★★☆ | I See Stars :: _3-D_
 - ☆☆☆☆☆ | I See Stars :: _The End Of The World Party_
 - ☆☆☆☆☆ | I See Stars :: _Digital Renegade_
 - ☆☆☆☆☆ | I See Stars :: _Renegades Forever_
@@ -224,7 +228,7 @@ Coming soon!
 - ☆☆☆☆☆ | Dr. Dog :: _Shame, Shame_
 - ☆☆☆☆☆ | Dr. Dog :: _Be The Void_
 - ☆☆☆☆☆ | Dr. Dog :: _The Psychedelic Swamp_
-- ☆☆☆☆☆ | Dr. Dog :: _Abandoned Mansion_
+- ★★☆☆☆ | Dr. Dog :: _Abandoned Mansion_
 - ☆☆☆☆☆ | Never Shout Never :: _The Summer EP_
 - ☆☆☆☆☆ | Never Shout Never :: _What Is Love?_
 - ☆☆☆☆☆ | Never Shout Never :: _Harmony_
@@ -243,7 +247,6 @@ Coming soon!
 - ☆☆☆☆☆ | Pat Benatar :: _Gravity's Rainbow_
 - ☆☆☆☆☆ | Pat Benatar :: _Innamorata_
 - ☆☆☆☆☆ | Pat Benatar :: _Alive In America_
-- ☆☆☆☆☆ | Pat Benatar :: _8-15-80_
 - ☆☆☆☆☆ | Good Old War :: _Only Way To Be Alone_
 - ☆☆☆☆☆ | Good Old War :: _Good Old War_
 - ☆☆☆☆☆ | Good Old War :: _Come Back As Rain_
@@ -510,7 +513,7 @@ Coming soon!
 - ☆☆☆☆☆ | Coheed and Cambria :: _In Keeping Secrets Of Silent Earth: 3_
 - ☆☆☆☆☆ | Coheed and Cambria :: _No World For Tomorrow_
 - ☆☆☆☆☆ | Coheed and Cambria :: _Year Of The Black Rainbow_
-- ☆☆☆☆☆ | Coheed and Cambria :: _The Afterman (Deluxe)_
+- ★☆☆☆☆ | Coheed and Cambria :: _The Afterman_
 - ☆☆☆☆☆ | Coheed and Cambria :: _The Color Before The Sun_
 - ☆☆☆☆☆ | A Skylit Drive :: _Wires...And The Concept Of Breathing_
 - ☆☆☆☆☆ | A Skylit Drive :: _She Watched The Sky_
@@ -556,7 +559,7 @@ Coming soon!
 - ☆☆☆☆☆ | Run The Jewels :: _Meow the Jewels_
 - ☆☆☆☆☆ | Sia :: _Some People Have REAL Problems_
 - ☆☆☆☆☆ | Sia :: _We Are Born_
-- ☆☆☆☆☆ | Sia :: _1000 Forms Of Fear_
+- ★★★☆☆ | Sia :: _1000 Forms Of Fear_
 - ☆☆☆☆☆ | Sia :: _This Is Acting_
 - ☆☆☆☆☆ | Oskar Schuster :: _Les Valses Invisibles_
 - ☆☆☆☆☆ | Oskar Schuster :: _Tristesse Télescopique_
@@ -592,7 +595,12 @@ Coming soon!
 - ☆☆☆☆☆ | Made in Heights :: _MADE IN HEIGHTS_
 - ☆☆☆☆☆ | Angelo De Augustine :: _How Past Begins_
 - ☆☆☆☆☆ | Giraffes? Giraffes! :: _SugaaaaaSpazzazazz_
-- ☆☆☆☆☆ | Emarosa :: _131_
+- ★☆☆☆☆ | Emarosa :: _131_
+- ☆☆☆☆☆ | Emarosa :: _Emarosa_
+- ☆☆☆☆☆ | Emarosa :: _Peach Club_
+- ☆☆☆☆☆ | Emarosa :: _Relativity_
+- ☆☆☆☆☆ | Emarosa :: _This Is Your Way Out_
+- ☆☆☆☆☆ | Emarosa :: _Versus_
 - ☆☆☆☆☆ | BADBADNOTGOOD & Ghostface Killah :: _SOUR SOUL_
 - ☆☆☆☆☆ | BADBADNOTGOOD :: _IV_
 - ☆☆☆☆☆ | Oneohtrix Point Never :: _R Plus Seven_
@@ -607,7 +615,7 @@ Coming soon!
 - ☆☆☆☆☆ | Gojira :: _Magma_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Tree City Sessions_
 - ☆☆☆☆☆ | William Basinski :: _Melancholia_
-- ☆☆☆☆☆ | Bobby Tank :: _Afterburn EP_
+- ★★★☆☆ | Bobby Tank :: _Afterburn EP_
 - ☆☆☆☆☆ | Bobby Tank :: _Undone_
 - ☆☆☆☆☆ | Bobby Tank & Godwolf :: _Paradox_
 - ☆☆☆☆☆ | Bobby Tank :: _Vanquish_
@@ -744,7 +752,7 @@ Coming soon!
 - ☆☆☆☆☆ | Pianos Become The Teeth :: _Keep You_
 - ☆☆☆☆☆ | Gengahr :: _Tired Eyes_
 - ☆☆☆☆☆ | Noah Gundersen :: _Carry The Ghost_
-- ☆☆☆☆☆ | From Indian Lakes :: _Absent Sounds_
+- ★★★★☆ | From Indian Lakes :: _Absent Sounds_
 - ☆☆☆☆☆ | Animal Collective :: _Merriweather Post Pavilion_
 - ☆☆☆☆☆ | The Weepies :: _Sirens_
 - ☆☆☆☆☆ | Vessels :: _Helioscope_
@@ -800,7 +808,7 @@ Coming soon!
 - ☆☆☆☆☆ | Riverside :: _Love, Fear and the Time Machine_
 - ☆☆☆☆☆ | Julia Holter :: _Have You In My Wilderness_
 - ☆☆☆☆☆ | Destroyer :: _Poison Season_
-- ☆☆☆☆☆ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
+- ★★★★☆ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
 - ☆☆☆☆☆ | Meg Myers :: _Sorry_
 - ☆☆☆☆☆ | Scale The Summit :: _The Collective_
 - ☆☆☆☆☆ | Scale The Summit :: _Carving Desert Canyons_
@@ -875,12 +883,44 @@ Coming soon!
 - https://soundcloud.com/komono/customs-seattle-nov-12-set
 - https://soundcloud.com/search/sounds?q=sadkey&filter.duration=long
 - https://soundcloud.com/search?q=lexis%20shii
+- https://www.youtube.com/results?search_query=justice+mix
+- https://soundcloud.com/search?q=dzz%20nest
+- https://soundcloud.com/exhumemusic/vbnd-off-to-the-future-4
+- https://vbnd.bandcamp.com/album/2-2
+- https://soundcloud.com/nesthq/nest-hq-minimix-dzz
+- https://soundcloud.com/popstick/bubblegum-minimix
+- https://soundcloud.com/tsunderebigwave/bigwave-senpai
+- https://soundcloud.com/search?q=kira%20kira%20pop
+- https://soundcloud.com/tofuku/kkp
+- https://www.google.com/search?hl=en&q=kira%20kira%20pop
+- https://soundcloud.com/search/sounds?q=kira%20kira%20pop&filter.duration=epic
+- https://soundcloud.com/klslwsk/paws-1
+- https://soundcloud.com/search/sounds?q=sub%20focus&filter.duration=epic
+- https://soundcloud.com/jumpup-dnb/rampage-2019-sub-focus-b2b-wilkinson
+- https://soundcloud.com/culture-shock/seq-b2b
+- https://soundcloud.com/turnodj/sub-focus-live-guest-mix
+- https://soundcloud.com/mistanoize/sub-focus-history-mix
+- https://soundcloud.com/bushen/sub-focus-dnb-set-in-the-lab-ldn
+- https://soundcloud.com/wave-racer
+- https://soundcloud.com/search?q=mockingbird%20myrne
+- https://soundcloud.com/pastabagel/mockingbird-14-myrne
+- https://soundcloud.com/search/sounds?q=myrne&filter.duration=epic
+- https://soundcloud.com/pastabagel/mockingbird-3-hex-cougar
+- https://soundcloud.com/pastabagel/mockingbird-8-graves
+- https://soundcloud.com/pastabagel/mockingbird-63-ganz
+- https://soundcloud.com/pastabagel/mockingbird-35-krane
+- https://soundcloud.com/too-future-mixes/too-future-guest-mix-099-krane
+- https://soundcloud.com/nesthq/nest-hq-minimix-krane
+- https://soundcloud.com/hardfest/hsmf18-official-mixtape-series-17-krane
+- https://soundcloud.com/search/sounds?q=wave%20racer&filter.duration=epic
+- #FIREFEST2019 and other of those virtual music fests
 - Spiderland by Slint
 - Red by King Crimson
 - Self-Titled by The Velvet Underground & Nico
 - Pet Sounds by The Beach Boys
 - Primal Heart by Kimbra
 - Elephant Gym
+- The Dear Hunter
 - Schumann
 - Hershey Felder
 - Wincing the Night Away by The Shins
@@ -888,6 +928,7 @@ Coming soon!
 - Django Reinhardt
 - Vaughan Williams
 - Suburbs by Arcade Fire
+- han hee jung
 - genres (deep-dives)
   - big band
   - future funk

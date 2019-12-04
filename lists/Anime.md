@@ -14,10 +14,12 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - Revolutionary Girl Utena
 - Dream Hunter Rem
 - Code Geass
+- Pet
 
 ### Manga
 
 - Vinland Saga
+- Beastars
 
 
 ### This List
@@ -75,6 +77,17 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 ### I Don't Know
 - [Fujimoto manga](https://www.google.com/search?hl=en&q=fujimoto%20manga)
 - [Minami-ke](https://www.google.com/search?hl=en&q=Minami-ke&stick=H4sIAAAAAAAAAOOQUeLSz9U3ME6qSq-0MOJPzs9NTalUyMxTSMzLzE2Nks3NzEvMzVTITlUozslMTlXIT1PIyUxLhUifYkTSDOUkZxgUJxefYuQEcQzTs0oM4RImRpXGMImC3KQKqERlgbFRbg6UU2FYbpGbAuWYm5XkFKf8YuR3RnXWIlZOX7C7dLNTAfkDyIbCAAAA&sa=X&ved=2ahUKEwj0oKWti7vjAhWQUs0KHWIrBsYQxA0wCnoECAsQBQ&biw=1392&bih=822)
+- [Twinkle Heart](https://www.google.com/search?hl=en&q=twinkle%20heart)
+- [hen](https://mangarock.com/manga/mrs-serie-102288)
+- Gantz
+- Gigant
+- [Bakuman](https://www.google.com/search?hl=en&q=bakuman)
+- [Kakeguri](https://www.google.com/search?hl=en&q=kakeguri)
+- [Liar Game](https://www.google.com/search?hl=en&q=liar%20game)
+- [The Drops of God](https://www.google.com/search?safe=off&hl=en&sxsrf=ACYBGNSssCyjrhsawE97zbN19Dyszwbs0Q%3A1570419325347&ei=fbKaXdrrFIz--gTOi6HYDA&q=drops+of+god&oq=drops+of+god&gs_l=psy-ab.3..0j0i20i263j0j0i20i263j0l6.1456.1456..1668...0.2..0.113.113.0j1......0....1..gws-wiz.......0i71.NkOZpcsp8lY&ved=0ahUKEwianqTwm4nlAhUMv54KHc5FCMsQ4dUDCAo&uact=5)
+- [Space Family Carlvinson](https://www.google.com/search?hl=en&q=Space%20Family%20Carlvinson)
+- [Anthem of the Heart](https://www.google.com/search?hl=en&q=anthem%20of%20the%20heart)
+- [Minky Momo](https://www.google.com/search?hl=en&q=Minky%20Momo)
 
 
 ## Current

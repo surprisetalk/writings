@@ -4,6 +4,19 @@ Coming soon!
 
 <!-- https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ -->
 
+<!-- 
+
+MacOS
+
+https://www.reddit.com/r/apple/comments/5lnv11/better_touch_tool_has_changed_touchbar_from_kinda/
+https://folivora.ai
+
+https://github.com/koekeishiya/skhd/blob/master/examples/skhdrc
+https://github.com/koekeishiya/skhd/issues/1
+https://github.com/koekeishiya/skhd
+
+-->
+
 <!--
 
 https://wiki.archlinux.org/index.php/NVIDIA_Optimus

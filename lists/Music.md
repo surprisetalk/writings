@@ -914,6 +914,17 @@ Coming soon!
 - https://soundcloud.com/hardfest/hsmf18-official-mixtape-series-17-krane
 - https://soundcloud.com/search/sounds?q=wave%20racer&filter.duration=epic
 - #FIREFEST2019 and other of those virtual music fests
+- https://soundcloud.com/pastabagel/sets/mockingbird-mixes
+- https://soundcloud.com/pastabagel/sets/hummingbird-mixes
+- https://soundcloud.com/search?q=xavi
+- https://www.reddit.com/r/lido/comments/da85v4/albums_similar_to_everything/
+- https://www.youtube.com/results?search_query=sub+focus
+- https://www.youtube.com/watch?v=MvFgxEii4Sk
+- https://www.youtube.com/watch?v=tEcggRukZCs
+- https://www.youtube.com/user/Liquicity/videos?view=0&sort=p&flow=grid
+- https://www.youtube.com/user/UKFDrumandBass/videos
+- https://www.youtube.com/watch?v=kMxoMDHBJgc
+- https://soundcloud.com/madukdnb/maduk-guestmix-bbc-radio-1
 - Spiderland by Slint
 - Red by King Crimson
 - Self-Titled by The Velvet Underground & Nico

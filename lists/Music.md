@@ -84,7 +84,7 @@ Coming soon!
 - ☆☆☆☆☆ | CHVRCHES :: _The Bones Of What You Believe_
 - ★★★★★ | Carpenter Brut :: _Trilogy_
 - ☆☆☆☆☆ | Perturbator :: _New Model_
-- ☆☆☆☆☆ | Chiodos :: _All's Well That Ends Well_
+- ★★★★★ | Chiodos :: _All's Well That Ends Well_
 - ☆☆☆☆☆ | Chiodos :: _Illuminaudio_
 - ☆☆☆☆☆ | Chiodos :: _Bone Palace Ballet: Grand Coda_
 - ☆☆☆☆☆ | I Set My Friends On Fire :: _You Can't Spell Slaughter Without Laughter_
@@ -246,7 +246,6 @@ Coming soon!
 - ☆☆☆☆☆ | Pat Benatar :: _True Love_
 - ☆☆☆☆☆ | Pat Benatar :: _Gravity's Rainbow_
 - ☆☆☆☆☆ | Pat Benatar :: _Innamorata_
-- ☆☆☆☆☆ | Pat Benatar :: _Alive In America_
 - ☆☆☆☆☆ | Good Old War :: _Only Way To Be Alone_
 - ☆☆☆☆☆ | Good Old War :: _Good Old War_
 - ☆☆☆☆☆ | Good Old War :: _Come Back As Rain_
@@ -271,9 +270,9 @@ Coming soon!
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Fore!_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Picture This_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Sports_
-- ☆☆☆☆☆ | Flyleaf :: _Flyleaf (Re-Release)_
+- ☆☆☆☆☆ | Flyleaf :: _Flyleaf_
 - ☆☆☆☆☆ | Foxes :: _Glorious_
-- ☆☆☆☆☆ | Foxes :: _All I Need (Deluxe Version)_
+- ★☆☆☆☆ | Foxes :: _All I Need_
 - ☆☆☆☆☆ | Relient K :: _Relient K_
 - ☆☆☆☆☆ | Relient K :: _The Anatomy of the Tongue In Cheek_
 - ☆☆☆☆☆ | Relient K :: _Two Lefts Don't Make a Right...But Three Do (Gold Edition)_
@@ -286,7 +285,7 @@ Coming soon!
 - ☆☆☆☆☆ | Relient K :: _Collapsible Lung_
 - ☆☆☆☆☆ | Relient K :: _Air for Free_
 - ☆☆☆☆☆ | The Red Jumpsuit Apparatus :: _Don't You Fake It_
-- ☆☆☆☆☆ | Blue Öyster Cult :: _Agents Of Fortune_
+- ★★★★☆ | Blue Öyster Cult :: _Agents Of Fortune_
 - ☆☆☆☆☆ | Wet :: _Don't You_
 - ☆☆☆☆☆ | Vera Blue :: _Fingertips_
 - ☆☆☆☆☆ | Låpsley :: _Long Way Home_
@@ -499,7 +498,7 @@ Coming soon!
 - ☆☆☆☆☆ | Hiromi :: _Place To Be_
 - ☆☆☆☆☆ | Hiromi :: _Voice_
 - ☆☆☆☆☆ | Hiromi :: _Move_
-- ☆☆☆☆☆ | Hiromi :: _Alive_
+- ★★★★☆ | Hiromi :: _Alive_
 - ☆☆☆☆☆ | Hiromi :: _Spark_
 - ☆☆☆☆☆ | The Almost :: _Southern Weather_
 - ☆☆☆☆☆ | The Almost :: _Monster Monster_

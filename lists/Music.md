@@ -16,6 +16,7 @@ Coming soon!
 
 <!-- TODO: Merge this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★★★☆ | Max Richter :: _Sleep_
 - ★★☆☆☆ | Bill Laurance :: _Aftersun_
 - ★★★★☆ | Han Hee Jung :: _1집 너의 다큐멘트_
 - ☆☆☆☆☆ | Devics :: _Push the Heart_
@@ -569,7 +570,7 @@ Coming soon!
 - ☆☆☆☆☆ | Earthside :: _A Dream in Static_
 - ☆☆☆☆☆ | The Helix Nebula :: _Meridian_
 - ☆☆☆☆☆ | Hrvrd :: _The Inevitable And I_
-- ☆☆☆☆☆ | Swimming With Dolphins :: _Ambient Blue_
+- ★★★★★ | Swimming With Dolphins :: _Ambient Blue_
 - ☆☆☆☆☆ | Townes Van Zandt :: _Townes Van Zandt_
 - ☆☆☆☆☆ | Fela Kuti :: _Zombie_
 - ☆☆☆☆☆ | Bob Marley & The Wailers :: _Exodus_
@@ -588,7 +589,7 @@ Coming soon!
 - ☆☆☆☆☆ | İsmail H.Demircioğlu & Erkan Oğur :: _Gülün Kokusu Vardı_
 - ☆☆☆☆☆ | Erkan Oğur & İsmail H.Demircioğlu :: _Anadolu Beşik_
 - ☆☆☆☆☆ | Erkan Oğur & Derya Türkan & İlkin Deniz :: _Dokunmak_
-- ☆☆☆☆☆ | Kocani Orkestar :: _Alone At My Wedding_
+- ★★★★☆ | Kocani Orkestar :: _Alone At My Wedding_
 - ☆☆☆☆☆ | Soda Island :: _A Trip To Soda Island_
 - ☆☆☆☆☆ | Edward Vanzet :: _Everyday_
 - ☆☆☆☆☆ | Made in Heights :: _MADE IN HEIGHTS_

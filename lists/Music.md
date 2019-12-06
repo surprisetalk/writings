@@ -252,7 +252,7 @@ Coming soon!
 - ☆☆☆☆☆ | Good Old War :: _Broken into Better Shape_
 - ☆☆☆☆☆ | Mount Eerie :: _A Crow Looked at Me_
 - ☆☆☆☆☆ | Cartel :: _Collider_
-- ☆☆☆☆☆ | The Academy Is... :: _Almost Here_
+- ★★★★☆ | The Academy Is... :: _Almost Here_
 - ☆☆☆☆☆ | The Academy Is... :: _Santi_
 - ☆☆☆☆☆ | The Academy Is... :: _Fast Times At Barrington High_
 - ☆☆☆☆☆ | Cartel :: _Chroma_
@@ -445,7 +445,7 @@ Coming soon!
 - ☆☆☆☆☆ | Dario Marianelli & Jean-Yves Thibaudet :: _Pride and Prejudice OST (US and Canada Version)_
 - ☆☆☆☆☆ | tide/edit :: _Foreign Languages_
 - ☆☆☆☆☆ | tide/edit :: _Lightfoot_
-- ☆☆☆☆☆ | BROCKHAMPTON :: _ALL-AMERICAN TRASH_
+- ★★☆☆☆ | BROCKHAMPTON :: _ALL-AMERICAN TRASH_
 - ☆☆☆☆☆ | Moniker :: _Hunt for the Wilderpeople (Original Motion Picture Soundtrack)_
 - ☆☆☆☆☆ | Swans :: _The Glowing Man_
 - ☆☆☆☆☆ | World's End Girlfriend & Vampillia :: _在りし日の声 Voices of Days Past_

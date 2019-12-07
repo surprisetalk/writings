@@ -16,7 +16,7 @@ Coming soon!
 
 <!-- TODO: Merge this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
-- ★★★★☆ | Max Richter :: _Sleep_
+- ★★★★★ | Max Richter :: _Sleep_
 - ★★☆☆☆ | Bill Laurance :: _Aftersun_
 - ★★★★☆ | Han Hee Jung :: _1집 너의 다큐멘트_
 - ☆☆☆☆☆ | Devics :: _Push the Heart_
@@ -634,7 +634,7 @@ Coming soon!
 - ☆☆☆☆☆ | Flume :: _Skin_
 - ☆☆☆☆☆ | Tennyson :: _With You_
 - ☆☆☆☆☆ | CFCF :: _The Colours of Life_
-- ☆☆☆☆☆ | Saosin :: _Along The Shadow_
+- ★★☆☆☆ | Saosin :: _Along The Shadow_
 - ☆☆☆☆☆ | scntfc :: _Oxenfree_
 - ☆☆☆☆☆ | Disasterpeace :: _Hyper Light Drifter_
 - ☆☆☆☆☆ | Sweet Valley :: _Stay Calm_
@@ -938,6 +938,7 @@ Coming soon!
 - James Brown
 - Django Reinhardt
 - Vaughan Williams
+- Saosin
 - Suburbs by Arcade Fire
 - han hee jung
 - genres (deep-dives)

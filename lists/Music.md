@@ -66,7 +66,7 @@ Coming soon!
 - ☆☆☆☆☆ | The Weepies :: _Hideaway_
 - ★★★★★ | Rustie :: _Glass Swords_
 - ☆☆☆☆☆ | August Burns Red :: _Phantom Anthem_
-- ☆☆☆☆☆ | Circa Survive :: _The Amulet_
+- ★★★☆☆ | Circa Survive :: _The Amulet_
 - ★★★★★ | Iglooghost :: _Neō Wax Bloom_
 - ☆☆☆☆☆ | Iglooghost :: _Chinese Nü Yr_
 - ☆☆☆☆☆ | WagakkiBand :: _Yasouemaki_

@@ -177,7 +177,7 @@ Coming soon!
 - ☆☆☆☆☆ | Mew :: _Visuals_
 - ☆☆☆☆☆ | Stwo :: _D.T.S.N.T. EP_
 - ☆☆☆☆☆ | Jacob Collier :: _In My Room_
-- ☆☆☆☆☆ | No Vacation :: _Amo XO_
+- ★★★★☆ | No Vacation :: _Amo XO_
 - ★☆☆☆☆ | Tuff City Kids :: _Adoldesscent_
 - ☆☆☆☆☆ | Susanne Sundfør :: _Take One_
 - ☆☆☆☆☆ | Susanne Sundfør :: _The Brothel_
@@ -677,7 +677,7 @@ Coming soon!
 - ☆☆☆☆☆ | James Ferraro :: _Far Side Virtual_
 - ☆☆☆☆☆ | Strawberry Girls :: _Italian Ghosts_
 - ☆☆☆☆☆ | Strawberry Girls :: _French Ghetto_
-- ☆☆☆☆☆ | Strawberry Girls :: _American Graffiti_
+- ★★★★☆ | Strawberry Girls :: _American Graffiti_
 - ☆☆☆☆☆ | Poolside :: _Pacific Standard Time_
 - ☆☆☆☆☆ | Seoul :: _I Become A Shade_
 - ☆☆☆☆☆ | The Cranberries :: _Everybody Else Is Doing It, So Why Can't We?_
@@ -931,6 +931,7 @@ Coming soon!
 - Pet Sounds by The Beach Boys
 - Primal Heart by Kimbra
 - Elephant Gym
+- Johnny Cash
 - The Dear Hunter
 - Schumann
 - Hershey Felder

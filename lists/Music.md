@@ -14,7 +14,7 @@ Coming soon!
 
 ### Albums
 
-<!-- TODO: Merge this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
+<!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
 - ★★★★★ | Max Richter :: _Sleep_
 - ★★☆☆☆ | Bill Laurance :: _Aftersun_
@@ -275,10 +275,10 @@ Coming soon!
 - ☆☆☆☆☆ | Foxes :: _Glorious_
 - ★☆☆☆☆ | Foxes :: _All I Need_
 - ☆☆☆☆☆ | Relient K :: _Relient K_
-- ☆☆☆☆☆ | Relient K :: _The Anatomy of the Tongue In Cheek_
+- ★★☆☆☆ | Relient K :: _The Anatomy of the Tongue In Cheek_
 - ☆☆☆☆☆ | Relient K :: _Two Lefts Don't Make a Right...But Three Do (Gold Edition)_
 - ☆☆☆☆☆ | Relient K :: _Mmhmm_
-- ☆☆☆☆☆ | Relient K :: _Apathetic EP_
+- ★★★☆☆ | Relient K :: _Apathetic EP_
 - ☆☆☆☆☆ | Relient K :: _Five Score and Seven Years Ago_
 - ☆☆☆☆☆ | Relient K :: _The Bird And The Bee Sides_
 - ☆☆☆☆☆ | Relient K :: _Forget And Not Slow Down_
@@ -369,7 +369,6 @@ Coming soon!
 - ☆☆☆☆☆ | Simon & Garfunkel :: _Sounds Of Silence_
 - ☆☆☆☆☆ | Simon & Garfunkel :: _Bookends_
 - ☆☆☆☆☆ | Simon & Garfunkel :: _Bridge Over Troubled Water_
-- ☆☆☆☆☆ | From Indian Lakes :: _Absent Sounds Remixed Sounds_
 - ☆☆☆☆☆ | Lunar Dunes :: _Galaxsea_
 - ☆☆☆☆☆ | Perturbator :: _Terror 404_
 - ☆☆☆☆☆ | Perturbator :: _I Am the Night_
@@ -382,21 +381,21 @@ Coming soon!
 - ☆☆☆☆☆ | Dream Girl :: _Dream Girl_
 - ☆☆☆☆☆ | Dreamgirl :: _Illuminaughty - EP_
 - ☆☆☆☆☆ | Björk :: _Vulnicura Strings (Vulnicura: The Acoustic Version - Strings , Voice and Viola Organista Only)_
-- ☆☆☆☆☆ | Chon :: _Grow_
+- ★★★★★ | Chon :: _Grow_
 - ☆☆☆☆☆ | Keenhouse :: _A Future Past_
 - ☆☆☆☆☆ | Keenhouse :: _A Future Past (Remixed)_
-- ☆☆☆☆☆ | Tides Of Man :: _Dreamhouse_
+- ★★★★☆ | Tides Of Man :: _Dreamhouse_
 - ☆☆☆☆☆ | Tides Of Man :: _Empire Theory_
-- ☆☆☆☆☆ | Sky Eats Airplane :: _Sky Eats Airplane_
+- ★★★★★ | Sky Eats Airplane :: _Sky Eats Airplane_
 - ☆☆☆☆☆ | The Milk Carton Kids :: _Prologue_
 - ☆☆☆☆☆ | Sampha :: _Process_
 - ☆☆☆☆☆ | Moon Bounce :: _Wheelhouse EP_
 - ☆☆☆☆☆ | Moon Bounce :: _Drugs - Single_
-- ☆☆☆☆☆ | Punch Brothers :: _Punch_
+- ★★★★★ | Punch Brothers :: _Punch_
 - ☆☆☆☆☆ | Vasudeva :: _Life in Cycles_
-- ☆☆☆☆☆ | Dance Gavin Dance :: _Downtown Battle Mountain_
+- ★★★★★ | Dance Gavin Dance :: _Downtown Battle Mountain_
 - ☆☆☆☆☆ | sleepmakeswaves :: _sleepmakeswaves_
-- ☆☆☆☆☆ | sleepmakeswaves :: _...And so We Destroyed Everything_
+- ★★★★☆ | sleepmakeswaves :: _...And so We Destroyed Everything_
 - ☆☆☆☆☆ | sleepmakeswaves :: _Love Of Cartography_
 - ☆☆☆☆☆ | Palm :: _Trading Basics_
 - ☆☆☆☆☆ | Oathbreaker :: _Rheia_
@@ -452,7 +451,7 @@ Coming soon!
 - ☆☆☆☆☆ | World's End Girlfriend & Vampillia :: _在りし日の声 Voices of Days Past_
 - ☆☆☆☆☆ | Animals As Leaders :: _The Madness Of Many_
 - ☆☆☆☆☆ | Caspian :: _Dust And Disquiet_
-- ☆☆☆☆☆ | This Will Destroy You :: _Another Language_
+- ★★★☆☆ | This Will Destroy You :: _Another Language_
 - ☆☆☆☆☆ | This Will Destroy You :: _Live in Reykjavik, Iceland_
 - ☆☆☆☆☆ | This Will Destroy You :: _Tunnel Blanket_
 - ☆☆☆☆☆ | This Will Destroy You :: _S/T_
@@ -476,8 +475,7 @@ Coming soon!
 - ☆☆☆☆☆ | Machinedrum :: _Human Energy_
 - ☆☆☆☆☆ | Melanie Martinez :: _Cry Baby (Deluxe)_
 - ☆☆☆☆☆ | The Flaming Lips :: _Yoshimi Battles The Pink Robots (U.S. Version)_
-- ☆☆☆☆☆ | Mew :: _Mew And The Glass Handed Kites_
-- ☆☆☆☆☆ | Mew :: _And The Glass Handed Kites_
+- ★★★★☆ | Mew :: _And The Glass Handed Kites_
 - ☆☆☆☆☆ | Mew :: _No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away_
 - ☆☆☆☆☆ | The Fall of Troy :: _Doppelganger_
 - ☆☆☆☆☆ | The Fall of Troy :: _Phantom on the Horizon_
@@ -538,10 +536,10 @@ Coming soon!
 - ☆☆☆☆☆ | Aesop Rock :: _The Impossible Kid_
 - ☆☆☆☆☆ | TTNG :: _Disappointment Island_
 - ☆☆☆☆☆ | Grace Joyner :: _Maybe Sometimes – in C_
-- ☆☆☆☆☆ | Ólafur Arnalds :: _Arnalds: Eulogy for Evolution_
+- ★★★☆☆ | Ólafur Arnalds :: _Arnalds: Eulogy for Evolution_
 - ☆☆☆☆☆ | Ólafur Arnalds :: _Found Songs_
 - ☆☆☆☆☆ | Ólafur Arnalds :: _Dyad 1909_
-- ☆☆☆☆☆ | Ólafur Arnalds :: _...and they have escaped the weight of darkness_
+- ★★☆☆☆ | Ólafur Arnalds :: _...and they have escaped the weight of darkness_
 - ☆☆☆☆☆ | Ólafur Arnalds :: _Living Room Songs_
 - ☆☆☆☆☆ | Ólafur Arnalds :: _For Now I Am Winter_
 - ☆☆☆☆☆ | Ólafur Arnalds & Alice Sara Ott :: _The Chopin Project_
@@ -587,7 +585,7 @@ Coming soon!
 - ☆☆☆☆☆ | Mew :: _Eggs Are Funny_
 - ☆☆☆☆☆ | Mew :: _+ -_
 - ☆☆☆☆☆ | İsmail H.Demircioğlu & Erkan Oğur :: _Gülün Kokusu Vardı_
-- ☆☆☆☆☆ | Erkan Oğur & İsmail H.Demircioğlu :: _Anadolu Beşik_
+- ★★★★☆ | Erkan Oğur & İsmail H.Demircioğlu :: _Anadolu Beşik_
 - ☆☆☆☆☆ | Erkan Oğur & Derya Türkan & İlkin Deniz :: _Dokunmak_
 - ★★★★☆ | Kocani Orkestar :: _Alone At My Wedding_
 - ☆☆☆☆☆ | Soda Island :: _A Trip To Soda Island_
@@ -930,6 +928,8 @@ Coming soon!
 - Self-Titled by The Velvet Underground & Nico
 - Pet Sounds by The Beach Boys
 - Primal Heart by Kimbra
+- Corey Feldman
+- sleepmakeswaves
 - Elephant Gym
 - Johnny Cash
 - The Dear Hunter

@@ -62,8 +62,8 @@ Coming soon!
 - ☆☆☆☆☆ | Ullika :: _My Miracle_
 - ☆☆☆☆☆ | Ujico* :: _WonderWorld_
 - ☆☆☆☆☆ | Snarky Puppy :: _We Like It Here_
-- ☆☆☆☆☆ | Jóhann Jóhannsson :: _Arrival (Original Motion Picture Soundtrack)_
-- ☆☆☆☆☆ | The Weepies :: _Hideaway_
+- ★★☆☆☆ | Jóhann Jóhannsson :: _Arrival (Original Motion Picture Soundtrack)_
+- ★★★★★ | The Weepies :: _Hideaway_
 - ★★★★★ | Rustie :: _Glass Swords_
 - ☆☆☆☆☆ | August Burns Red :: _Phantom Anthem_
 - ★★★☆☆ | Circa Survive :: _The Amulet_

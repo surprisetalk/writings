@@ -16,6 +16,7 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★☆☆☆ | Adult Child :: _B Tl B Tl (비틀비틀)_
 - ★★★★★ | Max Richter :: _Sleep_
 - ★★☆☆☆ | Bill Laurance :: _Aftersun_
 - ★★★★☆ | Han Hee Jung :: _1집 너의 다큐멘트_
@@ -263,7 +264,7 @@ Coming soon!
 - ☆☆☆☆☆ | Pinback :: _Blue Screen Life_
 - ☆☆☆☆☆ | Pinback :: _Summer in Abaddon_
 - ☆☆☆☆☆ | Pinback :: _Nautical Antiques_
-- ☆☆☆☆☆ | Pinback :: _Autumn of the Seraphs_
+- ★★★☆☆ | Pinback :: _Autumn of the Seraphs_
 - ☆☆☆☆☆ | Pinback :: _Information Retrieved_
 - ☆☆☆☆☆ | Pinback :: _Some Offcell Voices_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Huey Lewis & The News_
@@ -522,7 +523,7 @@ Coming soon!
 - ☆☆☆☆☆ | Copeland :: _You Are My Sunshine_
 - ☆☆☆☆☆ | Copeland :: _Ixora_
 - ☆☆☆☆☆ | Copeland :: _Ixora Twin_
-- ☆☆☆☆☆ | Anthony Green :: _Avalon_
+- ★★★☆☆ | Anthony Green :: _Avalon_
 - ☆☆☆☆☆ | Anthony Green :: _Beautiful Things_
 - ☆☆☆☆☆ | Anthony Green :: _Young Legs_
 - ☆☆☆☆☆ | Anthony Green :: _Pixie Queen_
@@ -717,7 +718,7 @@ Coming soon!
 - ☆☆☆☆☆ | Don Caballero :: _American Don_
 - ☆☆☆☆☆ | Delta Sleep :: _Twin Galaxies_
 - ☆☆☆☆☆ | Battles :: _Gloss Drop_
-- ☆☆☆☆☆ | Axes :: _Axes_
+- ★★★★☆ | Axes :: _Axes_
 - ☆☆☆☆☆ | Plini :: _Other Things_
 - ☆☆☆☆☆ | The Algorithm :: _Polymorphic Code_
 - ☆☆☆☆☆ | Cloudkicker :: _Woum_
@@ -928,6 +929,7 @@ Coming soon!
 - Self-Titled by The Velvet Underground & Nico
 - Pet Sounds by The Beach Boys
 - Primal Heart by Kimbra
+- Adult Child (plus EPs)
 - Corey Feldman
 - sleepmakeswaves
 - Elephant Gym

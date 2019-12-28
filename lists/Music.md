@@ -285,7 +285,7 @@ Coming soon!
 - ☆☆☆☆☆ | Relient K :: _Forget And Not Slow Down_
 - ☆☆☆☆☆ | Relient K :: _Is for Karaoke_
 - ☆☆☆☆☆ | Relient K :: _Collapsible Lung_
-- ☆☆☆☆☆ | Relient K :: _Air for Free_
+- ★☆☆☆☆ | Relient K :: _Air for Free_
 - ☆☆☆☆☆ | The Red Jumpsuit Apparatus :: _Don't You Fake It_
 - ★★★★☆ | Blue Öyster Cult :: _Agents Of Fortune_
 - ☆☆☆☆☆ | Wet :: _Don't You_
@@ -690,7 +690,7 @@ Coming soon!
 - ☆☆☆☆☆ | Empress Of :: _Me_
 - ☆☆☆☆☆ | Oneohtrix Point Never :: _Garden Of Delete_
 - ☆☆☆☆☆ | Rustie :: _EVENIFUDONTBELIEVE_
-- ☆☆☆☆☆ | Foxing :: _The Albatross_
+- ★★☆☆☆ | Foxing :: _The Albatross_
 - ☆☆☆☆☆ | Foxing :: _Dealer_
 - ☆☆☆☆☆ | Listener :: _Time Is a Machine_
 - ☆☆☆☆☆ | Tall Ships :: _T=0_
@@ -715,7 +715,7 @@ Coming soon!
 - ☆☆☆☆☆ | Enemies :: _Embark, Embrace_
 - ☆☆☆☆☆ | Don Caballero :: _What Burns Never Returns_
 - ☆☆☆☆☆ | Don Caballero :: _Don Caballero 2_
-- ☆☆☆☆☆ | Don Caballero :: _American Don_
+- ★★★☆☆ | Don Caballero :: _American Don_
 - ☆☆☆☆☆ | Delta Sleep :: _Twin Galaxies_
 - ☆☆☆☆☆ | Battles :: _Gloss Drop_
 - ★★★★☆ | Axes :: _Axes_

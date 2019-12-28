@@ -89,8 +89,18 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - [Anthem of the Heart](https://www.google.com/search?hl=en&q=anthem%20of%20the%20heart)
 - [Minky Momo](https://www.google.com/search?hl=en&q=Minky%20Momo)
 
+## When Will it End
 
-## Current
+- Quintessential Quintuplets (Manga)
+- Plunderer
+- Science Fell in Love
+- Nekopara
+- Itai no wa Iya nano de Bogyoryoku ni Kyokufuri
+- Somali to Mori no Kamisama
+- Jibaku Shounen Hanako-kun
+- Ishuzoku Reviewers (Manga)
+
+## Ugh
 
 - Grand Blue
 - Steins;Gate 0

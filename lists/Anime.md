@@ -112,6 +112,17 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - Naruto
 - Golden Kamuy
 
+## 🐸
+
+- Babylon
+- Love, Chunibyo & Other Delusions
+- The Pet Girl of Sakusarou
+- Sound Euphonium
+- Wagnaria!!
+- Your Lie in April
+- Mirai Nikki
+- Clannad
+
 ## Finished
 
 Coming soon!

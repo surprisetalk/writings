@@ -1,12 +1,11 @@
 
-## Currently Reading
-
-- _Consider Phlebas_
-
-
 ## Upcoming
 
 <!-- TODO: https://www.goodreads.com/review/list/11004626-gwern?order=d&shelf=to-read&sort=date_added -->
+
+### Misc
+
+- Turing's Cathedral
 
 ### [Which books have made you introspect?](https://news.ycombinator.com/item?id=17045790)
 

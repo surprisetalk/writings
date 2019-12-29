@@ -924,6 +924,27 @@ Coming soon!
 - https://www.youtube.com/user/UKFDrumandBass/videos
 - https://www.youtube.com/watch?v=kMxoMDHBJgc
 - https://soundcloud.com/madukdnb/maduk-guestmix-bbc-radio-1
+- https://soundcloud.com/myonmuzik/ride-radio-006-with-myon-late-night-alumni-guest-mix
+- https://soundcloud.com/dancing-astronaut-mixes/axis-168-late-night-alumni
+- https://soundcloud.com/kaskade/kaskades-bbc-radio-1-essential
+- https://rateyourmusic.com/genre/Symphonic+Metal/
+- https://rateyourmusic.com/artist/cassiopeia_f1
+- https://rateyourmusic.com/artist/epica
+- https://rateyourmusic.com/artist/nightwish
+- https://rateyourmusic.com/artist/nightwish
+- https://rateyourmusic.com/artist/lift-to-experience
+- https://www.factmag.com/2016/04/20/best-post-rock-albums/
+- https://www.kerrang.com/features/sixteen-post-rock-masterpieces-you-need-in-your-life/
+- https://www.albumoftheyear.org/genre/29-post-rock/all/pitchfork/
+- https://soundcloud.com/search?q=Sakura%20Tsuruta
+- https://www.youtube.com/results?search_query=Sakura+Tsuruta
+- https://rateyourmusic.com/artist/%E5%AE%AE%E7%94%B0%E3%81%BE%E3%82%86%E3%81%BF_f1
+- https://rateyourmusic.com/artist/%E7%A6%8F%E5%B1%85%E8%89%AF
+- https://rateyourmusic.com/artist/haircuts_for_men
+- civil wars
+- https://www.youtube.com/watch?v=r24PxfJY6oQ
+- https://www.youtube.com/watch?v=NGsgb8m0Yns
+- Yeule
 - Spiderland by Slint
 - Red by King Crimson
 - Self-Titled by The Velvet Underground & Nico
@@ -944,6 +965,9 @@ Coming soon!
 - Saosin
 - Suburbs by Arcade Fire
 - han hee jung
+- Pulmolight
+- Polkadot Stingray
+- eatmewhileimhot!
 - genres (deep-dives)
   - big band
   - future funk

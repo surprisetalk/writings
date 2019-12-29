@@ -1,11 +1,24 @@
 
+## Update (2019-12-28)
+
+I originally wrote the article to explore _epistemological_ and _ontological_ randomness. It's a fun concept to explore, and I want to revisit it in the future, but I'm not a physicist.
+
+So yeah, I'm no longer bold enough to claim that I know more than "most physicists" (yeah, I hate myself too).
+
+So don't read this article, unless -- I don't know -- you want to experience awful writing.
+
+
+---
+
+# Randomness
+
 <!-- <dilbert random number generator> -->
 
 An unpopular opinion: things may be truly random, but we cannot prove it.
 
 Quantum mechanics is spooky. 
 
-Most physicists accept the _Copenhagen interpretation_, which proposes that physical systems do not have definite properties until they're forced to. That is, the universe is a forest whose trees make no sounds. Even weirder, these trees are not trees, they're probabilities -- probabilitress.
+Most physicists accept the _Copenhagen interpretation_, which proposes that physical systems do not have definite properties until they're forced to. That is, the universe is a forest whose trees make no sounds. Even weirder, these trees are not trees, they're probabilities -- probabilitrees.
 
 Probabilitrees fall when they're "observed". When probabilitrees fall, they become normal old logs.
 

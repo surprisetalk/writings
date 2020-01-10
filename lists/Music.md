@@ -28,7 +28,7 @@ Coming soon!
 - ★★☆☆☆ | Adult Child :: _B Tl B Tl (비틀비틀)_
 - ★★★★★ | Max Richter :: _Sleep_
 - ★★☆☆☆ | Bill Laurance :: _Aftersun_
-- ★★★☆☆ | Han Hee Jung :: _1집 너의 다큐멘트_
+- ★★★★☆ | Han Hee Jung :: _1집 너의 다큐멘트_
 - ☆☆☆☆☆ | Devics :: _Push the Heart_
 - ☆☆☆☆☆ | Tigran Hamasyan :: _Mockroot_
 - ☆☆☆☆☆ | Khruangbin :: _The Universe Smiles Upon You_
@@ -595,9 +595,9 @@ Coming soon!
 - ☆☆☆☆☆ | Mew :: _Eggs Are Funny_
 - ☆☆☆☆☆ | Mew :: _+ -_
 - ☆☆☆☆☆ | İsmail H.Demircioğlu & Erkan Oğur :: _Gülün Kokusu Vardı_
-- ★★★☆☆ | Erkan Oğur & İsmail H.Demircioğlu :: _Anadolu Beşik_
+- ★★★★☆ | Erkan Oğur & İsmail H.Demircioğlu :: _Anadolu Beşik_
 - ☆☆☆☆☆ | Erkan Oğur & Derya Türkan & İlkin Deniz :: _Dokunmak_
-- ★★★☆☆ | Kocani Orkestar :: _Alone At My Wedding_
+- ★★★★☆ | Kocani Orkestar :: _Alone At My Wedding_
 - ☆☆☆☆☆ | Soda Island :: _A Trip To Soda Island_
 - ☆☆☆☆☆ | Edward Vanzet :: _Everyday_
 - ☆☆☆☆☆ | Made in Heights :: _MADE IN HEIGHTS_

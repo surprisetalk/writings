@@ -16,10 +16,19 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ☆☆☆☆☆ | CASIOPEA :: _Be_
+- ★★★☆☆ | CASIOPEA :: _Asian Dreamer_
+- ☆☆☆☆☆ | Saint Pepsi :: _Hit Vibes_
+- ☆☆☆☆☆ | Saint Pepsi :: _Late Night Delight_
+- ☆☆☆☆☆ | Saint Pepsi :: _Choice Cuts_
+- ★★☆☆☆ | Saint Pepsi :: _Mannequin Challenge_
+- ★★★☆☆ | sewerslvt :: _Sewer//Slvt_
+- ★★★☆☆ | sewerslvt :: _Drowning In The Sewer_
+- ★★★★★ | The Seatbelts :: _Cowboy Bebop_
 - ★★☆☆☆ | Adult Child :: _B Tl B Tl (비틀비틀)_
 - ★★★★★ | Max Richter :: _Sleep_
 - ★★☆☆☆ | Bill Laurance :: _Aftersun_
-- ★★★★☆ | Han Hee Jung :: _1집 너의 다큐멘트_
+- ★★★☆☆ | Han Hee Jung :: _1집 너의 다큐멘트_
 - ☆☆☆☆☆ | Devics :: _Push the Heart_
 - ☆☆☆☆☆ | Tigran Hamasyan :: _Mockroot_
 - ☆☆☆☆☆ | Khruangbin :: _The Universe Smiles Upon You_
@@ -132,7 +141,7 @@ Coming soon!
 - ☆☆☆☆☆ | Pink Floyd :: _Wish You Were Here_
 - ☆☆☆☆☆ | Pink Floyd :: _The Wall_
 - ☆☆☆☆☆ | Manchester Orchestra :: _A Black Mile To The Surface_
-- ☆☆☆☆☆ | Deas Vail :: _Birds & Cages_
+- ★★★★☆ | Deas Vail :: _Birds & Cages_
 - ☆☆☆☆☆ | Eisley :: _I'm Only Dreaming_
 - ☆☆☆☆☆ | Alexisonfire :: _Crisis_
 - ☆☆☆☆☆ | Covet :: _Covet on Audiotree Live_
@@ -404,7 +413,7 @@ Coming soon!
 - ☆☆☆☆☆ | Heather Woods Broderick :: _From The Ground_
 - ☆☆☆☆☆ | Danny Brown :: _Old_
 - ☆☆☆☆☆ | Danny Brown :: _XXX_
-- ☆☆☆☆☆ | Danny Brown :: _Atrocity Exhibition_
+- ★★★★☆ | Danny Brown :: _Atrocity Exhibition_
 - ☆☆☆☆☆ | David Bowie :: _Blackstar_
 - ☆☆☆☆☆ | Swans :: _The Seer_
 - ☆☆☆☆☆ | Swans :: _To Be Kind_
@@ -457,7 +466,7 @@ Coming soon!
 - ☆☆☆☆☆ | This Will Destroy You :: _Tunnel Blanket_
 - ☆☆☆☆☆ | This Will Destroy You :: _S/T_
 - ☆☆☆☆☆ | This Will Destroy You :: _Young Mountain_
-- ☆☆☆☆☆ | Cloudkicker :: _Beacons_
+- ★★☆☆☆ | Cloudkicker :: _Beacons_
 - ☆☆☆☆☆ | Cloudkicker :: _Let Yourself Be Huge_
 - ☆☆☆☆☆ | Cloudkicker :: _Fade_
 - ☆☆☆☆☆ | Cloudkicker :: _Live with Intronaut_
@@ -586,9 +595,9 @@ Coming soon!
 - ☆☆☆☆☆ | Mew :: _Eggs Are Funny_
 - ☆☆☆☆☆ | Mew :: _+ -_
 - ☆☆☆☆☆ | İsmail H.Demircioğlu & Erkan Oğur :: _Gülün Kokusu Vardı_
-- ★★★★☆ | Erkan Oğur & İsmail H.Demircioğlu :: _Anadolu Beşik_
+- ★★★☆☆ | Erkan Oğur & İsmail H.Demircioğlu :: _Anadolu Beşik_
 - ☆☆☆☆☆ | Erkan Oğur & Derya Türkan & İlkin Deniz :: _Dokunmak_
-- ★★★★☆ | Kocani Orkestar :: _Alone At My Wedding_
+- ★★★☆☆ | Kocani Orkestar :: _Alone At My Wedding_
 - ☆☆☆☆☆ | Soda Island :: _A Trip To Soda Island_
 - ☆☆☆☆☆ | Edward Vanzet :: _Everyday_
 - ☆☆☆☆☆ | Made in Heights :: _MADE IN HEIGHTS_
@@ -646,7 +655,7 @@ Coming soon!
 - ☆☆☆☆☆ | Esperanza Spalding :: _Emily’s D+Evolution_
 - ☆☆☆☆☆ | Orchards :: _Chemystery_
 - ☆☆☆☆☆ | Orchards :: _Constantly Moving_
-- ☆☆☆☆☆ | Johann Sebastian Bach & Glenn Gould :: _Bach: The Goldberg Variations, BWV 988 (1981) - Gould Remastered_
+- ★★★★☆ | Johann Sebastian Bach & Glenn Gould :: _Bach: The Goldberg Variations, BWV 988 (1981)_
 - ☆☆☆☆☆ | Caravan Palace :: _<I°_°I>_
 - ☆☆☆☆☆ | Maximum Love :: _Midnight Astronaut_
 - ☆☆☆☆☆ | Tomggg :: _Butter Sugar Cream_

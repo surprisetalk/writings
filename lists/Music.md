@@ -1,3 +1,4 @@
+
 ## Music
 
 - ★☆☆☆☆ :: Bad
@@ -14,9 +15,26 @@ Coming soon!
 
 ### Albums
 
+<!-- TODO: Collect masterpieces on vinyl. -->
+
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
-- ☆☆☆☆☆ | CASIOPEA :: _Be_
+- ☆☆☆☆☆ | Poppy :: _Am I A Girl?_
+- ☆☆☆☆☆ | Dance Gavin Dance :: _Whatever I Say Is Royal Ocean_
+- ☆☆☆☆☆ | Dance Gavin Dance :: _Happiness_
+- ☆☆☆☆☆ | Dance Gavin Dance :: _Downtown Battle Mountain II_
+- ☆☆☆☆☆ | Dance Gavin Dance :: _Acceptance Speech 2.0_
+- ☆☆☆☆☆ | Dance Gavin Dance :: _Instant Gratification_
+- ☆☆☆☆☆ | Dance Gavin Dance :: _Mothership_
+- ☆☆☆☆☆ | A Lot Like Birds :: _No Place_
+- ☆☆☆☆☆ | A Lot Like Birds :: _Conversation Piece_
+- ☆☆☆☆☆ | Taking Back Sunday :: _Louder Now_
+- ☆☆☆☆☆ | Taking Back Sunday :: _Where You Want to Be_
+- ★★★☆☆ | My Chemical Romance :: _The Black Parade_
+- ☆☆☆☆☆ | My Chemical Romance :: _Three Cheers for Sweet Revenge_
+- ★★★☆☆ | Rachel's :: _Selenography_
+- ★★☆☆☆ | Thirty Seconds to Mars :: _A Beautiful Lie_
+- ★★☆☆☆ | CASIOPEA :: _Be_
 - ★★★☆☆ | CASIOPEA :: _Asian Dreamer_
 - ☆☆☆☆☆ | Saint Pepsi :: _Hit Vibes_
 - ☆☆☆☆☆ | Saint Pepsi :: _Late Night Delight_
@@ -140,8 +158,9 @@ Coming soon!
 - ☆☆☆☆☆ | Pink Floyd :: _The Dark Side of the Moon_
 - ☆☆☆☆☆ | Pink Floyd :: _Wish You Were Here_
 - ☆☆☆☆☆ | Pink Floyd :: _The Wall_
-- ☆☆☆☆☆ | Manchester Orchestra :: _A Black Mile To The Surface_
+- ★★★☆☆ | Manchester Orchestra :: _A Black Mile To The Surface_
 - ★★★★☆ | Deas Vail :: _Birds & Cages_
+- ☆☆☆☆☆ | Eisley :: _Combinations_
 - ☆☆☆☆☆ | Eisley :: _I'm Only Dreaming_
 - ☆☆☆☆☆ | Alexisonfire :: _Crisis_
 - ☆☆☆☆☆ | Covet :: _Covet on Audiotree Live_
@@ -246,7 +265,7 @@ Coming soon!
 - ☆☆☆☆☆ | Never Shout Never :: _Time Travel_
 - ☆☆☆☆☆ | Never Shout Never :: _Sunflower_
 - ☆☆☆☆☆ | Never Shout Never :: _Recycled Youth - Volume One_
-- ☆☆☆☆☆ | Never Shout Never :: _Black Cat_
+- ★☆☆☆☆ | Never Shout Never :: _Black Cat_
 - ☆☆☆☆☆ | Pat Benatar :: _In The Heat Of The Night_
 - ☆☆☆☆☆ | Pat Benatar :: _Crimes Of Passion_
 - ☆☆☆☆☆ | Pat Benatar :: _Precious Time_
@@ -270,7 +289,7 @@ Coming soon!
 - ☆☆☆☆☆ | Cartel :: _Cartel_
 - ☆☆☆☆☆ | Cartel :: _Cycles_
 - ☆☆☆☆☆ | Pinback :: _Pinback_
-- ☆☆☆☆☆ | Pinback :: _Blue Screen Life_
+- ★★★★☆ | Pinback :: _Blue Screen Life_
 - ☆☆☆☆☆ | Pinback :: _Summer in Abaddon_
 - ☆☆☆☆☆ | Pinback :: _Nautical Antiques_
 - ★★★☆☆ | Pinback :: _Autumn of the Seraphs_
@@ -290,7 +309,7 @@ Coming soon!
 - ☆☆☆☆☆ | Relient K :: _Mmhmm_
 - ★★★☆☆ | Relient K :: _Apathetic EP_
 - ☆☆☆☆☆ | Relient K :: _Five Score and Seven Years Ago_
-- ☆☆☆☆☆ | Relient K :: _The Bird And The Bee Sides_
+- ★☆☆☆☆ | Relient K :: _The Bird And The Bee Sides_
 - ☆☆☆☆☆ | Relient K :: _Forget And Not Slow Down_
 - ☆☆☆☆☆ | Relient K :: _Is for Karaoke_
 - ☆☆☆☆☆ | Relient K :: _Collapsible Lung_
@@ -354,7 +373,7 @@ Coming soon!
 - ☆☆☆☆☆ | Eurythmics :: _We Too Are One_
 - ☆☆☆☆☆ | Eurythmics :: _Peace_
 - ☆☆☆☆☆ | Third Eye Blind :: _Third Eye Blind_
-- ☆☆☆☆☆ | Third Eye Blind :: _Blue_
+- ★★☆☆☆ | Third Eye Blind :: _Blue_
 - ☆☆☆☆☆ | Third Eye Blind :: _Out Of The Vein_
 - ☆☆☆☆☆ | Third Eye Blind :: _Ursa Major_
 - ☆☆☆☆☆ | Third Eye Blind :: _Dopamine_
@@ -366,7 +385,6 @@ Coming soon!
 - ☆☆☆☆☆ | Matchbox Twenty :: _North_
 - ☆☆☆☆☆ | Tears For Fears :: _Songs From The Big Chair_
 - ☆☆☆☆☆ | Cyndi Lauper :: _She's So Unusual_
-- ☆☆☆☆☆ | Cyndi Lauper :: _The Body Acoustic_
 - ☆☆☆☆☆ | Cyndi Lauper :: _Bring Ya To The Brink_
 - ☆☆☆☆☆ | Cyndi Lauper :: _She's So Unusual - Spotify Commentary_
 - ☆☆☆☆☆ | Death Cab for Cutie :: _You Can Play These Songs With Chords_
@@ -414,7 +432,7 @@ Coming soon!
 - ☆☆☆☆☆ | Danny Brown :: _Old_
 - ☆☆☆☆☆ | Danny Brown :: _XXX_
 - ★★★★☆ | Danny Brown :: _Atrocity Exhibition_
-- ☆☆☆☆☆ | David Bowie :: _Blackstar_
+- ★★☆☆☆ | David Bowie :: _Blackstar_
 - ☆☆☆☆☆ | Swans :: _The Seer_
 - ☆☆☆☆☆ | Swans :: _To Be Kind_
 - ☆☆☆☆☆ | A Tribe Called Quest :: _We got it from Here... Thank You 4 Your service_
@@ -422,7 +440,7 @@ Coming soon!
 - ☆☆☆☆☆ | Car Seat Headrest :: _Teens Of Denial_
 - ☆☆☆☆☆ | YG :: _Still Brazy (Deluxe)_
 - ☆☆☆☆☆ | Touché Amoré :: _Stage Four_
-- ☆☆☆☆☆ | Crying :: _Beyond the Fleeting Gales_
+- ★★★☆☆ | Crying :: _Beyond the Fleeting Gales_
 - ☆☆☆☆☆ | Matmos :: _Ultimate Care II_
 - ☆☆☆☆☆ | King Gizzard & The Lizard Wizard :: _Nonagon Infinity_
 - ☆☆☆☆☆ | Street Sects :: _End Position_
@@ -526,20 +544,22 @@ Coming soon!
 - ☆☆☆☆☆ | A Skylit Drive :: _Wires...And The Concept Of Breathing_
 - ☆☆☆☆☆ | A Skylit Drive :: _She Watched The Sky_
 - ☆☆☆☆☆ | Temples :: _Certainty_
-- ☆☆☆☆☆ | Copeland :: _Beneath Medicine Tree_
+- ★★☆☆☆ | Copeland :: _Beneath Medicine Tree_
 - ☆☆☆☆☆ | Copeland :: _In Motion_
 - ☆☆☆☆☆ | Copeland :: _Eat, Sleep, Repeat_
 - ☆☆☆☆☆ | Copeland :: _You Are My Sunshine_
 - ☆☆☆☆☆ | Copeland :: _Ixora_
 - ☆☆☆☆☆ | Copeland :: _Ixora Twin_
 - ★★★☆☆ | Anthony Green :: _Avalon_
-- ☆☆☆☆☆ | Anthony Green :: _Beautiful Things_
+- ★★☆☆☆ | Anthony Green :: _Beautiful Things_
 - ☆☆☆☆☆ | Anthony Green :: _Young Legs_
 - ☆☆☆☆☆ | Anthony Green :: _Pixie Queen_
 - ☆☆☆☆☆ | Lydia :: _Devil_
 - ☆☆☆☆☆ | Lydia :: _Paint It Golden_
 - ☆☆☆☆☆ | Lydia :: _Run Wild_
-- ☆☆☆☆☆ | Eisley :: _Defeatist_
+- ☆☆☆☆☆ | Eisley :: _Currents_
+- ☆☆☆☆☆ | Eisley :: _Room Noises_
+- ☆☆☆☆☆ | Eisley :: _The Valley_
 - ☆☆☆☆☆ | Baby Alpaca :: _Under Water_
 - ☆☆☆☆☆ | Shana Halligan :: _Back to Me_
 - ☆☆☆☆☆ | Sally Shapiro :: _Elsewhere_
@@ -747,7 +767,7 @@ Coming soon!
 - ☆☆☆☆☆ | KEN Mode :: _Success_
 - ☆☆☆☆☆ | Unknown Mortal Orchestra :: _Multi-Love_
 - ☆☆☆☆☆ | Prurient :: _Frozen Niagara Falls_
-- ☆☆☆☆☆ | The Mountain Goats :: _Beat the Champ_
+- ★★☆☆☆ | The Mountain Goats :: _Beat the Champ_
 - ☆☆☆☆☆ | Zs :: _Xe_
 - ☆☆☆☆☆ | Lianne La Havas :: _Blood_
 - ☆☆☆☆☆ | Milo :: _So the Flies Don't Come_
@@ -808,7 +828,7 @@ Coming soon!
 - ☆☆☆☆☆ | Vessels :: _Dilate_
 - ☆☆☆☆☆ | Vennart :: _The Demon Joke (NotSet)_
 - ☆☆☆☆☆ | Agent Fresco :: _Destrier (Bonus Edition)_
-- ☆☆☆☆☆ | Palm Reader :: _Beside the Ones We Love_
+- ★★☆☆☆ | Palm Reader :: _Beside the Ones We Love_
 - ☆☆☆☆☆ | Down I Go :: _You're Lucky God, That I Cannot Reach You_
 - ☆☆☆☆☆ | Late Night Alumni :: _Eclipse_
 - ☆☆☆☆☆ | Sally Shapiro :: _My Guilty Pleasure_

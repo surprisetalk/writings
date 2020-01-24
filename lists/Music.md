@@ -19,6 +19,8 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★☆☆☆ | Machine Girl :: _...Because I'm Young Arrogant and Hate Everything You Stand For_
+- ★★☆☆☆ | Tomggg :: _ART NATURE_
 - ☆☆☆☆☆ | Poppy :: _Am I A Girl?_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Whatever I Say Is Royal Ocean_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Happiness_
@@ -115,7 +117,7 @@ Coming soon!
 - ☆☆☆☆☆ | Perturbator :: _New Model_
 - ★★★★★ | Chiodos :: _All's Well That Ends Well_
 - ☆☆☆☆☆ | Chiodos :: _Illuminaudio_
-- ☆☆☆☆☆ | Chiodos :: _Bone Palace Ballet: Grand Coda_
+- ★★★★☆ | Chiodos :: _Bone Palace Ballet: Grand Coda_
 - ☆☆☆☆☆ | I Set My Friends On Fire :: _You Can't Spell Slaughter Without Laughter_
 - ☆☆☆☆☆ | Morrissey :: _Viva Hate [Remastered]_
 - ☆☆☆☆☆ | Österreich :: _無能_
@@ -436,7 +438,7 @@ Coming soon!
 - ☆☆☆☆☆ | Swans :: _The Seer_
 - ☆☆☆☆☆ | Swans :: _To Be Kind_
 - ☆☆☆☆☆ | A Tribe Called Quest :: _We got it from Here... Thank You 4 Your service_
-- ☆☆☆☆☆ | Frank Ocean :: _Blonde_
+- ★★★☆☆ | Frank Ocean :: _Blonde_
 - ☆☆☆☆☆ | Car Seat Headrest :: _Teens Of Denial_
 - ☆☆☆☆☆ | YG :: _Still Brazy (Deluxe)_
 - ☆☆☆☆☆ | Touché Amoré :: _Stage Four_
@@ -499,7 +501,7 @@ Coming soon!
 - ☆☆☆☆☆ | The Octopus Project :: _Hexadecagon_
 - ☆☆☆☆☆ | Mr. Maps :: _Wire Empire_
 - ☆☆☆☆☆ | Kero Kero Bonito :: _Intro Bonito_
-- ☆☆☆☆☆ | Kero Kero Bonito :: _Bonito Generation_
+- ★★★☆☆ | Kero Kero Bonito :: _Bonito Generation_
 - ☆☆☆☆☆ | Machinedrum :: _Human Energy_
 - ☆☆☆☆☆ | Melanie Martinez :: _Cry Baby (Deluxe)_
 - ☆☆☆☆☆ | The Flaming Lips :: _Yoshimi Battles The Pink Robots (U.S. Version)_
@@ -724,6 +726,7 @@ Coming soon!
 - ☆☆☆☆☆ | Listener :: _Time Is a Machine_
 - ☆☆☆☆☆ | Tall Ships :: _T=0_
 - ☆☆☆☆☆ | Kevin Devine :: _Bubblegum_
+- ★★☆☆☆ | Kevin Devine :: _Brother's Blood_
 - ☆☆☆☆☆ | Hop Along :: _Get Disowned_
 - ☆☆☆☆☆ | You Slut! :: _Medium Bastard_
 - ☆☆☆☆☆ | You Slut! :: _Critical Meat (Remastered)_
@@ -867,7 +870,7 @@ Coming soon!
 - ☆☆☆☆☆ | Der Weg einer Freiheit :: _Stellar_
 - ☆☆☆☆☆ | Elder :: _Lore_
 - ☆☆☆☆☆ | Slow Magic :: _How to Run Away_
-- ☆☆☆☆☆ | Son Lux :: _Bones_
+- ★★☆☆☆ | Son Lux :: _Bones_
 - ★★★★☆ | Lido :: _I Love You_
 - ★★★★☆ | World's End Girlfriend :: _Hurtbreak Wonderland_
 - ☆☆☆☆☆ | Jeremy Zuckerman :: _The Legend of Korra: Original Music From Book One_

@@ -112,7 +112,7 @@ Coming soon!
 - ★★★☆☆ | Blonde Redhead :: _23_
 - ☆☆☆☆☆ | Blonde Redhead :: _Melody of Certain Damaged Lemons_
 - ☆☆☆☆☆ | Blonde Redhead :: _Misery Is a Butterfly_
-- ☆☆☆☆☆ | CHVRCHES :: _The Bones Of What You Believe_
+- ★★★★☆ | CHVRCHES :: _The Bones Of What You Believe_
 - ★★★★★ | Carpenter Brut :: _Trilogy_
 - ☆☆☆☆☆ | Perturbator :: _New Model_
 - ★★★★★ | Chiodos :: _All's Well That Ends Well_
@@ -149,7 +149,7 @@ Coming soon!
 - ☆☆☆☆☆ | 도나웨일 :: _Donawhale_
 - ☆☆☆☆☆ | Snarky Puppy :: _the only constant_
 - ☆☆☆☆☆ | Snarky Puppy :: _The World is Getting Smaller_
-- ☆☆☆☆☆ | Snarky Puppy :: _Bring Us The Bright_
+- ★★☆☆☆ | Snarky Puppy :: _Bring Us The Bright_
 - ☆☆☆☆☆ | Snarky Puppy :: _GroundUP_
 - ☆☆☆☆☆ | Snarky Puppy & Metropole Orkest :: _Sylva_
 - ☆☆☆☆☆ | Snarky Puppy :: _Family Dinner, Vol. 2_
@@ -175,7 +175,7 @@ Coming soon!
 - ☆☆☆☆☆ | Sinjin Hawke :: _First Opus_
 - ☆☆☆☆☆ | King Gizzard & The Lizard Wizard :: _Flying Microtonal Banana_
 - ☆☆☆☆☆ | Feist :: _Pleasure_
-- ☆☆☆☆☆ | Kirin J Callinan :: _Bravado_
+- ★☆☆☆☆ | Kirin J Callinan :: _Bravado_
 - ☆☆☆☆☆ | The Mountain Goats :: _Goths_
 - ☆☆☆☆☆ | Fleet Foxes :: _Crack-Up_
 - ☆☆☆☆☆ | Snail's House :: _Ordinary Songs 3_
@@ -186,7 +186,7 @@ Coming soon!
 - ☆☆☆☆☆ | Groundislava :: _Endless Voyage_
 - ☆☆☆☆☆ | Mesita :: _Mall Music EP_
 - ☆☆☆☆☆ | Nite Jewel :: _Real High_
-- ☆☆☆☆☆ | BRNFKD :: _BRNFKD_
+- ★★☆☆☆ | BRNFKD :: _BRNFKD_
 - ☆☆☆☆☆ | The Dears :: _No Cities Left_
 - ☆☆☆☆☆ | Petrie :: _Slurs_
 - ☆☆☆☆☆ | Emily Haines & The Soft Skeleton :: _What Is Free To A Good Home?_
@@ -211,7 +211,7 @@ Coming soon!
 - ★★★★☆ | No Vacation :: _Amo XO_
 - ★☆☆☆☆ | Tuff City Kids :: _Adoldesscent_
 - ☆☆☆☆☆ | Susanne Sundfør :: _Take One_
-- ☆☆☆☆☆ | Susanne Sundfør :: _The Brothel_
+- ★★★★★ | Susanne Sundfør :: _The Brothel_
 - ☆☆☆☆☆ | Susanne Sundfør :: _The Silicone Veil_
 - ☆☆☆☆☆ | Susanne Sundfør :: _A Night At Salle Pleyel_
 - ☆☆☆☆☆ | Susanne Sundfør :: _Ten Love Songs_
@@ -281,7 +281,7 @@ Coming soon!
 - ☆☆☆☆☆ | Good Old War :: _Only Way To Be Alone_
 - ☆☆☆☆☆ | Good Old War :: _Good Old War_
 - ☆☆☆☆☆ | Good Old War :: _Come Back As Rain_
-- ☆☆☆☆☆ | Good Old War :: _Broken into Better Shape_
+- ★☆☆☆☆ | Good Old War :: _Broken into Better Shape_
 - ☆☆☆☆☆ | Mount Eerie :: _A Crow Looked at Me_
 - ☆☆☆☆☆ | Cartel :: _Collider_
 - ★★★★☆ | The Academy Is... :: _Almost Here_
@@ -387,7 +387,8 @@ Coming soon!
 - ☆☆☆☆☆ | Matchbox Twenty :: _North_
 - ☆☆☆☆☆ | Tears For Fears :: _Songs From The Big Chair_
 - ☆☆☆☆☆ | Cyndi Lauper :: _She's So Unusual_
-- ☆☆☆☆☆ | Cyndi Lauper :: _Bring Ya To The Brink_
+- ☆☆☆☆☆ | Cyndi Lauper :: _The Body Acoustic_
+- ★☆☆☆☆ | Cyndi Lauper :: _Bring Ya To The Brink_
 - ☆☆☆☆☆ | Cyndi Lauper :: _She's So Unusual - Spotify Commentary_
 - ☆☆☆☆☆ | Death Cab for Cutie :: _You Can Play These Songs With Chords_
 - ☆☆☆☆☆ | Death Cab for Cutie :: _Transatlanticism_
@@ -493,7 +494,7 @@ Coming soon!
 - ☆☆☆☆☆ | Cloudkicker :: _Little Histories_
 - ☆☆☆☆☆ | Olivier Latry :: _Charles-Marie Widor: 5e & 6e Symphonies pour Orgue aux Grandes Orgues de Notre-Dame de Paris_
 - ☆☆☆☆☆ | Enya :: _A Day Without Rain_
-- ☆☆☆☆☆ | Cut Copy :: _Bright Like Neon Love_
+- ★☆☆☆☆ | Cut Copy :: _Bright Like Neon Love_
 - ☆☆☆☆☆ | Blank Banshee :: _Mega_
 - ☆☆☆☆☆ | Infinity Shred :: _Long Distance_
 - ☆☆☆☆☆ | Papadosio :: _Pattern Integrities_
@@ -725,8 +726,8 @@ Coming soon!
 - ☆☆☆☆☆ | Foxing :: _Dealer_
 - ☆☆☆☆☆ | Listener :: _Time Is a Machine_
 - ☆☆☆☆☆ | Tall Ships :: _T=0_
-- ☆☆☆☆☆ | Kevin Devine :: _Bubblegum_
 - ★★☆☆☆ | Kevin Devine :: _Brother's Blood_
+- ★★★★☆ | Kevin Devine :: _Bubblegum_
 - ☆☆☆☆☆ | Hop Along :: _Get Disowned_
 - ☆☆☆☆☆ | You Slut! :: _Medium Bastard_
 - ☆☆☆☆☆ | You Slut! :: _Critical Meat (Remastered)_

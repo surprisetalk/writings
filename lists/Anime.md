@@ -123,6 +123,10 @@ youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-
 - Mirai Nikki
 - Clannad
 
+## Yes, Please
+
+- [Great Teacher Onizuka (Manga)](https://www.youtube.com/watch?v=EzWy4I5g7po)
+
 ## Finished
 
 Coming soon!

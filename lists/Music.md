@@ -13,12 +13,18 @@
 Coming soon!
 
 
+### Singles
+
+- ★★★★☆ | Tomggg :: _Butter Sugar Cream_
+
+
 ### Albums
 
 <!-- TODO: Collect masterpieces on vinyl. -->
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★★★☆ | 100 gecs :: _1000 gecs_
 - ★★☆☆☆ | Machine Girl :: _...Because I'm Young Arrogant and Hate Everything You Stand For_
 - ★★☆☆☆ | Tomggg :: _ART NATURE_
 - ☆☆☆☆☆ | Poppy :: _Am I A Girl?_
@@ -28,7 +34,7 @@ Coming soon!
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Acceptance Speech 2.0_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Instant Gratification_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Mothership_
-- ☆☆☆☆☆ | A Lot Like Birds :: _No Place_
+- ★★★★★ | A Lot Like Birds :: _No Place_
 - ☆☆☆☆☆ | A Lot Like Birds :: _Conversation Piece_
 - ☆☆☆☆☆ | Taking Back Sunday :: _Louder Now_
 - ☆☆☆☆☆ | Taking Back Sunday :: _Where You Want to Be_
@@ -42,6 +48,7 @@ Coming soon!
 - ☆☆☆☆☆ | Saint Pepsi :: _Late Night Delight_
 - ☆☆☆☆☆ | Saint Pepsi :: _Choice Cuts_
 - ★★☆☆☆ | Saint Pepsi :: _Mannequin Challenge_
+- ☆☆☆☆☆ | sewerslvt :: _Draining Love Story_
 - ★★★☆☆ | sewerslvt :: _Sewer//Slvt_
 - ★★★☆☆ | sewerslvt :: _Drowning In The Sewer_
 - ★★★★★ | The Seatbelts :: _Cowboy Bebop_
@@ -125,7 +132,7 @@ Coming soon!
 - ☆☆☆☆☆ | Supernaive :: _Dazed & Confused_
 - ☆☆☆☆☆ | DROELOE :: _A Moment In Time_
 - ☆☆☆☆☆ | Plini :: _Handmade Cities_
-- ☆☆☆☆☆ | Steve Reich & POLIÇA & s t a r g a z e :: _Bruise Blood: Reimagining Steve Reich's Music for Pieces of Wood_
+- ★★☆☆☆ | Steve Reich & POLIÇA & s t a r g a z e :: _Bruise Blood: Reimagining Steve Reich's Music for Pieces of Wood_
 - ☆☆☆☆☆ | 더 멜로디 :: _The Melody_
 - ☆☆☆☆☆ | Jaejoo Boys :: _유년에게_
 - ☆☆☆☆☆ | 참깨와 솜사탕 :: _속마음_
@@ -203,7 +210,7 @@ Coming soon!
 - ☆☆☆☆☆ | Waveshaper :: _Station Nova_
 - ☆☆☆☆☆ | Timecop1983 :: _Running in the Dark_
 - ☆☆☆☆☆ | Daniel Deluxe :: _Corruptor_
-- ☆☆☆☆☆ | OGRE Sound :: _Calico Noir_
+- ★★☆☆☆ | OGRE Sound :: _Calico Noir_
 - ★☆☆☆☆ | OGRE Sound :: _195_
 - ☆☆☆☆☆ | Mew :: _Visuals_
 - ☆☆☆☆☆ | Stwo :: _D.T.S.N.T. EP_
@@ -288,7 +295,7 @@ Coming soon!
 - ☆☆☆☆☆ | The Academy Is... :: _Santi_
 - ☆☆☆☆☆ | The Academy Is... :: _Fast Times At Barrington High_
 - ☆☆☆☆☆ | Cartel :: _Chroma_
-- ☆☆☆☆☆ | Cartel :: _Cartel_
+- ★★★☆☆ | Cartel :: _Cartel_
 - ☆☆☆☆☆ | Cartel :: _Cycles_
 - ☆☆☆☆☆ | Pinback :: _Pinback_
 - ★★★★☆ | Pinback :: _Blue Screen Life_
@@ -658,7 +665,7 @@ Coming soon!
 - ☆☆☆☆☆ | Yndi Halda :: _Under Summer_
 - ☆☆☆☆☆ | Niechec :: _Smierc W Miekkim Futerku_
 - ☆☆☆☆☆ | Deakin :: _Sleep Cycle_
-- ☆☆☆☆☆ | Death Grips :: _Bottomless Pit_
+- ★★☆☆☆ | Death Grips :: _Bottomless Pit_
 - ☆☆☆☆☆ | Kendrick Lamar :: _untitled unmastered._
 - ☆☆☆☆☆ | Xiu Xiu :: _Plays the Music of Twin Peaks_
 - ☆☆☆☆☆ | Metá Metá :: _MetaL MetaL_
@@ -843,7 +850,7 @@ Coming soon!
 - ★★★★☆ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
 - ☆☆☆☆☆ | Meg Myers :: _Sorry_
 - ☆☆☆☆☆ | Scale The Summit :: _The Collective_
-- ☆☆☆☆☆ | Scale The Summit :: _Carving Desert Canyons_
+- ★★☆☆☆ | Scale The Summit :: _Carving Desert Canyons_
 - ☆☆☆☆☆ | Scale The Summit :: _Monument_
 - ☆☆☆☆☆ | Leftover Cuties :: _Game Called Life EP_
 - ☆☆☆☆☆ | Leftover Cuties :: _Places to Go_

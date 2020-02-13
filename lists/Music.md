@@ -24,6 +24,14 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★☆☆☆ | Owen :: _At Home With Owen_
+- ★★★★☆ | TTNG :: _Animals_
+- ★★☆☆☆ | TTNG :: _Animals Acoustic_
+- ★★☆☆☆ | Elephant Gym :: _Angle_
+- ★★★☆☆ | ABBA :: _The Album_
+- ★★★☆☆ | American Football :: _American Football_
+- ★★★☆☆ | Yvette Young :: _Acoustics_
+- ★★☆☆☆ | Tim Hecker :: _Virgins_
 - ★★★★☆ | 100 gecs :: _1000 gecs_
 - ★★☆☆☆ | Machine Girl :: _...Because I'm Young Arrogant and Hate Everything You Stand For_
 - ★★☆☆☆ | Tomggg :: _ART NATURE_

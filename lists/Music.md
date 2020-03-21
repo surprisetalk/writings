@@ -16,6 +16,7 @@ Coming soon!
 ### Singles
 
 - ★★★★☆ | Tomggg :: _Butter Sugar Cream_
+- ★★☆☆☆ | EASYFUN :: _Be Your USA_
 
 
 ### Albums
@@ -24,6 +25,8 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★★☆☆ | CocoRosie :: _The Adventures of Ghosthorse & Stillborn_
+- ★★★☆☆ | Bon Iver :: _22, A Million_
 - ★★☆☆☆ | Owen :: _At Home With Owen_
 - ★★★★☆ | TTNG :: _Animals_
 - ★★☆☆☆ | TTNG :: _Animals Acoustic_

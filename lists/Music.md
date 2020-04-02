@@ -25,7 +25,14 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
-- ★★★☆☆ | CocoRosie :: _The Adventures of Ghosthorse & Stillborn_
+- ★★★★☆ | Hildegard von Bingen :: _Canticles of Ecstacy_
+- ★★★★☆ | Paul Hillier :: _Monastic Song_
+- ☆☆☆☆☆ | Norma Jean :: _All Hail_ 
+- ★★★☆☆ | Norma Jean :: _Bless the Martyr and Kiss the Child_ 
+- ★★★☆☆ | Six Gallery :: _Breakthroughs in Modern Art_
+- ★★★★☆ | Pink Floyd :: _Animals_
+- ★☆☆☆☆ | Dylan Brady :: _All I Ever Wanted_
+- ★★☆☆☆ | CocoRosie :: _The Adventures of Ghosthorse & Stillborn_
 - ★★★☆☆ | Bon Iver :: _22, A Million_
 - ★★☆☆☆ | Owen :: _At Home With Owen_
 - ★★★★☆ | TTNG :: _Animals_
@@ -416,7 +423,7 @@ Coming soon!
 - ☆☆☆☆☆ | Death Cab for Cutie :: _Kintsugi_
 - ☆☆☆☆☆ | Simon & Garfunkel :: _Parsley, Sage, Rosemary And Thyme_
 - ☆☆☆☆☆ | Simon & Garfunkel :: _Sounds Of Silence_
-- ☆☆☆☆☆ | Simon & Garfunkel :: _Bookends_
+- ★★★★☆ | Simon & Garfunkel :: _Bookends_
 - ☆☆☆☆☆ | Simon & Garfunkel :: _Bridge Over Troubled Water_
 - ☆☆☆☆☆ | Lunar Dunes :: _Galaxsea_
 - ☆☆☆☆☆ | Perturbator :: _Terror 404_

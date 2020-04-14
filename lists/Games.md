@@ -37,6 +37,16 @@
 - outer wilds
 - disco elysium
 
+## [Mother's Basement](https://www.youtube.com/watch?v=nuoGO7ppnxw)
+
+- The Legend of Heroes (Trails Series)
+- Discoo Elysium
+- Persona 5
+- Radiant Historia
+- Sorcery!
+- Heaven's Vault
+- Ace Attorney Series
+- 999
 
 ## Played
 

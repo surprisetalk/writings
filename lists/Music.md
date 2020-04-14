@@ -21,13 +21,26 @@ Coming soon!
 
 ### Albums
 
+<!-- TODO: Album highlights/reviews as essays. -->
+
 <!-- TODO: Collect masterpieces on vinyl. -->
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★★☆☆ | Josquin des Prez :: _Missa Pange lingua_
+- ★★★☆☆ | Johannes Ockeghem :: _Requiem: Missa Mi-Mi_
+- ★★★★★ | POLIÇA :: _Give You The Ghost_
+- ★★☆☆☆ | Gilles Binchois :: _Chansons_
+- ★★☆☆☆ | Jonannes Ciconia :: _Homage to Johannes Ciconia_
+- ★★★★★ | Ensemble Project Ars Nova :: _Ars Magis Subtiliter_
+- ★★★★☆ | Guillaume de Machaut :: _Messe de Notre Dame_
+- ★★☆☆☆ | Bill Laurance :: _Cables_
+- ★★☆☆☆ | Hudson Mohawke :: _Butter_
+- ★★★☆☆ | Simon & Garfunkel :: _Bridge Over Troubled Water_
+- ★★★★☆ | Hilliard Ensemble :: _Perotin_
 - ★★★★☆ | Hildegard von Bingen :: _Canticles of Ecstacy_
 - ★★★★☆ | Paul Hillier :: _Monastic Song_
-- ☆☆☆☆☆ | Norma Jean :: _All Hail_ 
+- ★★☆☆☆ | Norma Jean :: _All Hail_ 
 - ★★★☆☆ | Norma Jean :: _Bless the Martyr and Kiss the Child_ 
 - ★★★☆☆ | Six Gallery :: _Breakthroughs in Modern Art_
 - ★★★★☆ | Pink Floyd :: _Animals_
@@ -631,8 +644,9 @@ Coming soon!
 - ☆☆☆☆☆ | Fela Kuti :: _Zombie_
 - ☆☆☆☆☆ | Bob Marley & The Wailers :: _Exodus_
 - ☆☆☆☆☆ | Triana :: _El patio 40 Aniversario_
-- ☆☆☆☆☆ | Santana :: _Santana (Legacy Edition)_
-- ☆☆☆☆☆ | Santana :: _Caravanserai_
+- ☆☆☆☆☆ | Santana :: _Santana_
+- ★★★☆☆ | Santana :: _Abraxas_
+- ★★☆☆☆ | Santana :: _Caravanserai_
 - ☆☆☆☆☆ | Johnny Cash :: _American IV: The Man Comes Around_
 - ☆☆☆☆☆ | Songs: Ohia :: _Magnolia Electric Co. (10th Anniversary Deluxe Edition)_
 - ☆☆☆☆☆ | 16 Horsepower :: _Sackcloth 'N' Ashes_

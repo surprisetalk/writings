@@ -27,6 +27,11 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★★★☆ | Mew :: _+ -_
+- ★★★☆☆ | Tricot :: _The_
+- ★★★★☆ | Earth :: _The Bees Made Honey In The Lion's Skull_
+- ★★☆☆☆ | Grimes :: _Miss Anthropocene_
+- ★★★★☆ | Grimes :: _Art Angels_
 - ★★★☆☆ | Josquin des Prez :: _Missa Pange lingua_
 - ★★★☆☆ | Johannes Ockeghem :: _Requiem: Missa Mi-Mi_
 - ★★★★★ | POLIÇA :: _Give You The Ghost_
@@ -66,7 +71,7 @@ Coming soon!
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Instant Gratification_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Mothership_
 - ★★★★★ | A Lot Like Birds :: _No Place_
-- ☆☆☆☆☆ | A Lot Like Birds :: _Conversation Piece_
+- ★★★★★ | A Lot Like Birds :: _Conversation Piece_
 - ☆☆☆☆☆ | Taking Back Sunday :: _Louder Now_
 - ☆☆☆☆☆ | Taking Back Sunday :: _Where You Want to Be_
 - ★★★☆☆ | My Chemical Romance :: _The Black Parade_
@@ -655,7 +660,6 @@ Coming soon!
 - ☆☆☆☆☆ | João Gilberto & Stan Getz :: _Getz/Gilberto_
 - ☆☆☆☆☆ | Milton Nascimento :: _Club Da Esquina 1_
 - ☆☆☆☆☆ | Mew :: _Eggs Are Funny_
-- ☆☆☆☆☆ | Mew :: _+ -_
 - ☆☆☆☆☆ | İsmail H.Demircioğlu & Erkan Oğur :: _Gülün Kokusu Vardı_
 - ★★★★☆ | Erkan Oğur & İsmail H.Demircioğlu :: _Anadolu Beşik_
 - ☆☆☆☆☆ | Erkan Oğur & Derya Türkan & İlkin Deniz :: _Dokunmak_
@@ -728,6 +732,7 @@ Coming soon!
 - ☆☆☆☆☆ | Esperanza Spalding :: _Chamber Music Society_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Esperanza_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Junjo_
+- ★★★★★ | Tame Impala :: _Currents_
 - ☆☆☆☆☆ | Tame Impala :: _InnerSpeaker_
 - ☆☆☆☆☆ | Tame Impala :: _Lonerism_
 - ☆☆☆☆☆ | bôa :: _Twilight_

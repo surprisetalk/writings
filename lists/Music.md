@@ -17,6 +17,8 @@ Coming soon!
 
 - ★★★★☆ | Tomggg :: _Butter Sugar Cream_
 - ★★☆☆☆ | EASYFUN :: _Be Your USA_
+- ★★★☆☆ | Jacob Collier, Mahalia, Ty Dolla $ign :: _All I Need_
+- ★★★★☆ | Temples :: _Certainty_
 
 
 ### Albums
@@ -27,7 +29,24 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
-- ★★★★☆ | Mew :: _+ -_
+- ★★★★☆ | Esperanza Spalding :: _Chamber Music Society_
+- ★★☆☆☆ | Macross 82-99 :: _CHAM!_
+- ★★☆☆☆ | mewithoutYou :: _Catch For Us The Foxes_
+- ★★★☆☆ | Sithu Aye :: _Cassini_
+- ★★★★☆ | Candy Claws :: _Ceres & Calypso in the Deep Time_
+- ★★☆☆☆ | City Girl :: _Celestial Angel_
+- ★★★☆☆ | Zu :: _Carboniferous_
+- ★★★★☆ | City and Colour :: _Bring Me Your Love_
+- ★★★★☆ | Charli XCX :: _Charli_
+- ☆☆☆☆☆ | Charli XCX :: _enemy_
+- ★★★☆☆ | Carpenter Brut :: _Blood Machines - Original Motion Picture Soundtrack_
+- ★★★★☆ | Of Machines :: _As If Everything Was Held In Place_
+- ★★★☆☆ | Royal Coda :: _Compassion_
+- ★★★☆☆ | Dance Gavin Dance :: _Afterburner_
+- ★★★☆☆ | Hayley Williams :: _Petals for Armor_
+- ★★★☆☆ | mewithoutYou :: _Brother, Siste_
+- ★★★☆☆ | Andrew Bird :: _Armchair Apocrypha_
+- ★★★☆☆ | Mew :: _+ -_
 - ★★★☆☆ | Tricot :: _The_
 - ★★★★☆ | Earth :: _The Bees Made Honey In The Lion's Skull_
 - ★★☆☆☆ | Grimes :: _Miss Anthropocene_
@@ -274,7 +293,7 @@ Coming soon!
 - ☆☆☆☆☆ | Hammock :: _An Introduction to Hammock_
 - ☆☆☆☆☆ | Hammock :: _Everything and Nothing_
 - ☆☆☆☆☆ | Jamie Cullum :: _Pointless Nostalgic_
-- ☆☆☆☆☆ | Jamie Cullum :: _Catching Tales_
+- ★☆☆☆☆ | Jamie Cullum :: _Catching Tales_
 - ☆☆☆☆☆ | Jamie Cullum :: _Twentysomething_
 - ☆☆☆☆☆ | Jamie Cullum :: _The Pursuit_
 - ☆☆☆☆☆ | Jamie Cullum :: _Devil May Care_
@@ -725,11 +744,8 @@ Coming soon!
 - ☆☆☆☆☆ | Caravan Palace :: _<I°_°I>_
 - ☆☆☆☆☆ | Maximum Love :: _Midnight Astronaut_
 - ☆☆☆☆☆ | Tomggg :: _Butter Sugar Cream_
-- ☆☆☆☆☆ | Macross 82-99 :: _CHAM!_
 - ☆☆☆☆☆ | Laura Stevenson :: _Cocksure_
-- ☆☆☆☆☆ | Zu :: _Carboniferous_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Radio Music Society_
-- ☆☆☆☆☆ | Esperanza Spalding :: _Chamber Music Society_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Esperanza_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Junjo_
 - ★★★★★ | Tame Impala :: _Currents_
@@ -802,7 +818,6 @@ Coming soon!
 - ☆☆☆☆☆ | The Safety Fire :: _Grind the Ocean_
 - ☆☆☆☆☆ | The Safety Fire :: _Mouth of Swords_
 - ☆☆☆☆☆ | Sithu Aye :: _Senpai - EP_
-- ☆☆☆☆☆ | Sithu Aye :: _Cassini_
 - ☆☆☆☆☆ | Sithu Aye :: _Isles EP_
 - ☆☆☆☆☆ | Sithu Aye :: _Invent the Universe_
 - ☆☆☆☆☆ | Ever Forthright :: _Ever Forthright_
@@ -827,7 +842,7 @@ Coming soon!
 - ☆☆☆☆☆ | Pianos Become The Teeth :: _Old Pride_
 - ☆☆☆☆☆ | Pianos Become The Teeth :: _Keep You_
 - ☆☆☆☆☆ | Gengahr :: _Tired Eyes_
-- ☆☆☆☆☆ | Noah Gundersen :: _Carry The Ghost_
+- ★★☆☆☆ | Noah Gundersen :: _Carry The Ghost_
 - ★★★★☆ | From Indian Lakes :: _Absent Sounds_
 - ☆☆☆☆☆ | Animal Collective :: _Merriweather Post Pavilion_
 - ☆☆☆☆☆ | The Weepies :: _Sirens_

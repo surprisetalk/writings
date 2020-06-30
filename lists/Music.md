@@ -19,6 +19,7 @@ Coming soon!
 - ★★☆☆☆ | EASYFUN :: _Be Your USA_
 - ★★★☆☆ | Jacob Collier, Mahalia, Ty Dolla $ign :: _All I Need_
 - ★★★★☆ | Temples :: _Certainty_
+- ★★★★☆ | Ben Rosett, Eternity Forever :: _Cherry Blossom_
 
 
 ### Albums
@@ -29,6 +30,16 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★☆☆☆ | Between the Buried and Me :: _The Anatomy Of_
+- ★★★☆☆ | Hammock :: _Chasing After Shadows...Living with the Ghosts_
+- ★★★★☆ | Between the Buried and Me :: _Alaska_
+- ★★★☆☆ | Muse :: _Absolution_
+- ★★★★☆ | TTNG :: _13.0.0.0.0
+- ★★★☆☆ | Esperanza Spalding :: _12 Little Spells_
+- ★★★★★ | Explosions in the Sky :: _The Earth Is Not A Cold Dead Place_
+- ★★★★★ | Tom Tykwer, Johnny Klimek, Reinhold Heil :: _Cloud Atlas_
+- ★★★★★ | Cartel :: _Chroma_
+- ★★★☆☆ | Iglooghost :: _Chinese Nü Yr_
 - ★★★★☆ | Esperanza Spalding :: _Chamber Music Society_
 - ★★☆☆☆ | Macross 82-99 :: _CHAM!_
 - ★★☆☆☆ | mewithoutYou :: _Catch For Us The Foxes_
@@ -160,7 +171,6 @@ Coming soon!
 - ☆☆☆☆☆ | August Burns Red :: _Phantom Anthem_
 - ★★★☆☆ | Circa Survive :: _The Amulet_
 - ★★★★★ | Iglooghost :: _Neō Wax Bloom_
-- ☆☆☆☆☆ | Iglooghost :: _Chinese Nü Yr_
 - ☆☆☆☆☆ | WagakkiBand :: _Yasouemaki_
 - ☆☆☆☆☆ | WagakkiBand :: _八奏絵巻_
 - ☆☆☆☆☆ | WagakkiBand :: _四季彩-shikisai-_
@@ -287,7 +297,6 @@ Coming soon!
 - ☆☆☆☆☆ | Hammock :: _Kenotic_
 - ☆☆☆☆☆ | Hammock :: _Raising Your Voice...Trying to Stop an Echo_
 - ☆☆☆☆☆ | Hammock :: _Maybe They Will Sing for Us Tomorrow_
-- ☆☆☆☆☆ | Hammock :: _Chasing After Shadows...Living with the Ghosts_
 - ☆☆☆☆☆ | Hammock :: _Departure Songs_
 - ☆☆☆☆☆ | Hammock :: _Oblivion Hymns_
 - ☆☆☆☆☆ | Hammock :: _An Introduction to Hammock_
@@ -349,7 +358,6 @@ Coming soon!
 - ★★★★☆ | The Academy Is... :: _Almost Here_
 - ☆☆☆☆☆ | The Academy Is... :: _Santi_
 - ☆☆☆☆☆ | The Academy Is... :: _Fast Times At Barrington High_
-- ☆☆☆☆☆ | Cartel :: _Chroma_
 - ★★★☆☆ | Cartel :: _Cartel_
 - ☆☆☆☆☆ | Cartel :: _Cycles_
 - ☆☆☆☆☆ | Pinback :: _Pinback_

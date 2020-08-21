@@ -30,6 +30,32 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★★★★ | The Mars Volta :: _The Bedlam in Goliath_
+- ★★★★★ | Circa Survive :: _Blue Sky Noise_
+- ★★★☆☆ | Between the Buried and Me :: _Automata II_
+- ★★★☆☆ | Circa Survive :: _The Amulet_
+- ★★★★★ | The Beatles :: _Abbey Road_
+- ☆☆☆☆☆ | Eisley :: _Combinations_
+- ★★☆☆☆ | The Mars Volta :: _Amputechture_
+- ★★★☆☆ | From Indian Lakes :: _Able Bodies_
+- ★★★☆☆ | 100 gecs :: _1000 gecs and The Tree of Clues_
+- ★★★★★ | The Fall of Troy :: _Doppelganger_
+- ★★★★☆ | f(x) :: _4 Walls_
+- ★★☆☆☆ | Frodus :: _And We Washed Our Weapons in the Sea_
+- ★★☆☆☆ | Shellac :: _At Action Park_
+- ★★★☆☆ | Muse :: _Black Holes and Revelations_
+- ★☆☆☆☆ | DE DE MOUSE :: _be yourself_
+- ★★☆☆☆ | f(x) :: _Red Light_
+- ★★☆☆☆ | San Holo :: _album1_
+- ★★★☆☆ | Cashmere Cat :: _9_
+- ★☆☆☆☆ | f(x) :: _Pink Tape_
+- ★☆☆☆☆ | SHINee :: _1 of 1_
+- ★☆☆☆☆ | 90 Day Men :: 1975-1977-1998
+- ★★☆☆☆ | zarya :: 18 y\o
+- ★★★★☆ | 100 gecs :: _1000 gecs_
+- ★★★☆☆ | Scale The Summit :: _The Collective_
+- ★★★☆☆ | Between the Buried and Me :: _Automata I_
+- ★★★★☆ | TTNG :: _Animals_
 - ★★☆☆☆ | Between the Buried and Me :: _The Anatomy Of_
 - ★★★☆☆ | Hammock :: _Chasing After Shadows...Living with the Ghosts_
 - ★★★★☆ | Between the Buried and Me :: _Alaska_
@@ -83,14 +109,12 @@ Coming soon!
 - ★★☆☆☆ | CocoRosie :: _The Adventures of Ghosthorse & Stillborn_
 - ★★★☆☆ | Bon Iver :: _22, A Million_
 - ★★☆☆☆ | Owen :: _At Home With Owen_
-- ★★★★☆ | TTNG :: _Animals_
 - ★★☆☆☆ | TTNG :: _Animals Acoustic_
 - ★★☆☆☆ | Elephant Gym :: _Angle_
 - ★★★☆☆ | ABBA :: _The Album_
 - ★★★☆☆ | American Football :: _American Football_
 - ★★★☆☆ | Yvette Young :: _Acoustics_
 - ★★☆☆☆ | Tim Hecker :: _Virgins_
-- ★★★★☆ | 100 gecs :: _1000 gecs_
 - ★★☆☆☆ | Machine Girl :: _...Because I'm Young Arrogant and Hate Everything You Stand For_
 - ★★☆☆☆ | Tomggg :: _ART NATURE_
 - ☆☆☆☆☆ | Poppy :: _Am I A Girl?_
@@ -234,7 +258,6 @@ Coming soon!
 - ☆☆☆☆☆ | Pink Floyd :: _The Wall_
 - ★★★☆☆ | Manchester Orchestra :: _A Black Mile To The Surface_
 - ★★★★☆ | Deas Vail :: _Birds & Cages_
-- ☆☆☆☆☆ | Eisley :: _Combinations_
 - ☆☆☆☆☆ | Eisley :: _I'm Only Dreaming_
 - ☆☆☆☆☆ | Alexisonfire :: _Crisis_
 - ☆☆☆☆☆ | Covet :: _Covet on Audiotree Live_
@@ -530,7 +553,7 @@ Coming soon!
 - ☆☆☆☆☆ | The Sweeplings :: _Rise & Fall_
 - ★★★★★ | Lydia :: _Illuminate_
 - ☆☆☆☆☆ | Various Artists :: _Cloud Atlas: Original Motion Picture Soundtrack_
-- ☆☆☆☆☆ | The Mars Volta :: _Deloused in the Comatorium_
+- ★★★★★ | The Mars Volta :: _Deloused in the Comatorium_
 - ☆☆☆☆☆ | EASYFUN :: _Easyfun - EP_
 - ☆☆☆☆☆ | Son Lux :: _Stranger Forms_
 - ★★★★☆ | Kanye West :: _My Beautiful Dark Twisted Fantasy_
@@ -578,7 +601,6 @@ Coming soon!
 - ☆☆☆☆☆ | The Flaming Lips :: _Yoshimi Battles The Pink Robots (U.S. Version)_
 - ★★★★☆ | Mew :: _And The Glass Handed Kites_
 - ☆☆☆☆☆ | Mew :: _No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away_
-- ☆☆☆☆☆ | The Fall of Troy :: _Doppelganger_
 - ☆☆☆☆☆ | The Fall of Troy :: _Phantom on the Horizon_
 - ☆☆☆☆☆ | The Fall of Troy :: _OK#2_
 - ☆☆☆☆☆ | Circa Survive :: _Descensus_
@@ -909,7 +931,6 @@ Coming soon!
 - ☆☆☆☆☆ | Destroyer :: _Poison Season_
 - ★★★★☆ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
 - ☆☆☆☆☆ | Meg Myers :: _Sorry_
-- ☆☆☆☆☆ | Scale The Summit :: _The Collective_
 - ★★☆☆☆ | Scale The Summit :: _Carving Desert Canyons_
 - ☆☆☆☆☆ | Scale The Summit :: _Monument_
 - ☆☆☆☆☆ | Leftover Cuties :: _Game Called Life EP_

@@ -17,6 +17,9 @@ Coming soon!
 
 - ★★★★☆ | Tomggg :: _Butter Sugar Cream_
 - ★★☆☆☆ | EASYFUN :: _Be Your USA_
+- ★★★☆☆ | Jacob Collier, Mahalia, Ty Dolla $ign :: _All I Need_
+- ★★★★☆ | Temples :: _Certainty_
+- ★★★★☆ | Ben Rosett, Eternity Forever :: _Cherry Blossom_
 
 
 ### Albums
@@ -28,6 +31,64 @@ Coming soon!
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
 - ★★★★☆ | Kimbra :: _The Golden Echo_
+- ★★★★★ | The Mars Volta :: _The Bedlam in Goliath_
+- ★★★★★ | Circa Survive :: _Blue Sky Noise_
+- ★★★☆☆ | Between the Buried and Me :: _Automata II_
+- ★★★☆☆ | Circa Survive :: _The Amulet_
+- ★★★★★ | The Beatles :: _Abbey Road_
+- ☆☆☆☆☆ | Eisley :: _Combinations_
+- ★★☆☆☆ | The Mars Volta :: _Amputechture_
+- ★★★☆☆ | From Indian Lakes :: _Able Bodies_
+- ★★★☆☆ | 100 gecs :: _1000 gecs and The Tree of Clues_
+- ★★★★★ | The Fall of Troy :: _Doppelganger_
+- ★★★★☆ | f(x) :: _4 Walls_
+- ★★☆☆☆ | Frodus :: _And We Washed Our Weapons in the Sea_
+- ★★☆☆☆ | Shellac :: _At Action Park_
+- ★★★☆☆ | Muse :: _Black Holes and Revelations_
+- ★☆☆☆☆ | DE DE MOUSE :: _be yourself_
+- ★★☆☆☆ | f(x) :: _Red Light_
+- ★★☆☆☆ | San Holo :: _album1_
+- ★★★☆☆ | Cashmere Cat :: _9_
+- ★☆☆☆☆ | f(x) :: _Pink Tape_
+- ★☆☆☆☆ | SHINee :: _1 of 1_
+- ★☆☆☆☆ | 90 Day Men :: 1975-1977-1998
+- ★★☆☆☆ | zarya :: 18 y\o
+- ★★★★☆ | 100 gecs :: _1000 gecs_
+- ★★★☆☆ | Scale The Summit :: _The Collective_
+- ★★★☆☆ | Between the Buried and Me :: _Automata I_
+- ★★★★☆ | TTNG :: _Animals_
+- ★★☆☆☆ | Between the Buried and Me :: _The Anatomy Of_
+- ★★★☆☆ | Hammock :: _Chasing After Shadows...Living with the Ghosts_
+- ★★★★☆ | Between the Buried and Me :: _Alaska_
+- ★★★☆☆ | Muse :: _Absolution_
+- ★★★★☆ | TTNG :: _13.0.0.0.0
+- ★★★☆☆ | Esperanza Spalding :: _12 Little Spells_
+- ★★★★★ | Explosions in the Sky :: _The Earth Is Not A Cold Dead Place_
+- ★★★★★ | Tom Tykwer, Johnny Klimek, Reinhold Heil :: _Cloud Atlas_
+- ★★★★★ | Cartel :: _Chroma_
+- ★★★☆☆ | Iglooghost :: _Chinese Nü Yr_
+- ★★★★☆ | Esperanza Spalding :: _Chamber Music Society_
+- ★★☆☆☆ | Macross 82-99 :: _CHAM!_
+- ★★☆☆☆ | mewithoutYou :: _Catch For Us The Foxes_
+- ★★★☆☆ | Sithu Aye :: _Cassini_
+- ★★★★☆ | Candy Claws :: _Ceres & Calypso in the Deep Time_
+- ★★☆☆☆ | City Girl :: _Celestial Angel_
+- ★★★☆☆ | Zu :: _Carboniferous_
+- ★★★★☆ | City and Colour :: _Bring Me Your Love_
+- ★★★★☆ | Charli XCX :: _Charli_
+- ☆☆☆☆☆ | Charli XCX :: _enemy_
+- ★★★☆☆ | Carpenter Brut :: _Blood Machines - Original Motion Picture Soundtrack_
+- ★★★★☆ | Of Machines :: _As If Everything Was Held In Place_
+- ★★★☆☆ | Royal Coda :: _Compassion_
+- ★★★☆☆ | Dance Gavin Dance :: _Afterburner_
+- ★★★☆☆ | Hayley Williams :: _Petals for Armor_
+- ★★★☆☆ | mewithoutYou :: _Brother, Siste_
+- ★★★☆☆ | Andrew Bird :: _Armchair Apocrypha_
+- ★★★☆☆ | Mew :: _+ -_
+- ★★★☆☆ | Tricot :: _The_
+- ★★★★☆ | Earth :: _The Bees Made Honey In The Lion's Skull_
+- ★★☆☆☆ | Grimes :: _Miss Anthropocene_
+- ★★★★☆ | Grimes :: _Art Angels_
 - ★★★☆☆ | Josquin des Prez :: _Missa Pange lingua_
 - ★★★☆☆ | Johannes Ockeghem :: _Requiem: Missa Mi-Mi_
 - ★★★★★ | POLIÇA :: _Give You The Ghost_
@@ -49,14 +110,12 @@ Coming soon!
 - ★★☆☆☆ | CocoRosie :: _The Adventures of Ghosthorse & Stillborn_
 - ★★★☆☆ | Bon Iver :: _22, A Million_
 - ★★☆☆☆ | Owen :: _At Home With Owen_
-- ★★★★☆ | TTNG :: _Animals_
 - ★★☆☆☆ | TTNG :: _Animals Acoustic_
 - ★★☆☆☆ | Elephant Gym :: _Angle_
 - ★★★☆☆ | ABBA :: _The Album_
 - ★★★☆☆ | American Football :: _American Football_
 - ★★★☆☆ | Yvette Young :: _Acoustics_
 - ★★☆☆☆ | Tim Hecker :: _Virgins_
-- ★★★★☆ | 100 gecs :: _1000 gecs_
 - ★★★☆☆ | Drake :: _Take Care_
 - ★★☆☆☆ | Machine Girl :: _...Because I'm Young Arrogant and Hate Everything You Stand For_
 - ★★☆☆☆ | Tomggg :: _ART NATURE_
@@ -68,7 +127,7 @@ Coming soon!
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Instant Gratification_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Mothership_
 - ★★★★★ | A Lot Like Birds :: _No Place_
-- ☆☆☆☆☆ | A Lot Like Birds :: _Conversation Piece_
+- ★★★★★ | A Lot Like Birds :: _Conversation Piece_
 - ☆☆☆☆☆ | Taking Back Sunday :: _Louder Now_
 - ☆☆☆☆☆ | Taking Back Sunday :: _Where You Want to Be_
 - ★★★☆☆ | My Chemical Romance :: _The Black Parade_
@@ -138,7 +197,6 @@ Coming soon!
 - ☆☆☆☆☆ | August Burns Red :: _Phantom Anthem_
 - ★★★☆☆ | Circa Survive :: _The Amulet_
 - ★★★★★ | Iglooghost :: _Neō Wax Bloom_
-- ☆☆☆☆☆ | Iglooghost :: _Chinese Nü Yr_
 - ☆☆☆☆☆ | WagakkiBand :: _Yasouemaki_
 - ☆☆☆☆☆ | WagakkiBand :: _八奏絵巻_
 - ☆☆☆☆☆ | WagakkiBand :: _四季彩-shikisai-_
@@ -202,7 +260,6 @@ Coming soon!
 - ☆☆☆☆☆ | Pink Floyd :: _The Wall_
 - ★★★☆☆ | Manchester Orchestra :: _A Black Mile To The Surface_
 - ★★★★☆ | Deas Vail :: _Birds & Cages_
-- ☆☆☆☆☆ | Eisley :: _Combinations_
 - ☆☆☆☆☆ | Eisley :: _I'm Only Dreaming_
 - ☆☆☆☆☆ | Alexisonfire :: _Crisis_
 - ☆☆☆☆☆ | Covet :: _Covet on Audiotree Live_
@@ -265,13 +322,12 @@ Coming soon!
 - ☆☆☆☆☆ | Hammock :: _Kenotic_
 - ☆☆☆☆☆ | Hammock :: _Raising Your Voice...Trying to Stop an Echo_
 - ☆☆☆☆☆ | Hammock :: _Maybe They Will Sing for Us Tomorrow_
-- ☆☆☆☆☆ | Hammock :: _Chasing After Shadows...Living with the Ghosts_
 - ☆☆☆☆☆ | Hammock :: _Departure Songs_
 - ☆☆☆☆☆ | Hammock :: _Oblivion Hymns_
 - ☆☆☆☆☆ | Hammock :: _An Introduction to Hammock_
 - ☆☆☆☆☆ | Hammock :: _Everything and Nothing_
 - ☆☆☆☆☆ | Jamie Cullum :: _Pointless Nostalgic_
-- ☆☆☆☆☆ | Jamie Cullum :: _Catching Tales_
+- ★☆☆☆☆ | Jamie Cullum :: _Catching Tales_
 - ☆☆☆☆☆ | Jamie Cullum :: _Twentysomething_
 - ☆☆☆☆☆ | Jamie Cullum :: _The Pursuit_
 - ☆☆☆☆☆ | Jamie Cullum :: _Devil May Care_
@@ -327,7 +383,6 @@ Coming soon!
 - ★★★★☆ | The Academy Is... :: _Almost Here_
 - ☆☆☆☆☆ | The Academy Is... :: _Santi_
 - ☆☆☆☆☆ | The Academy Is... :: _Fast Times At Barrington High_
-- ☆☆☆☆☆ | Cartel :: _Chroma_
 - ★★★☆☆ | Cartel :: _Cartel_
 - ☆☆☆☆☆ | Cartel :: _Cycles_
 - ☆☆☆☆☆ | Pinback :: _Pinback_
@@ -500,7 +555,7 @@ Coming soon!
 - ☆☆☆☆☆ | The Sweeplings :: _Rise & Fall_
 - ★★★★★ | Lydia :: _Illuminate_
 - ☆☆☆☆☆ | Various Artists :: _Cloud Atlas: Original Motion Picture Soundtrack_
-- ☆☆☆☆☆ | The Mars Volta :: _Deloused in the Comatorium_
+- ★★★★★ | The Mars Volta :: _Deloused in the Comatorium_
 - ☆☆☆☆☆ | EASYFUN :: _Easyfun - EP_
 - ☆☆☆☆☆ | Son Lux :: _Stranger Forms_
 - ★★★★☆ | Kanye West :: _My Beautiful Dark Twisted Fantasy_
@@ -548,7 +603,6 @@ Coming soon!
 - ☆☆☆☆☆ | The Flaming Lips :: _Yoshimi Battles The Pink Robots (U.S. Version)_
 - ★★★★☆ | Mew :: _And The Glass Handed Kites_
 - ☆☆☆☆☆ | Mew :: _No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away_
-- ☆☆☆☆☆ | The Fall of Troy :: _Doppelganger_
 - ☆☆☆☆☆ | The Fall of Troy :: _Phantom on the Horizon_
 - ☆☆☆☆☆ | The Fall of Troy :: _OK#2_
 - ☆☆☆☆☆ | Circa Survive :: _Descensus_
@@ -657,7 +711,6 @@ Coming soon!
 - ☆☆☆☆☆ | João Gilberto & Stan Getz :: _Getz/Gilberto_
 - ☆☆☆☆☆ | Milton Nascimento :: _Club Da Esquina 1_
 - ☆☆☆☆☆ | Mew :: _Eggs Are Funny_
-- ☆☆☆☆☆ | Mew :: _+ -_
 - ☆☆☆☆☆ | İsmail H.Demircioğlu & Erkan Oğur :: _Gülün Kokusu Vardı_
 - ★★★★☆ | Erkan Oğur & İsmail H.Demircioğlu :: _Anadolu Beşik_
 - ☆☆☆☆☆ | Erkan Oğur & Derya Türkan & İlkin Deniz :: _Dokunmak_
@@ -723,13 +776,11 @@ Coming soon!
 - ☆☆☆☆☆ | Caravan Palace :: _<I°_°I>_
 - ☆☆☆☆☆ | Maximum Love :: _Midnight Astronaut_
 - ☆☆☆☆☆ | Tomggg :: _Butter Sugar Cream_
-- ☆☆☆☆☆ | Macross 82-99 :: _CHAM!_
 - ☆☆☆☆☆ | Laura Stevenson :: _Cocksure_
-- ☆☆☆☆☆ | Zu :: _Carboniferous_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Radio Music Society_
-- ☆☆☆☆☆ | Esperanza Spalding :: _Chamber Music Society_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Esperanza_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Junjo_
+- ★★★★★ | Tame Impala :: _Currents_
 - ☆☆☆☆☆ | Tame Impala :: _InnerSpeaker_
 - ☆☆☆☆☆ | Tame Impala :: _Lonerism_
 - ☆☆☆☆☆ | bôa :: _Twilight_
@@ -799,7 +850,6 @@ Coming soon!
 - ☆☆☆☆☆ | The Safety Fire :: _Grind the Ocean_
 - ☆☆☆☆☆ | The Safety Fire :: _Mouth of Swords_
 - ☆☆☆☆☆ | Sithu Aye :: _Senpai - EP_
-- ☆☆☆☆☆ | Sithu Aye :: _Cassini_
 - ☆☆☆☆☆ | Sithu Aye :: _Isles EP_
 - ☆☆☆☆☆ | Sithu Aye :: _Invent the Universe_
 - ☆☆☆☆☆ | Ever Forthright :: _Ever Forthright_
@@ -824,7 +874,7 @@ Coming soon!
 - ☆☆☆☆☆ | Pianos Become The Teeth :: _Old Pride_
 - ☆☆☆☆☆ | Pianos Become The Teeth :: _Keep You_
 - ☆☆☆☆☆ | Gengahr :: _Tired Eyes_
-- ☆☆☆☆☆ | Noah Gundersen :: _Carry The Ghost_
+- ★★☆☆☆ | Noah Gundersen :: _Carry The Ghost_
 - ★★★★☆ | From Indian Lakes :: _Absent Sounds_
 - ☆☆☆☆☆ | Animal Collective :: _Merriweather Post Pavilion_
 - ☆☆☆☆☆ | The Weepies :: _Sirens_
@@ -883,7 +933,6 @@ Coming soon!
 - ☆☆☆☆☆ | Destroyer :: _Poison Season_
 - ★★★★☆ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
 - ☆☆☆☆☆ | Meg Myers :: _Sorry_
-- ☆☆☆☆☆ | Scale The Summit :: _The Collective_
 - ★★☆☆☆ | Scale The Summit :: _Carving Desert Canyons_
 - ☆☆☆☆☆ | Scale The Summit :: _Monument_
 - ☆☆☆☆☆ | Leftover Cuties :: _Game Called Life EP_

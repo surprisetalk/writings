@@ -27,6 +27,7 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★★★☆ | Kimbra :: _The Golden Echo_
 - ★★★☆☆ | Josquin des Prez :: _Missa Pange lingua_
 - ★★★☆☆ | Johannes Ockeghem :: _Requiem: Missa Mi-Mi_
 - ★★★★★ | POLIÇA :: _Give You The Ghost_
@@ -56,6 +57,7 @@ Coming soon!
 - ★★★☆☆ | Yvette Young :: _Acoustics_
 - ★★☆☆☆ | Tim Hecker :: _Virgins_
 - ★★★★☆ | 100 gecs :: _1000 gecs_
+- ★★★☆☆ | Drake :: _Take Care_
 - ★★☆☆☆ | Machine Girl :: _...Because I'm Young Arrogant and Hate Everything You Stand For_
 - ★★☆☆☆ | Tomggg :: _ART NATURE_
 - ☆☆☆☆☆ | Poppy :: _Am I A Girl?_

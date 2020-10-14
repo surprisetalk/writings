@@ -31,6 +31,23 @@ Coming soon!
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
 - ★★★★☆ | Kimbra :: _The Golden Echo_
+- ★★★☆☆ | Godspeed You! Black Emperor :: _Allelujah! Don't Bend! Ascend_
+- ★★★★☆ | Peggy Lee :: _Black Coffee_
+- ★★★☆☆ | Yung Bae :: _Bae_
+- ★★★☆☆ | Duke Ellington :: _The Afro-Eurasian Eclipse_
+- ★★★☆☆ | Iron & Wine :: _Around the Well_
+- ☆☆☆☆☆ | Steely Dan :: _Aja_
+- ★★☆☆☆ | Lido :: _Peder_
+- ★★★★☆ | A. G. Cook :: _7G_
+- ★★★★★ | Metric :: _Fantasies_
+- ★★★☆☆ | Iglooghost :: _Clear Tamei_
+- ★★☆☆☆ | Chinese Football :: _Chinese Football_
+- ★★☆☆☆ | Yuna :: _Chapters_
+- ★★★★☆ | Chon :: _Chon_
+- ★★★☆☆ | The Dillinger Escape Plan :: _Calculating Infinity_
+- ★★☆☆☆ | MASTER BOOT RECORD :: _C:\>CHKDSK F_
+- ★☆☆☆☆ | El Hijo :: _Capital Desierto_
+- ★★★☆☆ | toe :: _the book about my idle plot on a vague anxiety_
 - ★★★★★ | The Mars Volta :: _The Bedlam in Goliath_
 - ★★★★★ | Circa Survive :: _Blue Sky Noise_
 - ★★★☆☆ | Between the Buried and Me :: _Automata II_

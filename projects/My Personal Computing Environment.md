@@ -4,6 +4,8 @@ Coming soon!
 
 <!-- https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ -->
 
+<!-- TODO https://computecuter.com/ -->
+
 <!--
 
 Nix/NixOS

@@ -24,19 +24,37 @@ Coming soon!
 
 ### Albums
 
+<!-- TODO: I need to read/watch more essays on artists/albums and reconsider some of my ratings. -->
+
 <!-- TODO: Album highlights/reviews as essays. -->
 
 <!-- TODO: Collect masterpieces on vinyl. -->
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★★☆☆ | God Is An Astronaut :: _Age of the Fifth Sun_
+- ★☆☆☆☆ | AFI :: _AFI_
+- ★★☆☆☆ | Lydia Ainsworth :: _Darling of the Afterglow_
+- ★★★★☆ | Sam Rivers :: _Crystals_
+- ★★☆☆☆ | Animal Collective :: _Centipede Hz_
+- ★★☆☆☆ | Yung Bae :: _B4E_
+- ★★☆☆☆ | God Is An Astronaut :: _All Is Violent, All Is Bright_
+- ★★★☆☆ | Radiohead :: _The Bends_
+- ★★☆☆☆ | Count Basie :: _The Atomic Mr. Basie_
+- ★★☆☆☆ | Desired :: _Best Before 1998_
+- ★★★☆☆ | Duke Ellington :: _...And His Mother Called Him Bill_
+- ★★★★☆ | Gost :: _Behemoth_
+- ★★★★☆ | Yung Bae :: _Bae 5_
+- ★★★☆☆ | Yung Bae :: _BA3_
+- ★★★☆☆ | Android52 :: _52 Days of Autumn_
+- ★★★☆☆ | Duke Ellington :: _The Afro-Eurasian Eclipse_
 - ★★★★☆ | Kimbra :: _The Golden Echo_
 - ★★★☆☆ | Godspeed You! Black Emperor :: _Allelujah! Don't Bend! Ascend_
 - ★★★★☆ | Peggy Lee :: _Black Coffee_
 - ★★★☆☆ | Yung Bae :: _Bae_
 - ★★★☆☆ | Duke Ellington :: _The Afro-Eurasian Eclipse_
 - ★★★☆☆ | Iron & Wine :: _Around the Well_
-- ☆☆☆☆☆ | Steely Dan :: _Aja_
+- ★★☆☆☆ | Steely Dan :: _Aja_
 - ★★☆☆☆ | Lido :: _Peder_
 - ★★★★☆ | A. G. Cook :: _7G_
 - ★★★★★ | Metric :: _Fantasies_

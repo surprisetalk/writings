@@ -23,6 +23,10 @@
 - untitled goose game
 - noita
 - antichamber
+- carrion
+- earthbound
+- Moon: Remix RPG Adventure
+- pathologic
 
 ## [Adam Millard](https://www.youtube.com/user/Thefearalcarrot/videos)
 

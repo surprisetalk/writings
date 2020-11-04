@@ -32,6 +32,30 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★☆☆☆ | Thom Yorke :: _ANIMA_
+- ★☆☆☆☆ | Aoki Takamasa & Tujiko Noriko :: _28_
+- ☆☆☆☆☆ | Sufjan Stevens :: _The Age of Adz_
+- ★★☆☆☆ | Angels Of Light :: _The Angels Of Light Sing "Other People"_
+- ☆☆☆☆☆ | Candy Claws :: _Ceres & Calypso in the Deep Time_
+- ★★★★☆ | American Football :: _American Football_
+- ★★★★★ | John Mayer :: _Battle Studies_
+- ★★☆☆☆ | Akron/Family :: _Akron/Family_
+- ★★☆☆☆ | Poliça :: _When We Stay Alive_
+- ★★☆☆☆ | The Hush Sound :: _Goodbye Blues_
+- ★★★☆☆ | The Dillinger Escape Plan :: _Calculating Infinity_
+- ☆☆☆☆☆ | The Chariot :: _The Fiance_
+- ★★★★★ | The Fall of Troy :: _Doppelganger_
+- ★★★★★ | Clown Core :: _Clown Core_
+- ☆☆☆☆☆ | Between the Buried and Me :: _Colors_
+- ★★★☆☆ | Eskimo Callboy :: _Bury Me In Vegas_
+- ☆☆☆☆☆ | Ólafur Arnalds & Alice Sara Ott :: _The Chopin Project_
+- ★★☆☆☆ | Diane Cluck :: _Boneset_
+- ★★★★★ | Imaginary Future :: _All My Love_
+- ☆☆☆☆☆ | Muse :: _Black Holes and Revelations_
+- ★★★★☆ | Muse :: _Absolution_
+- ★☆☆☆☆ | The Academy Is... :: _Fast Times at Barrington High_
+- ★★★☆☆ | American Football :: _American Football EP_
+- ★★☆☆☆ | American Football :: _American Football (LP2)_
 - ★★★☆☆ | God Is An Astronaut :: _Age of the Fifth Sun_
 - ★☆☆☆☆ | AFI :: _AFI_
 - ★★☆☆☆ | Lydia Ainsworth :: _Darling of the Afterglow_
@@ -79,7 +103,6 @@ Coming soon!
 - ★★★★☆ | f(x) :: _4 Walls_
 - ★★☆☆☆ | Frodus :: _And We Washed Our Weapons in the Sea_
 - ★★☆☆☆ | Shellac :: _At Action Park_
-- ★★★☆☆ | Muse :: _Black Holes and Revelations_
 - ★☆☆☆☆ | DE DE MOUSE :: _be yourself_
 - ★★☆☆☆ | f(x) :: _Red Light_
 - ★★☆☆☆ | San Holo :: _album1_
@@ -95,7 +118,6 @@ Coming soon!
 - ★★☆☆☆ | Between the Buried and Me :: _The Anatomy Of_
 - ★★★☆☆ | Hammock :: _Chasing After Shadows...Living with the Ghosts_
 - ★★★★☆ | Between the Buried and Me :: _Alaska_
-- ★★★☆☆ | Muse :: _Absolution_
 - ★★★★☆ | TTNG :: _13.0.0.0.0
 - ★★★☆☆ | Esperanza Spalding :: _12 Little Spells_
 - ★★★★★ | Explosions in the Sky :: _The Earth Is Not A Cold Dead Place_
@@ -106,7 +128,6 @@ Coming soon!
 - ★★☆☆☆ | Macross 82-99 :: _CHAM!_
 - ★★☆☆☆ | mewithoutYou :: _Catch For Us The Foxes_
 - ★★★☆☆ | Sithu Aye :: _Cassini_
-- ★★★★☆ | Candy Claws :: _Ceres & Calypso in the Deep Time_
 - ★★☆☆☆ | City Girl :: _Celestial Angel_
 - ★★★☆☆ | Zu :: _Carboniferous_
 - ★★★★☆ | City and Colour :: _Bring Me Your Love_
@@ -148,7 +169,6 @@ Coming soon!
 - ★★☆☆☆ | TTNG :: _Animals Acoustic_
 - ★★☆☆☆ | Elephant Gym :: _Angle_
 - ★★★☆☆ | ABBA :: _The Album_
-- ★★★☆☆ | American Football :: _American Football_
 - ★★★☆☆ | Yvette Young :: _Acoustics_
 - ★★☆☆☆ | Tim Hecker :: _Virgins_
 - ★★★☆☆ | Drake :: _Take Care_
@@ -704,7 +724,6 @@ Coming soon!
 - ★★☆☆☆ | Ólafur Arnalds :: _...and they have escaped the weight of darkness_
 - ☆☆☆☆☆ | Ólafur Arnalds :: _Living Room Songs_
 - ☆☆☆☆☆ | Ólafur Arnalds :: _For Now I Am Winter_
-- ☆☆☆☆☆ | Ólafur Arnalds & Alice Sara Ott :: _The Chopin Project_
 - ☆☆☆☆☆ | Ólafur Arnalds & Nils Frahm :: _Trance Frendz_
 - ☆☆☆☆☆ | Ólafur Arnalds :: _Island Songs_
 - ☆☆☆☆☆ | Peter McConnell :: _Grim Fandango Remastered (Original Soundtrack)_

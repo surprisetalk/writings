@@ -32,6 +32,7 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★☆☆☆ | Satanicpornocultshop :: _Arkhaiomelisidonophunikheratos_
 - ★★☆☆☆ | Thom Yorke :: _ANIMA_
 - ★☆☆☆☆ | Aoki Takamasa & Tujiko Noriko :: _28_
 - ☆☆☆☆☆ | Sufjan Stevens :: _The Age of Adz_

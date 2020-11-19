@@ -32,6 +32,13 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ☆☆☆☆☆ | From Indian Lakes :: _Everything Feels Better Now_
+- ★★★★☆ | Burial :: _Untrue_
+- ☆☆☆☆☆ | sewerslvt :: _Draining Love Story_
+- ★★★☆☆ | Seirom :: _1973_
+- ★★☆☆☆ | Li Jianhong :: _1969_
+- ★★☆☆☆ | Wire :: _154_
+- ★★☆☆☆ | King Gizzard & The Lizard Wizard :: _12 Bar Bruise_
 - ★★☆☆☆ | Satanicpornocultshop :: _Arkhaiomelisidonophunikheratos_
 - ★★☆☆☆ | Thom Yorke :: _ANIMA_
 - ★☆☆☆☆ | Aoki Takamasa & Tujiko Noriko :: _28_
@@ -196,7 +203,6 @@ Coming soon!
 - ☆☆☆☆☆ | Saint Pepsi :: _Late Night Delight_
 - ☆☆☆☆☆ | Saint Pepsi :: _Choice Cuts_
 - ★★☆☆☆ | Saint Pepsi :: _Mannequin Challenge_
-- ☆☆☆☆☆ | sewerslvt :: _Draining Love Story_
 - ★★★☆☆ | sewerslvt :: _Sewer//Slvt_
 - ★★★☆☆ | sewerslvt :: _Drowning In The Sewer_
 - ★★★★★ | The Seatbelts :: _Cowboy Bebop_

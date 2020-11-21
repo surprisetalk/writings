@@ -30,6 +30,8 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★★★☆ | Angels of Light, Akron/Family :: _Akron/Family & Angels of Light_
+- ★☆☆☆☆ | Mukimukimanmansu :: _2012_
 - ★★★★☆ | Kimbra :: _The Golden Echo_
 - ★★★☆☆ | Godspeed You! Black Emperor :: _Allelujah! Don't Bend! Ascend_
 - ★★★★☆ | Peggy Lee :: _Black Coffee_

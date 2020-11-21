@@ -1,3 +1,15 @@
+<!--
+
+cool minimalist websites:
+
+https://zfs.rent
+https://news.ycombinator.com/item?id=25148000
+
+https://www.gtf.io
+
+https://danluu.com
+
+-->
 
 <!--
 - [ ] reorganize

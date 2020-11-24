@@ -32,7 +32,21 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
-- ☆☆☆☆☆ | From Indian Lakes :: _Everything Feels Better Now_
+- ☆☆☆☆☆ | Sufjan Stevens :: _All Delighted People_
+- ★★★★★ | Sigur Rós :: _()_
+- ☆☆☆☆☆ | Sigur Rós :: _Ágætis byrjun_
+- ☆☆☆☆☆ | Snarky Puppy :: _Culcha Vulcha_
+- ★★★★★ | Candy Claws :: _Ceres & Calypso in the Deep Time_
+- ★★★★★ | Eisley :: _Currents_
+- ☆☆☆☆☆ | Nicole Dollanganger :: _Curdled Milk_
+- ★★☆☆☆ | Roly Porter :: _Aftertime_
+- ☆☆☆☆☆ | Jefferson Airplane :: _After Bathing At Baxters_
+- ★★★☆☆ | Liturgy :: _Aesthetica_
+- ★★★☆☆ | TOOL :: _Ænima_
+- ★★☆☆☆ | Pharmakon :: _Abandon_
+- ★★★★☆ | Max Richter :: _24 Postcards in Full Colour_
+- ★★★★☆ | TOOL :: _10,000 Days_
+- ★★★☆☆ | From Indian Lakes :: _Everything Feels Better Now_
 - ★★★★☆ | Burial :: _Untrue_
 - ☆☆☆☆☆ | sewerslvt :: _Draining Love Story_
 - ★★★☆☆ | Seirom :: _1973_
@@ -44,7 +58,6 @@ Coming soon!
 - ★☆☆☆☆ | Aoki Takamasa & Tujiko Noriko :: _28_
 - ☆☆☆☆☆ | Sufjan Stevens :: _The Age of Adz_
 - ★★☆☆☆ | Angels Of Light :: _The Angels Of Light Sing "Other People"_
-- ☆☆☆☆☆ | Candy Claws :: _Ceres & Calypso in the Deep Time_
 - ★★★★☆ | American Football :: _American Football_
 - ★★★★★ | John Mayer :: _Battle Studies_
 - ★★☆☆☆ | Akron/Family :: _Akron/Family_
@@ -716,8 +729,7 @@ Coming soon!
 - ☆☆☆☆☆ | Lydia :: _Devil_
 - ☆☆☆☆☆ | Lydia :: _Paint It Golden_
 - ☆☆☆☆☆ | Lydia :: _Run Wild_
-- ☆☆☆☆☆ | Eisley :: _Currents_
-- ☆☆☆☆☆ | Eisley :: _Room Noises_
+- ★★★★★ | Eisley :: _Room Noises_
 - ☆☆☆☆☆ | Eisley :: _The Valley_
 - ☆☆☆☆☆ | Baby Alpaca :: _Under Water_
 - ☆☆☆☆☆ | Shana Halligan :: _Back to Me_

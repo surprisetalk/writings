@@ -1,3 +1,5 @@
+Coming soon!
+
 <!--
 
 https://www.gwern.net/
@@ -26,4 +28,9 @@ https://www.forbes.com/sites/sarahjeong/2015/03/31/reddit-gets-subpoenaed-over-d
 -->
 
 
-Coming soon!
+<!--
+
+https://www.gwern.net/newsletter/2020/10
+https://www.gwern.net/newsletter/2020/09
+
+-->

@@ -5,6 +5,14 @@ Another little dirty programming language.
 
 <!--
 
+Useful WAT/WASM stuff.
+
+https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html
+
+-->
+
+<!--
+
 LLVM Toy Language
 
 http://llvm.org/docs/tutorial/index.html

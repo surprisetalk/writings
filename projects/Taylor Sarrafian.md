@@ -1,3 +1,8 @@
+<!--
+
+https://news.ycombinator.com/item?id=25135752
+
+-->
 
 > I tried to teach myself to play the guitar. But I'm a horrible teacher — because I do not know how to play a guitar.
 >

@@ -47,6 +47,8 @@ Coming soon!
 - ★★★★☆ | Max Richter :: _24 Postcards in Full Colour_
 - ★★★★☆ | TOOL :: _10,000 Days_
 - ★★★☆☆ | From Indian Lakes :: _Everything Feels Better Now_
+- ★★★★☆ | Angels of Light, Akron/Family :: _Akron/Family & Angels of Light_
+- ★☆☆☆☆ | Mukimukimanmansu :: _2012_
 - ★★★★☆ | Burial :: _Untrue_
 - ☆☆☆☆☆ | sewerslvt :: _Draining Love Story_
 - ★★★☆☆ | Seirom :: _1973_

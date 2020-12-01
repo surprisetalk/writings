@@ -32,6 +32,9 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★★☆☆ | The Killers :: _Sam's Town_
+- ★★★★★ | The Killers :: _Hot Fuss_
+- ★★★★☆ | Cyndi Lauper :: _She's So Unusual_
 - ☆☆☆☆☆ | Sufjan Stevens :: _All Delighted People_
 - ★★★★★ | Sigur Rós :: _()_
 - ☆☆☆☆☆ | Sigur Rós :: _Ágætis byrjun_
@@ -558,7 +561,6 @@ Coming soon!
 - ☆☆☆☆☆ | Matchbox Twenty :: _Exile On Mainstream_
 - ☆☆☆☆☆ | Matchbox Twenty :: _North_
 - ☆☆☆☆☆ | Tears For Fears :: _Songs From The Big Chair_
-- ☆☆☆☆☆ | Cyndi Lauper :: _She's So Unusual_
 - ☆☆☆☆☆ | Cyndi Lauper :: _The Body Acoustic_
 - ★☆☆☆☆ | Cyndi Lauper :: _Bring Ya To The Brink_
 - ☆☆☆☆☆ | Cyndi Lauper :: _She's So Unusual - Spotify Commentary_

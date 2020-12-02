@@ -32,12 +32,14 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★☆☆☆ | Sigur Rós :: _22° Lunar Halo_
+- ☆☆☆☆☆ | Sufjan Stevens :: _The Age of Adz_
 - ★★★☆☆ | The Killers :: _Sam's Town_
 - ★★★★★ | The Killers :: _Hot Fuss_
 - ★★★★☆ | Cyndi Lauper :: _She's So Unusual_
 - ☆☆☆☆☆ | Sufjan Stevens :: _All Delighted People_
 - ★★★★★ | Sigur Rós :: _()_
-- ☆☆☆☆☆ | Sigur Rós :: _Ágætis byrjun_
+- ★★★★☆ | Sigur Rós :: _Ágætis byrjun_
 - ☆☆☆☆☆ | Snarky Puppy :: _Culcha Vulcha_
 - ★★★★★ | Candy Claws :: _Ceres & Calypso in the Deep Time_
 - ★★★★★ | Eisley :: _Currents_
@@ -61,7 +63,6 @@ Coming soon!
 - ★★☆☆☆ | Satanicpornocultshop :: _Arkhaiomelisidonophunikheratos_
 - ★★☆☆☆ | Thom Yorke :: _ANIMA_
 - ★☆☆☆☆ | Aoki Takamasa & Tujiko Noriko :: _28_
-- ☆☆☆☆☆ | Sufjan Stevens :: _The Age of Adz_
 - ★★☆☆☆ | Angels Of Light :: _The Angels Of Light Sing "Other People"_
 - ★★★★☆ | American Football :: _American Football_
 - ★★★★★ | John Mayer :: _Battle Studies_

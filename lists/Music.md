@@ -32,12 +32,20 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+<!-- TODO: Sort RYM by controversial? -->
+
+- ★★★★☆ | Sufjan Stevens :: _All Delighted People_
+- ★★☆☆☆ | Lingua Ignota :: _All Bitches Die_
+- ★★★☆☆ | Louis Cole :: _Album 2_
+- ★★★☆☆ | Angels of Light, Akron/Family :: _Akron/Family & Angels of Light_
+- ★★★★☆ | Sufjan Stevens :: _The Age of Adz_
+- ★★☆☆☆ | Roly Porter :: _Aftertime_
+- ★★☆☆☆ | Jefferson Airplane :: _After Bathing At Baxters_
+- ★★★★★ | Owl City :: _Maybe I'm Dreaming_
 - ★★☆☆☆ | Sigur Rós :: _22° Lunar Halo_
-- ☆☆☆☆☆ | Sufjan Stevens :: _The Age of Adz_
 - ★★★☆☆ | The Killers :: _Sam's Town_
 - ★★★★★ | The Killers :: _Hot Fuss_
 - ★★★★☆ | Cyndi Lauper :: _She's So Unusual_
-- ☆☆☆☆☆ | Sufjan Stevens :: _All Delighted People_
 - ★★★★★ | Sigur Rós :: _()_
 - ★★★★☆ | Sigur Rós :: _Ágætis byrjun_
 - ☆☆☆☆☆ | Snarky Puppy :: _Culcha Vulcha_
@@ -53,7 +61,6 @@ Coming soon!
 - ★★★★☆ | TOOL :: _10,000 Days_
 - ★★★☆☆ | From Indian Lakes :: _Everything Feels Better Now_
 - ★★☆☆☆ | Kaskade :: _Fire & Ice_
-- ★★★★☆ | Angels of Light, Akron/Family :: _Akron/Family & Angels of Light_
 - ★☆☆☆☆ | Mukimukimanmansu :: _2012_
 - ★★★★☆ | Burial :: _Untrue_
 - ☆☆☆☆☆ | sewerslvt :: _Draining Love Story_

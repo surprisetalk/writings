@@ -5,6 +5,14 @@ Another little dirty programming language.
 
 <!--
 
+ORC reference counting memory management
+
+https://news.ycombinator.com/item?id=25345770
+
+-->
+
+<!--
+
 Useful WAT/WASM stuff.
 
 https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html

@@ -1,5 +1,9 @@
 <!-- TODO: Create linked essays for all/most of these points. -->
 
+<!--
+https://news.ycombinator.com/item?id=25518730
+-->
+
 - Productivity
   - Only do the Next Thing in The Queue. There is nothing else.
     - The Queue is a mixture of tasks, flashcards, media, reminders, and prompts.

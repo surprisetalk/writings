@@ -9,6 +9,10 @@ ORC reference counting memory management
 
 https://news.ycombinator.com/item?id=25345770
 
+Perceus reference counting:
+
+https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf
+
 -->
 
 <!--
@@ -24,6 +28,9 @@ https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html
 LLVM Toy Language
 
 http://llvm.org/docs/tutorial/index.html
+
+"A Complete Guide to LLVM for Programming Language Creators":
+https://news.ycombinator.com/item?id=25539797
 
 -->
 

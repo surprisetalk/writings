@@ -34,6 +34,21 @@ Coming soon!
 
 <!-- TODO: Sort RYM by controversial? -->
 
+<!-- TODO: joanna newsom & bjork & underoath -->
+
+- ★★★☆☆ | Fear Before the March of Flames :: _The Always Open Mouth_
+- ★★★★☆ | St. Vincent :: _Actor_
+- ★★★★★ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
+- ★★★★★ | Lydian Collective :: _Adventure_
+- ★★★☆☆ | The Dear Hunter :: _Act III: Life and Death_
+- ★★★☆☆ | The Dear Hunter :: _Act II: The Meaning of, And All Things Regarding Ms. Leading_
+- ★★★☆☆ | The Dear Hunter :: _Act I: The Lake South, The River North_
+- ☆☆☆☆☆ | Ichiko Aoba :: _0_
+- ★★☆☆☆ | Anthony Braxton :: _Alt Saxophone Improvisations 1979_
+- ★★★★★ | Paramore :: _All We Know Is Falling_
+- ★★★☆☆ | Dance Gavin Dance :: _Afterburner_
+- ★★☆☆☆ | Paramore :: _After Laughter_
+- ★★★☆☆ | Dance Gavin Dance :: _Acceptance Speech 2.0_
 - ★★★★☆ | Sufjan Stevens :: _All Delighted People_
 - ★★☆☆☆ | Lingua Ignota :: _All Bitches Die_
 - ★★★☆☆ | Louis Cole :: _Album 2_
@@ -58,7 +73,7 @@ Coming soon!
 - ★★★☆☆ | TOOL :: _Ænima_
 - ★★☆☆☆ | Pharmakon :: _Abandon_
 - ★★★★☆ | Max Richter :: _24 Postcards in Full Colour_
-- ★★★★☆ | TOOL :: _10,000 Days_
+- ★★★★★ | TOOL :: _10,000 Days_
 - ★★★☆☆ | From Indian Lakes :: _Everything Feels Better Now_
 - ★★☆☆☆ | Kaskade :: _Fire & Ice_
 - ★☆☆☆☆ | Mukimukimanmansu :: _2012_
@@ -171,7 +186,6 @@ Coming soon!
 - ★★★☆☆ | Carpenter Brut :: _Blood Machines - Original Motion Picture Soundtrack_
 - ★★★★☆ | Of Machines :: _As If Everything Was Held In Place_
 - ★★★☆☆ | Royal Coda :: _Compassion_
-- ★★★☆☆ | Dance Gavin Dance :: _Afterburner_
 - ★★★☆☆ | Hayley Williams :: _Petals for Armor_
 - ★★★☆☆ | mewithoutYou :: _Brother, Siste_
 - ★★★☆☆ | Andrew Bird :: _Armchair Apocrypha_
@@ -213,7 +227,6 @@ Coming soon!
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Whatever I Say Is Royal Ocean_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Happiness_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Downtown Battle Mountain II_
-- ☆☆☆☆☆ | Dance Gavin Dance :: _Acceptance Speech 2.0_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Instant Gratification_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Mothership_
 - ★★★★★ | A Lot Like Birds :: _No Place_
@@ -1017,7 +1030,6 @@ Coming soon!
 - ☆☆☆☆☆ | Riverside :: _Love, Fear and the Time Machine_
 - ☆☆☆☆☆ | Julia Holter :: _Have You In My Wilderness_
 - ☆☆☆☆☆ | Destroyer :: _Poison Season_
-- ★★★★☆ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
 - ☆☆☆☆☆ | Meg Myers :: _Sorry_
 - ★★☆☆☆ | Scale The Summit :: _Carving Desert Canyons_
 - ☆☆☆☆☆ | Scale The Summit :: _Monument_

@@ -36,6 +36,31 @@ Coming soon!
 
 <!-- TODO: joanna newsom & bjork & underoath -->
 
+- ★★★★★ | Tycho :: _Dive_
+- ★★★★☆ | Late Night Alumni :: _Empty Streets_
+- ☆☆☆☆☆ | Sufjan Stevens :: _The Ascension_
+- ★★★☆☆ | John Coltrane :: _Ascension_
+- ★★★☆☆ | Idylls :: _The Barn_
+- ★★★★★ | Real Estate :: _Atlas_
+- ★★★☆☆ | Pearls Before Swine :: _Balaklava_
+- ★★★☆☆ | Cloud Nothings :: _Attack On Memory_
+- ★★★☆☆ | Prince :: _1999_
+- ★★★☆☆ | Arca :: _Arca_
+- ★★★☆☆ | Freddie Gibbs, The Alchemist :: _Alfredo_
+- ★★★☆☆ | Van Morrison :: _Astral Weeks_
+- ★★★☆☆ | Hilmar Őrn Hilmarsson, Sigur Rós :: _Angels of the Universe_
+- ★★☆☆☆ | Fishmans :: _98.12.28 男達の別れ (Live)_
+- ★★★☆☆ | Shaun Martin :: _7Summers_
+- ★★★☆☆ | Anna Meredith :: _ANNO: Four Seasons by Anna Meredith & Antonio Vivaldi_
+- ★★☆☆☆ | Anton Webern :: _Concerto for Nine Instruments, Op. 24, Piano Variations, Op.27, Four Songs, Op. 12, Quartet Op.22 for Tenor Saxophone, Clarinet, Violin and Piano_
+- ★★★★☆ | Ichiko Aoba :: _0_
+- ★★★☆☆ | Count Basie :: _April In Paris_
+- ★★★☆☆ | Dance Gavin Dance :: _Artificial Selection_
+- ★★☆☆☆ | Bring Me the Horizon :: _amo_
+- ★★★★☆ | Outkast :: _Aquemini_
+- ☆☆☆☆☆ | mouse on the keys :: _an anxious object_
+- ★★★☆☆ | American Football :: _American Football (LP3)_
+- ★★★★☆ | The Dear Hunter :: _Act V: Hymns with the Devil in Confessional_
 - ★★★☆☆ | Fear Before the March of Flames :: _The Always Open Mouth_
 - ★★★★☆ | St. Vincent :: _Actor_
 - ★★★★★ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
@@ -43,8 +68,7 @@ Coming soon!
 - ★★★☆☆ | The Dear Hunter :: _Act III: Life and Death_
 - ★★★☆☆ | The Dear Hunter :: _Act II: The Meaning of, And All Things Regarding Ms. Leading_
 - ★★★☆☆ | The Dear Hunter :: _Act I: The Lake South, The River North_
-- ☆☆☆☆☆ | Ichiko Aoba :: _0_
-- ★★☆☆☆ | Anthony Braxton :: _Alt Saxophone Improvisations 1979_
+- ★★☆☆☆ | Anthony Braxton :: _Alto Saxophone Improvisations 1979_
 - ★★★★★ | Paramore :: _All We Know Is Falling_
 - ★★★☆☆ | Dance Gavin Dance :: _Afterburner_
 - ★★☆☆☆ | Paramore :: _After Laughter_
@@ -257,7 +281,6 @@ Coming soon!
 - ☆☆☆☆☆ | Bobby Tank :: _The Way_
 - ☆☆☆☆☆ | Orchards :: _Peggy_
 - ☆☆☆☆☆ | Kimbra :: _Primal Heart_
-- ☆☆☆☆☆ | Dance Gavin Dance :: _Artificial Selection_
 - ☆☆☆☆☆ | Disasterpeace & David Peacock :: _Disasters for Piano_
 - ★★★★☆ | GoGo Penguin :: _v2.0_
 - ★★★★☆ | GoGo Penguin :: _A Humdrum Star_
@@ -892,7 +915,6 @@ Coming soon!
 - ☆☆☆☆☆ | Basenji :: _Trackpad_
 - ☆☆☆☆☆ | Mark Redito :: _Promise - EP_
 - ☆☆☆☆☆ | Kaskade :: _In The Moment_
-- ☆☆☆☆☆ | Late Night Alumni :: _Empty Streets_
 - ☆☆☆☆☆ | BADBADNOTGOOD :: _III_
 - ☆☆☆☆☆ | Eyeliner :: _High Fashion Mood Music_
 - ☆☆☆☆☆ | Oneohtrix Point Never :: _Replica_
@@ -1195,6 +1217,9 @@ Coming soon!
   - japanese math rock
   - japanese rock
   - japanese jazz
+  - https://rateyourmusic.com/charts/top/album/all-time/g:sophisti-pop/
+  - https://rateyourmusic.com/charts/top/album/all-time/g:conscious-hip-hop/
+  - https://rateyourmusic.com/charts/top/album/all-time/g:celtic%2dfolk%2dmusic/
 - recommendations
   - uriel herman
   - avishai cohen
@@ -1203,3 +1228,12 @@ Coming soon!
   - shouting matches
   - camel
   - fela kuti
+- https://soundcloud.com/maltine-record/sets/dv-i-research-development
+- https://soundcloud.com/priz-tats/dv-i-shenzhen-mircale
+- https://soundcloud.com/maltine-record/sets/dv-i-implementation
+- https://soundcloud.com/d-video/passcard-resync-style-public-beta
+- https://soundcloud.com/priz-tats/dv-i-softbank
+- https://soundcloud.com/hurtfreenetwork/dvi-hurt-free-network-nu
+- https://soundcloud.com/tensquared/dv-i-mix-for-100-net-gallery
+- https://soundcloud.com/hurtfreenetwork/dv-i-eurostyle
+- https://soundcloud.com/shadowbandit/kz-livetune-secret-sky-fest

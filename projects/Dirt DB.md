@@ -2,6 +2,8 @@ Coming soon!
 
 <!--
 
+https://news.ycombinator.com/item?id=25642062
+
 https://www.reddit.com/r/rust/comments/acucrs/rust_at_speed_building_a_fast_concurrent_database/
 https://pdos.csail.mit.edu/papers/noria:osdi18.pdf
 https://blog.acolyer.org/2018/10/29/noria-dynamic-partially-stateful-data-flow-for-high-performance-web-applications/

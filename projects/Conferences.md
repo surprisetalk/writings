@@ -1,4 +1,6 @@
 
+<!-- TODO: create a bunch of talks and start sending them to conferences -->
+
 <!-- TODO: tone all this down -->
 
 <!-- TODO: include that other cfp site i just found -->

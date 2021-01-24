@@ -36,6 +36,15 @@ Coming soon!
 
 <!-- TODO: joanna newsom & bjork & underoath -->
 
+- ★★☆☆☆ | Kaleidoscope :: _A Beacon From Mars_
+- ★★★☆☆ | mouse on the keys :: _an anxious object_
+- ★★★☆☆ | MXXWLL :: _Beats Vol. 1_
+- ★★☆☆☆ | Shubh Saran :: _Becoming_
+- ★★☆☆☆ | Lauren Bousfield :: _Avalon Vales_
+- ★★★☆☆ | CHVRCHES :: _Every Open Eye_
+- ★★☆☆☆ | TTNG :: _Disappointment Island_
+- ★★☆☆☆ | From Indian Lakes :: _Dimly Lit_
+- ★★★★★ | Beethoven :: _Symphony No. 9_
 - ★★★★★ | Tycho :: _Dive_
 - ★★★★☆ | Late Night Alumni :: _Empty Streets_
 - ☆☆☆☆☆ | Sufjan Stevens :: _The Ascension_
@@ -58,7 +67,6 @@ Coming soon!
 - ★★★☆☆ | Dance Gavin Dance :: _Artificial Selection_
 - ★★☆☆☆ | Bring Me the Horizon :: _amo_
 - ★★★★☆ | Outkast :: _Aquemini_
-- ☆☆☆☆☆ | mouse on the keys :: _an anxious object_
 - ★★★☆☆ | American Football :: _American Football (LP3)_
 - ★★★★☆ | The Dear Hunter :: _Act V: Hymns with the Devil in Confessional_
 - ★★★☆☆ | Fear Before the March of Flames :: _The Always Open Mouth_
@@ -784,7 +792,6 @@ Coming soon!
 - ☆☆☆☆☆ | Shana Halligan :: _Back to Me_
 - ☆☆☆☆☆ | Sally Shapiro :: _Elsewhere_
 - ☆☆☆☆☆ | Aesop Rock :: _The Impossible Kid_
-- ☆☆☆☆☆ | TTNG :: _Disappointment Island_
 - ☆☆☆☆☆ | Grace Joyner :: _Maybe Sometimes – in C_
 - ★★★☆☆ | Ólafur Arnalds :: _Arnalds: Eulogy for Evolution_
 - ☆☆☆☆☆ | Ólafur Arnalds :: _Found Songs_
@@ -1059,7 +1066,6 @@ Coming soon!
 - ☆☆☆☆☆ | Leftover Cuties :: _Places to Go_
 - ☆☆☆☆☆ | Leftover Cuties :: _The Spark & the Fire_
 - ☆☆☆☆☆ | Mystery Skulls :: _Forever_
-- ☆☆☆☆☆ | CHVRCHES :: _Every Open Eye_
 - ★★★★☆ | Punch Brothers :: _The Phosphorescent Blues_
 - ☆☆☆☆☆ | The World Is A Beautiful Place & I Am No Longer Afraid To Die :: _Harmlessness_
 - ☆☆☆☆☆ | Axes :: _Glory_

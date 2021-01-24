@@ -1,6 +1,8 @@
 Coming soon!
 
 <!--
+  https://news.ycombinator.com/item?id=25867693
+
   --  https://news.ycombinator.com/item?id=19350367
   --  https://blog.acolyer.org/2015/06/17/differential-dataflow/
   --  https://github.com/TimelyDataflow/differential-dataflow

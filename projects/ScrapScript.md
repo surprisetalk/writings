@@ -5,6 +5,13 @@ Another little dirty programming language.
 
 <!--
 
+build your own text editor:
+https://news.ycombinator.com/item?id=25712949
+
+-->
+
+<!--
+
 ORC reference counting memory management
 
 https://news.ycombinator.com/item?id=25345770
@@ -16,6 +23,22 @@ https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf
 neut:
 
 https://news.ycombinator.com/item?id=23283880
+
+spiral language:
+
+https://news.ycombinator.com/item?id=17519886
+https://news.ycombinator.com/item?id=17519138
+
+-->
+
+<!--
+
+Great talk on turning recursive funtions into iterative ones:
+https://www.youtube.com/watch?v=vNwukfhsOME
+
+https://www.joachim-breitner.de/blog/778-Don’t_think,_just_defunctionalize
+https://youtu.be/xcm_H36v_18
+https://www.youtube.com/watch?v=5-P0Jjku3cY&list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc&index=9
 
 -->
 

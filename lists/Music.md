@@ -36,6 +36,12 @@ Coming soon!
 
 <!-- TODO: joanna newsom & bjork & underoath -->
 
+- ★★★★☆ | Muse :: _Black Holes and Revelations_
+- ☆☆☆☆☆ | Sufjan Stevens :: _The Ascension_
+- ★★☆☆☆ | Oklou :: _Avril_
+- ★★★☆☆ | Baths :: _Cerulean_
+- ★★★★★ | Björk :: _Biophilia_
+- ★★★☆☆ | Pharmakon :: _Bestial Burden_
 - ★★☆☆☆ | Kaleidoscope :: _A Beacon From Mars_
 - ★★★☆☆ | mouse on the keys :: _an anxious object_
 - ★★★☆☆ | MXXWLL :: _Beats Vol. 1_
@@ -47,7 +53,6 @@ Coming soon!
 - ★★★★★ | Beethoven :: _Symphony No. 9_
 - ★★★★★ | Tycho :: _Dive_
 - ★★★★☆ | Late Night Alumni :: _Empty Streets_
-- ☆☆☆☆☆ | Sufjan Stevens :: _The Ascension_
 - ★★★☆☆ | John Coltrane :: _Ascension_
 - ★★★☆☆ | Idylls :: _The Barn_
 - ★★★★★ | Real Estate :: _Atlas_
@@ -133,7 +138,6 @@ Coming soon!
 - ☆☆☆☆☆ | Ólafur Arnalds & Alice Sara Ott :: _The Chopin Project_
 - ★★☆☆☆ | Diane Cluck :: _Boneset_
 - ★★★★★ | Imaginary Future :: _All My Love_
-- ☆☆☆☆☆ | Muse :: _Black Holes and Revelations_
 - ★★★★☆ | Muse :: _Absolution_
 - ★☆☆☆☆ | The Academy Is... :: _Fast Times at Barrington High_
 - ★★★☆☆ | American Football :: _American Football EP_

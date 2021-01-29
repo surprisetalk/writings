@@ -8,6 +8,19 @@ Another little dirty programming language.
 build your own text editor:
 https://news.ycombinator.com/item?id=25712949
 
+nonbacktracking regex:
+https://v8.dev/blog/non-backtracking-regexp
+
+A Complete Guide to LLVM for Programming Language Creators
+https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
+
+json serialization sucks:
+https://news.ycombinator.com/item?id=25870793
+
+A Taste of GPU Compute (how functional programming with GPUs works):
+https://www.youtube.com/watch?v=eqkAaplKBc4
+GLSL/WGSL/SPIR-V works like LLVM-IR for GPUs
+
 -->
 
 <!--

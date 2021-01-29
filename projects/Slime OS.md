@@ -2,6 +2,17 @@ Coming soon!
 
 <!--
 
+No-order filesystems:
+https://news.ycombinator.com/item?id=25900461
+
+Cool OS abstraction over files:
+https://news.ycombinator.com/item?id=25920127
+
+
+Writing a file system from scratch in rust:
+https://news.ycombinator.com/item?id=23967016
+
+
 Making a RISC-V Operating System using Rust: http://osblog.stephenmarz.com
 
 

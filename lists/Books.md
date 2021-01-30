@@ -2,6 +2,9 @@ Coming soon!
 
 <!--
 
+https://thegreatestbooks.org/
+https://news.ycombinator.com/item?id=25786569
+
 Weird books:
 https://en.wikipedia.org/wiki/Bookseller/Diagram_Prize_for_Oddest_Title_of_the_Year
 https://www.reddit.com/r/books/comments/6l5itn/what_is_the_strangestweirdestmost_bizarre_book/

@@ -32,13 +32,73 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+<!-- TODO: Sort RYM by controversial? -->
+
+<!-- TODO: joanna newsom & bjork & underoath -->
+
 - ★★☆☆☆ | Seirom :: _And The Light Swallowed Everything_
+- ★★★★☆ | Muse :: _Black Holes and Revelations_
+- ☆☆☆☆☆ | Sufjan Stevens :: _The Ascension_
+- ★★☆☆☆ | Oklou :: _Avril_
+- ★★★☆☆ | Baths :: _Cerulean_
+- ★★★★★ | Björk :: _Biophilia_
+- ★★★☆☆ | Pharmakon :: _Bestial Burden_
+- ★★☆☆☆ | Kaleidoscope :: _A Beacon From Mars_
+- ★★★☆☆ | mouse on the keys :: _an anxious object_
+- ★★★☆☆ | MXXWLL :: _Beats Vol. 1_
+- ★★☆☆☆ | Shubh Saran :: _Becoming_
+- ★★☆☆☆ | Lauren Bousfield :: _Avalon Vales_
+- ★★★☆☆ | CHVRCHES :: _Every Open Eye_
+- ★★☆☆☆ | TTNG :: _Disappointment Island_
+- ★★☆☆☆ | From Indian Lakes :: _Dimly Lit_
+- ★★★★★ | Beethoven :: _Symphony No. 9_
+- ★★★★★ | Tycho :: _Dive_
+- ★★★★☆ | Late Night Alumni :: _Empty Streets_
+- ★★★☆☆ | John Coltrane :: _Ascension_
+- ★★★☆☆ | Idylls :: _The Barn_
+- ★★★★★ | Real Estate :: _Atlas_
+- ★★★☆☆ | Pearls Before Swine :: _Balaklava_
+- ★★★☆☆ | Cloud Nothings :: _Attack On Memory_
+- ★★★☆☆ | Prince :: _1999_
+- ★★★☆☆ | Arca :: _Arca_
+- ★★★☆☆ | Freddie Gibbs, The Alchemist :: _Alfredo_
+- ★★★☆☆ | Van Morrison :: _Astral Weeks_
+- ★★★☆☆ | Hilmar Őrn Hilmarsson, Sigur Rós :: _Angels of the Universe_
+- ★★☆☆☆ | Fishmans :: _98.12.28 男達の別れ (Live)_
+- ★★★☆☆ | Shaun Martin :: _7Summers_
+- ★★★☆☆ | Anna Meredith :: _ANNO: Four Seasons by Anna Meredith & Antonio Vivaldi_
+- ★★☆☆☆ | Anton Webern :: _Concerto for Nine Instruments, Op. 24, Piano Variations, Op.27, Four Songs, Op. 12, Quartet Op.22 for Tenor Saxophone, Clarinet, Violin and Piano_
+- ★★★★☆ | Ichiko Aoba :: _0_
+- ★★★☆☆ | Count Basie :: _April In Paris_
+- ★★★☆☆ | Dance Gavin Dance :: _Artificial Selection_
+- ★★☆☆☆ | Bring Me the Horizon :: _amo_
+- ★★★★☆ | Outkast :: _Aquemini_
+- ★★★☆☆ | American Football :: _American Football (LP3)_
+- ★★★★☆ | The Dear Hunter :: _Act V: Hymns with the Devil in Confessional_
+- ★★★☆☆ | Fear Before the March of Flames :: _The Always Open Mouth_
+- ★★★★☆ | St. Vincent :: _Actor_
+- ★★★★★ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
+- ★★★★★ | Lydian Collective :: _Adventure_
+- ★★★☆☆ | The Dear Hunter :: _Act III: Life and Death_
+- ★★★☆☆ | The Dear Hunter :: _Act II: The Meaning of, And All Things Regarding Ms. Leading_
+- ★★★☆☆ | The Dear Hunter :: _Act I: The Lake South, The River North_
+- ★★☆☆☆ | Anthony Braxton :: _Alto Saxophone Improvisations 1979_
+- ★★★★★ | Paramore :: _All We Know Is Falling_
+- ★★★☆☆ | Dance Gavin Dance :: _Afterburner_
+- ★★☆☆☆ | Paramore :: _After Laughter_
+- ★★★☆☆ | Dance Gavin Dance :: _Acceptance Speech 2.0_
+- ★★★★☆ | Sufjan Stevens :: _All Delighted People_
+- ★★☆☆☆ | Lingua Ignota :: _All Bitches Die_
+- ★★★☆☆ | Louis Cole :: _Album 2_
+- ★★★☆☆ | Angels of Light, Akron/Family :: _Akron/Family & Angels of Light_
+- ★★★★☆ | Sufjan Stevens :: _The Age of Adz_
+- ★★☆☆☆ | Roly Porter :: _Aftertime_
+- ★★☆☆☆ | Jefferson Airplane :: _After Bathing At Baxters_
+- ★★★★★ | Owl City :: _Maybe I'm Dreaming_
 - ★★☆☆☆ | Sigur Rós :: _22° Lunar Halo_
-- ☆☆☆☆☆ | Sufjan Stevens :: _The Age of Adz_
 - ★★★☆☆ | The Killers :: _Sam's Town_
 - ★★★★★ | The Killers :: _Hot Fuss_
 - ★★★★☆ | Cyndi Lauper :: _She's So Unusual_
-- ☆☆☆☆☆ | Sufjan Stevens :: _All Delighted People_
 - ★★★★★ | Sigur Rós :: _()_
 - ★★★★☆ | Sigur Rós :: _Ágætis byrjun_
 - ☆☆☆☆☆ | Snarky Puppy :: _Culcha Vulcha_
@@ -51,10 +111,9 @@ Coming soon!
 - ★★★☆☆ | TOOL :: _Ænima_
 - ★★☆☆☆ | Pharmakon :: _Abandon_
 - ★★★★☆ | Max Richter :: _24 Postcards in Full Colour_
-- ★★★★☆ | TOOL :: _10,000 Days_
+- ★★★★★ | TOOL :: _10,000 Days_
 - ★★★☆☆ | From Indian Lakes :: _Everything Feels Better Now_
 - ★★☆☆☆ | Kaskade :: _Fire & Ice_
-- ★★★★☆ | Angels of Light, Akron/Family :: _Akron/Family & Angels of Light_
 - ★☆☆☆☆ | Mukimukimanmansu :: _2012_
 - ★★★★☆ | Burial :: _Untrue_
 - ☆☆☆☆☆ | sewerslvt :: _Draining Love Story_
@@ -80,7 +139,6 @@ Coming soon!
 - ☆☆☆☆☆ | Ólafur Arnalds & Alice Sara Ott :: _The Chopin Project_
 - ★★☆☆☆ | Diane Cluck :: _Boneset_
 - ★★★★★ | Imaginary Future :: _All My Love_
-- ☆☆☆☆☆ | Muse :: _Black Holes and Revelations_
 - ★★★★☆ | Muse :: _Absolution_
 - ★☆☆☆☆ | The Academy Is... :: _Fast Times at Barrington High_
 - ★★★☆☆ | American Football :: _American Football EP_
@@ -165,7 +223,6 @@ Coming soon!
 - ★★★☆☆ | Carpenter Brut :: _Blood Machines - Original Motion Picture Soundtrack_
 - ★★★★☆ | Of Machines :: _As If Everything Was Held In Place_
 - ★★★☆☆ | Royal Coda :: _Compassion_
-- ★★★☆☆ | Dance Gavin Dance :: _Afterburner_
 - ★★★☆☆ | Hayley Williams :: _Petals for Armor_
 - ★★★☆☆ | mewithoutYou :: _Brother, Siste_
 - ★★★☆☆ | Andrew Bird :: _Armchair Apocrypha_
@@ -207,7 +264,6 @@ Coming soon!
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Whatever I Say Is Royal Ocean_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Happiness_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Downtown Battle Mountain II_
-- ☆☆☆☆☆ | Dance Gavin Dance :: _Acceptance Speech 2.0_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Instant Gratification_
 - ☆☆☆☆☆ | Dance Gavin Dance :: _Mothership_
 - ★★★★★ | A Lot Like Birds :: _No Place_
@@ -238,7 +294,6 @@ Coming soon!
 - ☆☆☆☆☆ | Bobby Tank :: _The Way_
 - ☆☆☆☆☆ | Orchards :: _Peggy_
 - ☆☆☆☆☆ | Kimbra :: _Primal Heart_
-- ☆☆☆☆☆ | Dance Gavin Dance :: _Artificial Selection_
 - ☆☆☆☆☆ | Disasterpeace & David Peacock :: _Disasters for Piano_
 - ★★★★☆ | GoGo Penguin :: _v2.0_
 - ★★★★☆ | GoGo Penguin :: _A Humdrum Star_
@@ -742,7 +797,6 @@ Coming soon!
 - ☆☆☆☆☆ | Shana Halligan :: _Back to Me_
 - ☆☆☆☆☆ | Sally Shapiro :: _Elsewhere_
 - ☆☆☆☆☆ | Aesop Rock :: _The Impossible Kid_
-- ☆☆☆☆☆ | TTNG :: _Disappointment Island_
 - ☆☆☆☆☆ | Grace Joyner :: _Maybe Sometimes – in C_
 - ★★★☆☆ | Ólafur Arnalds :: _Arnalds: Eulogy for Evolution_
 - ☆☆☆☆☆ | Ólafur Arnalds :: _Found Songs_
@@ -873,7 +927,6 @@ Coming soon!
 - ☆☆☆☆☆ | Basenji :: _Trackpad_
 - ☆☆☆☆☆ | Mark Redito :: _Promise - EP_
 - ☆☆☆☆☆ | Kaskade :: _In The Moment_
-- ☆☆☆☆☆ | Late Night Alumni :: _Empty Streets_
 - ☆☆☆☆☆ | BADBADNOTGOOD :: _III_
 - ☆☆☆☆☆ | Eyeliner :: _High Fashion Mood Music_
 - ☆☆☆☆☆ | Oneohtrix Point Never :: _Replica_
@@ -1011,7 +1064,6 @@ Coming soon!
 - ☆☆☆☆☆ | Riverside :: _Love, Fear and the Time Machine_
 - ☆☆☆☆☆ | Julia Holter :: _Have You In My Wilderness_
 - ☆☆☆☆☆ | Destroyer :: _Poison Season_
-- ★★★★☆ | The Dear Hunter :: _Act Iv: Rebirth in Reprise_
 - ☆☆☆☆☆ | Meg Myers :: _Sorry_
 - ★★☆☆☆ | Scale The Summit :: _Carving Desert Canyons_
 - ☆☆☆☆☆ | Scale The Summit :: _Monument_
@@ -1019,7 +1071,6 @@ Coming soon!
 - ☆☆☆☆☆ | Leftover Cuties :: _Places to Go_
 - ☆☆☆☆☆ | Leftover Cuties :: _The Spark & the Fire_
 - ☆☆☆☆☆ | Mystery Skulls :: _Forever_
-- ☆☆☆☆☆ | CHVRCHES :: _Every Open Eye_
 - ★★★★☆ | Punch Brothers :: _The Phosphorescent Blues_
 - ☆☆☆☆☆ | The World Is A Beautiful Place & I Am No Longer Afraid To Die :: _Harmlessness_
 - ☆☆☆☆☆ | Axes :: _Glory_
@@ -1177,6 +1228,9 @@ Coming soon!
   - japanese math rock
   - japanese rock
   - japanese jazz
+  - https://rateyourmusic.com/charts/top/album/all-time/g:sophisti-pop/
+  - https://rateyourmusic.com/charts/top/album/all-time/g:conscious-hip-hop/
+  - https://rateyourmusic.com/charts/top/album/all-time/g:celtic%2dfolk%2dmusic/
 - recommendations
   - uriel herman
   - avishai cohen
@@ -1185,3 +1239,12 @@ Coming soon!
   - shouting matches
   - camel
   - fela kuti
+- https://soundcloud.com/maltine-record/sets/dv-i-research-development
+- https://soundcloud.com/priz-tats/dv-i-shenzhen-mircale
+- https://soundcloud.com/maltine-record/sets/dv-i-implementation
+- https://soundcloud.com/d-video/passcard-resync-style-public-beta
+- https://soundcloud.com/priz-tats/dv-i-softbank
+- https://soundcloud.com/hurtfreenetwork/dvi-hurt-free-network-nu
+- https://soundcloud.com/tensquared/dv-i-mix-for-100-net-gallery
+- https://soundcloud.com/hurtfreenetwork/dv-i-eurostyle
+- https://soundcloud.com/shadowbandit/kz-livetune-secret-sky-fest

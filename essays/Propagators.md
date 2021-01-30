@@ -15,6 +15,8 @@
 
 <!-- TODO: What are they? How do they work? -->
 
+<!-- TODO: https://www.youtube.com/watch?v=nY1BCv3xn24 -->
+
 ## Further Reading
 
 - [McCarthy's Elaboration Tolerance](http://jmc.stanford.edu/articles/elaboration.html)

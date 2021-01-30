@@ -29,6 +29,54 @@ domains for joint projects:
 - scrap.country
 - scrap.world
 
+build your own text editor:
+https://news.ycombinator.com/item?id=25712949
+
+nonbacktracking regex:
+https://v8.dev/blog/non-backtracking-regexp
+
+A Complete Guide to LLVM for Programming Language Creators
+https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
+
+json serialization sucks:
+https://news.ycombinator.com/item?id=25870793
+
+A Taste of GPU Compute (how functional programming with GPUs works):
+https://www.youtube.com/watch?v=eqkAaplKBc4
+GLSL/WGSL/SPIR-V works like LLVM-IR for GPUs
+
+-->
+
+<!--
+
+ORC reference counting memory management
+
+https://news.ycombinator.com/item?id=25345770
+
+Perceus reference counting:
+
+https://www.microsoft.com/en-us/research/uploads/prod/2020/11/perceus-tr-v1.pdf
+
+neut:
+
+https://news.ycombinator.com/item?id=23283880
+
+spiral language:
+
+https://news.ycombinator.com/item?id=17519886
+https://news.ycombinator.com/item?id=17519138
+
+-->
+
+<!--
+
+Great talk on turning recursive funtions into iterative ones:
+https://www.youtube.com/watch?v=vNwukfhsOME
+
+https://www.joachim-breitner.de/blog/778-Don’t_think,_just_defunctionalize
+https://youtu.be/xcm_H36v_18
+https://www.youtube.com/watch?v=5-P0Jjku3cY&list=PLBqWQH1MiwBSK9wuaATNS701c43VYVTuc&index=9
+
 -->
 
 <!--
@@ -44,6 +92,9 @@ https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html
 LLVM Toy Language
 
 http://llvm.org/docs/tutorial/index.html
+
+"A Complete Guide to LLVM for Programming Language Creators":
+https://news.ycombinator.com/item?id=25539797
 
 -->
 

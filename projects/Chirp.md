@@ -4,6 +4,9 @@
 Music notation needs an update!
 
 <!--
+
+https://news.ycombinator.com/item?id=25641420
+
 https://news.ycombinator.com/item?id=12792063
 https://news.ycombinator.com/item?id=12528144
 http://andrewduncan.net/cmt/

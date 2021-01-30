@@ -29,6 +29,7 @@
 - pathologic
 - superliminal
 - hyperbolica
+- fallout: new vegas
 
 ## [Adam Millard](https://www.youtube.com/user/Thefearalcarrot/videos)
 

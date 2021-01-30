@@ -18,3 +18,9 @@
 
 ![APL](http://www.chilton.com/~jimw/a2ap1g1.gif)
 
+
+<!--
+
+https://news.ycombinator.com/item?id=25253498
+
+-->

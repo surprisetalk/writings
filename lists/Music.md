@@ -1248,3 +1248,33 @@ Coming soon!
 - https://soundcloud.com/tensquared/dv-i-mix-for-100-net-gallery
 - https://soundcloud.com/hurtfreenetwork/dv-i-eurostyle
 - https://soundcloud.com/shadowbandit/kz-livetune-secret-sky-fest
+- https://soundcloud.com/dismagazine/bruce-smear-smears-here
+- https://soundcloud.com/tiny-mix-tapes/guest-mix-lil-ega-untitled
+- https://soundcloud.com/nonstoppop/radio-jack-july-2015
+- https://soundcloud.com/dismagazine/bruce-smear-smears-here
+- https://soundcloud.com/gojiiflex/sets/gojii-otaku-overload-5-3
+- https://soundcloud.com/gojiiflex/gojii-live-isolation-station-032820
+- https://soundcloud.com/gojiiflex/gojii-quaranstream-20-mix
+- https://www.youtube.com/watch?v=9mcx_e4fMUc
+- https://www.youtube.com/watch?v=atBO6e7k5Wo
+- https://www.youtube.com/watch?v=iWi_wNtYq5g
+- A.G. Cook Personal Computer Mix (https://www.youtube.com/watch?v=BBZIPn3qpkU)
+- DV-I Secret Sky: https://www.youtube.com/watch?v=-YAWcks7kOg
+- WaveDash: https://www.youtube.com/results?search_query=wavedash+secret+sky
+- https://soundcloud.com/pedicure-records
+- https://soundcloud.com/pcmus/lifestyle
+- Dux Content
+- https://soundcloud.com/clonewithwings/dux-content-live-logo-01
+- https://rateyourmusic.com/charts/top/album/all-time/g:exact,bubblegum%2dbass/exc:live,archival/
+- https://rateyourmusic.com/charts/top/album/all-time/g:exact,bubblegum%2dbass/ge:hyperpop/exc:live,archival/
+- https://www.youtube.com/watch?v=v36KMdiWHao
+- https://nakedallyrecords.bandcamp.com/album/grape-blueprints-pour-spinach-olive-grape
+- https://www.google.com/search?hl=en&q=chiptune%20mathrock
+- https://dr-7.bandcamp.com/album/autism-and-recipes
+- https://www.youtube.com/watch?v=CHVFmXOxJGU	
+- https://rateyourmusic.com/charts/top/album/all-time/g:exact,southern%2drock/
+- https://rateyourmusic.com/charts/top/album/all-time/g:exact,southern%2drock/
+- https://rateyourmusic.com/release/album/the-charlie-daniels-band/fire-on-the-mountain/
+- https://sonemic.com/charts/
+- https://rateyourmusic.com/charts/top/album/all-time/g:exact,midwest%2demo/
+- https://www.youtube.com/watch?v=0IqOSrBZZ9g

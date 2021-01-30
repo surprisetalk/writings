@@ -32,6 +32,7 @@ Coming soon!
 
 <!-- TODO: Merge (and sort) this list, plus current Spotify library, plus recs.txt, and old iTunes library. -->
 
+- ★★☆☆☆ | Seirom :: _And The Light Swallowed Everything_
 - ★★☆☆☆ | Sigur Rós :: _22° Lunar Halo_
 - ☆☆☆☆☆ | Sufjan Stevens :: _The Age of Adz_
 - ★★★☆☆ | The Killers :: _Sam's Town_

@@ -5,6 +5,34 @@ Another little dirty programming language.
 
 <!--
 
+domains for joint projects:
+- scrap.chat
+- scrap.camp : tutorials
+- scrap.academy
+- scrap.help
+- scrap.how
+- scrap.info
+- scrap.school
+- scrap.tips
+- scrap.space
+- scrap.cash
+- scrap.blog
+- scrap.cloud
+- scrap.domains
+- scrap.io
+- scrap.site
+- scrap.stream
+- scrap.news
+- scrap.garden
+- scrap.city : annual scrapscript conference
+- scrap.town : 
+- scrap.country
+- scrap.world
+
+-->
+
+<!--
+
 Useful WAT/WASM stuff.
 
 https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html

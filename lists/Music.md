@@ -37,6 +37,8 @@ Coming soon!
 <!-- TODO: joanna newsom & bjork & underoath -->
 
 - ★★☆☆☆ | Seirom :: _And The Light Swallowed Everything_
+- ★★★☆☆ | Sufjan Stevens :: _The Avalanche_
+- ☆☆☆☆☆ | Red Baraat :: _Bhangra Pirates_
 - ★★★★☆ | Muse :: _Black Holes and Revelations_
 - ☆☆☆☆☆ | Sufjan Stevens :: _The Ascension_
 - ★★☆☆☆ | Oklou :: _Avril_

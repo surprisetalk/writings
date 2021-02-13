@@ -1,6 +1,15 @@
 
 <!-- TODO: revamp this into a non-journal format -->
 
+<!--
+
+- [ ] big body
+  - [ ] no more drank
+  - [ ] deepy sleepy time
+  - [ ] schwifty lifty sunrise
+
+-->
+
 ## 2018/09/17 2132h
 
 So I know I want to try out the Wim Hof breathing exercises and cold showers, but how am I going to remember? When am I going to do them?

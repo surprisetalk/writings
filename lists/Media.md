@@ -1,6 +1,462 @@
 
 <!-- TODO: make searchable/sortable? list of videos/memes/etc -->
 
+<!--
+
+- the organized mind
+
+- metro series by dmitry glukhovsky
+
+- tom segura
+
+- https://www.theringer.com/2019/4/25/18515675/gene-wolfe-science-fiction-author
+
+- sheet music: https://imslp.org/wiki/Main_Page
+- frank lloyd wright videos
+- How Do Unix Pipes Work? https://toroid.org/unix-pipe-implementation
+- https://sivers.org/now
+- https://github.com/jackc/tern
+- what fields/skills/ideas can i disrupt with new notations?
+- cool hats
+  - https://m.banggood.com/theme-Men-fashion-Brimless-Hats-t-11290.html?utm_campaign=i-mac-t11290-us-food-mnf-p1&utm_content=Thomas&utm_source=facebook_cpc_fashion&utm_medium=cpc_fashion&utm_ho=20-54&ad_id=23844357257070194
+
+- https://github.com/arp242/uni
+
+- https://github.com/perkeep/perkeep
+
+- https://www.featurel.com
+
+- Ask HN: What are some examples of good database schema designs?
+  - https://news.ycombinator.com/item?id=22324691
+
+- https://github.com/trimstray/the-book-of-secret-knowledge
+
+- https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html
+- single-file languages
+  - https://news.ycombinator.com/item?id=22313003
+  - https://github.com/marcpaq/b1fipl
+
+- https://news.ycombinator.com/item?id=23341179
+- https://news.ycombinator.com/item?id=23339830
+- https://news.ycombinator.com/item?id=23333733
+- https://news.ycombinator.com/item?id=23339004
+- https://news.ycombinator.com/item?id=23343668
+- https://news.ycombinator.com/item?id=23334463
+- https://news.ycombinator.com/item?id=23337705
+- https://news.ycombinator.com/item?id=23337857
+- https://news.ycombinator.com/item?id=23335486
+- https://news.ycombinator.com/item?id=23335368
+- https://news.ycombinator.com/item?id=23338248
+- https://news.ycombinator.com/item?id=23343507
+
+- https://news.ycombinator.com/item?id=23331499
+- http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/
+
+- https://discourse.elm-lang.org/t/announcing-elm-animator/5443
+- https://www.youtube.com/watch?v=Nf4rElfA8SE
+
+- https://news.ycombinator.com/item?id=23227331
+- https://news.ycombinator.com/item?id=23207045
+- https://news.ycombinator.com/item?id=23223681
+
+- https://news.ycombinator.com/item?id=23311329
+- https://news.ycombinator.com/item?id=23307552
+- https://news.ycombinator.com/item?id=23307700
+- https://news.ycombinator.com/item?id=23314664
+- https://news.ycombinator.com/item?id=23310412
+- https://news.ycombinator.com/item?id=23308321
+- https://news.ycombinator.com/item?id=23314485
+- https://www.madisontaskett.com/lazy-bastard-productivity/
+- https://news.ycombinator.com/item?id=23313657
+- https://news.ycombinator.com/item?id=23307699
+- https://functional.blog/2020/05/25/designing-a-functional-programming-language-yatta/
+- https://yatta-lang.org/docs/#execution-model
+- https://news.ycombinator.com/item?id=23315910
+
+- https://www.google.com/search?hl=en&q=llvm%20ir
+- http://llvm.org/docs/LangRef.html#introduction
+- https://llvm.org/devmtg/2017-06/1-Davis-Chisnall-LLVM-2017.pdf
+- https://hub.packtpub.com/introducing-llvm-intermediate-representation/
+- https://github.com/melvinzhang/scheme2llvm/blob/master/scheme2llvm.scm
+- https://www.gti.bh/Library/assets/llvm-implementing-a-language-6906ewtg.pdf
+- https://www.google.com/search?q=functional+llvm&hl=en&ei=71ySXo_EJMiqtQbH9KV4&start=10&sa=N&ved=2ahUKEwjP99uUzeHoAhVIVc0KHUd6CQ8Q8tMDegQIDBAs&biw=1763&bih=1041
+- https://www.reddit.com/r/ProgrammingLanguages/comments/8ggx2n/is_llvm_a_good_backend_for_functional_languages/
+- https://slang.soe.ucsc.edu/cormac/papers/pldi93.pdf
+- https://github.com/rhysd/gocaml
+- http://dev.stephendiehl.com/fun/
+- https://tinlizzie.org/ometa/
+- http://www.tinlizzie.org/ometa-js/#Lisp
+- http://www.moserware.com/2008/06/ometa-who-what-when-where-why.html
+- http://www.vpri.org/pdf/tr2007003_ometa.pdf
+- https://news.ycombinator.com/item?id=13966054
+- https://harc.ycr.org/flex/
+- https://github.com/rulemotion/ometa-tuts/blob/master/tut1.md
+- https://github.com/JCVenterInstitute/OMeta-Public/wiki/Tutorial
+- https://b-studios.de/ometa-js/
+- https://github.com/alexwarth/ometa-js
+- https://www.npmjs.com/package/ometajs
+- https://bford.info/packrat/
+- https://www.craftinginterpreters.com/parsing-expressions.html
+
+- https://news.ycombinator.com/item?id=23312875
+- https://news.ycombinator.com/item?id=23311240
+- https://news.ycombinator.com/item?id=23311934
+- https://news.ycombinator.com/item?id=23310412
+- https://news.ycombinator.com/item?id=23310430
+
+- https://news.ycombinator.com/item?id=23302250
+- https://news.ycombinator.com/item?id=23303055
+
+- https://news.ycombinator.com/item?id=23290154
+- https://news.ycombinator.com/item?id=23294294
+- https://news.ycombinator.com/item?id=23292749
+- https://news.ycombinator.com/item?id=23290943
+- https://news.ycombinator.com/item?id=23294799
+- https://news.ycombinator.com/item?id=23292805
+- https://news.ycombinator.com/item?id=23293462
+
+- https://news.ycombinator.com/item?id=23272992
+- https://news.ycombinator.com/item?id=23273452
+- https://news.ycombinator.com/item?id=23275053
+- https://news.ycombinator.com/item?id=23271973
+- https://news.ycombinator.com/item?id=23273247
+- https://news.ycombinator.com/item?id=23277594
+- https://news.ycombinator.com/item?id=23276456
+- https://materialize.io/
+- https://hasura.io/
+
+- https://news.ycombinator.com/item?id=23235671
+- https://news.ycombinator.com/item?id=23232268
+- https://news.ycombinator.com/item?id=23231361
+- https://news.ycombinator.com/item?id=23234017
+- https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/
+- https://github.com/terminusdb/terminusdb-server
+- https://en.wikipedia.org/wiki/Warren_Abstract_Machine
+- https://news.ycombinator.com/item?id=23236344
+- https://news.ycombinator.com/item?id=23230929
+- https://news.ycombinator.com/item?id=23231701
+
+- https://news.ycombinator.com/item?id=23257303
+
+- https://news.ycombinator.com/item?id=23083692
+- https://news.ycombinator.com/item?id=23082847
+- https://news.ycombinator.com/item?id=23081924
+- https://news.ycombinator.com/item?id=23078326
+- https://news.ycombinator.com/item?id=23077829
+- https://news.ycombinator.com/item?id=23082901
+- https://news.ycombinator.com/item?id=23072333
+
+- https://www.youtube.com/watch?v=vZH-CLuChPs
+
+- https://www.ebay.com/sch/i.html?_nkw=foundation%20audiobook%20cassette
+
+- https://www.reddit.com/r/ABraThatFits/
+- https://www.reddit.com/r/bestof/comments/12jxr9/great_explanation_of_bra_sizing_and_why_it_is/
+- https://www.reddit.com/r/bestof/comments/uowd7/mywifesbusty_explains_how_most_women_are_wearing/
+- https://www.reddit.com/r/ABraThatFits/comments/rh26h/is_getting_fitted_for_a_bra_as_humiliating_as_it/c469bi0/
+- https://www.reddit.com/r/ABraThatFits/comments/12ihd3/28e_or_32b/c6vbj7p/
+- https://www.abrathatfits.org/calculator.php
+- https://www.reddit.com/r/ABraThatFits/wiki/graphics_list
+- https://www.reddit.com/r/ABraThatFits/wiki/bradata
+- https://www.reddit.com/r/ABraThatFits/wiki/beginners_guide
+- https://www.reddit.com/r/ABraThatFits/comments/bef4n3/searching_for_the_perfect_fit_for_my_shape/
+- https://www.reddit.com/r/ABraThatFits/top/
+- https://www.reddit.com/r/ABraThatFits/wiki/beginners_guide
+- https://whatbrasizeslooklike.wordpress.com/
+- https://www.reddit.com/r/ABraThatFits/wiki/faq
+- https://www.google.com/search?hl=en&q=reddit%20abrathatfits%20poll%20stats
+- https://www.reddit.com/r/ABraThatFits/comments/170joz/average_bra_size_the_numbers/
+- https://www.reddit.com/r/ABraThatFits/comments/1g8d67/interest_in_a_comprehensive_guidespreadsheet_for/
+- https://www.reddit.com/r/ABraThatFits/comments/1gayph/bra_fitbreast_characteristic_database_opinions_on/
+- https://www.reddit.com/r/ABraThatFits/search?q=stats&restrict_sr=on&sort=relevance&t=all
+- https://www.reddit.com/r/ABraThatFits/comments/d1tk6i/gg_j_cup_forum_member_stats_start_up_brand_survey/
+
+- https://www.google.com/search?hl=en&q=garret%20watts
+- https://www.youtube.com/results?search_query=garret+watts
+
+- https://news.ycombinator.com/item?id=23229575
+- https://news.ycombinator.com/item?id=23245125
+- https://news.ycombinator.com/item?id=23244709
+- https://news.ycombinator.com/item?id=23229241
+- https://news.ycombinator.com/item?id=23233968
+- https://news.ycombinator.com/item?id=23240559
+
+- https://news.ycombinator.com/item?id=23232978
+- https://news.ycombinator.com/item?id=23239304
+- https://news.ycombinator.com/item?id=23226410
+- https://www.reddit.com/r/haskell/comments/glz389/examples_of_incorrect_abstractions_in_other/o
+
+- https://tokipona.org/
+- http://tokipona.net/tp/default.aspx
+- http://tokipona.net/tp/janpije/
+- http://forums.tokipona.org/
+- https://www.reddit.com/r/mi_lon/
+- https://www.reddit.com/r/tokiponataso/
+- https://www.reddit.com/r/worldnews/comments/genybx/the_trumplinked_company_behind_failed_venezuela/
+
+- https://www.youtube.com/watch?v=BU6B_zXiJas
+- https://tokipona.fandom.com/wiki/Where_is_Toki_Pona_used%3F
+- https://www.theguardian.com/education/2015/jan/08/toki-pona-invented-language-memrise
+- https://www.lulu.com/shop/daniel-deleanu/a-toki-pona-survey-of-being/paperback/product-22532520.html
+- https://web.archive.org/web/20130121161535/http://www.lulu.com/shop/jan-mimoku/toki-musi-pona/paperback/product-15444221.html
+- http://www2.hawaii.edu/~chin/661F12/Projects/ztomaszewski.pdf
+- https://www.reddit.com/r/tokipona/
+- https://www.reddit.com/r/mi_lon/
+- https://www.reddit.com/r/tokiponataso/
+
+- https://www.google.com/search?hl=en&q=zedderstrand%20art
+
+- https://howhttps.works/certificate-authorities/
+- https://en.wikipedia.org/wiki/Certificate_authority
+- https://news.ycombinator.com/item?id=18427795
+- https://news.ycombinator.com/item?id=19085534
+- https://news.ycombinator.com/item?id=18517047
+
+- https://www.google.com/search?hl=en&q=outlaw%20star
+
+- https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format
+- https://wasmbyexample.dev/
+- https://www.google.com/search?hl=en&ei=4K25XsfzPP6xytMP-vyAuAc&q=protobuf+binary&oq=protobuf+binary&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BAgAEEc6BAgAEEM6BggAEBYQHjoECAAQCjoECAAQDVDjZli-fWC9fmgCcAF4AIABhQKIAYMSkgEGMC4xMy4ymAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjH47nry6zpAhX-mHIEHXo-AHcQ4dUDCAs&uact=5
+- https://developers.google.com/protocol-buffers/docs/encoding
+- https://developers.google.com/protocol-buffers/docs/encoding#packed
+- https://opensource.com/article/19/10/protobuf-data-interchange
+- https://package.elm-lang.org/packages/eriktim/elm-protocol-buffers/1.1.0/Protobuf-Encode
+- https://stackoverflow.com/questions/18873924/what-does-the-protobuf-text-format-look-like
+- https://godoc.org/google.golang.org/protobuf/encoding/prototext
+- https://package.elm-lang.org/packages/eriktim/elm-protocol-buffers/1.1.0/Protobuf-Encode
+- https://carlmastrangelo.com/blog/lets-make-a-varint
+
+- https://news.ycombinator.com/item?id=23144273
+- https://news.ycombinator.com/item?id=23144308
+- https://news.ycombinator.com/item?id=23142232
+- https://joshmitteldorf.scienceblog.com/2020/05/11/age-reduction-breakthrough/
+- https://news.ycombinator.com/item?id=23141392
+- https://news.ycombinator.com/item?id=23141073
+- https://news.ycombinator.com/item?id=23140513
+- https://news.ycombinator.com/item?id=23142934
+- https://news.ycombinator.com/item?id=23137345
+- https://news.ycombinator.com/item?id=23139819
+- https://news.ycombinator.com/item?id=23142252
+
+- https://news.ycombinator.com/item?id=23118139
+- https://news.ycombinator.com/item?id=23118139
+- https://news.ycombinator.com/item?id=23118596
+- https://news.ycombinator.com/item?id=23116300
+- https://news.ycombinator.com/item?id=23118995
+- https://news.ycombinator.com/item?id=23101869
+- https://dogsheep.github.io/
+- https://beepb00p.xyz/unnecessary-db.html
+- https://beepb00p.xyz/hpi.html
+- https://news.ycombinator.com/item?id=23102024
+
+- https://news.ycombinator.com/item?id=9512955
+- https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/
+- https://news.ycombinator.com/item?id=22009912
+- https://www.youtube.com/results?search_query=ipfs
+- https://www.youtube.com/watch?v=GJ2980DWdyc
+- https://www.youtube.com/watch?v=6kqgsGXpykM
+- https://www.google.com/search?hl=en&q=ipns
+- https://docs.ipfs.io/guides/concepts/ipns/
+- https://docs-beta.ipfs.io/concepts/merkle-dag/#further-resources
+- https://docs-beta.ipfs.io/concepts/usage-ideas-examples/
+- https://github.com/ipfs-inactive/faq/issues/16
+
+- https://news.ycombinator.com/item?id=23066971
+- https://news.ycombinator.com/item?id=23058358
+- https://news.ycombinator.com/item?id=23065308
+- https://news.ycombinator.com/item?id=23066727
+- https://news.ycombinator.com/item?id=23071311
+- https://news.ycombinator.com/item?id=23063787
+- https://news.ycombinator.com/item?id=23057411
+- https://news.ycombinator.com/item?id=23062723
+- https://news.ycombinator.com/item?id=23065237
+- https://news.ycombinator.com/item?id=23055335
+- https://news.ycombinator.com/item?id=23061881
+- https://news.ycombinator.com/item?id=23065177
+- https://news.ycombinator.com/item?id=23062384
+- https://news.ycombinator.com/item?id=23061626
+- https://news.ycombinator.com/item?id=23059797
+- https://news.ycombinator.com/item?id=23060522
+
+- https://www.youtube.com/watch?v=qID2B4MK7Y0
+- https://www.youtube.com/watch?v=wXeX_XKSNlc
+- https://www.youtube.com/channel/UCJOh5FKisc0hUlEeWFBlD-w
+- https://www.seximal.net/words
+
+- https://news.ycombinator.com/item?id=23008633
+- https://news.ycombinator.com/item?id=23003603
+- https://news.ycombinator.com/item?id=23010079
+- https://news.ycombinator.com/item?id=23004086
+
+- https://news.ycombinator.com/item?id=22931595
+- https://news.ycombinator.com/item?id=22930965
+- https://news.ycombinator.com/item?id=22930477
+- https://news.ycombinator.com/item?id=22933359
+- https://news.ycombinator.com/item?id=22928178
+- https://news.ycombinator.com/item?id=22925050
+- https://news.ycombinator.com/item?id=22856199
+
+- https://www.youtube.com/watch?v=OVpX2y6KjwA
+
+- https://www.mikealche.com/software-development/a-humble-guide-to-database-schema-design
+- https://info.crunchydata.com/blog/optimize-postgresql-server-performance
+
+- https://pyvideo.org/pycon-us-2014/discovering-python.html
+
+
+- https://cannonkeys.com/collections/frontpage/products/ortho48
+
+- https://www.youtube.com/watch?v=oX01oI1K2VA
+
+- https://www.youtube.com/watch?v=ThwuT3_AG6w
+
+- [ ] https://www.youtube.com/watch?v=2mlNyqhnc1M&feature=youtu.be
+
+- [ ] https://forums.foundationdb.org/t/technical-overview-of-the-database/135/3
+- [ ] https://news.ycombinator.com/item?id=16877586
+
+- [ ] https://news.ycombinator.com/item?id=16877586
+- [ ] https://forums.foundationdb.org/t/backup-using-disk-snapshots/1076
+- [ ] https://github.com/apple/foundationdb/blob/master/design/backup.md
+- [ ] https://forums.foundationdb.org/t/trying-to-understand-the-backup-mechanism-better/588
+
+- [ ] rss: https://jeremykun.com/feed/
+
+- [ ] https://www.reddit.com/r/bioniclememes/
+- [ ] https://www.youtube.com/watch?v=4LKLhaRpmxk
+- [ ] https://www.youtube.com/watch?v=QaGhpqRll_k
+- [ ] https://www.youtube.com/watch?v=67PQ1cuuccw
+
+- [ ] https://www.google.com/search?hl=en&q=bloom%20language
+
+- [ ] https://www.envoyproxy.io/
+- [ ] https://www.generalmagicthemovie.com/
+- [ ] https://andymatuschak.org/books/
+- [ ] https://medium.com/@veedrac/to-reinvent-the-processor-671139a4a034
+
+- really good hn stuff
+  - https://news.ycombinator.com/item?id=24041869
+  - https://blog.stephenmarz.com/2020/07/24/risc-v-os-using-rust-graphics/
+  - https://news.ycombinator.com/item?id=24039887
+  - https://news.ycombinator.com/item?id=24041520
+  - https://news.ycombinator.com/item?id=24040539
+  - https://www.ianbicking.org/blog/2020/08/thoughts-on-voice-interfaces.html
+  - https://news.ycombinator.com/item?id=24035866
+  - https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/
+  - https://news.ycombinator.com/item?id=24042266
+  - https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html
+  - https://stribny.name/blog/2020/07/scaling-relational-sql-databases
+  - https://github.com/felixrieseberg/macintosh.js
+  - https://www.youtube.com/watch?v=BsOYn1CWqBA
+  - https://github.com/cybertec-postgresql/pgwatch2
+  - https://www.google.com/search?hl=en&q=tag%20based%20file%20system
+  - https://stackoverflow.com/questions/3263036/file-system-that-uses-tags-rather-than-folders
+  - https://news.ycombinator.com/item?id=16763235
+  - https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies
+  - https://news.ycombinator.com/item?id=1902595
+  - https://news.ycombinator.com/item?id=142761
+
+- we quit our jobs to build a cabin
+  - https://news.ycombinator.com/item?id=24054208
+  
+  
+- https://news.ycombinator.com/item?id=24060437
+- https://news.ycombinator.com/item?id=24059441
+- http://people.math.harvard.edu/~knill/graphgeometry/papers/fundamental.pdf
+- https://news.ycombinator.com/item?id=24059704
+- https://news.ycombinator.com/item?id=24059410
+- https://news.ycombinator.com/item?id=24059231
+- https://www.springer.com/us/book/9783662495926#otherversion=9783662442043
+- https://www.quantamagazine.org/gunter-ziegler-and-martin-aigner-seek-gods-perfect-math-proofs-20180319/
+- https://www.springer.com/us/book/9783662495926#otherversion=9783662442043
+- https://news.ycombinator.com/item?id=24050980
+- https://news.ycombinator.com/item?id=24048786
+- https://news.ycombinator.com/item?id=24010152
+
+- https://news.ycombinator.com/item?id=23940145
+- https://news.ycombinator.com/item?id=23939462
+
+- https://news.ycombinator.com/item?id=23932323
+- https://news.ycombinator.com/item?id=23927992
+- https://news.ycombinator.com/item?id=23932585
+- https://news.ycombinator.com/item?id=23928561
+
+- https://www.reddit.com/r/tumblr/comments/hpomhs/yallre_gathered_here_tday_tsee_this_couple_joined/
+- https://www.reddit.com/r/whatintarnation/comments/hprbhx/what_in_unification/
+- https://news.ycombinator.com/item?id=23815824
+- https://news.ycombinator.com/item?id=23814517
+- https://subreply.com/trending
+- https://news.ycombinator.com/item?id=23813610
+
+- about:blank
+- https://www.youtube.com/watch?v=X1BiR4qYj6Y
+- https://twitter.com/shreyas/status/1282169204699873281?s=21
+- https://twitter.com/chris_herd/status/1279791256286224387?s=21
+- https://web.archive.org/web/20190605031115/https://cloud.google.com/customers/pex/
+- https://www.travelandleisure.com/travel-news/work-remote-barbados-coronavirus-reopening
+- https://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720/
+- 
+- https://news.ycombinator.com/item?id=23825931
+- https://www.vldb.org/pvldb/vol9/p204-leis.pdf
+- https://news.ycombinator.com/item?id=23821112
+- https://news.ycombinator.com/item?id=23823210
+- https://news.ycombinator.com/item?id=23818901
+- https://thesearch.space/
+- https://news.ycombinator.com/item?id=22696229
+- https://news.ycombinator.com/item?id=23835918
+- 
+- https://news.ycombinator.com/item?id=23811568
+- https://news.ycombinator.com/item?id=23808400
+- https://news.ycombinator.com/item?id=23801065
+- https://news.ycombinator.com/item?id=23809291
+- https://news.ycombinator.com/item?id=23802645
+- https://news.ycombinator.com/item?id=23802349
+- https://news.ycombinator.com/item?id=23802241
+- https://news.ycombinator.com/item?id=23800878
+- https://news.ycombinator.com/item?id=23801903
+- https://news.ycombinator.com/item?id=23791889
+- https://news.ycombinator.com/item?id=23803119
+- https://news.ycombinator.com/item?id=23792527
+- https://news.ycombinator.com/item?id=23798704
+- https://www.reddit.com/r/Polcompball/
+- https://polcompball.fandom.com/wiki/List_of_ideology_balls
+- https://www.google.com/search?hl=en&q=g%20libertarian
+- https://en.wikipedia.org/wiki/Georgism
+- https://www.google.com/search?hl=en&q=accelerationism
+- 
+- https://news.ycombinator.com/item?id=23767328
+- https://news.ycombinator.com/item?id=23781786
+- https://supabase.io/blog/2020/07/09/postgresql-templates/
+- 
+- https://www.youtube.com/watch?v=k8RfiZXVHNM
+- https://www.google.com/search?hl=en&q=hackernews%20best%20tech%20talks
+- https://news.ycombinator.com/item?id=21858866
+- https://news.ycombinator.com/item?id=16838460
+- https://news.ycombinator.com/item?id=18217762
+- https://news.ycombinator.com/item?id=23881220
+- https://sambleckley.com/writing/pockets.html
+- https://news.ycombinator.com/item?id=23884110
+- https://alhassy.github.io/TypedLisp.html
+- https://github.com/LuxLang/lux
+- https://shen-language.github.io/
+
+- in praise of idleness
+  - https://news.ycombinator.com/item?id=24128366
+
+- The Hacker Way: How I taught my nephew to program
+  - https://stopa.io/post/246
+
+- randall let's talk business
+  - https://www.youtube.com/watch?v=gg6fwbPCCio
+
+- rp = np proved 2020
+  - https://news.ycombinator.com/item?id=24051456
+  - https://en.wikipedia.org/wiki/RP_(complexity)
+  - https://arxiv.org/abs/2008.00601
+
+
+-->
+
 ## 2019/04/06 0732h 
 
 ### VULFPECK /// Live at AB

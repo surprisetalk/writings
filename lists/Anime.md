@@ -1,3 +1,30 @@
+<!--
+
+split manga out of here
+
+reorganize
+
+- mindgame anime
+- masaaki yuasa
+
+-->
+
+<!--
+
+  - https://www.google.com/search?hl=en&q=solo%20leveling
+  - https://mangarockteam.com/manga/solo-leveling/
+  - https://www.google.com/search?hl=en&q=red%20storm%20action
+  - https://www.google.com/search?hl=en&q=hardcore%20leveling
+  - https://www.google.com/search?hl=en&q=moshi%20fanren
+  - https://www.google.com/search?hl=en&q=her+summon&sxsrf=ALeKk02lKqzz2b4laH0BplrPTk5_Ti-WwA:1584416069237&sec_act=sr
+  - http://mangarock.site/kumo-desu-ga-nani-ka-chapter-42.1#16
+  - https://mangasushi.net/manga/yondome-wa-iyana-shi-zokusei-majutsushi/
+  - https://mangakakalot.com/manga/change_the_world_kanzaki_yuuya
+  - https://en.wikipedia.org/wiki/So_I%27m_a_Spider,_So_What%3F
+  - https://www.google.com/search?hl=en&q=ranma%201%2F2%20anime
+
+-->
+
 
 ```bash
 youtube-dl --write-sub --sub-lang=enUS 'https://www.crunchyroll.com/nichijou-my-ordinary-life'

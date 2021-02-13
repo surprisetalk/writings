@@ -20,6 +20,7 @@ Coming soon!
 - ★★★☆☆ | Jacob Collier, Mahalia, Ty Dolla $ign :: _All I Need_
 - ★★★★☆ | Temples :: _Certainty_
 - ★★★★☆ | Ben Rosett, Eternity Forever :: _Cherry Blossom_
+- ★★★★☆ | Louis Cole :: _Doing the Things_
 
 
 ### Albums
@@ -36,11 +37,33 @@ Coming soon!
 
 <!-- TODO: joanna newsom & bjork & underoath -->
 
+<!-- osterreich: https://open.spotify.com/album/1MEBWzMYHDEevewtmJB7zc?si=EYiQqLWxQ3meK6R754zn5g -->
+
+<!-- she is summer: water -->
+
+<!-- speed of sound in seawater -->
+
+<!-- youth novel -->
+
+<!-- add >4 stars to love on apple music -->
+<!-- add <2 stars to dislike on apple music -->
+
+<!-- soundcloud and /mu/ discovery -->
+
+- ☆☆☆☆☆ | Punch Brothers :: _Antifogmatic_
+- ★★★☆☆ | Night Tempo, 杏里 :: _Anri — Night Tempo presents the Showa Groove_
+- ★★★★☆ | ♥ GOJII ♥	:: _All My Heart_
+- ★★★★☆ | Eatmewhileimhot! :: _All My Friends_
+- ★★★★☆ | Punch Brothers :: _All Ashore_
+- ☆☆☆☆☆ | Maps & Atlases :: _Beware And Be Grateful_
+- ★★★★☆ | Charlie Haden, Carla Bley :: _The Ballad of the Fallen_
+- ★★★★☆ | Julia Holter :: _Aviary_
+- ★★☆☆☆ | Sun Ra :: _Atlantis_
+- ★★★☆☆ | Sufjan Stevens :: _The Ascension_
 - ★★☆☆☆ | Seirom :: _And The Light Swallowed Everything_
 - ★★★☆☆ | Sufjan Stevens :: _The Avalanche_
 - ☆☆☆☆☆ | Red Baraat :: _Bhangra Pirates_
 - ★★★★☆ | Muse :: _Black Holes and Revelations_
-- ☆☆☆☆☆ | Sufjan Stevens :: _The Ascension_
 - ★★☆☆☆ | Oklou :: _Avril_
 - ★★★☆☆ | Baths :: _Cerulean_
 - ★★★★★ | Björk :: _Biophilia_
@@ -1280,3 +1303,210 @@ Coming soon!
 - https://sonemic.com/charts/
 - https://rateyourmusic.com/charts/top/album/all-time/g:exact,midwest%2demo/
 - https://www.youtube.com/watch?v=0IqOSrBZZ9g
+
+- https://en.wikipedia.org/wiki/Kota_Hoshino
+- https://www.google.com/search?hl=en&q=evergrace%20soundtrack
+
+- https://www.sputnikmusic.com/bestnewmusic/6
+- https://4chanmusic.fandom.com/wiki/Essential_Charts
+- https://vignette.wikia.nocookie.net/4chanmusic/images/b/bc/New_mucore.png/revision/latest?cb=20190604021413
+- https://vignette.wikia.nocookie.net/4chanmusic/images/7/76/Mucore.jpg/revision/latest?cb=20160725185538
+- https://vignette.wikia.nocookie.net/4chanmusic/images/4/46/Classical.jpg/revision/latest?cb=20130108181512
+- https://vignette.wikia.nocookie.net/4chanmusic/images/2/2e/Classical_6.1.png/revision/latest?cb=20150918021751
+- https://vignette.wikia.nocookie.net/4chanmusic/images/8/8a/1543456314971.png/revision/latest?cb=20181207153454
+- https://en.wikipedia.org/wiki/Medieval_music
+- https://en.wikipedia.org/wiki/Chanson
+- https://en.wikipedia.org/wiki/Ars_nova
+- https://en.wikipedia.org/wiki/Neo-Medieval_music
+- https://en.wikipedia.org/wiki/Extra_Life_(band)
+- https://soundcloud.com/hudsonmohawke
+- https://soundcloud.com/search/sounds?q=hudson%20mohawke&filter.duration=epic
+- https://soundcloud.com/hudsonmohawke/lantern-special
+- https://soundcloud.com/rinsefm/hudsonmohawke120415
+- https://soundcloud.com/platform/hud-mo
+- https://soundcloud.com/iller-mixhost/hudson-mohawke-essential-mix-11-28-2009
+- https://soundcloud.com/luckyme/mix02
+- https://soundcloud.com/92bpm/deviation-show-special-feat-hudson-mohawke-nov-01-2009
+- https://soundcloud.com/luckyme/rinse06
+- https://soundcloud.com/anonacct1/hudson-mohawke-diplo-and-friends-guest-mix-2014-9-21
+- https://soundcloud.com/jar3cki/hudson-mohawke-bbc-radio1-live
+- https://soundcloud.com/skelethan/hudson-mohawke-rustie-4am-drunk-mix
+- https://soundcloud.com/pastabagel/mockingbird-49-hudson-mohawke
+- https://rateyourmusic.com/customchart?page=2&chart_type=top&type=djmix&year=alltime&genre_include=1&include_child_genres=1&genres=&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=
+- https://www.youtube.com/watch?v=n7zyMGr9VfE
+- https://rateyourmusic.com/release/djmix/nicolas-jaar/the-essential-mix-bbc-edit/
+- https://rateyourmusic.com/release/djmix/dj-%E5%85%89%E5%85%89%E5%85%89/planetary-natural-love-gas-webbin-199999/
+- https://www.youtube.com/watch?v=S03nrwuKz1I
+- https://soundcloud.com/kelelam/aquaphoria
+- https://soundcloud.com/grindcoregaming/sets/rare-rcb-hexdmp3
+- https://www.youtube.com/watch?v=HcsW8d14CrM
+- https://soundcloud.com/tank-magazine/radio-tank-mix-a-g-cook
+- https://rateyourmusic.com/release/djmix/a-g-cook/radio-tank-mix/
+- https://soundcloud.com/tank-magazine/radio-tank-mix-a-g-cook
+- https://soundcloud.com/luckyme/rinse32
+- https://www.sputnikmusic.com/bestnewmusic
+- https://www.sputnikmusic.com/bands/Dance-Gavin-Dance/5724/
+- https://www.sputnikmusic.com/review/77480/Cat-Company-Cat-Company/
+- https://www.sputnikmusic.com/bands/Sianvar/48855/
+- https://www.sputnikmusic.com/bands/The-Fall-of-Troy/563/
+- https://www.sputnikmusic.com/bands/Secret-Band/24596/
+- https://www.sputnikmusic.com/review/80869/Denzel-Curry-and-Kenny-Beats-Unlocked/
+- https://www.sputnikmusic.com/review/81391/Hayley-Williams--Petals-For-Armor/
+- https://www.sputnikmusic.com/review/81295/Dance-Gavin-Dance-Afterburner/
+- https://www.sputnikmusic.com/review/80629/Burial-Tunes-2011-to-2019/
+- https://www.sputnikmusic.com/review/81184/Slayyyter-Slayyyter/
+- https://en.wikipedia.org/wiki/Kurt_Travis#2001%E2%80%9308:_Five_Minute_Ride,_No_Not_Constant,_and_O!_the_Joy
+
+- https://www.youtube.com/watch?v=-i3Otdvu9ao
+
+- https://www.reddit.com/r/AskReddit/comments/gq9zny/whats_your_favourite_angry_song/
+
+- https://soundcloud.com/introooo/soulwax-2manydjs-introversy
+- https://soundcloud.com/champagnedrip/treasure-trove
+- https://soundcloud.com/fredfalke/ultrakorea2016
+- https://soundcloud.com/ahbsnt-2/ahbsnt-solarity-2017-mix
+- https://soundcloud.com/nada_music/w-i-l-d-f-i-r-e-mix
+- https://soundcloud.com/tonileys/icecream-mixtape
+- https://soundcloud.com/fuzzyboi/rec2015-07-31-7h48m36
+- https://soundcloud.com/twintheory/wave-racer-2019-full-discography-mix
+- https://soundcloud.com/shleepytimeprod/shleepys-flight-to-heathrow-mix
+- https://soundcloud.com/animeoxxoox/denpa-p204-2nd-edition-ver-231
+- https://soundcloud.com/dj-no-grief/dolphin-booty-a-mix-by-dj-no-grief
+- https://www.youtube.com/watch?v=RqzGzwTY-6w
+- https://www.youtube.com/results?search_query=randy+mcstine
+- https://rateyourmusic.com/artist/johnny-cash
+- https://rateyourmusic.com/artist/sleepmakeswaves
+- https://rateyourmusic.com/artist/olafur_arnalds
+- https://www.youtube.com/results?search_query=bruce+smear
+- https://soundcloud.com/diablitodj/angel-baby-mix
+- https://soundcloud.com/snaretapes/snare-003-smear
+- https://soundcloud.com/tiny-mix-tapes/guest-mix-lil-ega-untitled
+- https://soundcloud.com/dismagazine/moonbow-bad-dre-amz-mix-1
+- https://soundcloud.com/lifeforce/life-force-radio-observatory-50
+- https://soundcloud.com/lifeforce/radio-observatory-63-with-ginji
+- https://soundcloud.com/tobago-tracks/grrl-30-min-mix-4-tobago-tracks-1
+- https://soundcloud.com/astronautico/astrocast40-morgan-hislop
+- https://soundcloud.com/brucesmear
+- https://sewerslvt.bandcamp.com/album/draining-love-story
+- https://sewerslvt.bandcamp.com/album/draining-love-story
+- https://www.youtube.com/results?search_query=yeule
+- https://www.youtube.com/watch?v=6GEI3PpXEAo
+- https://www.youtube.com/watch?v=_am0RobOxAs
+- https://www.youtube.com/watch?v=Q9XTqQbuavI
+- https://www.youtube.com/watch?v=JCHTX_pgw6A
+- https://www.youtube.com/watch?v=G4CKmzBf5Cs
+- https://rateyourmusic.com/artist/rachels
+- https://rateyourmusic.com/release/album/frank-ocean/blonde/
+- https://rateyourmusic.com/artist/death-grips
+- https://www.google.com/search?hl=en&q=spotify%20liked%20songs%20vs%20liked%20albums
+- https://community.spotify.com/t5/Your-Library/How-do-I-remove-a-large-number-of-songs-from-Liked-Songs/td-p/4791347
+- https://www.reddit.com/r/spotify/comments/ayh2ym/your_library_important_spotify_feature_changes/
+- https://soundcloud.com/search?q=100%20gecs
+- https://www.google.com/search?hl=en&q=wave%20racer%20album
+- https://soundcloud.com/search/sounds?q=introooo&filter.duration=epic
+- https://soundcloud.com/ahbsnt-2/ahbsnt-solarity-2017-mix
+- https://soundcloud.com/shleepytimeprod/shleepys-flight-to-heathrow-mix
+- https://soundcloud.com/zvk
+- https://soundcloud.com/zvk/likes
+- https://newtroopscollective.bandcamp.com/
+- https://psychedelevator.bandcamp.com/album/emergence
+
+
+- https://rateyourmusic.com/artist/viper-1
+- https://rateyourmusic.com/release/album/viper/youll-cowards-dont-even-smoke-crack-2/
+- https://rateyourmusic.com/artist/100-gecs
+- https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&genres=Bubblegum+Bass&include_child_genres=t&include=both&limit=none&countries=
+- https://rateyourmusic.com/release/album/new-sylveon/new-sylveon/
+- https://rateyourmusic.com/release/album/acrobatic-collision/born-gorgeous/
+- https://rateyourmusic.com/release/album/soda-lite/dreamlife/
+- https://rateyourmusic.com/release/album/braz_os/dizzy-punch/
+- https://rateyourmusic.com/release/album/aaron-corbett/sertralina/
+- https://rateyourmusic.com/release/album/maverick-mayhem/the-third-one/
+- https://rateyourmusic.com/release/album/polearm/therapy/
+- https://rateyourmusic.com/release/album/n_v_o_k_i___%CE%BB_n_n_%CE%BB/recreation/
+- https://rateyourmusic.com/release/album/bbswag/gec-grips/
+- https://rateyourmusic.com/release/album/various-artists/magic-yume-vol-2/
+- https://rateyourmusic.com/release/album/cutiecore/hi-cutie/
+- https://rateyourmusic.com/release/album/real-dominic/now-thats-what-i-call-cowardice/
+- https://rateyourmusic.com/release/album/sophie/oil-of-every-pearls-un-insides/
+- https://rateyourmusic.com/release/album/charli-xcx/charli/
+- https://rateyourmusic.com/release/album/hannah-diamond/reflections-1/
+- https://rateyourmusic.com/release/album/dorian-electra/flamboyant/
+- https://rateyourmusic.com/release/album/100-gecs/1000-gecs/
+- https://rateyourmusic.com/release/album/galen-tipton/nightbath/
+- https://rateyourmusic.com/release/album/osno1/remixes-2017/
+- https://rateyourmusic.com/release/album/rakky-ripper/neptune-diamond/
+- https://rateyourmusic.com/release/album/new-sylveon/loserpop/
+- https://rateyourmusic.com/release/album/treasure-hunt/gushers/
+- https://rateyourmusic.com/release/album/cashmere-cat/princess-catgirl/
+- https://rateyourmusic.com/release/album/zarya/18y_o/
+- https://rateyourmusic.com/release/album/dux_content/lifestyle/
+- https://rateyourmusic.com/release/album/boy-sim/pink-noise/
+- https://rateyourmusic.com/release/album/various-artists/deskpop-vr-in-association-with-audiowave-vr/
+- https://rateyourmusic.com/release/album/various-artists/a_s_k-apocalypse-survival-kit/
+- https://rateyourmusic.com/release/album/folie-douce/cold-confessions/
+- https://rateyourmusic.com/release/album/corinne/estrangement/
+- https://rateyourmusic.com/release/album/ethernet/xxx_scenequeen2008_xxx/
+- https://rateyourmusic.com/release/album/kogarashi/saint/
+- https://rateyourmusic.com/release/album/r-u-s-s-e-l-b-u-c-k/russelbuck/
+- https://rateyourmusic.com/search?searchterm=logic&searchtype=a&searchterm=logic&searchtype=a
+- https://rateyourmusic.com/artist/kanye-west
+- https://rateyourmusic.com/artist/jay-z
+
+- https://www.music-map.com
+- 
+- https://rateyourmusic.com/release/album/steely-dan/aja-1/
+- https://www.youtube.com/watch?v=SjXB894CZnM
+- https://rateyourmusic.com/artist/frank-sinatra
+- https://rateyourmusic.com/artist/frank-sinatra
+- https://rateyourmusic.com/genre/Swing+Revival/
+- https://rateyourmusic.com/release/album/peggy-lee/black-coffee-with-peggy-lee-1/
+- https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&genres=Vocal+Jazz&include_child_genres=t&include=both&limit=none&countries=
+- https://rateyourmusic.com/artist/dean-martin
+- https://rateyourmusic.com/artist/patsy_cline
+- https://rateyourmusic.com/artist/the_rat_pack
+- https://rateyourmusic.com/artist/peggy_lee
+- https://rateyourmusic.com/artist/anberlin
+- https://rateyourmusic.com/artist/the-dillinger-escape-plan
+- https://rateyourmusic.com/release/album/the-chariot/the-fiancee/
+- https://www.google.com/search?hl=en&q=chariot%20then%20came%20to%20kill
+- 
+- https://soundcloud.com/giovanni-palandrani/aquaria-at-hyperpop-festival
+- https://soundcloud.com/tank-magazine/tank-mix-umru
+- https://soundcloud.com/crackmagazine/pop-zone-2-umru
+- https://soundcloud.com/dummymag/dummy-mix-530-umru
+- https://soundcloud.com/sundaesauuce/extra-sauuce-guest-mix-010-umru
+- https://soundcloud.com/clubcringe/cringe36
+- https://soundcloud.com/beatlabradio/umru-exclusive-mix-beat-lab-radio-109
+- https://soundcloud.com/search?q=de%20de%20mouse
+- https://www.youtube.com/watch?v=Yc5iPDvmEpE
+- https://rateyourmusic.com/artist/king-crimson
+- https://www.youtube.com/watch?v=FyvrW-iRBzU
+- https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=bossa+nova&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=
+- https://www.youtube.com/results?search_query=vonetta
+- https://rateyourmusic.com/artist/hella
+- https://rateyourmusic.com/release/album/akron_family/akron_family/
+- https://rateyourmusic.com/release/album/clown-core/clown-core/
+- https://rateyourmusic.com/artist/naked-city
+
+- larnell lewis
+- wild ones
+- bobby tank nest hq minimix tracklist
+- julie london
+
+- https://edm.com/events/secret-sky-set-times
+- https://soundcloud.com/search?q=dv%20i
+- https://soundcloud.com/search?q=shadient
+- https://soundcloud.com/search?q=livetune
+- https://soundcloud.com/search?q=kz
+- https://soundcloud.com/search?q=hakushi%20hasegawa
+- https://soundcloud.com/search?q=nanobii
+- https://soundcloud.com/search?q=meesh
+- https://www.google.com/search?hl=en&q=meesh&stick=H4sIAAAAAAAAAOPgE-LRT9c3LDTLMk02rTRU4tbP1TcwNKhKNjK31NLOTrbSzy0tzkzWL0pNzi9KycxLj0_OKS0uSS2ySktNLCktSk1RSCwqySwuWcTKmpuaWpyxg5URALqc6CpVAAAA&sa=X&ved=2ahUKEwj71ZWrlajpAhXegXIEHYCUB4MQmxMoATAEegQIDBAD&biw=1763&bih=1041
+- https://soundcloud.com/search?q=wavedash
+
+- dorothy ashby
+
+- jinjer
+- groove metal
+- jinjer pisces live

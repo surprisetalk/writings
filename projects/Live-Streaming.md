@@ -1,5 +1,7 @@
 <!-- 
 
+https://news.ycombinator.com/item?id=23834153
+
 learning things
 projects
 

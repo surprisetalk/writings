@@ -98,3 +98,30 @@ https://www.reddit.com/r/archlinux/comments/9l7aph/hdmi_not_shown_by_xrandr_but_
   - <input type="checkbox" disabled/> media queue
 
 -->
+
+<!--
+
+- [ ] best mac store apps
+- [ ] operator mono
+- [ ] firefox add-ons
+  - discourse
+  - etc
+- [ ] pro touch bar junk
+- [ ] productivity tracker
+  - browser
+  - system
+    - arbttt?
+- [ ] wolfram
+- [ ] https://github.com/jarun/nnn
+  - [ ] https://github.com/jarun/nnn/tree/master/plugins
+- [ ] https://github.com/ranger/ranger#getting-started
+- [ ] https://github.com/dsanson/termpdf
+
+- [ ] bash++
+  - https://github.com/awesome-lists/awesome-bash
+  - https://github.com/alebcay/awesome-shell
+  - https://github.com/joseluisq/awesome-bash-commands
+  - https://terminalsare.sexy/
+  - https://vikaskyadav.github.io/awesome-bash-alias/
+
+-->

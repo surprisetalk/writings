@@ -5,6 +5,12 @@ Coming soon!
 software contracting
 software consulting
 
+- [ ] business idea
+  - via may 19 2020 episode of against the rules
+  - apply "inner game of tennis" coaching style to programming
+    - sit behind engineers and ask why they chose to do things
+      - or, even better, have them submit videos and send back personalized critiques
+
 - tadpole consulting
   - 
   - in the middle of each video (near the beginning)
@@ -88,4 +94,5 @@ software consulting
   -     - I'm just going to tell you what you already know: sleep, eat, exercise, and maybe therapy.
   - -    
   - - If an onsite visit is required, The Tadpole will come to your place-of-business as he appears in the Tadpole & Friends show.
+
 -->

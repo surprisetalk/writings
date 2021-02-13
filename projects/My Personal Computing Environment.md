@@ -124,4 +124,7 @@ https://www.reddit.com/r/archlinux/comments/9l7aph/hdmi_not_shown_by_xrandr_but_
   - https://terminalsare.sexy/
   - https://vikaskyadav.github.io/awesome-bash-alias/
 
+- [ ] taysar computing setup
+  - [ ] design a good macos setup from "first principles"
+
 -->

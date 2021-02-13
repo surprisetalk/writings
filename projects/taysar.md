@@ -20,6 +20,8 @@
   - Music
   - Videos
 
+- [ ] taysar daily diary and topic journals ala sivers
+
 -->
 
 <!--

@@ -120,5 +120,17 @@ https://gpd.hk/gpdpocket2
   - https://www.cb2.com/furniture/office-chairs/1
 
 
+- [ ] more recursion mugs
+- [ ] slow jo
+- [ ] cassettes! and cassette player? audiobooks!
+  - [ ] cassette holder
+- [ ] audiophile headphones
+- [ ] massdrop knife
+
+- [ ] rave supplies
+  - [ ] oobies
+  - [ ] goobly eyes
+  - [ ] tiny hambs
+  - [ ] fake individual teeths
 
 -->

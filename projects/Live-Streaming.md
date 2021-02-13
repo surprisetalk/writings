@@ -12,6 +12,11 @@ https://belly.io/programming
 Daily news show at same time every day
 
 
+- [ ] learning things livestream
+  - langs
+  - knowledge
+  - skills
+
 -->
 
 Coming soon!

@@ -3,6 +3,298 @@
 
 <!--
 
+- [ ] https://www.youtube.com/results?search_query=lavalier+mics
+- [ ] https://www.youtube.com/watch?v=OSLHcUTA5qA
+- [ ] https://www.youtube.com/watch?v=wd_f7iYbFrA
+- [ ] https://www.youtube.com/watch?v=tXb7Ov-S6dc
+- [ ] https://www.amazon.com/s?k=lavalier+mic&tag=duckduckgo-ffab-b-20
+- [ ] https://www.google.com/search?hl=en&ei=oSD-XqGwC8Pi-gTbx5eIBw&q=mic+a+room&oq=mic+a+room&gs_lcp=CgZwc3ktYWIQAzIECAAQHjIGCAAQBRAeMgYIABAFEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjoECAAQR1C5CVi5CWDhDGgAcAF4AIABkgGIAZIBkgEDMC4xmAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjhhI7rkq_qAhVDsZ4KHdvjBXEQ4dUDCAs&uact=5
+- [ ] https://www.masteringbox.com/room-mic-importance-room-microphone-placement/
+- [ ] https://www.youtube.com/results?search_query=room%20mic
+
+- [ ] howard hughes
+
+
+- [ ] http://popcu.be/
+- [ ] https://www.youtube.com/watch?v=-I1b8BINyEw
+- [ ] https://en.wikipedia.org/wiki/Timothy_Dexter
+
+- [ ] https://news.ycombinator.com/item?id=23391934
+- [ ] https://news.ycombinator.com/item?id=23381513
+- [ ] https://news.ycombinator.com/item?id=23403864
+- [ ] https://news.ycombinator.com/item?id=23406988
+- [ ] https://news.ycombinator.com/item?id=23403455
+- [ ] https://news.ycombinator.com/item?id=23749676
+- [ ] https://news.ycombinator.com/item?id=23749821
+
+- [ ] https://news.ycombinator.com/item?id=23739596
+- [ ] https://news.ycombinator.com/item?id=23739517
+- [ ] https://news.ycombinator.com/item?id=23735676
+- [ ] https://www.youtube.com/watch?v=ywT7arOAnc4
+- [ ] https://www.google.com/search?hl=en&q=clone%20high
+- [ ] https://www.youtube.com/watch?v=csyL9EC0S0c
+- [ ] https://news.ycombinator.com/item?id=23738083
+- [ ] https://news.ycombinator.com/item?id=23745671
+- [ ] https://news.ycombinator.com/item?id=23747880
+- [ ] https://news.ycombinator.com/item?id=23745271
+- [ ] https://news.ycombinator.com/item?id=23745391
+- [ ] https://news.ycombinator.com/item?id=23745532
+- [ ] https://news.ycombinator.com/item?id=23746156
+
+- [ ] https://news.ycombinator.com/item?id=23402014
+- [ ] https://news.ycombinator.com/item?id=23420786
+
+- [ ] https://news.ycombinator.com/item?id=23501474
+- [ ] https://news.ycombinator.com/item?id=23502179
+
+- [ ] https://news.ycombinator.com/item?id=23555889
+- [ ] https://news.ycombinator.com/item?id=23535853
+- [ ] https://www.reddit.com/user/ehmo
+- [ ] https://www.reddit.com/r/TheMysteriousSong/comments/hajr3r/if_somebody_knows_how_it_works_what_about/
+
+- [ ] https://news.ycombinator.com/item?id=23688535
+- [ ] https://news.ycombinator.com/item?id=23700295
+
+- [ ] https://news.ycombinator.com/item?id=23554830
+- [ ] https://news.ycombinator.com/item?id=23553325
+- [ ] https://news.ycombinator.com/item?id=23551983
+- [ ] https://tonsky.me/blog/monitors/
+- [ ] https://news.ycombinator.com/item?id=23554584
+- [ ] https://apolloprojects.com/
+- [ ] https://news.ycombinator.com/item?id=23542876
+- [ ] https://loglo.app/
+- [ ] https://news.ycombinator.com/item?id=23553794
+- [ ] https://news.ycombinator.com/item?id=23549897
+- [ ] http://abstractions.nautil.us/article/571/the-useless-perspective-that-transformed-mathematics
+- [ ] https://news.ycombinator.com/item?id=23549471
+- [ ] https://news.ycombinator.com/item?id=23537219
+
+- [ ] https://news.ycombinator.com/item?id=23565762
+- [ ] https://news.ycombinator.com/item?id=23567744
+
+- [ ] https://www.youtube.com/results?search_query=klaatu
+- [ ] https://www.youtube.com/results?search_query=queen%20live
+- [ ] https://news.ycombinator.com/item?id=23584536
+- [ ] https://news.ycombinator.com/item?id=23584633
+
+- [ ] https://news.ycombinator.com/item?id=23592788
+- [ ] https://news.ycombinator.com/item?id=23592483
+- [ ] https://news.ycombinator.com/item?id=23591535
+- [ ] https://news.ycombinator.com/item?id=23591569
+- [ ] https://news.ycombinator.com/item?id=23588562
+- [ ] https://news.ycombinator.com/item?id=23583611
+- [ ] https://news.ycombinator.com/item?id=23591223
+- [ ] https://news.ycombinator.com/item?id=23588863
+- [ ] https://news.ycombinator.com/item?id=23588301
+
+- [ ] https://news.ycombinator.com/news?p=2
+- [ ] https://news.ycombinator.com/item?id=23257543
+- [ ] https://news.ycombinator.com/item?id=23257912
+- [ ] https://news.ycombinator.com/item?id=23249457
+- [ ] https://news.ycombinator.com/item?id=23262763
+- [ ] https://news.ycombinator.com/item?id=23251754
+- [ ] https://news.ycombinator.com/item?id=23243646
+
+- [ ] https://news.ycombinator.com/item?id=23601483
+- [ ] https://news.ycombinator.com/item?id=23599847
+
+- [ ] https://news.ycombinator.com/item?id=23597688
+
+- [ ] https://news.ycombinator.com/item?id=23605048
+
+- [ ] https://news.ycombinator.com/item?id=23633110
+- [ ] https://news.ycombinator.com/item?id=23631518
+- [ ] https://news.ycombinator.com/item?id=23630201
+- [ ] https://news.ycombinator.com/item?id=23630775
+- [ ] https://news.ycombinator.com/item?id=23628323
+- [ ] https://news.ycombinator.com/item?id=23626929
+- [ ] https://news.ycombinator.com/item?id=23612856
+- [ ] https://news.ycombinator.com/item?id=23629147
+- [ ] https://news.ycombinator.com/item?id=23632938
+- [ ] https://news.ycombinator.com/item?id=23628247
+- [ ] https://news.ycombinator.com/item?id=23607673
+- [ ] https://news.ycombinator.com/item?id=23629258
+
+- [ ] https://news.ycombinator.com/item?id=23543131
+- [ ] https://news.ycombinator.com/item?id=23540704
+- [ ] https://news.ycombinator.com/item?id=23526417
+- [ ] https://news.ycombinator.com/item?id=23543554
+- [ ] https://news.ycombinator.com/item?id=23531649
+- [ ] https://news.ycombinator.com/item?id=23536190
+- [ ] https://news.ycombinator.com/item?id=23540162
+- [ ] https://news.ycombinator.com/item?id=23526412
+- [ ] https://news.ycombinator.com/item?id=23540586
+- [ ] https://news.ycombinator.com/item?id=23537530
+- [ ] https://news.ycombinator.com/item?id=23535257
+- [ ] https://news.ycombinator.com/item?id=23538473
+- [ ] https://news.ycombinator.com/item?id=23538726
+- [ ] https://news.ycombinator.com/item?id=23542937
+
+- [ ] https://news.ycombinator.com/item?id=23525753
+- [ ] https://news.ycombinator.com/item?id=23529088
+- [ ] https://news.ycombinator.com/item?id=23527499
+- [ ] https://news.ycombinator.com/item?id=23528216
+- [ ] https://news.ycombinator.com/item?id=23528071
+- [ ] https://news.ycombinator.com/item?id=23525050
+- [ ] https://news.ycombinator.com/item?id=23528130
+
+- [ ] https://news.ycombinator.com/item?id=23490367
+- [ ] https://news.ycombinator.com/item?id=23492083
+- [ ] https://news.ycombinator.com/item?id=23491516
+- [ ] https://news.ycombinator.com/item?id=23482716
+
+- [ ] https://news.ycombinator.com/item?id=23487500
+- [ ] https://news.ycombinator.com/item?id=23488943
+- [ ] https://news.ycombinator.com/item?id=23496994
+- [ ] https://news.ycombinator.com/item?id=23497924
+- [ ] https://news.ycombinator.com/item?id=23494366
+- [ ] https://news.ycombinator.com/item?id=23495052
+- [ ] https://news.ycombinator.com/item?id=23484378
+- [ ] https://news.ycombinator.com/item?id=23492083
+- [ ] https://news.ycombinator.com/item?id=23501021
+
+- [ ] https://news.ycombinator.com/item?id=23382737
+- [ ] https://news.ycombinator.com/item?id=23379775
+- [ ] https://news.ycombinator.com/item?id=23384452
+- [ ] https://news.ycombinator.com/item?id=23379397
+
+- [ ] https://news.ycombinator.com/item?id=23428398
+- [ ] https://almad.blog/essays/no-bugs-just-todos/
+- [ ] https://news.ycombinator.com/item?id=23425524
+
+- [ ] https://news.ycombinator.com/item?id=23964539
+- [ ] https://news.ycombinator.com/item?id=23962273
+- [ ] https://news.ycombinator.com/item?id=23965297
+- [ ] https://news.ycombinator.com/item?id=23965116
+- [ ] https://news.ycombinator.com/item?id=23964964
+- [ ] https://news.ycombinator.com/item?id=23956399
+- [ ] https://news.ycombinator.com/item?id=23965985
+- [ ] https://news.ycombinator.com/item?id=23966229
+- [ ] https://news.ycombinator.com/item?id=23957455
+- [ ] https://news.ycombinator.com/item?id=23955843
+- [ ] sqlancer: https://github.com/sqlancer/sqlancer
+
+- [ ] kamillions
+
+- [ ] misc
+  - [ ] https://taysar.com/routine
+  - [ ] https://chromium.googlesource.com/breakpad/breakpad/
+  - [ ] https://chromium.googlesource.com/breakpad/breakpad/+/master/docs/getting_started_with_breakpad.md
+  - [ ] https://www.theverge.com/2019/5/24/18635904/copyright-youtube-creators-dmca-takedown-fair-use-music-cover
+  - [ ] https://melmagazine.com/en-us/story/after-15-years-the-pirate-bay-still-cant-be-killed
+  - [ ] https://postmake.io/books
+  - [ ] https://qz.com/quartzy/1603872/how-stitch-fixs-style-shuffle-learns-your-style/
+  - [ ] https://dev.to/skinney/improving-elm-s-compiler-output-5e1h?utm_source=Morning+Cup+of+Coding&utm_campaign=df1395a445-EMAIL_CAMPAIGN_2019_05_28_09_26&utm_medium=email&utm_term=0_56b5f64c5f-df1395a445-56806650
+  - [ ] https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/
+  - [ ] https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html
+  - [ ] https://begriffs.com/posts/2019-05-23-unicode-icu.html
+  - [ ] https://stripe.com/gb/blog/secret-life-of-dns
+  - [ ] https://github.com/jlevy/the-art-of-command-line
+  - [ ] https://probablyexactlywrong.com/distsys
+  - [ ] https://ovid.github.io/articles/alan-kay-and-oo-programming.html
+  - [ ] https://dwmkerr.com/effective-shell-part-5-understanding-the-shell/
+  - [ ] https://eng.uber.com/employing-quic-protocol/
+  - [ ] https://github.com/Peltoche/lsd
+  - [ ] https://github.com/davidesantangelo/feedi
+  - [ ] https://www.internationalmusicsummit.com/wp-content/uploads/2019/05/IMS-Business-Report-2019-vFinal.pdf
+  - [ ] https://www.theverge.com/2019/5/29/18531476/music-industry-song-royalties-metadata-credit-problems?utm_source=share&utm_medium=ios_app
+  - [ ] https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/
+  - [ ] https://medium.com/@arjunsethi/how-companies-can-avoid-the-innovator-s-dilemma-3f980ae533a7
+  - [ ] https://vicki.substack.com/p/pythons-caduceus-syndrome
+  - [ ] https://github.com/BartJongejan/Bracmat?utm_source=Morning+Cup+of+Coding&utm_campaign=d73cf4f121-EMAIL_CAMPAIGN_2019_05_30_03_07&utm_medium=email&utm_term=0_56b5f64c5f-d73cf4f121-56806650
+  - [ ] https://news.ycombinator.com/item?id=20063979
+  - [ ] https://github.com/hasura/graphql-engine/blob/master/architecture/live-queries.md
+  - [ ] https://www.postgresql.org/docs/11/postgres-fdw.html
+  - [ ] https://www.rooseveltla.com/apartments/ca/los-angeles/contact-us
+  - [ ] https://oakwoodolympicandolive.com/
+  - [ ] https://www.g12.la/floorplans.aspx
+  - [ ] https://www.udr.com/los-angeles-apartments/downtown-los-angeles/olive-dtla/apartments-pricing/?beds=2#/?baths=2
+  - [ ] https://livewren.com/floorplans/
+  - [ ] https://www.reddit.com/r/devops/comments/bwcevz/azure_everyones_third_cloud_choice_the_future_and/
+  - [ ] https://twitter.com/balajis/status/1123092897664880640?s=21
+  - [ ] https://www.joeshaw.org/dont-defer-close-on-writable-files/
+  - [ ] https://www.hollandresidential.com/alina/
+  - [ ] https://www.hollandresidential.com/Resources/ErrorPages/500.html?aspxerrorpath=/alina/brochure
+  - [ ] https://www.hollandresidential.com/alina/floor-plans/
+  - [ ] https://www.on-site.com/web/online_app/choose_unit?goal=6&attr=x20&property_id=227366&lease_id=0&unit_id=0&required=
+  - [ ] https://www.youtube.com/watch?v=lIW5jBrrsS0
+  - [ ] https://www.investinblockchain.com/new-evidence-suggests-satoshi-nakamoto-is-paul-solotshi-the-creator-of-encryption-software-e4m-and-truecrypt/
+  - [ ] https://www.youtube.com/watch?v=lJ8ydIuPFeU
+  - [ ] https://magazine.atavist.com/the-mastermind
+  - [ ] https://www.on-site.com/apps/receipt.jsp?goal=6&lease_id=42400395&required=&tenant_id=93920042
+  - [ ] https://www.google.com/search?hl=en&q=could%20not%20run%20distributed%20query%20with%20subquery%20outside%20the%20FROM%20and%20WHERE%20clauses
+  - [ ] https://github.com/citusdata/citus/issues/2010
+  - [ ] https://docs.citusdata.com/en/v7.2/aboutcitus/concepts.html#dist-column
+  - [ ] https://docs.citusdata.com/en/v8.2/admin_guide/diagnostic_queries.html#finding-the-distribution-column-for-a-table
+  - [ ] https://docs.citusdata.com/en/v8.2/admin_guide/cluster_management.html#statistics-expiration
+  - [ ] https://docs.citusdata.com/en/v8.2/admin_guide/cluster_management.html#limiting-long-running-queries
+  - [ ] https://docs.citusdata.com/en/v8.2/performance/performance_tuning.html#general
+  - [ ] https://docs.citusdata.com/en/v8.2/performance/performance_tuning.html#subquery-cte-network-overhead
+  - [ ] https://docs.citusdata.com/en/v8.2/admin_guide/diagnostic_queries.html#finding-which-shard-contains-data-for-a-specific-tenant
+  - [ ] https://www.postgresql.org/docs/current/queries-with.html#QUERIES-WITH-MODIFYING
+  - [ ] https://www.reddit.com/r/gifs/comments/98zplv/some_things_just_come_more_naturally_to_other/
+  - [ ] https://github.com/citusdata/citus/issues/1992
+  - [ ] https://www.google.com/search?hl=en&ei=QQcBXZTBFZTQ9APniq6ABw&q=phash&oq=phash&gs_l=psy-ab.3..0l5j0i10j0l2j0i10j0.12689.13304..13581...0.0..0.189.603.2j3......0....1..gws-wiz.......0i71j0i131j0i67.ZtTDiyopgj4
+  - [ ] http://hackerfactor.com/blog/index.php%3F/archives/432-Looks-Like-It.html
+  - [ ] https://en.wikipedia.org/wiki/APL_syntax_and_symbols
+  - [ ] https://www.gwern.net/Modus
+  - [ ] https://www.pnas.org/content/116/22/10723
+  - [ ] https://www.newyorker.com/culture/personal-history/my-brother-toms-schizophrenia
+  - [ ] https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf
+  - [ ] http://glench.com/closed-source/dictionaryofnumbers/
+  - [ ] https://www.hoover.org/research/optimistic-thought-experiment
+  - [ ] https://subscribe.wordpress.com/?email=surprisetalk%40gmail.com
+  - [ ] https://slatestarcodex.com/2019/06/06/asymmetric-weapons-gone-bad/
+  - [ ] https://www.gwern.net/Danbooru2018
+  - [ ] https://www.gwern.net/Turing-complete#how-many-computers-are-in-your-computer
+  - [ ] https://www.gwern.net/Language
+  - [ ] https://www.wired.com/1997/05/ff-well/
+  - [ ] https://medium.com/@jbackus/resistant-protocols-how-decentralization-evolves-2f9538832ada
+  - [ ] http://web.mnstate.edu/gracyk/courses/web%20publishing/LuChi.htm
+  - [ ] https://unixism.net/2019/04/linux-applications-performance-introduction/
+  - [ ] https://betterdev.link/links/?issue=105&email=85638ae40f64ca832cf016cc0a9c3f6bb00799e9e1a2df159d26b1050d1d7236
+  - [ ] https://web.dev/extract-critical-css
+  - [ ] https://medium.com/@gavin_68371/type-and-mode-checking-in-prolog-part-1-type-check-b0e7975dc80b
+  - [ ] https://stackoverflow.com/questions/56571267/backfilling-missing-data-against-a-timeseries-without-using-join/56579310#56579310
+  - [ ] https://www.google.com/search?q=ed+smith+poetry&hl=en&ei=YZMCXdDuMMSgswWa5o-gCg&start=20&sa=N&ved=0ahUKEwiQo_zqiOfiAhVE0KwKHRrzA6Q4ChDw0wMIfg&biw=1121&bih=1522
+  - [ ] https://www.google.com/search?hl=en&q=moschino%20eyes%20capsule%20collection
+  - [ ] https://hackaday.com/2019/06/06/the-finest-linux-tablet-you-can-build/
+  - [ ] https://hackaday.io/project/164845-dlt-one-a-damn-linux-tablet
+  - [ ] https://www.youtube.com/watch?v=6cYI3MSkxp8
+  - [ ] https://news.ycombinator.com/item?id=20207347
+  - [ ] https://news.ycombinator.com/item?id=20203707
+  - [ ] https://news.ycombinator.com/item?id=20205694
+  - [ ] https://news.ycombinator.com/item?id=20172745
+  - [ ] https://news.ycombinator.com/item?id=20200335
+  - [ ] https://news.ycombinator.com/item?id=20205131
+  - [ ] https://news.ycombinator.com/item?id=20203482
+  - [ ] https://news.ycombinator.com/item?id=20195292
+  - [ ] https://news.ycombinator.com/item?id=20198976
+  - [ ] https://www.reddit.com/r/ethereum/comments/c1ln72/ethereum_20_planned_for_launch_on_the_3rd_of/
+  - [ ] https://www.erenterplan.com/Account/Registration
+  - [ ] https://forums.foundationdb.org/t/how-do-i-use-fdbbackup-with-google-cloud-storage/1469
+  - [ ] https://www.quantamagazine.org/mathematician-disproves-hedetniemis-graph-theory-conjecture-20190617/
+  - [ ] https://github.com/wal-g/wal-g/pulls
+  - [ ] https://github.com/wal-g/wal-g/pull/312
+  - [ ] https://www.reddit.com/r/taoism/comments/c2g5tg/murphys_law_inhibiting_the_dao/
+  - [ ] https://www.google.com/search?hl=en&ei=ErIKXaisLsTYsAXMpYewAw&q=the+art+of+asking&oq=the+art+of+asking&gs_l=psy-ab.3..0l10.5068.6885..7177...0.0..2.556.3552.0j7j7j1j0j1......0....1..gws-wiz.......0i71j0i131j0i67.l75Nmf6QI3U
+  - [ ] https://www.google.com/search?hl=en&q=power%20questions
+  - [ ] https://news.ycombinator.com/item?id=20227702
+  - [ ] https://news.ycombinator.com/item?id=20222594
+  - [ ] https://news.ycombinator.com/item?id=20222349
+  - [ ] https://news.ycombinator.com/item?id=20223766
+  - [ ] https://news.ycombinator.com/item?id=20210227
+  - [ ] https://news.ycombinator.com/item?id=20210791
+  - [ ] https://news.ycombinator.com/item?id=20223743
+  - [ ] http://halobates.de/memorywaste.pdf
+  - [ ] https://github.com/hjacobs/kubernetes-failure-stories
+  - [ ] https://travisdowns.github.io/blog/2019/06/11/speed-limits.html
+  - [ ] https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
+  - [ ] https://github.com/graphitemaster/breaking_the_physical_limits_of_fonts?utm_source=programmingdigest&utm_medium=email&utm_campaign=featured#breaking-the-physical-limits-of-fonts
+  - [ ] https://github.com/laurent22/rsync-time-backup
+  - [ ] https://github.com/bytefish/PostgresTimeseriesAnalysis
+
+
 - the organized mind
 
 - metro series by dmitry glukhovsky

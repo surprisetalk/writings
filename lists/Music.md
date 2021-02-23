@@ -21,6 +21,7 @@ Coming soon!
 - ★★★★☆ | Temples :: _Certainty_
 - ★★★★☆ | Ben Rosett, Eternity Forever :: _Cherry Blossom_
 - ★★★★☆ | Louis Cole :: _Doing the Things_
+- ★★☆☆☆ | Moe Shop :: _Cerise_
 
 
 ### Albums
@@ -50,7 +51,28 @@ Coming soon!
 
 <!-- soundcloud and /mu/ discovery -->
 
-- ☆☆☆☆☆ | Punch Brothers :: _Antifogmatic_
+- ☆☆☆☆☆ | GoGo Penguin :: _Fanfares_
+- ☆☆☆☆☆ | Hiromi :: _Place to Be_
+- ☆☆☆☆☆ | Run the Jewels :: _Run the Jewels_
+- ★★★☆☆ | Groundislava :: _Endless Voyage_
+- ★★★☆☆ | Nancy Sinatra :: _How Does That Grab You?_
+- ☆☆☆☆☆ | The Flaming Lips :: _The Soft Bulletin_
+- ★★★☆☆ | Sentimental Scenery :: _Harp Song + Sentimentalism_
+- ☆☆☆☆☆ | Swans :: _The Seer_
+- ☆☆☆☆☆ | The Beatles :: _The Beatles_
+- ☆☆☆☆☆ | Béla Fleck :: _Perpetual Motion_
+- ★★★☆☆ | The Format :: _Interventions and Lullabies_
+- ★★☆☆☆ | Salem :: _King Night_
+- ★★☆☆☆ | Danny Brown :: _Old_
+- ★★★☆☆ | The Fall of Troy :: _OK#2_
+- ★★☆☆☆ | Poe :: _Hello_
+- ★★☆☆☆ | MASTER BOOT RECORD :: _Internet Protocol_
+- ★★★☆☆ | Car Seat Headrest :: _Twin Fantasy_
+- ★★★☆☆ | Sweet Valley :: _Stay Calm_
+- ★★★☆☆ | mewithoutYou :: _Pale Horses_
+- ☆☆☆☆☆ | Sithu Aye :: _Senpai EP II: The Noticing_
+- ☆☆☆☆☆ | A. G. Cook :: _Apple_
+- ★★★★☆ | Punch Brothers :: _Antifogmatic_
 - ★★★☆☆ | Night Tempo, 杏里 :: _Anri — Night Tempo presents the Showa Groove_
 - ★★★★☆ | ♥ GOJII ♥	:: _All My Heart_
 - ★★★★☆ | Eatmewhileimhot! :: _All My Friends_
@@ -689,11 +711,9 @@ Coming soon!
 - ☆☆☆☆☆ | Oathbreaker :: _Rheia_
 - ☆☆☆☆☆ | Heather Woods Broderick :: _Glider_
 - ☆☆☆☆☆ | Heather Woods Broderick :: _From The Ground_
-- ☆☆☆☆☆ | Danny Brown :: _Old_
 - ☆☆☆☆☆ | Danny Brown :: _XXX_
 - ★★★★☆ | Danny Brown :: _Atrocity Exhibition_
 - ★★☆☆☆ | David Bowie :: _Blackstar_
-- ☆☆☆☆☆ | Swans :: _The Seer_
 - ☆☆☆☆☆ | Swans :: _To Be Kind_
 - ☆☆☆☆☆ | A Tribe Called Quest :: _We got it from Here... Thank You 4 Your service_
 - ★★★☆☆ | Frank Ocean :: _Blonde_
@@ -766,7 +786,6 @@ Coming soon!
 - ★★★★☆ | Mew :: _And The Glass Handed Kites_
 - ☆☆☆☆☆ | Mew :: _No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away_
 - ☆☆☆☆☆ | The Fall of Troy :: _Phantom on the Horizon_
-- ☆☆☆☆☆ | The Fall of Troy :: _OK#2_
 - ☆☆☆☆☆ | Circa Survive :: _Descensus_
 - ☆☆☆☆☆ | Scary Kids Scaring Kids :: _Scary Kids Scaring Kids_
 - ☆☆☆☆☆ | Regina Spektor :: _Soviet Kitsch (U.S. Version)_
@@ -779,7 +798,6 @@ Coming soon!
 - ☆☆☆☆☆ | Tycho :: _Epoch_
 - ☆☆☆☆☆ | Lone :: _Galaxy Garden_
 - ☆☆☆☆☆ | GoGo Penguin :: _Man Made Object (Deluxe)_
-- ☆☆☆☆☆ | GoGo Penguin :: _Fanfares_
 - ☆☆☆☆☆ | Chick Corea & Hiromi :: _Duet_
 - ☆☆☆☆☆ | Hiromi :: _Place To Be_
 - ☆☆☆☆☆ | Hiromi :: _Voice_
@@ -1106,7 +1124,6 @@ Coming soon!
 - ★★★★☆ | Nuito :: _Unutella_
 - ☆☆☆☆☆ | tricot :: _The_
 - ☆☆☆☆☆ | Ólöf Arnalds :: _Vid Og Vid_
-- ☆☆☆☆☆ | mewithoutYou :: _Pale Horses_
 - ☆☆☆☆☆ | FKA twigs :: _M3LL155X_
 - ☆☆☆☆☆ | Machinedrum :: _Room(s)_
 - ☆☆☆☆☆ | Wovenhand :: _Refractory Obdurate_

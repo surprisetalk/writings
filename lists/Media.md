@@ -3,6 +3,150 @@
 
 <!--
 
+let's create a custom audio player: https://css-tricks.com/lets-create-a-custom-audio-player/
+four basic trusths of macroecon: https://news.ycombinator.com/item?id=26222530
+experiment shows why ticket sellers hit you with last-second fees: https://news.ycombinator.com/item?id=26225163
+india's artisanal fountain pens are making their mark: https://news.ycombinator.com/item?id=26230354
+
+how materialize and other databases optimize sql subqueries: https://scattered-thoughts.net/writing/materialize-decorrelation
+how buffer pool works: a go implementation: https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/
+it's time to free ourselves from big tech monopoly: https://news.ycombinator.com/item?id=26228305
+research software code is likely to remain a tangeled mess: https://news.ycombinator.com/item?id=26223114
+best practices for rest ai design: https://news.ycombinator.com/item?id=26225373
+call a dev: https://news.ycombinator.com/item?id=26226805
+tree-sitter: https://news.ycombinator.com/item?id=26225298
+why does every website landing page look like this now?: https://twitter.com/wakefield00/status/1361374931993378818
+
+what every programmer should know about memory: https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+
+frame rate of the universe: https://news.ycombinator.com/item?id=26178259
+cali state legislator introduces bill to decriminalize psychs: https://news.ycombinator.com/item?id=26186157
+citibank $500M lesson in ui design: https://news.ycombinator.com/item?id=26180785
+zsh tricks to blow your mind: https://news.ycombinator.com/item?id=26175894
+i don't trush the people above me: https://longform.us1.list-manage.com/track/click?u=db8174fd575df4cb7bdc11580&id=11479b68a2&e=5fc45d1e92
+the case against classics: https://aldaily.us9.list-manage.com/track/click?u=8cbd654fc43afe6be9455ae3b&id=414ef059ec&e=01119eedfd
+how to sit: https://aldaily.us9.list-manage.com/track/click?u=8cbd654fc43afe6be9455ae3b&id=ad20b32cbf&e=01119eedfd
+museum trouble: https://aldaily.us9.list-manage.com/track/click?u=8cbd654fc43afe6be9455ae3b&id=5dbc3f10a8&e=01119eedfd
+let's create a custom audio player: https://abyteofcoding.us17.list-manage.com/track/click?u=b52c838b0cf80781b4c3b5d83&id=8a868345ff&e=b1c8ede098
+geography of thought review: http://email.mg.lesserwrong.com/c/eJw9jr1uwyAURp_G3rDMj8EeGDo0SxSpY1cM1-DYybUAB7VPX7JU-qQjneHoc9osbBK8XbWTgnGYGQEDM1HUMjLO1hG6gKQKpFLT1Ih-h5QglohP31l8tEFzycfeDgMbgFLpOJOLElJxISaquBvbXYecj9Twj4Zd6kop3TvzH6nuwJRT5eU2fJXfq_nGu93y5wnVzYgbifBaoZAcgHhAH80RfgguVeDpQ26jTmc84pogm32rR_3DrPu7_gfY9Unr
+https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=5228&context=etd
+
+board game reviews: laser chess: https://youtu.be/gZIV4LyWUQ4
+i don't know timmy, being god is a big responsibility: https://news.ycombinator.com/item?id=26202063
+what is the fuss over cbdcs: https://news.ycombinator.com/item?id=26201898
+tagged unions are overrated: https://news.ycombinator.com/item?id=26190642
+designing a risc-v cpu: https://news.ycombinator.com/item?id=26164574
+how to be more productive without forcing yourself: https://news.ycombinator.com/item?id=26191516
+i miss my bar: https://news.ycombinator.com/item?id=26188710
+monolith first: https://news.ycombinator.com/item?id=26190584
+how i started believing in cycle time over estimation: https://news.ycombinator.com/item?id=26165779
+why is it so hard to see code from 5 minutes ago: https://news.ycombinator.com/item?id=26187881
+
+how my school gamed the stats: https://news.ycombinator.com/item?id=26211921
+commenting vs making: https://news.ycombinator.com/item?id=26215640
+canon cat: https://news.ycombinator.com/item?id=26213934
+the consoles of my life: https://news.ycombinator.com/item?id=26192603
+choose exciting technology: https://news.ycombinator.com/item?id=26212563
+find the hard work you're willing to do: https://news.ycombinator.com/item?id=26209541
+how can you not be romantic about programming: https://news.ycombinator.com/item?id=26206921
+who is still buying vhs: https://news.ycombinator.com/item?id=26211058
+
+i am developing an e-paper calendar as a consumer product: https://news.ycombinator.com/item?id=26216357
+formalising math: https://news.ycombinator.com/item?id=26214593
+data pipelines are materialized views: https://news.ycombinator.com/item?id=26217911
+
+https://mobile.twitter.com/michaeljburry/status/1363226460979228673
+
+divisibility by any prime: https://www.johndcook.com/blog/2021/02/17/divisibility-by-any-prime/
+https://www.bfrb.org/learn-about-bfrbs/treatment/self-help/127-rs-list-of-strategies-for-skin-picking-49-im-using-42-i-could-try
+
+kill the alarm clock: https://news.ycombinator.com/item?id=26163691
+kernel programming language: https://news.ycombinator.com/item?id=26162673
+
+paul graham, what i worked on: https://news.ycombinator.com/item?id=26155350
+
+inheritance without pointers: https://www.fluentcpp.com/2021/01/29/inheritance-without-pointers/
+
+This SRE attempted to roll out an HAProxy config change. You won't believe what happened next...: https://about.gitlab.com/blog/2021/01/14/this-sre-attempted-to-roll-out-an-haproxy-change/
+
+leaky delegation: your are not a commodity: https://www.lesswrong.com/posts/tTWL6rkfEuQN9ivxj/leaky-delegation-you-are-not-a-commodity
+pseudorandomness contest: https://www.lesswrong.com/posts/xxC3Ka7axphW8kJ9E/pseudorandomness-contest-prizes-results-and-analysis
+
+whalemap: https://whalemap.io
+
+on the complexity of json serialization: https://einarwh.wordpress.com/2020/05/08/on-the-complexity-of-json-serialization/
+
+your cheerful price: https://www.lesswrong.com/posts/MzKKi7niyEqkBPnyu/your-cheerful-price
+how humans write programs: https://www.tedinski.com/2018/01/16/how-humans-write-programs.html
+persistent data structures: https://arpitbhayani.me/blogs/persistent-data-structures-introduction
+simulating latency with SQL: https://blog.jooq.org/2021/02/15/simulating-latency-with-sql-jdbc/
+yabai macos twm: https://github.com/koekeishiya/yabai
+
+how they sre: https://news.ycombinator.com/item?id=26150629
+
+vt-69 portable data terminal: https://news.ycombinator.com/item?id=26154900
+reforming the mathematical language of physics: https://news.ycombinator.com/item?id=26136520
+geometric algebra for teaching physics "unifies" a lot of things: https://news.ycombinator.com/item?id=26152962
+
+what was the worst job interview you've had: https://www.reddit.com/r/AskReddit/comments/lazflz/what_was_the_worst_job_interview_youve_had/
+
+the future of photography won't involve cameras: https://www.fastcompany.com/90597548/shutterstock-makes-a-75-million-bet-that-the-future-of-photography-doesnt-involve-cameras
+
+tech stagnation: https://www.lesswrong.com/posts/gMszBSAX23uqYhytR/technological-stagnation-why-i-came-around
+
+balthazar personal computing device, a 13" risc-v laptop: https://news.ycombinator.com/item?id=26040427
+seeing the pentagon papers in a new light: https://news.ycombinator.com/item?id=26040159
+a categorical view of computational effects: https://www.youtube.com/watch?v=6t6bsWVOIzs
+why is sql so successful: https://lobste.rs/s/snflhf/why_is_sql_so_successful
+an atonement of nano: https://lobste.rs/s/ehf1v3/atonement_nano
+10 things i hate about sql: https://dev.to/shaqq/10-things-i-hate-about-sql-a9e
+
+lyn alden interest rate effects: https://www.lynalden.com/interest-rate-effects/
+lyn alden contrarian investing: https://www.lynalden.com/contrarian-investing/
+
+multiway turing machines: https://writings.stephenwolfram.com/2021/02/multiway-turing-machines/
+
+keybase file system: https://book.keybase.io/docs/files
+
+temperaement: https://news.ycombinator.com/item?id=25918592
+
+kindle e-ink dev platform: https://news.ycombinator.com/item?id=26073463
+apl orchard: https://www.dyalog.com/blog/2021/02/the-apl-orchard/
+
+teardown of apple's keyboard: https://news.ycombinator.com/item?id=26114514
+
+https://azumbrunnen.me
+https://www.lesswrong.com/posts/9cbEPEuCa9E7uHMXT/catching-the-spark
+https://www.lesswrong.com/posts/M8cEyKmpcbYzC2Lv5/exercise-taboo-should
+
+degoogle: https://betterdev.link/links/aHR0cHM6Ly9naXRodWIuY29tL3NrZXJrb3VyL2Jsb29t?issue=188&email=85638ae40f64ca832cf016cc0a9c3f6bb00799e9e1a2df159d26b1050d1d7236
+
+high qa guy: https://news.ycombinator.com/item?id=26042416
+nevada blockchain city: https://www.blockchains.com/smart-city/real-life-sandbox/
+nevada open government cities: https://news.ycombinator.com/item?id=26034078
+atkinson hyperlegible font: https://news.ycombinator.com/item?id=26011945
+goodnight punpun: https://myanimelist.net/manga/4632/Oyasumi_Punpun
+llvm ir super optimizer: https://news.ycombinator.com/item?id=26020879
+how to increase your luck surface area: https://hn.premii.com/#/comments/25968751
+ikea coffee table server rack: https://hn.premii.com/#/comments/25978013
+
+amber smalltalk: https://news.ycombinator.com/item?id=26128607
+In defense of interesting writing on controversial topics: https://news.ycombinator.com/item?id=26132104
+The complexity that lives in the GUI: https://news.ycombinator.com/item?id=26131178
+The worst of the two worlds: Excel meets Outlook | Hacker News: https://news.ycombinator.com/item?id=26126067
+ziglings: https://news.ycombinator.com/item?id=26125063
+Microbial ecosystems in the mouth and gut are linked to many ills: https://news.ycombinator.com/item?id=26117334
+with 777 kanji: https://news.ycombinator.com/item?id=26120559
+why aren't you coding: https://news.ycombinator.com/item?id=26112361
+https://news.ycombinator.com/item?id=26111518
+days long, decades short: https://news.ycombinator.com/item?id=26065466
+lisp repl main shell: https://news.ycombinator.com/item?id=26059023
+wind powered cargo: https://news.ycombinator.com/item?id=26054096
+talent largely a myth: https://news.ycombinator.com/item?id=26058457
+
+Best sites anglosphere doesn't know about?: https://news.ycombinator.com/item?id=26137479
+Extruding Ice from Steel Fences and Pipes with Diurnal Freeze/Thaw (2008): https://news.ycombinator.com/item?id=26121775
+
 - [ ] https://www.youtube.com/results?search_query=lavalier+mics
 - [ ] https://www.youtube.com/watch?v=OSLHcUTA5qA
 - [ ] https://www.youtube.com/watch?v=wd_f7iYbFrA

@@ -25,6 +25,33 @@ Another little dirty programming language.
 
 <!--
 
+A single Scrapscript graph DB can implement every social network, FS, tagging system, etc
+
+Scrapbook stores names. Scrapyard stores scraps (slivers). Scrapgraph stores graph edges between hashes. Junkyard can be a simple kv store for storing anything else that needs to be updated more frequently.
+
+All of these can be implemented in the same underlying junkyard kv store.
+
+Wanna add a tag? Add it via scrapgraph. Wanna add a comment? Add it via scrapgraph. Wanna edit that comment? Append the edit via scrapgraph. Add tests? Append via scrapgraph.
+
+Scrapgraph should allow you to see EVERYTHING associated with a particular scrap (videos, images, text, code, whatever). To link to “surprisetalk/foo” rather than the underlying hash, you can hash a type of the variable name as a string.
+
+
+-->
+
+<!--
+
+“Scrapscript: Sharing is daring”
+Most software bugs are human problems, not computer problems. Cosmic waves aren’t common.
+The biggest human problem is sharing.
+Scrapscript solves during memory with slivers.
+Scrapscript solves sharing messages with slivers.
+Scrapscript solves sharing names with scrapbooks.
+Etc
+
+-->
+
+<!--
+
 domains for joint projects:
 - scrap.chat
 - scrap.camp : tutorials
@@ -1256,3 +1283,4 @@ $&xs
 
 
 -->
+

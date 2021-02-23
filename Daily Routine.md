@@ -22,6 +22,12 @@ After my spirit and body are acknowledged, it's time to do everything else. Firs
 
 ---
 
+<!--
+
+Well, nothing after toil ever gets done. Let's shift everything so that it comes last!
+
+-->
+
 Start | Subroutine                | Description
 ----: | :------------------------ | :----------
 0500h | [Frolic    ](#Frolic)     | drink tea; smell stuff; dance

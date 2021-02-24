@@ -51,6 +51,26 @@ Coming soon!
 
 <!-- soundcloud and /mu/ discovery -->
 
+- ☆☆☆☆☆ | Eisley :: _I'm Only Dreaming... Of Days Long Past_
+- ☆☆☆☆☆ | Billy Woods :: _History Will Absolve Me_
+- ☆☆☆☆☆ | Deerhunter :: _Halcyon Digest_
+- ★★★☆☆ | Animal Collective :: _Spirit They're Gone, Spirit They've Vanished_
+- ★★★★★ | Toby Fox :: _UNDERTALE Soundtrack_
+- ★★☆☆☆ | Jamie Cullum :: _Pointless Nostalgic_
+- ☆☆☆☆☆ | Machine Girl :: _Gemini_
+- ★★★☆☆ | Heavy Heavy Low Low :: _Heavy Heavy Low Low_
+- ★★★★☆ | Kings of Convenience :: _Declaration Of Dependence_
+- ☆☆☆☆☆ | No Vacation :: _Phasing_
+- ☆☆☆☆☆ | Good Old War :: _Only Way To Be Alone_
+- ★★☆☆☆ | リアムMAZE1981 :: _Color Tv_
+- ☆☆☆☆☆ | death's dynamic shroud :: _Derelict Megatower I_
+- ☆☆☆☆☆ | Jyocho :: _The Beautiful Cycle of Terminal_
+- ★★☆☆☆ | Meishi Smile :: _Lust_
+- ★★☆☆☆ | Spazzkid :: _Desire_
+- ★☆☆☆☆ | Andy Stott :: _Luxury Problems_
+- ★★☆☆☆ | Low :: _Double Negative_
+- ☆☆☆☆☆ | Ramzoid :: _WORLD_
+- ☆☆☆☆☆ | Late Night Alumni :: _Eclipse_
 - ☆☆☆☆☆ | GoGo Penguin :: _Fanfares_
 - ☆☆☆☆☆ | Hiromi :: _Place to Be_
 - ☆☆☆☆☆ | Run the Jewels :: _Run the Jewels_
@@ -511,7 +531,6 @@ Coming soon!
 - ☆☆☆☆☆ | Hammock :: _Oblivion Hymns_
 - ☆☆☆☆☆ | Hammock :: _An Introduction to Hammock_
 - ☆☆☆☆☆ | Hammock :: _Everything and Nothing_
-- ☆☆☆☆☆ | Jamie Cullum :: _Pointless Nostalgic_
 - ★☆☆☆☆ | Jamie Cullum :: _Catching Tales_
 - ☆☆☆☆☆ | Jamie Cullum :: _Twentysomething_
 - ☆☆☆☆☆ | Jamie Cullum :: _The Pursuit_
@@ -559,7 +578,6 @@ Coming soon!
 - ☆☆☆☆☆ | Pat Benatar :: _True Love_
 - ☆☆☆☆☆ | Pat Benatar :: _Gravity's Rainbow_
 - ☆☆☆☆☆ | Pat Benatar :: _Innamorata_
-- ☆☆☆☆☆ | Good Old War :: _Only Way To Be Alone_
 - ☆☆☆☆☆ | Good Old War :: _Good Old War_
 - ☆☆☆☆☆ | Good Old War :: _Come Back As Rain_
 - ★☆☆☆☆ | Good Old War :: _Broken into Better Shape_
@@ -611,7 +629,6 @@ Coming soon!
 - ☆☆☆☆☆ | Kings of Convenience :: _Versus_
 - ☆☆☆☆☆ | Kings of Convenience :: _Quiet Is The New Loud_
 - ☆☆☆☆☆ | Kings of Convenience :: _Riot On An Empty Street_
-- ☆☆☆☆☆ | Kings of Convenience :: _Declaration Of Dependence_
 - ☆☆☆☆☆ | Lights :: _The Listening_
 - ☆☆☆☆☆ | Lights :: _Siberia_
 - ☆☆☆☆☆ | Lights :: _Little Machines_
@@ -851,7 +868,6 @@ Coming soon!
 - ☆☆☆☆☆ | Ólafur Arnalds :: _Island Songs_
 - ☆☆☆☆☆ | Peter McConnell :: _Grim Fandango Remastered (Original Soundtrack)_
 - ☆☆☆☆☆ | Peter McConnell :: _Broken Age (Original Soundtrack)_
-- ☆☆☆☆☆ | Toby Fox :: _UNDERTALE Soundtrack_
 - ☆☆☆☆☆ | Disasterpeace :: _Level_
 - ☆☆☆☆☆ | Disasterpeace :: _Rise of the Obsidian Interstellar_
 - ☆☆☆☆☆ | Disasterpeace :: _Strays_
@@ -1086,7 +1102,6 @@ Coming soon!
 - ☆☆☆☆☆ | Javelin :: _Hi Beams_
 - ☆☆☆☆☆ | Rush :: _Hemispheres_
 - ☆☆☆☆☆ | Rush :: _Moving Pictures (2011 Remaster)_
-- ☆☆☆☆☆ | Deerhunter :: _Halcyon Digest_
 - ☆☆☆☆☆ | Parov Stelar :: _Coco Part 1_
 - ☆☆☆☆☆ | Jean-Michel Jarre :: _Oxygène_
 - ☆☆☆☆☆ | Toundra :: _(II)_
@@ -1101,7 +1116,6 @@ Coming soon!
 - ☆☆☆☆☆ | Agent Fresco :: _Destrier (Bonus Edition)_
 - ★★☆☆☆ | Palm Reader :: _Beside the Ones We Love_
 - ☆☆☆☆☆ | Down I Go :: _You're Lucky God, That I Cannot Reach You_
-- ☆☆☆☆☆ | Late Night Alumni :: _Eclipse_
 - ☆☆☆☆☆ | Sally Shapiro :: _My Guilty Pleasure_
 - ☆☆☆☆☆ | Sally Shapiro :: _Somewhere Else_
 - ☆☆☆☆☆ | Riverside :: _Love, Fear and the Time Machine_

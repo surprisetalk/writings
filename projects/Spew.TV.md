@@ -81,3 +81,46 @@ So the system is constantly "testing" the existing corpus by providing rewards t
 
 
 -->
+
+<!--
+
+Older idea:
+
+- to file a copyright claim, one must stake a cost in proportion to the _violating_ content-creator (and the particular piece of content)
+  - claiming against pewdepie would require more stake than mike-ropar
+  
+- accuser stakes amount
+  - accused either folds (incurring a devaluation that makes future stakes more expensive) or stakes an amount to enter arbitration
+    - arbitrator stakes an amount
+      - if all parties agree with arbitrator, the winning party and arbitrator split loser's stake
+      - if no parties come to an agreement, an even greater penalty is applied to both parties
+        - this needs to be formalized in a prisoners-dilemma form
+        
+- actually, i like the idea of both parties submitting a list of trusted arbitrators and that being the final decision
+  - and then 5 arbitrators anonymously stake money and vote
+  - every failed round of choosing arbitrators penalizes future staking cost
+    - choosing a few untrusted arbitrators will penalize less than choosing a lot of the most trusted arbitrators
+    
+- arbitrators' histories should be public
+    
+- the system needs to self-heal against corruption -- unpopular opnions should lead to bigger earnings
+  - actually, showing accused/accuser favoritism percentages will natuarally balance things, because only moderate arbitrators will be chosen by both parties
+    - and "moderate" will be decided by the market. 70/30 accuser/accused may be the "moderate" average
+        
+- there needs to be a backdoor to the courts
+      
+- winning/losing arbitrations decreases/increases future stakes
+
+- okay, to recap
+  - accuser stakes in proportion to accused (and klout) to file a claim
+    - accused may counter-stake in proportion to accusation (and klout)
+      - accuser may stake additional amount to enter arbitration
+        - now both parties submit N arbitrators until agreement is made
+          - list of arbitrators with history and favoritism percentages is public
+          - failed arbitration rounds cost claimaints klout inverse-proportionally to the klout of the chosen arbitrators
+            - so choosing bad arbitrators will make future stakes more expensive
+            - once 11(?) arbitrators are chosen they anonymously stake and vote
+              - arbitrators stake in proportion to case and klout
+              - winners split money
+
+-->

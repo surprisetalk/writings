@@ -3,6 +3,23 @@
 
 <!--
 
+modules, monoliths, and microservices: https://news.ycombinator.com/item?id=26247052
+when did generic grocery brands get so good looking: https://news.ycombinator.com/item?id=26243139
+aros os: https://news.ycombinator.com/item?id=26250504
+stop using icon fonts: https://news.ycombinator.com/item?id=26252348
+
+land before time 1-14: https://www.youtube.com/watch?v=B-8zmGr0geQ
+
+whiplash vs blackswan: https://www.youtube.com/watch?v=ba-CB6wVuvQ
+complete guide to pop umisc needle drops in movies: https://www.youtube.com/watch?v=8O8DHdJ8U6E
+
+usefulness of currying: https://abyteofcoding.us17.list-manage.com/track/click?u=b52c838b0cf80781b4c3b5d83&id=8104590804&e=b1c8ede098
+rethink the ide for the 2020s: https://news.ycombinator.com/item?id=26227466
+the thosand brains theory of intelligence: https://news.ycombinator.com/item?id=26240901
+birth of prolog: https://news.ycombinator.com/item?id=26223906
+ocarina of time prog rock: https://www.youtube.com/watch?v=pDH3g6rRjM8
+you need to be able to run your system: https://news.ycombinator.com/item?id=26236908
+
 let's create a custom audio player: https://css-tricks.com/lets-create-a-custom-audio-player/
 four basic trusths of macroecon: https://news.ycombinator.com/item?id=26222530
 experiment shows why ticket sellers hit you with last-second fees: https://news.ycombinator.com/item?id=26225163

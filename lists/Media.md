@@ -3,6 +3,53 @@
 
 <!--
 
+Emily Riehl is rewriting the foundations of higher category theory: https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/birds, brains, plankes, and ai: against appeals to the complexity/mysteriousness/efficiency of the brain: http://email.mg.lesserwrong.com/c/eJw9j71qxDAQhJ_G7vaQJfksFy6SIqQNKVKv_ixxsi20Cr7k6SM3gYGBYfiGsQt6PkvRx0Wr2chhHEFOegI1DSMMgxUgDLMoFPPasU6y5IhcOcuxrzdzbH1YjOJczVwwNcnWY9Zwab2yd-_MaJ3v0xJqzdSJl46_NZ3nebsw_5CW5YMqNX8PXwE_fz_K_bm9PqK6-joWS6ALxp0gJ9wdAe4WMAKuV1gBc3aYCOoBNThozJzcM9afviz0XXKJ5CqmRzuwbhjTtfoHJahTHA 
+
+lotus 1-2-3 arbitrary resolution: https://news.ycombinator.com/item?id=26316637
+
+speed is the killer feature: https://news.ycombinator.com/item?id=26312516
+technologies for a solarpunk future: https://email.mg2.substack.com/c/eJxVklGPojAQxz-NvGloKQUeeDC6upiTu815rvpCSjtgBSkpZV349Ff04XJJM03mP_OfZH7DmYFS6SFuVWecKWRmaCFu4NHVYAxop-9AZ1LEyCWE0ih0REwECv3QkV1WaIA7k3VsdA9O2-e15MxI1UwdOMCh61xj4hEIEI0E4T5FlLkiIHkeFnnhC46F_5rLeiGh4RDDF-hBNeDU8dWYtpt5yxne2GeuIJSuHpAvuj7vDOPVgqu7VdpJBX5tVK1KCd28UHrO5p2qmW77ppoXvek1zLyNURU0M28Nww5xfBxOuK6Sm_rerz_c9Hb2f64ekm-jUWyi9rJK6H5M_HTkKL0tu-ReX8WUO5y_0_WZ7NdveG_r2SkdrYfk70f545B4-1v5SKT18Y7ymZ_8Vmi4fG5uYlt_5XIXLT7_bN_JL1X5-ceyPozLvoWWjJAGb-FaLH_vtkfvchpH21s6MsYuRq43BeT74QItSAEFogUrqB-yMMA5px4Ko4ATjHCY-zPi3kv8354cHXe9brXswLC6shXlhO4pWXKZ_e99I82QQcPyGsQLqnndxhNzVkID2t6MyJiJEUWEhi6irkfwC6Kl7uEoCHzqOna2ULarif-B-wsgctMk
+the trouble with types: https://www.youtube.com/watch?v=0lXUBVipXa8
+S&P 500 to Gold Ratio: https://www.macrotrends.net/1437/sp500-to-gold-ratio-chart
+m1 chart: https://news.ycombinator.com/item?id=26128388
+
+leo visualization: https://platform.leolabs.space/visualization
+
+your thinking rate is fixed: https://news.ycombinator.com/item?id=2630245
+
+massively parallel ultrafast random bit generation with a chip-scale laser: https://news.ycombinator.com/item?id=26287811
+can wifi replace bluetooth: https://news.ycombinator.com/item?id=26283651
+passion not required: it's ok to only program for a paycheck: https://news.ycombinator.com/item?id=26304989
+the gambler, maxwell's new demon: https://news.ycombinator.com/item?id=26284494
+lean into procrastination: https://news.ycombinator.com/item?id=26295774
+
+How to With John Wilson
+
+2020 berkshire hathaway annual letter: https://news.ycombinator.com/item?id=26285185
+crypto-anarchism: https://news.ycombinator.com/item?id=26286861
+bitcoin's vast energy use could burst its bubble: https://news.ycombinator.com/item?id=26289112
+rich text math editing on the web with markdown and asciimath: https://news.ycombinator.com/item?id=26287948
+
+top craziest drinks sold in japan: https://news.ycombinator.com/item?id=26270957
+
+anime is booming, so why are animators living in poverty?: https://news.ycombinator.com/item?id=26275488
+the art of reading more efectively and efficiently: https://news.ycombinator.com/item?id=26273735
+
+critiques of liberalism: https://aldaily.us9.list-manage.com/track/click?u=8cbd654fc43afe6be9455ae3b&id=4768f0e133&e=01119eedfd
+offend linux with a single tweet: https://twitter.com/nixcraft/status/1364932650444619778?s=19
+how mura masa makes internet beats: https://www.youtube.com/watch?v=NrCTofDfkOI&feature=youtu.be
+
+30k hours: https://news.ycombinator.com/item?id=26270207
+google admits kubernetes container tech is too complex: https://news.ycombinator.com/item?id=26271470
+
+framework laptop: https://news.ycombinator.com/item?id=26263508
+google analytics: stop feeding the beast: https://news.ycombinator.com/item?id=26263149
+the future of web software is html over websockets: https://news.ycombinator.com/item?id=26265999
+
+battle-tested monadic ocaml: tezos: https://abyteofcoding.us17.list-manage.com/track/click?u=b52c838b0cf80781b4c3b5d83&id=24a50b1ce4&e=b1c8ede098
+
+kindergarden quantum mechanics grads: https://news.ycombinator.com/item?id=26248980
+
 modules, monoliths, and microservices: https://news.ycombinator.com/item?id=26247052
 when did generic grocery brands get so good looking: https://news.ycombinator.com/item?id=26243139
 aros os: https://news.ycombinator.com/item?id=26250504

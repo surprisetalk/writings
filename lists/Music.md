@@ -22,6 +22,8 @@ Coming soon!
 - ★★★★☆ | Ben Rosett, Eternity Forever :: _Cherry Blossom_
 - ★★★★☆ | Louis Cole :: _Doing the Things_
 - ★★☆☆☆ | Moe Shop :: _Cerise_
+- ★★★☆☆ | Reinabe :: _In the Object_
+- ★★★☆☆ | EASYFUN :: _Blink_
 
 
 ### Albums
@@ -51,7 +53,37 @@ Coming soon!
 
 <!-- soundcloud and /mu/ discovery -->
 
-- ☆☆☆☆☆ | Eisley :: _I'm Only Dreaming... Of Days Long Past_
+- ★★★☆☆ | Slow Magic :: _How to Run Away_
+- ★★★☆☆ | Sleep Cycle :: _Deakin_
+- ★★☆☆☆ | Fire! Orchestra :: _Enter_
+- ★☆☆☆☆ | Anberlin :: _Vital_
+- ☆☆☆☆☆ | tricot :: _Black_
+- ★★★☆☆ | Laura Stevenson :: _Cocksure_
+- ★★☆☆☆ | Dinosaur Jr. :: _You're Living All Over Me_
+- ★★★☆☆ | Nancy Sinatra :: _Nancy in London_
+- ★★★☆☆ | Eldar Djangirov :: _Eldar_
+- ☆☆☆☆☆ | Between the Buried and Me :: _The Great Misdirect_
+- ★★★☆☆ | The World Is A Beautiful Place & I Am No Longer Afraid To Die :: _Harmlessness_
+- ★★★☆☆ | Lisa Germano :: _Geek the Girl_
+- ☆☆☆☆☆ | Diane Cluck :: _Common Wealth_
+- ★★☆☆☆ | Analog Son :: _Funky Mother_
+- ★☆☆☆☆ | The Avalanches :: _We Will Always Love You_
+- ★☆☆☆☆ | The Hush Sound :: _So Sudden_
+- ☆☆☆☆☆ | Mount Eerie :: _A Crow Looked at Me_
+- ★★★★★ | Sleeping with Sirens :: _With Ears to See, and Eyes to Hear_
+- ★★★★★ | GFOTY :: _Gfotybucks_
+- ★☆☆☆☆ | Macross 82-99 :: _Idols, Sakura_
+- ★☆☆☆☆ | Primary & OHHYUK :: _Lucky You!_
+- ★★★★☆ | Sylvan Esso :: _Sylvan Esso_
+- ★★★★★ | Chick Corea :: _My Spanish Heart_
+- ☆☆☆☆☆ | Sigur Rós :: _Valtari_
+- ★★★☆☆ | States :: _Paradigm_
+- ★★☆☆☆ | Angels of Light :: _New Mother_
+- ☆☆☆☆☆ | Pere Ubu :: _The Modern Dance_
+- ★★★★☆ | Rustie :: _EVENIFUDONTBELIEVE_
+- ★★★★★ | Björk :: _SelmaSongs_
+- ★★★☆☆ | Cleric :: _Regressions_
+- ★★★★☆ | Eisley :: _I'm Only Dreaming... Of Days Long Past_
 - ☆☆☆☆☆ | Billy Woods :: _History Will Absolve Me_
 - ☆☆☆☆☆ | Deerhunter :: _Halcyon Digest_
 - ★★★☆☆ | Animal Collective :: _Spirit They're Gone, Spirit They've Vanished_
@@ -581,7 +613,6 @@ Coming soon!
 - ☆☆☆☆☆ | Good Old War :: _Good Old War_
 - ☆☆☆☆☆ | Good Old War :: _Come Back As Rain_
 - ★☆☆☆☆ | Good Old War :: _Broken into Better Shape_
-- ☆☆☆☆☆ | Mount Eerie :: _A Crow Looked at Me_
 - ☆☆☆☆☆ | Cartel :: _Collider_
 - ★★★★☆ | The Academy Is... :: _Almost Here_
 - ☆☆☆☆☆ | The Academy Is... :: _Santi_
@@ -969,7 +1000,6 @@ Coming soon!
 - ☆☆☆☆☆ | Caravan Palace :: _<I°_°I>_
 - ☆☆☆☆☆ | Maximum Love :: _Midnight Astronaut_
 - ☆☆☆☆☆ | Tomggg :: _Butter Sugar Cream_
-- ☆☆☆☆☆ | Laura Stevenson :: _Cocksure_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Radio Music Society_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Esperanza_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Junjo_
@@ -1005,7 +1035,6 @@ Coming soon!
 - ☆☆☆☆☆ | Lifeformed :: _Fastfall - Dustforce Original Soundtrack_
 - ☆☆☆☆☆ | Empress Of :: _Me_
 - ☆☆☆☆☆ | Oneohtrix Point Never :: _Garden Of Delete_
-- ☆☆☆☆☆ | Rustie :: _EVENIFUDONTBELIEVE_
 - ★★☆☆☆ | Foxing :: _The Albatross_
 - ☆☆☆☆☆ | Foxing :: _Dealer_
 - ☆☆☆☆☆ | Listener :: _Time Is a Machine_
@@ -1117,7 +1146,6 @@ Coming soon!
 - ★★☆☆☆ | Palm Reader :: _Beside the Ones We Love_
 - ☆☆☆☆☆ | Down I Go :: _You're Lucky God, That I Cannot Reach You_
 - ☆☆☆☆☆ | Sally Shapiro :: _My Guilty Pleasure_
-- ☆☆☆☆☆ | Sally Shapiro :: _Somewhere Else_
 - ☆☆☆☆☆ | Riverside :: _Love, Fear and the Time Machine_
 - ☆☆☆☆☆ | Julia Holter :: _Have You In My Wilderness_
 - ☆☆☆☆☆ | Destroyer :: _Poison Season_
@@ -1129,7 +1157,6 @@ Coming soon!
 - ☆☆☆☆☆ | Leftover Cuties :: _The Spark & the Fire_
 - ☆☆☆☆☆ | Mystery Skulls :: _Forever_
 - ★★★★☆ | Punch Brothers :: _The Phosphorescent Blues_
-- ☆☆☆☆☆ | The World Is A Beautiful Place & I Am No Longer Afraid To Die :: _Harmlessness_
 - ☆☆☆☆☆ | Axes :: _Glory_
 - ☆☆☆☆☆ | Dirty Projectors :: _Swing Lo Magellan_
 - ★★★★☆ | Hop Along :: _Painted Shut_
@@ -1147,7 +1174,6 @@ Coming soon!
 - ☆☆☆☆☆ | Toundra :: _IV (NotSet)_
 - ☆☆☆☆☆ | Der Weg einer Freiheit :: _Stellar_
 - ☆☆☆☆☆ | Elder :: _Lore_
-- ☆☆☆☆☆ | Slow Magic :: _How to Run Away_
 - ★★☆☆☆ | Son Lux :: _Bones_
 - ★★★★☆ | Lido :: _I Love You_
 - ★★★★☆ | World's End Girlfriend :: _Hurtbreak Wonderland_

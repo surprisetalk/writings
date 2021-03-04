@@ -33,6 +33,8 @@ Values don't tell you where to go, but they point you in the right direction. Un
 
 ### In Theory
 
+<!-- I think "sincerity" is more accurate than "honesty" -->
+
 In theory, my values are compassion and honesty. In an Optimal world, I would ooze empathy and kindness and give myself completely to every stranger that strikes up a conversation. But I'm not Optimal. I'm often stubborn and manipulative and full of self-criticism.
 
 But why honesty and compassion?

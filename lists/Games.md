@@ -5,6 +5,8 @@
 
 - Naissance
 
+- Smile for Me
+
 - [Return of the Obra Dinn](https://obradinn.com)
 - [VA-11 HALL-A](https://waifubartending.com)
 - [Super Amazing Wagon Adventure](http://www.sparsevector.com/wagon-adventure/)

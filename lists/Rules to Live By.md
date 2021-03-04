@@ -59,6 +59,7 @@ https://news.ycombinator.com/item?id=25518730
   - Do More Nothing.
   - Never complain.
   - If you feel bad, take some deep breaths. If you still feel bad, drink some water. If you still feel bad, figure out why.
+  - They'll always be laughing With You if you're laughing at yourself.
 - Health
   - You must wake up at your Good Morning Time. No matter what. Midday naps are encouraged.
   - Pair your caffiene with l-theanine.

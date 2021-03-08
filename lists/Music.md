@@ -53,6 +53,13 @@ Coming soon!
 
 <!-- soundcloud and /mu/ discovery -->
 
+- ★★★★☆ | The Fall of Troy :: _Manipulator_
+- ★★★★★ | Flyleaf :: _Flyleaf_
+- ★★☆☆☆ | Girls Rituals :: _Reddishness_
+- ☆☆☆☆☆ | Desired :: _Plastic Whatever_
+- ☆☆☆☆☆ | Oneohtrix Point Never :: _Replica_
+- ★★★★☆ | Intervals :: _The Way Forward_
+- ☆☆☆☆☆ | Real Estate :: _In Mind_
 - ★★★☆☆ | Slow Magic :: _How to Run Away_
 - ★★★☆☆ | Sleep Cycle :: _Deakin_
 - ★★☆☆☆ | Fire! Orchestra :: _Enter_
@@ -631,7 +638,6 @@ Coming soon!
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Fore!_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Picture This_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Sports_
-- ☆☆☆☆☆ | Flyleaf :: _Flyleaf_
 - ☆☆☆☆☆ | Foxes :: _Glorious_
 - ★☆☆☆☆ | Foxes :: _All I Need_
 - ☆☆☆☆☆ | Relient K :: _Relient K_
@@ -1018,7 +1024,6 @@ Coming soon!
 - ☆☆☆☆☆ | Kaskade :: _In The Moment_
 - ☆☆☆☆☆ | BADBADNOTGOOD :: _III_
 - ☆☆☆☆☆ | Eyeliner :: _High Fashion Mood Music_
-- ☆☆☆☆☆ | Oneohtrix Point Never :: _Replica_
 - ☆☆☆☆☆ | James Ferraro :: _Far Side Virtual_
 - ☆☆☆☆☆ | Strawberry Girls :: _Italian Ghosts_
 - ☆☆☆☆☆ | Strawberry Girls :: _French Ghetto_

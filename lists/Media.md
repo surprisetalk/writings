@@ -3,6 +3,26 @@
 
 <!--
 
+when did writing in major newspapers become so bad?: https://news.ycombinator.com/item?id=26386037
+-2000 lines of code: https://news.ycombinator.com/item?id=26387179
+the rich vs the very very rich: golf club rebellion: https://longform.us1.list-manage.com/track/click?u=db8174fd575df4cb7bdc11580&id=498e014806&e=5fc45d1e92
+seven years of spaced repetition in the classroom: http://email.mg.lesserwrong.com/c/eJw9j7FqxDAQRL_G7vawZMm2CheXwtUdpAgkpFvLq7OIbQmtEpG_j68JDAy84g2zjOikUW3tR-WU0C3OMJNGEEZYID0I6BpsyDhp5TBXqtmImVJJ4XhcbNjrdexJL3ruSPSmoWExvZgHQxJd3yqhlKu3cc05ctVeKzmdKaVcnpp_ycli4MxnT93nW375OKSdbvv763I_GdMPHfBLmBiCA45oaYFEkbLPPhzAweWCicAfkFcCuyFzCmEHUaeRv1NMninj9nUeeOzot-fqH3pjUwU
+list of video games considered the best: https://news.ycombinator.com/item?id=26378878
+blogging is hard: https://news.ycombinator.com/item?id=26373425
+"design patterns" aren't: https://news.ycombinator.com/item?id=26376607
+everyone is beautiful and no one is horny: https://news.ycombinator.com/item?id=26381377
+popular youtubers who are building their own sites: https://news.ycombinator.com/item?id=26379548
+
+the zen anti-interpretation of quantum mechanics: https://news.ycombinator.com/item?id=26363004
+
+kung fury
+
+jordan peterson is back: https://aldaily.us9.list-manage.com/track/click?u=8cbd654fc43afe6be9455ae3b&id=ce718be8c5&e=01119eedfd
+the value of truth: https://aldaily.us9.list-manage.com/track/click?u=8cbd654fc43afe6be9455ae3b&id=6d7cae272c&e=01119eedfd
+soviet shame culture: https://aldaily.us9.list-manage.com/track/click?u=8cbd654fc43afe6be9455ae3b&id=a73732d8ec&e=01119eedfd
+
+tim ferriss with jordan peterson: https://www.youtube.com/watch?v=C1sEHNw4UIg
+
 Emily Riehl is rewriting the foundations of higher category theory: https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/birds, brains, plankes, and ai: against appeals to the complexity/mysteriousness/efficiency of the brain: http://email.mg.lesserwrong.com/c/eJw9j71qxDAQhJ_G7vaQJfksFy6SIqQNKVKv_ixxsi20Cr7k6SM3gYGBYfiGsQt6PkvRx0Wr2chhHEFOegI1DSMMgxUgDLMoFPPasU6y5IhcOcuxrzdzbH1YjOJczVwwNcnWY9Zwab2yd-_MaJ3v0xJqzdSJl46_NZ3nebsw_5CW5YMqNX8PXwE_fz_K_bm9PqK6-joWS6ALxp0gJ9wdAe4WMAKuV1gBc3aYCOoBNThozJzcM9afviz0XXKJ5CqmRzuwbhjTtfoHJahTHA 
 
 lotus 1-2-3 arbitrary resolution: https://news.ycombinator.com/item?id=26316637

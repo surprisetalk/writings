@@ -3,6 +3,34 @@
 
 <!--
 
+the case for updating narrowly superhuman models: http://email.mg.lesserwrong.com/c/eJw9jrtuxCAURL_G7lhhHo4pKLZJs7tSpHTpMA-bDQbCxUL5-7BNpJFGOsWZMVI5IhgdvXTEcu4IRnphDGmsLSJmVYgsVJNp0XwWYmA4WABbWklxu-h0jLvEb85ZMs1sdZjPjHNl3GQoFUTolS1kDHKvNcNArwN572mtXV6af0lnOUGF3h9fFZJKn_d8ez7Xx8-js7pbpBVY5FJBKvgt-rihqEpJLfwiOLMt-3moiI5kbICxSDhLLh5sVeG7n94O5cNr6Q_XWU-C
+what we can learn from japanese prefab homes: https://news.ycombinator.com/item?id=26399071
+dennis ritchie's first c compiler: https://news.ycombinator.com/item?id=26419628
+
+future of group messaging: https://news.ycombinator.com/item?id=26401140
+report on an unidentified space station: https://news.ycombinator.com/item?id=26405515
+ask hn: those who quit their jobs to travel the world, how did it go?
+
+what we can learn from japanese prefab homes: https://news.ycombinator.com/item?id=26399071
+the world will only get weirder: https://news.ycombinator.com/item?id=26414963
+
+zig parser combinators: https://news.ycombinator.com/item?id=26416531
+
+girls perform better academically in almost all countries: https://news.ycombinator.com/item?id=26401786
+internet explorer is EVIL: https://news.ycombinator.com/item?id=26399746
+why software projects take longer than you think: a statistical model: https://news.ycombinator.com/item?id=26366112
+we may soon have city-spanning 900 MHz mesh networks: https://news.ycombinator.com/item?id=26376388
+john carmack work habits: https://news.ycombinator.com/item?id=26391927
+
+write libraries instead of services: https://news.ycombinator.com/item?id=26398960
+iso-8601 date format reference not publicly available: https://news.ycombinator.com/item?id=26400089
+object browser: https://news.ycombinator.com/item?id=26400374
+
+the most-used mathematical algorithm idea in history: https://news.ycombinator.com/item?id=26393381
+the art of immutable architecture: https://news.ycombinator.com/item?id=26387050
+generalists vs specialists: who has a greater chance of success?: https://news.ycombinator.com/item?id=26395361
+you can learn glass-blowing: https://news.ycombinator.com/item?id=26375307
+
 when did writing in major newspapers become so bad?: https://news.ycombinator.com/item?id=26386037
 -2000 lines of code: https://news.ycombinator.com/item?id=26387179
 the rich vs the very very rich: golf club rebellion: https://longform.us1.list-manage.com/track/click?u=db8174fd575df4cb7bdc11580&id=498e014806&e=5fc45d1e92

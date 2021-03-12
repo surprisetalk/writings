@@ -9,6 +9,14 @@ I'll try to track the design and development process here!
 
 <!--
 
+For Peace and Progress, consider making battles as asymmetric mini games.
+
+For instance, weapons and items start up mini-games of varying difficulty and flavor, depending on what they do.
+
+-->
+
+<!--
+
 https://axieinfinity.com
 
 

@@ -53,6 +53,14 @@ Coming soon!
 
 <!-- soundcloud and /mu/ discovery -->
 
+- ★★★★☆ | Charles Mingus :: _Let My Children Hear Music_
+- ☆☆☆☆☆ | Planxty :: _The Well Below the Valley_
+- ☆☆☆☆☆ | Slime Girls :: _Vacation Wasteland_
+- ★★★★☆ | Rosemary Fairweather :: _Heavenly_
+- ★★★★★ | Underoath :: _Define the Great Line_
+- ★★★☆☆ | Rodan :: _Rusty_
+- ★★★★☆ | A Day to Remember :: _Old Record_
+- ★★★★★ | Return to Forever :: _Romantic Warrior_
 - ★★★★☆ | The Fall of Troy :: _Manipulator_
 - ★★★★★ | Flyleaf :: _Flyleaf_
 - ★★☆☆☆ | Girls Rituals :: _Reddishness_
@@ -1036,7 +1044,6 @@ Coming soon!
 - ☆☆☆☆☆ | LukHash :: _The Other Side_
 - ☆☆☆☆☆ | Slime Girls :: _Heart On Wave_
 - ☆☆☆☆☆ | Slime Girls :: _Yumemi / Lonely Planet Girl_
-- ☆☆☆☆☆ | Slime Girls :: _Vacation Wasteland_
 - ☆☆☆☆☆ | Lifeformed :: _Fastfall - Dustforce Original Soundtrack_
 - ☆☆☆☆☆ | Empress Of :: _Me_
 - ☆☆☆☆☆ | Oneohtrix Point Never :: _Garden Of Delete_

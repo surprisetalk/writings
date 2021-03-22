@@ -53,6 +53,9 @@ Coming soon!
 
 <!-- soundcloud and /mu/ discovery -->
 
+- ☆☆☆☆☆ | Ween :: _Quebec_
+- ★★☆☆☆ | World's End Girlfriend & Vampillia :: _在りし日の声 Voices of Days Past_
+- ★★☆☆☆ | Röyksopp :: _Senior_
 - ★★★★☆ | Charles Mingus :: _Let My Children Hear Music_
 - ☆☆☆☆☆ | Planxty :: _The Well Below the Valley_
 - ☆☆☆☆☆ | Slime Girls :: _Vacation Wasteland_
@@ -683,7 +686,6 @@ Coming soon!
 - ☆☆☆☆☆ | Röyksopp :: _The Understanding_
 - ☆☆☆☆☆ | Röyksopp :: _Röyksopp's Night Out_
 - ☆☆☆☆☆ | Röyksopp :: _Junior_
-- ☆☆☆☆☆ | Röyksopp :: _Senior_
 - ☆☆☆☆☆ | Röyksopp :: _The Inevitable End_
 - ☆☆☆☆☆ | Bright Eyes :: _I'm Wide Awake, It's Morning_
 - ☆☆☆☆☆ | Yeah Yeah Yeahs :: _Fever To Tell_

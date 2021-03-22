@@ -101,16 +101,16 @@ https://news.ycombinator.com/item?id=25518730
   - o kepeken e ilo tenpo. o pali kepeken tenpo lili.
   - o pali lon poki lili. o pali kepeken nasin nasa.
   - o toki e ni tawa sina: pali pona li lukin e seme?
-  - sina kama pali, la o pali e pali ike.
+  - sina kama pali, la o pini e pali ike.
   - o pali ala e pali kama. o pali lili. o pali kepeken tenpo lili.
 - pali e ijo
   - sina lukin e musi wan, la sina pali li ijo tu.
-  - o weka li nanpa wan.
+  - o weka li pali nanpa wan sina.
   - o pali li ijo pakala.
 - lukin e musi
   - sina wile lukin e musi, la o pini e pali.
   - tenpo suno ale, la o lukin e lipu wan. sina soma ala e ni, la o lukin kin e ni lon tenpo kama.
-  - sina lukin e musi la o pali e musi.
+  - sina lukin e musi, la o pali e musi.
   - o lukin lili e musi pi ma Nijon.
   - o lukin e musi kepeken tenpo lili. o lukin wawa.
 - toki
@@ -125,7 +125,7 @@ https://news.ycombinator.com/item?id=25518730
   - ale li ken awen. sina ken toki lon tenpo kama.
   - taso, la tenpo ale, la o toki lon tenpo suno sama.
 - jan
-  - o wile ala e olin. o tawa e tomo pi pali sijelo e tomo sitelen.
+  - o wile ala e olin. o tawa tawa tomo pi pali sijelo en tomo sitelen.
   - pakala jan taso e ni: jan li pali e ike.
   - tenpo ale, la o weka e jan sina. sina wile jo e jan pona.
   - o weka ala e tenpo tan jan. ona li pona tawa sina, la o toki e ona kepeken ilo toki.
@@ -155,24 +155,24 @@ https://news.ycombinator.com/item?id=25518730
   - tenpo suno ale, la o pini lape lon tenpo sama. tenpo walo, la sina wile lape lili.
   - sina moku e telo wawa, la o moku e moku "l-theanine".
   - o moku e telo mute.
-  - o moku ala e moku ike. ni li lon ala e nasin lili.
+  - o moku ala e moku ike. nasin lili li lon ala.
   - o telo e sijelo sina kepeken telo lete.
   - o pali lili e moku nasa.
   - sina moku e telo nasa, la o moku e telo.
   - o kute wawa e lawa sina.
 - tenpo
-  - o tawa ala e esun. o esun kepeken ilo nanpa.
+  - o tawa ala tawa esun. o esun kepeken ilo nanpa.
   - o pali ala e musi pi ilo nanpa pi pini ala. o pali ala e musi pi ilo nanpa pi jan mute.
   - tenpo sina li lili. o kama jo pona e tenpo sina.
   - sina awen, la sina weka e tenpo.
 - mani
   - nanpa wan la, o pana e mani tan sijelo sina. kama la, o pana e mani tan mani weka pi ona. kama la, o awen e mani. kama la, o esun e ale.
-  - o esun e ilo ona. sama la, esun pi ilo ona li jo pi tenpo lili.
-  - tenpo suno ale, la o pali e len sama.
+  - o esun e ijo ona. sama la, esun pi ijo ona li jo pi tenpo lili.
+  - tenpo suno ale, la o pali e len sina.
 - pilin lawa
   - o tu e pali ike sina. o pali e pali lili. sina li ken pali ala, la o ante e sona sina.
   - sina sona ala, la o pana ala e sona.
-  - sina kama e pali la, o weka e sona pini.
+  - sina kama e pali, la o weka e sona pini.
   - ---
   - ---
   - tenpo suno ale, la o lukin e sitelen lili pi sona.

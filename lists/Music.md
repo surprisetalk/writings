@@ -53,6 +53,9 @@ Coming soon!
 
 <!-- soundcloud and /mu/ discovery -->
 
+- ★★☆☆☆ | Kevin Morby :: _Singing Saw_
+- ★★★☆☆ | Louis Cole :: _Louis Cole_
+- ★★★☆☆ | Doss :: _Doss_
 - ☆☆☆☆☆ | Ween :: _Quebec_
 - ★★☆☆☆ | World's End Girlfriend & Vampillia :: _在りし日の声 Voices of Days Past_
 - ★★☆☆☆ | Röyksopp :: _Senior_

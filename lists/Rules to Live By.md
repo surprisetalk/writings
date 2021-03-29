@@ -109,7 +109,7 @@ https://news.ycombinator.com/item?id=25518730
   - o pali li ijo pakala.
 - lukin e musi
   - sina wile lukin e musi, la o pini e pali.
-  - tenpo suno ale, la o lukin e lipu wan. sina soma ala e ni, la o lukin kin e ni lon tenpo kama.
+  - tenpo suno ale, la o lukin e lipu toki wan. sina soma ala e ni, la o lukin kin e ni lon tenpo kama.
   - sina lukin e musi, la o pali e musi.
   - o lukin lili e musi pi ma Nijon.
   - o lukin e musi kepeken tenpo lili. o lukin wawa.
@@ -118,7 +118,7 @@ https://news.ycombinator.com/item?id=25518730
   - jan li toki e ike tawa sina, la o toki e ni tawa sina: "ona li toki e pona, la seme li ante tawa mi?".
   - toki pi pilin ala li ike.
   - ona li wile toki e ona. ona li wile toki ala e sina.
-  - o toki ike ala. jan li lukin insa lawa sina, la jan li ken pona e lawa sina.
+  - tenpo ale, la o toki e lawa sina. jan li lukin insa lawa sina, la jan li ken pona e lawa sina.
   - jan li pona tawa sina, la o toki e ona lon tenpo mun ale.
   - o kepeken e nimi pona e nimi wawa. o kepeken ala e nimi suli e nimi ike. 
   - o kepeken e toki musi. taso o kepeken ala e toki musi mute.
@@ -157,7 +157,7 @@ https://news.ycombinator.com/item?id=25518730
   - o moku e telo mute.
   - o moku ala e moku ike. nasin lili li lon ala.
   - o telo e sijelo sina kepeken telo lete.
-  - o pali lili e moku nasa.
+  - o moku e moku nasa. taso o moku lili e moku nasa.
   - sina moku e telo nasa, la o moku e telo.
   - o kute wawa e lawa sina.
 - tenpo

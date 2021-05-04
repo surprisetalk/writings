@@ -1284,3 +1284,41 @@ $&xs
 
 -->
 
+<!--
+
+  -- TODO: Actually, make smaller functions like surprisetalk/deploy-scrapscript-to-cloudflare that are searchable.
+  -- TODO: In the console, devs can do something like Ctrl-S to search for scraps.
+  
+
+  -- Web examples:
+
+
+     scrap/from-text "\ x -> x"
+     |> task/from-result
+     |> task/and-then (beta/cloudflare-workers/deploy-simple-server TODO)
+     |> task/map url/to-text
+     
+     ---- task/success "https://workers.cloudflare.com/lumping-carefully-solace"
+     
+     
+     scrap/from-text "url/from-text \"https://workers.cloudflare.com/lumping-carefully-solace\""
+     |> result/and-then sliver/from-scrap
+     |> task/from-result
+     |> task/and-then (@scrapland/scrapbook/publish my-key (path/from-string "my-echo-server"))
+     
+     ---- task/success nothing
+     
+     
+     @taylor/my-echo-server "hello"
+     
+     ---- task/success "hello"
+     
+
+  
+     -- TODO: sorting/searching/renaming files
+
+     -- TODO: web page
+
+     -- TODO: game
+
+-->

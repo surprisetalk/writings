@@ -140,3 +140,23 @@ cinnamon project incense holders
 ice cream maker
 
 -->
+
+<!--
+
+smart home:
+- thermostat: ecobee 3 lite
+- wifi: eero pros
+- security: abode
+  - glass break sensors
+  - motion sensors
+  - door/window sensors
+  - indoor/outdoor sirens
+  - water leak sensors
+  - multisensor
+- doorbell: logitech circle view
+- light switches: eve light switches
+
+
+- color strip: LIFX Beam?
+
+-->

@@ -53,6 +53,11 @@ Coming soon!
 
 <!-- soundcloud and /mu/ discovery -->
 
+- ☆☆☆☆☆ | Charly Bliss :: _Guppy_
+- ★★★☆☆ | Planxty :: _The Well Below the Valley_
+- ★★☆☆☆ | Wovenhand :: _Blush Music_
+- ☆☆☆☆☆ | Norma Jean :: _Wrongdoers_ 
+- ★★★☆☆ | Ornette Coleman :: _The Shape of Jazz to Come_
 - ★★☆☆☆ | Kevin Morby :: _Singing Saw_
 - ★★★☆☆ | Louis Cole :: _Louis Cole_
 - ★★★☆☆ | Doss :: _Doss_

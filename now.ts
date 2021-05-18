@@ -44,15 +44,23 @@ const routines = (fs.readFileSync(`${__dirname}/routines.csv`, `utf8`) || error(
   .filter(s => s.length)
   .map(s => s.split(`|`).map(s => s.trim()))
   .map(([group,routine,frequency,description]) => {
-      if (`once per day` == frequency)
-          return {group,routine,frequency:null,description};
-      else {
+      if (`never` == frequency) {
+      } else if (`once per day` == frequency) {
+          return {group,routine,isRepeated:false,window:null,description};
+      } else if (frequency.startsWith(`once during`)) {
+          const [start,end] = (frequency.match(/^once during (\d{4})-(\d{4})$/) || []).slice(1).map(dateFromMilitaryTime);
+          if (start && end)
+              return {group,routine,isRepeated:false,window:{start,end},description};
+          else
+              throw new Error(`Undefined unrepeated window: ${window}`);
+      } else if (frequency.startsWith(`repeated during`)) {
           const [start,end] = (frequency.match(/^repeated during (\d{4})-(\d{4})$/) || []).slice(1).map(dateFromMilitaryTime);
           if (start && end)
-              return {group,routine,frequency:{start,end},description};
+              return {group,routine,isRepeated:true,window:{start,end},description};
           else
-              throw new Error(`Undefined frequency: ${frequency}`);
-      }
+              throw new Error(`Undefined repeated window: ${window}`);
+      } else
+          throw new Error(`Invalid frequency: ${frequency}.`);
   });
 
 const appendLog = (event, info=``) => fs.appendFileSync(`${__dirname}/log.csv`, `\n${new Date()},${event},${info}`);
@@ -77,7 +85,7 @@ const log = (fs.readFileSync(`${__dirname}/log.csv`, `utf8`) || error(`${__dirna
 
 (async () => {
 
-    for (const {group,routine,frequency,description} of routines) {
+    for (const {group,routine,isRepeated,window,description} of routines.filter(routine => routine)) {
         const promptChar = async acceptableChars => {
             const promptChar_ = async () => await new Promise((res,rej) => {
                 const listener = (str, key) => {
@@ -154,14 +162,22 @@ const log = (fs.readFileSync(`${__dirname}/log.csv`, `utf8`) || error(`${__dirna
             case `toil:projects`:
         }
         const timer = setTimeout(() => { appendLog(`timeout`, `${group}:${routine}`); process.exit(); }, 2 * 60 * 1000);
-        if (!frequency) {
+        // BUG: {isRepeated: true, window: null} is ignored.
+        if (!isRepeated && !window) {
             if (!log.map(({info}) => `${info.group}:${info.routine}`).includes(`${group}:${routine}`)) {
                 console.log();
                 console.log(`${description} [done/skip]`);
                 const char = await promptChar([`d`,`s`]);
                 appendLog(`input`, `${group}:${routine}:${char}`);
             }
-        } else if (new Date() >= frequency.start && new Date() < frequency.end) {
+        } else if (!isRepeated && new Date() >= window.start && new Date() < window.end) {
+            if (!log.map(({info}) => `${info.group}:${info.routine}`).includes(`${group}:${routine}`)) {
+                console.log();
+                console.log(`${description} [done/skip]`);
+                const char = await promptChar([`d`,`s`]);
+                appendLog(`input`, `${group}:${routine}:${char}`);
+            }
+        } else if (isRepeated && window && new Date() >= window.start && new Date() < window.end) {
             if (!log.filter(({date}) => new Date().getTime() - date.getTime() < 60 * 60 * 1000).map(({info}) => `${info.group}:${info.routine}`).includes(`${group}:${routine}`)) {
                 console.log();
                 console.log(`${description} [done/skip]`);

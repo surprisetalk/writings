@@ -104,9 +104,9 @@ https://news.ycombinator.com/item?id=25518730
   - sina kama pali, la o pini e pali ike.
   - o pali ala e pali kama. o pali lili. o pali kepeken tenpo lili.
 - pali e ijo
-  - sina lukin e musi wan, la sina pali li ijo tu.
-  - o weka li pali nanpa wan sina.
-  - o pali li ijo pakala.
+  - sina lukin e musi wan, la o pali e ijo tu.
+  - o weka e pali nanpa wan sina.
+  - o pali e ijo pakala.
 - lukin e musi
   - sina wile lukin e musi, la o pini e pali.
   - tenpo suno ale, la o lukin e lipu toki wan. sina soma ala e ni, la o lukin kin e ni lon tenpo kama.

@@ -53,7 +53,31 @@ Coming soon!
 
 <!-- soundcloud and /mu/ discovery -->
 
-- ☆☆☆☆☆ | Charly Bliss :: _Guppy_
+<!-- absrdst's "driving me sane" is incredible -->
+
+- ★★★★★ | Disasterpeace :: _Strays_
+- ★☆☆☆☆ | Kizuna AI :: _Replies - EP_
+- ★★☆☆☆ | Biig Piig :: _No Place for Patience, Vol. 3 - EP_
+- ★★★☆☆ | C418 :: _Minecraft - Volume Alpha_
+- ★★★☆☆ | The Fiery Furnaces :: _Bitter Tea_
+- ★★☆☆☆ | Planxty :: _Cold Blow and the Rainy Night_
+- ★★★★☆ | Porter Robinson :: _Worlds_
+- ★★★☆☆ | Porter Robinson :: _Nurture_
+- ☆☆☆☆☆ | Circa Survive :: _Violent Waves_
+- ☆☆☆☆☆ | ABSRDST :: _Imaginary Friend_
+- ☆☆☆☆☆ | Foxes :: _Glorious_
+- ★★★★☆ | Plini :: _Handmade Cities_
+- ★★☆☆☆ | Cecil Taylor :: _Unit Structures_
+- ★☆☆☆☆ | I See Stars :: _Renegades Forever_
+- ★★☆☆☆ | Tame Impala :: _The Slow Rush_
+- ★★☆☆☆ | Destroy Rebuild Until God Shows (D.R.U.G.S.) :: _D.R.U.G.S._
+- ★★☆☆☆ | Bring Me the Horizon :: _Sempiternal_
+- ★☆☆☆☆ | Morgan Page :: _Elevate_
+- ★★☆☆☆ | Chippr Jones :: _Tropics / Cosm - EP_
+- ★★★☆☆ | BADBADNOTGOOD & Ghostface Killah :: _SOUR SOUL_
+- ★★★☆☆ | By the End of Tonight :: _A Tribute to Tigers - EP_
+- ☆☆☆☆☆ | Frank Sinatra :: _Ring-A-Ding-Ding!_
+- ★★★★☆ | Charly Bliss :: _Guppy_
 - ★★★☆☆ | Planxty :: _The Well Below the Valley_
 - ★★☆☆☆ | Wovenhand :: _Blush Music_
 - ☆☆☆☆☆ | Norma Jean :: _Wrongdoers_ 
@@ -485,7 +509,6 @@ Coming soon!
 - ☆☆☆☆☆ | TroyBoi :: _Left Is Right_
 - ☆☆☆☆☆ | Supernaive :: _Dazed & Confused_
 - ☆☆☆☆☆ | DROELOE :: _A Moment In Time_
-- ☆☆☆☆☆ | Plini :: _Handmade Cities_
 - ★★☆☆☆ | Steve Reich & POLIÇA & s t a r g a z e :: _Bruise Blood: Reimagining Steve Reich's Music for Pieces of Wood_
 - ☆☆☆☆☆ | 더 멜로디 :: _The Melody_
 - ☆☆☆☆☆ | Jaejoo Boys :: _유년에게_
@@ -602,7 +625,6 @@ Coming soon!
 - ★★★★☆ | I See Stars :: _3-D_
 - ☆☆☆☆☆ | I See Stars :: _The End Of The World Party_
 - ☆☆☆☆☆ | I See Stars :: _Digital Renegade_
-- ☆☆☆☆☆ | I See Stars :: _Renegades Forever_
 - ☆☆☆☆☆ | I See Stars :: _Treehouse_
 - ☆☆☆☆☆ | Nancy Sinatra :: _Woman_
 - ☆☆☆☆☆ | Nancy Sinatra :: _Nancy In London_
@@ -657,7 +679,6 @@ Coming soon!
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Fore!_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Picture This_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Sports_
-- ☆☆☆☆☆ | Foxes :: _Glorious_
 - ★☆☆☆☆ | Foxes :: _All I Need_
 - ☆☆☆☆☆ | Relient K :: _Relient K_
 - ★★☆☆☆ | Relient K :: _The Anatomy of the Tongue In Cheek_
@@ -925,7 +946,6 @@ Coming soon!
 - ☆☆☆☆☆ | Peter McConnell :: _Broken Age (Original Soundtrack)_
 - ☆☆☆☆☆ | Disasterpeace :: _Level_
 - ☆☆☆☆☆ | Disasterpeace :: _Rise of the Obsidian Interstellar_
-- ☆☆☆☆☆ | Disasterpeace :: _Strays_
 - ☆☆☆☆☆ | Disasterpeace :: _Monsters Ate My Birthday Cake_
 - ☆☆☆☆☆ | Run The Jewels :: _Run the Jewels_
 - ☆☆☆☆☆ | Run The Jewels :: _Run the Jewels 2_
@@ -974,7 +994,6 @@ Coming soon!
 - ☆☆☆☆☆ | Emarosa :: _Relativity_
 - ☆☆☆☆☆ | Emarosa :: _This Is Your Way Out_
 - ☆☆☆☆☆ | Emarosa :: _Versus_
-- ☆☆☆☆☆ | BADBADNOTGOOD & Ghostface Killah :: _SOUR SOUL_
 - ☆☆☆☆☆ | BADBADNOTGOOD :: _IV_
 - ☆☆☆☆☆ | Oneohtrix Point Never :: _R Plus Seven_
 - ☆☆☆☆☆ | Arca :: _Stretch 2_
@@ -1129,7 +1148,6 @@ Coming soon!
 - ☆☆☆☆☆ | Anamanaguchi :: _Endless Fantasy_
 - ☆☆☆☆☆ | Hermitude :: _HyperParadise_
 - ☆☆☆☆☆ | Hermitude :: _Dark Night Sweet Light_
-- ☆☆☆☆☆ | Eskmo :: _Terra_
 - ☆☆☆☆☆ | Eskmo :: _SOL_
 - ☆☆☆☆☆ | Slugabed :: _Coolest_
 - ☆☆☆☆☆ | Slugabed :: _Time Team_

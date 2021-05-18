@@ -1,45 +1,33 @@
 frolic     | good-tunes            | once per day              | Did you listen to some good tunes and dance around a bit?
 frolic     | drink-tea             | once per day              | Did you brew some tasty tea?
-grow       | happy-plants          | once per day              | Are all the plants happy?
-tidy       | litter                | once per day              | Is the kitty litter clean?
-tidy       | finish-dishes         | once per day              | Are the clean dishes put away?
-tidy       | start-dishes          | once per day              | Are the dirty dishes washed?
-tidy       | trash                 | once per day              | Is the trash dealt with?
-tidy       | finish-laundry        | once per day              | Do any clothes need to be put away?
-tidy       | start-laundry         | once per day              | Do any clothes need to be washed?
-tidy       | clutter               | once per day              | Is general clutter put away?
-tidy       | surfaces              | once per day              | Are all the surfaces clean?
-tidy       | desk                  | once per day              | Is desk clutter in projects pile?
-simplify   | spark-joy             | once per day              | Walk through every room and look in every cupboard. Does it all spark joy?
-nothing    | nothing               | once per day              | Did you do a bit of nothing?
-lift       | lift                  | once per day              | Did you do 4 minutes of exercise?
-fuel       | supplements           | once per day              | Did you take your supplements?
-groom      | groom                 | once per day              | Do you feel clean? Is your skin happy?
+grow       | happy-plants          | once during 0500-0800     | Are all the plants happy?
 frolic     | incense               | once per day              | Did you smell some smelly smells?
-review     | review-yesterday      | once per day              | Did you review yesterday's progress?
-review     | review-last-week      | once per day              | Did you review last week's progress?
-review     | review-last-month     | once per day              | Did you review last months's progress?
-review     | automate              | once per day              | Is there anything to automate? Add automation tasks to task list.
+nothing    | nothing               | once per day              | Did you do a bit of nothing?
+tidy       | desk                  | once per day              | Is desk clutter in projects pile?
+review     | review-yesterday      | never                     | Did you review yesterday's progress?
+review     | review-last-week      | never                     | Did you review last week's progress?
+review     | review-last-month     | never                     | Did you review last months's progress?
+review     | automate              | never                     | Is there anything to automate? Add automation tasks to task list.
 calibrate  | relax                 | once per day              | Are you relaxed?
 calibrate  | review-values         | once per day              | Did you review your values?
 calibrate  | review-goals          | once per day              | Did you review your goals?
 calibrate  | review-systems        | once per day              | Did you review your systems?
-calibrate  | shrine                | once per day              | Did you consult your shrine?
+calibrate  | shrine                | never                     | Did you consult your shrine?
 strategize | review-calendar       | once per day              | Did you review your daily/weekly calendar?
 strategize | review-tasks          | once per day              | Did you review your tasks?
-strategize | break-down-tasks      | once per day              | Did you break down your tasks into "mindless" ones?
-strategize | revive-projects       | once per day              | Do all "current" projects have pending tasks?
-strategize | delegate              | once per day              | Can any of these tasks be delegated?
-strategize | cheat-codes           | once per day              | Do any of these tasks have "cheat-codes"? Can any of them be solved in unconventional ways?
-strategize | purge-distractions    | once per day              | Are there any expected distractions? Are you going to prevent them?
-connect    | reach-out             | once per day              | Did you reach out to somebody new?
+strategize | break-down-tasks      | never                     | Did you break down your tasks into "mindless" ones?
+strategize | revive-projects       | never                     | Do all "current" projects have pending tasks?
+strategize | delegate              | never                     | Can any of these tasks be delegated?
+strategize | cheat-codes           | never                     | Do any of these tasks have "cheat-codes"? Can any of them be solved in unconventional ways?
+strategize | purge-distractions    | never                     | Are there any expected distractions? Are you going to prevent them?
+connect    | reach-out             | never                     | Did you reach out to somebody new?
 learn      | spaced-repetition     | once per day              | Did you do a round of spaced-repetition cards?
-toil       | clear-emails          | repeated during 0600-1800 | Are emails at inbox-zero?
-toil       | clear-texts           | repeated during 0600-2100 | Is iMessage at inbox-zero?
 toil       | clear-slack           | repeated during 0600-1800 | Is Slack at inbox-zero?
+toil       | clear-texts           | repeated during 0600-2100 | Is iMessage at inbox-zero?
+toil       | clear-emails          | repeated during 0600-1800 | Are emails at inbox-zero?
 toil       | clear-forums          | repeated during 0600-1800 | Are forums at inbox-zero?
-toil       | clear-tabs            | repeated during 0600-1800 | Are all browser tabs cleared from all devices?
 toil       | clear-github          | repeated during 0800-1700 | Are all GitHub notifications cleared?
+toil       | clear-tabs            | repeated during 0600-1800 | Are all browser tabs cleared from all devices?
 toil       | clear-clubhouse       | repeated during 0800-1700 | Are all ClubHouse notifications cleared?
 toil       | clear-task-inbox      | repeated during 0600-1900 | Did you clear `inbox.txt`?
 toil       | clubhouse-in-progress | repeated during 0800-1700 | Clear "In Progress" from ClubHouse.
@@ -47,3 +35,15 @@ toil       | career                | repeated during 0800-1700 | Clear `next-car
 toil       | clubhouse-dev-ready   | repeated during 0800-1700 | Clear "Dev Ready" from ClubHouse.
 toil       | clear-physical-tasks  | repeated during 0600-2100 | Did you clear all "projects piles"?
 toil       | personal              | repeated during 0600-2100 | Complete personal tasks from `tasks.csv` and project tasks from project files!
+tidy       | litter                | once during 1100-2100     | Is the kitty litter clean?
+tidy       | finish-dishes         | once during 1100-2100     | Are the clean dishes put away?
+tidy       | start-dishes          | once during 1100-2100     | Are the dirty dishes washed?
+tidy       | trash                 | once during 1100-2100     | Is the trash dealt with?
+tidy       | finish-laundry        | once during 1100-2100     | Do any clothes need to be put away?
+tidy       | start-laundry         | once during 1100-2100     | Do any clothes need to be washed?
+tidy       | clutter               | once during 1100-2100     | Is general clutter put away?
+tidy       | surfaces              | once during 1100-2100     | Are all the surfaces clean?
+simplify   | spark-joy             | once during 1100-2100     | Walk through every room and look in every cupboard. Does it all spark joy?
+lift       | lift                  | once during 1600-1900     | Did you do 4 minutes of exercise?
+fuel       | supplements           | once during 1600-2000     | Did you eat and take supplements?
+groom      | groom                 | once during 1600-2000     | Do you feel clean? Is your skin happy?

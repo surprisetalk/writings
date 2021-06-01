@@ -24,6 +24,7 @@ Coming soon!
 - ★★☆☆☆ | Moe Shop :: _Cerise_
 - ★★★☆☆ | Reinabe :: _In the Object_
 - ★★★☆☆ | EASYFUN :: _Blink_
+- ★★★☆☆ | Hannah Diamond :: _Invisible_
 
 
 ### Albums
@@ -55,6 +56,16 @@ Coming soon!
 
 <!-- absrdst's "driving me sane" is incredible -->
 
+- ☆☆☆☆☆ | Devics :: _Push the Heart_
+- ☆☆☆☆☆ | Godspeed You! Black Emperor :: _Lift Your Skinny Fists Like Antennas to Heaven_
+- ☆☆☆☆☆ | The Helix Nebula :: _Meridian_
+- ★★☆☆☆ | Macross 82-99 :: _CHAM!_
+- ★★★★☆ | Peggy Lee :: _Things Are Swingin'_
+- ☆☆☆☆☆ | Seiko Oomori :: _Muteki_
+- ☆☆☆☆☆ | Earthside :: _A Dream in Static_
+- ★★★★☆ | Enemies :: _Embark, Embrace_
+- ☆☆☆☆☆ | Bill Laurance :: _Flint_
+- ★★★★★ | Enya :: _A Day Without Rain_
 - ★★★★★ | Disasterpeace :: _Strays_
 - ★☆☆☆☆ | Kizuna AI :: _Replies - EP_
 - ★★☆☆☆ | Biig Piig :: _No Place for Patience, Vol. 3 - EP_
@@ -361,7 +372,6 @@ Coming soon!
 - ★★★★★ | Cartel :: _Chroma_
 - ★★★☆☆ | Iglooghost :: _Chinese Nü Yr_
 - ★★★★☆ | Esperanza Spalding :: _Chamber Music Society_
-- ★★☆☆☆ | Macross 82-99 :: _CHAM!_
 - ★★☆☆☆ | mewithoutYou :: _Catch For Us The Foxes_
 - ★★★☆☆ | Sithu Aye :: _Cassini_
 - ★★☆☆☆ | City Girl :: _Celestial Angel_
@@ -863,7 +873,6 @@ Coming soon!
 - ☆☆☆☆☆ | Cloudkicker :: _Live with Intronaut_
 - ☆☆☆☆☆ | Cloudkicker :: _Little Histories_
 - ☆☆☆☆☆ | Olivier Latry :: _Charles-Marie Widor: 5e & 6e Symphonies pour Orgue aux Grandes Orgues de Notre-Dame de Paris_
-- ☆☆☆☆☆ | Enya :: _A Day Without Rain_
 - ★☆☆☆☆ | Cut Copy :: _Bright Like Neon Love_
 - ☆☆☆☆☆ | Blank Banshee :: _Mega_
 - ☆☆☆☆☆ | Infinity Shred :: _Long Distance_
@@ -960,8 +969,6 @@ Coming soon!
 - ☆☆☆☆☆ | Oskar Schuster :: _Singur_
 - ☆☆☆☆☆ | Oskar Schuster :: _Sneeuwland_
 - ☆☆☆☆☆ | Ricardo Padua & Miku Hatsune :: _Electronic Heartbeat_
-- ☆☆☆☆☆ | Earthside :: _A Dream in Static_
-- ☆☆☆☆☆ | The Helix Nebula :: _Meridian_
 - ☆☆☆☆☆ | Hrvrd :: _The Inevitable And I_
 - ★★★★★ | Swimming With Dolphins :: _Ambient Blue_
 - ☆☆☆☆☆ | Townes Van Zandt :: _Townes Van Zandt_
@@ -1099,7 +1106,6 @@ Coming soon!
 - ☆☆☆☆☆ | Giraffes? Giraffes! :: _More Skin With Milk-Mouth_
 - ☆☆☆☆☆ | Giraffes? Giraffes! :: _Pink Magick_
 - ☆☆☆☆☆ | Enemies :: _We've Been Talking_
-- ☆☆☆☆☆ | Enemies :: _Embark, Embrace_
 - ☆☆☆☆☆ | Don Caballero :: _What Burns Never Returns_
 - ☆☆☆☆☆ | Don Caballero :: _Don Caballero 2_
 - ★★★☆☆ | Don Caballero :: _American Don_

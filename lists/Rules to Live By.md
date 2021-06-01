@@ -129,9 +129,9 @@ https://news.ycombinator.com/item?id=25518730
   - pakala jan taso e ni: jan li pali e ike.
   - tenpo ale, la o weka e jan sina. sina wile jo e jan pona.
   - o weka ala e tenpo tan jan. ona li pona tawa sina, la o toki e ona kepeken ilo toki.
-  - sina li pana e tenpo sina, la o sona e tenpo sina.
+  - sina pana e tenpo sina, la o sona e tenpo sina.
   - tenpo mute, la jan wan li pakala ala.
-  - o toki e pona tawa jan sona sina. jan ale li jo jan sona. ni li pilin pipi.
+  - o toki e pona tawa jan sona sina. jan ale li jo e jan sona. ni li pilin pipi.
 - ale pali
   - o tawa lon nasin ale. o pakala ala. o kama jo e ale.
   - sina sona ala e pali sina, la o pali e ala. anu, la o kute e kon sina. ale li pona, la sina pali.
@@ -150,7 +150,7 @@ https://news.ycombinator.com/item?id=25518730
   - ala li mute.
   - o toki ala e ni: ale li ike.
   - sina pilin e ike, la o kon. sina pilin kin e ike, la o moku e telo. sina pilin kin e ike, la kama sona e tan.
-  - sina li musi e sina, la sina li musi e jan.
+  - sina musi e sina, la sina musi e jan.
 - sijelo pona
   - tenpo suno ale, la o pini lape lon tenpo sama. tenpo walo, la sina wile lape lili.
   - sina moku e telo wawa, la o moku e moku "l-theanine".
@@ -170,7 +170,7 @@ https://news.ycombinator.com/item?id=25518730
   - o esun e ijo ona. sama la, esun pi ijo ona li jo pi tenpo lili.
   - tenpo suno ale, la o pali e len sina.
 - pilin lawa
-  - o tu e pali ike sina. o pali e pali lili. sina li ken pali ala, la o ante e sona sina.
+  - o tu e pali ike sina. o pali e pali lili. sina ken pali ala, la o ante e sona sina.
   - sina sona ala, la o pana ala e sona.
   - sina kama e pali, la o weka e sona pini.
   - ---

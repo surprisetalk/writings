@@ -1,6 +1,6 @@
 frolic     | good-tunes            | once per day              | Did you listen to some good tunes and dance around a bit?
 frolic     | drink-tea             | once per day              | Did you brew some tasty tea?
-grow       | happy-plants          | once during 0500-0800     | Are all the plants happy?
+grow       | happy-plants          | never                     | Are all the plants happy?
 frolic     | incense               | once per day              | Did you smell some smelly smells?
 nothing    | nothing               | once per day              | Did you do a bit of nothing?
 tidy       | desk                  | once per day              | Is desk clutter in projects pile?
@@ -9,12 +9,12 @@ review     | review-last-week      | never                     | Did you review 
 review     | review-last-month     | never                     | Did you review last months's progress?
 review     | automate              | never                     | Is there anything to automate? Add automation tasks to task list.
 calibrate  | relax                 | once per day              | Are you relaxed?
-calibrate  | review-values         | once per day              | Did you review your values?
-calibrate  | review-goals          | once per day              | Did you review your goals?
-calibrate  | review-systems        | once per day              | Did you review your systems?
+calibrate  | review-values         | never                     | Did you review your values?
+calibrate  | review-goals          | never                     | Did you review your goals?
+calibrate  | review-systems        | never                     | Did you review your systems?
 calibrate  | shrine                | never                     | Did you consult your shrine?
 strategize | review-calendar       | once per day              | Did you review your daily/weekly calendar?
-strategize | review-tasks          | once per day              | Did you review your tasks?
+strategize | review-tasks          | never                     | Did you review your tasks?
 strategize | break-down-tasks      | never                     | Did you break down your tasks into "mindless" ones?
 strategize | revive-projects       | never                     | Do all "current" projects have pending tasks?
 strategize | delegate              | never                     | Can any of these tasks be delegated?

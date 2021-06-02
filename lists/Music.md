@@ -56,6 +56,7 @@ Coming soon!
 
 <!-- absrdst's "driving me sane" is incredible -->
 
+- ☆☆☆☆☆ | Chuck Sutton :: _I Know What I'm Doing*_
 - ☆☆☆☆☆ | Devics :: _Push the Heart_
 - ☆☆☆☆☆ | Godspeed You! Black Emperor :: _Lift Your Skinny Fists Like Antennas to Heaven_
 - ☆☆☆☆☆ | The Helix Nebula :: _Meridian_

@@ -1903,6 +1903,49 @@ Mathematicians Find Long-Sought Building Blocks for Special Polynomials: https:/
 In 2019 US Navy warships were swarmed by UFOs: https://news.ycombinator.com/item?id=27314881
 Radar data confirms: USS Omaha was surrounded by swarm of UFOs: https://news.ycombinator.com/item?id=27314922
 
+Twitter confirms Twitter Blue | Hacker News: https://news.ycombinator.com/item?id=27316115
+Why Russians do not smile (2002) | Hacker News: https://news.ycombinator.com/item?id=27317859
+The Feynman Lectures on Physics Audio Collection | Hacker News: https://news.ycombinator.com/item?id=27322636
+The Japanese Floor Workbench (Atedai 当て台) by Dominic Campbell – Part 1 – Covington & Sons Tools: https://covingtonandsons.com/2020/07/04/the-japanese-floor-workbench-atedai-%E5%BD%93%E3%81%A6%E5%8F%B0-by-dominic-campbell-part-1/
+A Japanese Workbench | Popular Woodworking Magazine: https://www.popularwoodworking.com/chris-schwarz-blog/a-japanese-workbench/
+Getting started in woodworking: Building a Japanese Workbench | Digital Woodworker: http://digitalwoodworker.com/2012/02/08/getting-started-in-woodworking-building-a-japanese-workbench/
+Future of work will be 5-hour days, 4-day workweek, flexible staggered schedules | Hacker News: https://news.ycombinator.com/item?id=27324332
+32 short films about glenn gould at DuckDuckGo: https://duckduckgo.com/?q=32+short+films+about+glenn+gould&t=osx&ia=web
+Trials begin on lozenge that rebuilds tooth enamel | Hacker News: https://news.ycombinator.com/item?id=27328663
+All the best engineering advice I stole from non-technical people (2019) | Hacker News: https://news.ycombinator.com/item?id=27330031
+Philip K. Dick: A Visionary Among the Charlatans (1975) | Hacker News: https://news.ycombinator.com/item?id=27327755
+Two airlines will postpone sales of alcohol amid surge of in-flight violence | Hacker News: https://news.ycombinator.com/item?id=27330425
+Amazon devices will soon automatically share your Internet with neighbors | Hacker News: https://news.ycombinator.com/item?id=27328087
+A picture of the worst day of a professional engineer's life | Hacker News: https://news.ycombinator.com/item?id=27329716
+Would It Even Be Possible to Communicate with an Alien? | Hacker News: https://news.ycombinator.com/item?id=27330110
+Please commit more blatant academic fraud | Hacker News: https://news.ycombinator.com/item?id=27331807
+“Computer science is not about computers” | Hacker News: https://news.ycombinator.com/item?id=27330400
+Show HN: Paperd.ink – Open-source e-paper development board | Hacker News: https://news.ycombinator.com/item?id=27331311
+Morning diurnal preference is associated with reduced risk of depression: study | Hacker News: https://news.ycombinator.com/item?id=27328290
+Core Pathways of Aging - LessWrong: https://www.lesswrong.com/posts/ui6mDLdqXkaXiDMJ5/core-pathways-of-aging
+Overkill objects for everyday life | Hacker News: https://news.ycombinator.com/item?id=27334223
+Cloud Atlas 'astonishingly different' in US and UK editions, study finds (2016) | Hacker News: https://news.ycombinator.com/item?id=27335804
+Drunk Post: Things I've Learned as a Sr Engineer | Hacker News: https://news.ycombinator.com/item?id=27333260
+Natural farming - Wikipedia: https://en.wikipedia.org/wiki/Natural_farming
+Primordial chord - Google Search: https://www.google.com/search?hl=en&q=Primordial%20chord
+40 things happen after you die book - Google Search: https://www.google.com/search?hl=en&q=40%20things%20happen%20after%20you%20die%20book
+Technology “Addiction” | Hacker News: https://news.ycombinator.com/item?id=27343127
+Let’s Build a Regex Engine | kean.blog: https://kean.blog/post/lets-build-regex
+SQL Query Optimization: Understanding Key Principle: https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/
+EXPLAIN ANALYZE in PostgreSQL and how to interpret it - Cybertec: https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/
+The Gleam Programming Language and its Creator Louis Pilfold - #InferencePodcast S1E4 - YouTube: https://www.youtube.com/watch?v=az_GarVoXEE
+On Smoking | Hacker News: https://news.ycombinator.com/item?id=27347035
+Neural networks emulate any guitar pedal for $120 | Hacker News: https://news.ycombinator.com/item?id=27342509
+Avoid buying in HOA neighborhoods (2014) | Hacker News: https://news.ycombinator.com/item?id=27348079
+How to plant trees and shrubs, the Permaculture Apprentice way - Permaculture Apprentice: https://permacultureapprentice.com/planting-trees-and-shrubs-permaculture-apprentice-way/
+Super Mario Bros: The Human Limit | Summoning Salt on Patreon: https://www.patreon.com/posts/51920634
+Born to Be Posthumous: The Eccentric Life and Mysterious Genius of Edward Gorey | Hacker News: https://news.ycombinator.com/item?id=27308592
+The Anxiety of Influencers | Hacker News: https://news.ycombinator.com/item?id=27349755
+I’m Not Scared to Reenter Society. I’m Just Not Sure I Want To | Hacker News: https://news.ycombinator.com/item?id=27353982
+Employees are quitting instead of giving up working from home | Hacker News: https://news.ycombinator.com/item?id=27353672
+Tech Interviews Are Stupid | Hacker News: https://news.ycombinator.com/item?id=27356276
+
+
 -->
 
 ## 2019/04/06 0732h 

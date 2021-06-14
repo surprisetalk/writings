@@ -5,6 +5,11 @@ Coming soon!
 
 Consider breaking everything up into questions and answers, so that students can use it for self-study by covering up the answers, e.g. "What is biology? The study of chemical replicators."
 
+For each section, I think we should break it down into:
+- Theory: what mental models do you use to inspect the phenomenon? (e.g. biology is chemical replicators)
+- Practice: what is it like in the real world? (e.g. bilateral symmetry)
+- Tools: how do you investigate? (e.g. populaton statistics)
+
 
 # Philosophy
 
@@ -51,6 +56,11 @@ TODO: dimensional analysis
         - <how do plants store energy as sugars?>
         - <why does the sun radiate photons? fusion!>
       - <eating: the main types of dietary energy are carbs, proteins, fats. all of these happen to be energy storage chemicals>
+
+
+# Cognitive Science
+
+- Groups of neurons are able to compute at an emergent level. They do this by firing together and wiring together, which creates "analogies" of the inputs. Cognitive science is the study of "analogy engines".
 
       
 # Psychology

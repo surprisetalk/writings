@@ -56,6 +56,9 @@ Coming soon!
 
 <!-- absrdst's "driving me sane" is incredible -->
 
+- ☆☆☆☆☆ | Fishmans :: _Long Season_
+- ☆☆☆☆☆ | Nobuo Uematsu :: _FINAL FANTASY VII (Original Soundtrack)_
+- ★★★☆☆ | Eternity Forever & Ben Rosett :: _Unmixed. Unmastered. - EP_
 - ☆☆☆☆☆ | Chuck Sutton :: _I Know What I'm Doing*_
 - ☆☆☆☆☆ | Devics :: _Push the Heart_
 - ☆☆☆☆☆ | Godspeed You! Black Emperor :: _Lift Your Skinny Fists Like Antennas to Heaven_

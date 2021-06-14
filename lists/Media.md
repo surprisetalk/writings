@@ -1945,6 +1945,125 @@ I’m Not Scared to Reenter Society. I’m Just Not Sure I Want To | Hacker News
 Employees are quitting instead of giving up working from home | Hacker News: https://news.ycombinator.com/item?id=27353672
 Tech Interviews Are Stupid | Hacker News: https://news.ycombinator.com/item?id=27356276
 
+32 Short Films About Glenn Gould – Glenn Gould: https://glenngould.com/32-short-films-about-glenn-gould/
+America has a drinking problem | Hacker News: https://news.ycombinator.com/item?id=27357592
+Implicit Differentiation | Hacker News: https://news.ycombinator.com/item?id=27365868
+The Development of Erlang (1997) | Hacker News: https://news.ycombinator.com/item?id=27365883
+I built my own analog drum machine (2020) | Hacker News: https://news.ycombinator.com/item?id=27365989
+Tour of our 250k line Clojure codebase | Hacker News: https://news.ycombinator.com/item?id=27385208
+Algorithmic Botany | Hacker News: https://news.ycombinator.com/item?id=27379780
+Want a killer product? Become more opinionated | Hacker News: https://news.ycombinator.com/item?id=27373825
+The theft and ransom of dogs in the 18th century | Hacker News: https://news.ycombinator.com/item?id=27379908
+An Unbelievable Demo | Hacker News: https://news.ycombinator.com/item?id=27390512
+John Carmack on JPEG | Hacker News: https://news.ycombinator.com/item?id=27399416
+Bitcoin’s reliance on stablecoins harks back to the Wild West of finance | Hacker News: https://news.ycombinator.com/item?id=27399730
+LOL just got kicked out of @ycombinator | Hacker News: https://news.ycombinator.com/item?id=27399581
+The bullshit-jobs thesis may be bullshit | Hacker News: https://news.ycombinator.com/item?id=27392455
+Brilliant Visions – Peyote among the Aesthetes (2019) | Hacker News: https://news.ycombinator.com/item?id=27386303
+Engineers Create a Programmable Fiber | Hacker News: https://news.ycombinator.com/item?id=27383428
+Meritocracy Is a Myth | Hacker News: https://news.ycombinator.com/item?id=27399685
+Gibbard’s Theorem vs. Stable Matching | Hacker News: https://news.ycombinator.com/item?id=27378770
+Apple, Mozilla, Google, Microsoft form group to standardize browser plug-ins | Hacker News: https://news.ycombinator.com/item?id=27404017
+Humans Can Learn How to 'Echolocate' in 10 Weeks, Experiment Shows | Hacker News: https://news.ycombinator.com/item?id=27404132
+Yokohama Kaidashi Kikō - Wikipedia: https://en.wikipedia.org/wiki/Yokohama_Kaidashi_Kik%C5%8D
+Mathematicians Identify Threshold at Which Shapes Give Way | Hacker News: https://news.ycombinator.com/item?id=27409448
+Perfume: Articles of Interest #9 — 99% Invisible — Overcast: https://overcast.fm/+DAX9llI
+The right tag for the job: why you should use semantic HTML | Hacker News: https://news.ycombinator.com/item?id=27414183
+Show HN: I discovered a trading algorithm that returns ~24.85% annually | Hacker News: https://news.ycombinator.com/item?id=27414677
+The modern trap of turning hobbies into hustles (2019) | Hacker News: https://news.ycombinator.com/item?id=27414184
+The Repeated Deaths of OOP (2015) | Hacker News: https://news.ycombinator.com/item?id=27411106
+Why the textbook marketplace is fundamentally broken | Hacker News: https://news.ycombinator.com/item?id=27414560
+Password Managers | Hacker News: https://news.ycombinator.com/item?id=27407603
+Elon Musk Cancels Tunnels Projects! - YouTube: https://www.youtube.com/watch?v=xbt2toXijd4
+Why Twisted is an Unexpected Masterpiece - YouTube: https://www.youtube.com/watch?v=0sDuc9Xnttg
+Roger Penrose explains Godel's incompleteness theorem in 3 minutes - YouTube: https://www.youtube.com/watch?v=w11mI67R95I
+Perhaps the weakest link in the US electrical system - YouTube: https://www.youtube.com/watch?v=K_q-xnYRugQ
+General Grievous: The Perfect Evil Introduction (2003 Clone Wars) - YouTube: https://www.youtube.com/watch?v=177oMdZkU9A
+Sorry everybody, I failed with you | Hacker News: https://news.ycombinator.com/item?id=27420554
+How to Start a Novel | Hacker News: https://news.ycombinator.com/item?id=27415122
+The Levenshtein distance in production (2020) | Hacker News: https://news.ycombinator.com/item?id=27410910
+HN “Why Not Simply” | Hacker News: https://news.ycombinator.com/item?id=27415725
+Show HN: Mlatu, a Concatenative Programming Language | Hacker News: https://news.ycombinator.com/item?id=27418286
+Remove left turns for less dangerous city traffic | Hacker News: https://news.ycombinator.com/item?id=27412587
+It just doesn't matter (2006) | Hacker News: https://news.ycombinator.com/item?id=27423742
+Rant: iOS App Store search is awful (2018) | Hacker News: https://news.ycombinator.com/item?id=27423340
+Demo-Driven Development | Hacker News: https://news.ycombinator.com/item?id=27417551
+Yatima: A programming language for the decentralized web | Hacker News: https://news.ycombinator.com/item?id=27425941
+FoundationDB: A distributed, unbundled, transactional key value store [pdf] | Hacker News: https://news.ycombinator.com/item?id=27424605
+Web Applications from the Future: A Database in the Browser | Hacker News: https://news.ycombinator.com/item?id=27424496
+A Project of One’s Own | Hacker News: https://news.ycombinator.com/item?id=27433040
+Don't let social media think for you | Hacker News: https://news.ycombinator.com/item?id=27432355
+Clever vs. Insightful Code | Hacker News: https://news.ycombinator.com/item?id=27418296
+Language learning with Netflix | Hacker News: https://news.ycombinator.com/item?id=27420959
+Playdate pre-orders begin in July | Hacker News: https://news.ycombinator.com/item?id=27437600
+IRS records reveal how the wealthiest avoid income tax | Hacker News: https://news.ycombinator.com/item?id=27432326
+Seasteading Creates RPG | Hacker News: https://news.ycombinator.com/item?id=27437766
+Trying to study textbooks effectively: a year of experimentation | Hacker News: https://news.ycombinator.com/item?id=27431253
+Show HN: I wrote a book on practical electronics design | Hacker News: https://news.ycombinator.com/item?id=27439266
+
+Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++ | Hacker News: https://news.ycombinator.com/item?id=27397208
+Why We Should End the Data Economy | Hacker News: https://news.ycombinator.com/item?id=27394983
+Reimagining video infrastructure to empower YouTube | Hacker News: https://news.ycombinator.com/item?id=27394362
+There are no results for tank man | Hacker News: https://news.ycombinator.com/item?id=27395635
+Computer Science Logo Style: Programming Language Implementation (1997) | Hacker News: https://news.ycombinator.com/item?id=27394421
+Bonzi Buddy | Hacker News: https://news.ycombinator.com/item?id=27399065
+Design Issues in LLVM IR | Hacker News: https://news.ycombinator.com/item?id=27430967
+Bakeware: Compile any Elixir application into a single binary | Hacker News: https://news.ycombinator.com/item?id=27430806
+The repeated deaths of OOP: https://loup-vaillant.fr/articles/deaths-of-oop
+How to organize your code? | Kislay Verma: https://kislayverma.com/programming/how-to-organize-your-code/
+Leaky Abstractions – text/plain: https://textslashplain.com/2021/06/02/leaky-abstractions/
+helix-editor/helix: A post-modern modal text editor.: https://github.com/helix-editor/helix
+ekzhang/rustpad: Efficient and minimal collaborative code editor, self-hosted, no database required: https://github.com/ekzhang/rustpad
+
+Mathematician solves sensitivity conjecture in two pages: https://news.ycombinator.com/item?id=26114886
+https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/
+https://www.scottaaronson.com/blog/?p=4229#comment-1813084
+
+Website fingerprinting on early quic traffic: https://news.ycombinator.com/item?id=25969886
+Once we can see them, it's too late: https://news.ycombinator.com/item?id=25972111
+Why it's usuually crazier than you expect: https://news.ycombinator.com/item?id=25971963
+uniwidith typefaces for interface design: https://news.ycombinator.com/item?id=25956652
+what did we lose when we lost the stars?: https://news.ycombinator.com/item?id=25969823
+offline algorithms in low-frequency trading: https://news.ycombinator.com/item?id=25968348
+analysis: robinhood protected from lawsuits by user agreement, congress: https://news.ycombinator.com/item?id=25971125
+forget 10x developer -- become full x developer: https://news.ycombinator.com/item?id=25970877
+the great unbundling: https://news.ycombinator.com/item?id=25970658
+
+the difference between bonds, notes, and bills: https://www.youtube.com/watch?v=sx6ttA-kmos
+
+https://rateyourmusic.com/charts/top/album/all-time/g:soul/exc:live,archival/
+https://rateyourmusic.com/charts/top/album/all-time/g:jungle/exc:live,archival/
+https://rateyourmusic.com/charts/top/album/all-time/g:gospel/exc:live,archival/
+
+miku miku dance vive trackers - Google Search: https://www.google.com/search?hl=en&q=miku%20miku%20dance%20vive%20trackers
+MocuMocuDance - Vrai: http://www.vrai.jp/vr_mocu_en.html
+VUP-VTuber Maker& Animation& MMD/Live2D facial capture on Steam: https://store.steampowered.com/app/1207050/VUPVTuber_Maker_Animation_MMDLive2D__facial_capture/
+Steam Search: https://store.steampowered.com/search/?sort_by=_ASC&term=vtuber&force_infinite=1&snr=1_7_7_151_7&page=1
+Wakaru ver. beta on Steam: https://store.steampowered.com/app/870820/Wakaru_ver_beta/
+PrprLive on Steam: https://store.steampowered.com/app/1279610/PrprLive/
+PrprLive - GameAnimoji面捕 on Steam: https://store.steampowered.com/app/1343320/PrprLive__GameAnimoji/
+Vカツ / V-Katsu on Steam: https://store.steampowered.com/app/856620/V__VKatsu/
+VirtualCast on Steam: https://store.steampowered.com/app/947890/VirtualCast/
+FaceFun on Steam: https://store.steampowered.com/app/939920/FaceFun/
+Facerig Studio for Individual VTubers w/Live2D on Steam: https://store.steampowered.com/app/816940/Facerig_Studio_for_Individual_VTubers_wLive2D/
+
+Facebook extends its work-at-home policy to most employees | Hacker News: https://news.ycombinator.com/item?id=27453909
+The memory models that underlie programming languages | Hacker News: https://news.ycombinator.com/item?id=27455509
+
+Apple II Mouse Card (1981) | Hacker News: https://news.ycombinator.com/item?id=27425575
+El Salvador makes Bitcoin legal tender | Hacker News: https://news.ycombinator.com/item?id=27447757
+You Don’t Need Permission | Hacker News: https://news.ycombinator.com/item?id=27443711
+Always Be Quitting | Hacker News: https://news.ycombinator.com/item?id=27456222
+Stripe Tax | Hacker News: https://news.ycombinator.com/item?id=27459712
+iOS 15 Humane | Hacker News: https://news.ycombinator.com/item?id=27456500
+Developers can't fix bad management (2020) | Hacker News: https://news.ycombinator.com/item?id=27458785
+SICP [1] has a good one in a footnote: *Numbers that fool the Fermat test are ca... | Hacker News: https://news.ycombinator.com/item?id=27456729
+Some funny engineering/programmer jokes | Hacker News: https://news.ycombinator.com/item?id=27456349
+novelWriter – open-source plain text editor designed for writing novels | Hacker News: https://news.ycombinator.com/item?id=27432022
+
+Try APL | Hacker News: https://news.ycombinator.com/item?id=27460887
+Dog ejected from car during Sunday crash found on sheep farm, herding sheep | Hacker News: https://news.ycombinator.com/item?id=27462498
+Did I break you? Reverse dependency verification | Hacker News: https://news.ycombinator.com/item?id=27457557
 
 -->
 

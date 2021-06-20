@@ -1,5 +1,7 @@
 <!--
 
+cloude shannon demonstrates machine learning: https://news.ycombinator.com/item?id=25919006
+
 https://news.ycombinator.com/item?id=25845683
 
 https://news.ycombinator.com/item?id=19703488

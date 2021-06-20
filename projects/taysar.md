@@ -1,5 +1,31 @@
 <!--
 
+- [ ] move to cloudflare workers
+
+- [ ] monthly email reading list
+
+- [ ] redo server to get rid of "coming soon" (in another lang?)
+
+- [ ] learnings about the music industry from pex
+
+- [ ] leverage my "wasted time" on the internet
+  - [ ] cool youtube channels
+  - [ ] weird subreddits
+  - [ ] other "rabbit holes"
+  
+- [ ] copy physical notebooks into taysar
+
+- Show, don’t tell
+  - Writing
+  - Music
+  - Videos
+
+- [ ] taysar daily diary and topic journals ala sivers
+
+-->
+
+<!--
+
 cool minimalist websites:
 
 https://zfs.rent
@@ -8,6 +34,15 @@ https://news.ycombinator.com/item?id=25148000
 https://www.gtf.io
 
 https://danluu.com
+
+-->
+
+<!--
+
+Strong musical (and whatever) opinions on taysar
+
+write an essay for each item in Reddit/YouTube/Pocket
+
 
 -->
 

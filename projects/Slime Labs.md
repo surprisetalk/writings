@@ -1,0 +1,98 @@
+Coming soon!
+
+<!--
+
+software contracting
+software consulting
+
+- [ ] business idea
+  - via may 19 2020 episode of against the rules
+  - apply "inner game of tennis" coaching style to programming
+    - sit behind engineers and ask why they chose to do things
+      - or, even better, have them submit videos and send back personalized critiques
+
+- tadpole consulting
+  - 
+  - in the middle of each video (near the beginning)
+  - 
+  - short 10s intro, pointing to details down in the description,
+  - 
+  - just to let y'all know, you can hire me as a consultant!
+  - as a professional problem-solver, i can help you out with pretty much anything software- or business-related.
+  - "i work completely on the honor system, so your business pays nothing until you think i deserve it. so in the worst case, i'll be a short waste of time."
+  - check out my services and prices and schedule a intro 10-minute call at tadpole.tv
+  - 
+  - // you may not believe a gross little tadpole like me is capable of helping your business, but you pay NOTHING unless i can help you attain a clear, achievable goal.
+  - // i only want to be a net-positive, so i will never ask for more wealth than i create for your business.
+  - 
+  - web-form:
+  - - how it works
+  -   - expectations
+  -   - pricing
+  - - choose relevant pain-points (listed below)
+  - - phone or email
+  - - enter additional notes
+  - - submit
+  - 
+  - All payments are voluntary (honor-system) and per-project. Rough guidelines:
+  - - Can be completed in a few hours: $250-$1000
+  - - Can be completed in a few days: $5K-$25K
+  - 
+  - Make a website with a form that lets you choose what you're interested in:
+  - - business
+  -   - emergency logistics "we need 15,000 pineappples in a south dakota warehouse by friday"
+  -     - 
+  -   - operations "our policies don't work"
+  -     - 
+  -   - business automation "our employees are slow/error-prone/unnecessary"
+  -     - Be better, faster, AND cheaper -- create/identify tools to improve your team.
+  -   - marketing stunts "we want our crappy product to go viral"
+  -     - Ads don't work -- create experiences.
+  -   - branding "we need a fresh new vision... and logo"
+  -     - Unite your team with a flag and clear set of principles.
+  -   - pr "we want the youngsters to connect with our soulless corporation"
+  -     - Create customer loyalty. Become a company that the public will love and trust.
+  -   - product design and management "our app idea is turning out to be a disgusting mess"
+  -     - Make something beautiful at a reasonable price.
+  -   - employee efficiency "i have no idea what our employees do all day"
+  -     - Save time and money by tapping into your human potential.
+  -   - data science and business intelligence "is our company really succeeding?"
+  -     - Find the truth hiding in your numbers.
+  -   - ethics "are we the bad guys?"
+  -     - Do the right thing.
+  -   - customer service "our product is broken and our customers hate us"
+  -     - 
+  -   - funding "we need more money"
+  -     - 
+  - - software
+  -   - ui "our app is ugly and confusing"
+  -   - resiliency "the website is down again"
+  -   - infrastructure "deployment is a nightmare"
+  -   - legacy code "it's written in cobol"
+  -   - refactoring "our code is cursed"
+  -   - database design and administration (especially postgresql) "we have spaghetti tables"
+  -   - making tight deadlines "we had to delay the launch"
+  -   - distributed systems "we tried microservices"
+  -   - architecture ""
+  -   - algorithms ""
+  -   - functional programming "we want monads"
+  -   - api design "we want our code to be usable"
+  - - creative direction
+  -   - games
+  -   - graphics
+  -   - music
+  -   - podcast
+  -   - creative writing
+  -   - film
+  -   - photo
+  -   - social media
+  - - personal
+  -   - moonshots / goal-planning
+  -   - relationship / family problems
+  -   - home organization
+  -   - life-coaching "my life's a mess"
+  -     - I'm just going to tell you what you already know: sleep, eat, exercise, and maybe therapy.
+  - -    
+  - - If an onsite visit is required, The Tadpole will come to your place-of-business as he appears in the Tadpole & Friends show.
+
+-->

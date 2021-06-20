@@ -9,7 +9,7 @@ https://news.ycombinator.com/item?id=25518730
     - The Queue is a mixture of tasks, flashcards, media, reminders, and prompts.
   - Set a kitchen-timer before each task. Parkinson's Law is more insidious than it seems.
   - Make Unreasonable Constraints on each task.
-  - Always ask yourself, "Would it look like if it was easy?"
+  - Always ask yourself, "What would it look like if it was easy?"
   - Eat the Frog: do The Scariest Things first.
   - Planned Procrastination: use Parkinson's Law and the Pareto Principle to your advantage.
 - Creation
@@ -23,12 +23,13 @@ https://news.ycombinator.com/item?id=25518730
   - If you watch anime, watch less. If you don't, watch more.
   - Most media is better at double-speed.
 - Communication
-  - In arguments, use echololia -- summarize their points before beginning your own.
+  - In arguments, use echolalia -- summarize their points before beginning your own.
   - Upon criticism, ask yourself, "What if they're right?".
+  - Feelings over Facts.
   - Everybody likes talking about their "I" and "me" -- not your "I" and "me".
   - Never lie. You need people to reprimand you for your bad thoughts.
   - If you like them, stay in touch. Say Hello monthly.
-  - Avoid foul language. Not because it's morally wrong, but because it's lazy.
+  - Use beautiful and powerful words. Avoid large and foul words.
   - Use humor, but not too much.
   - It can wait. You don't have to respond Right Now.
   - But always respond Today.
@@ -59,6 +60,7 @@ https://news.ycombinator.com/item?id=25518730
   - Do More Nothing.
   - Never complain.
   - If you feel bad, take some deep breaths. If you still feel bad, drink some water. If you still feel bad, figure out why.
+  - They'll always be laughing With You if you're laughing at yourself.
 - Health
   - You must wake up at your Good Morning Time. No matter what. Midday naps are encouraged.
   - Pair your caffiene with l-theanine.
@@ -91,3 +93,89 @@ https://news.ycombinator.com/item?id=25518730
 - Tech
   - Vertical Monitors are Better.
   - Dvorak is Better.
+
+---
+
+- pali pona
+  - o sitelen e pali sina. o pali e pali wan taso.
+  - o kepeken e ilo tenpo. o pali kepeken tenpo lili.
+  - o pali lon poki lili. o pali kepeken nasin nasa.
+  - o toki e ni tawa sina: pali pona li lukin e seme?
+  - sina kama pali, la o pini e pali ike.
+  - o pali ala e pali kama. o pali lili. o pali kepeken tenpo lili.
+- pali e ijo
+  - sina lukin e musi wan, la o pali e ijo tu.
+  - o weka e pali nanpa wan sina.
+  - o pali e ijo pakala.
+- lukin e musi
+  - sina wile lukin e musi, la o pini e pali.
+  - tenpo suno ale, la o lukin e lipu toki wan. sina soma ala e ni, la o lukin kin e ni lon tenpo kama.
+  - sina lukin e musi, la o pali e musi.
+  - o lukin lili e musi pi ma Nijon.
+  - o lukin e musi kepeken tenpo lili. o lukin wawa.
+- toki
+  - sina toki, la o toki sama ona. ni pini, la o toki e pilin sina.
+  - jan li toki e ike tawa sina, la o toki e ni tawa sina: "ona li toki e pona, la seme li ante tawa mi?".
+  - toki pi pilin ala li ike.
+  - ona li wile toki e ona. ona li wile toki ala e sina.
+  - tenpo ale, la o toki e lawa sina. jan li lukin insa lawa sina, la jan li ken pona e lawa sina.
+  - jan li pona tawa sina, la o toki e ona lon tenpo mun ale.
+  - o kepeken e nimi pona e nimi wawa. o kepeken ala e nimi suli e nimi ike. 
+  - o kepeken e toki musi. taso o kepeken ala e toki musi mute.
+  - ale li ken awen. sina ken toki lon tenpo kama.
+  - taso, la tenpo ale, la o toki lon tenpo suno sama.
+- jan
+  - o wile ala e olin. o tawa tawa tomo pi pali sijelo en tomo sitelen.
+  - pakala jan taso e ni: jan li pali e ike.
+  - tenpo ale, la o weka e jan sina. sina wile jo e jan pona.
+  - o weka ala e tenpo tan jan. ona li pona tawa sina, la o toki e ona kepeken ilo toki.
+  - sina pana e tenpo sina, la o sona e tenpo sina.
+  - tenpo mute, la jan wan li pakala ala.
+  - o toki e pona tawa jan sona sina. jan ale li jo e jan sona. ni li pilin pipi.
+- ale pali
+  - o tawa lon nasin ale. o pakala ala. o kama jo e ale.
+  - sina sona ala e pali sina, la o pali e ala. anu, la o kute e kon sina. ale li pona, la sina pali.
+  - tenpo suno ale, la o musi.
+  - sina lukin e pilin ike, la pilin ike ni li tawa weka.
+  - o pona e supa lape sina.
+  - tenpo suno ale, la o sitelen e pona. o awen e sitelen ni kepeken poki wan.
+  - tenpo pimeja ale, la o nasa. sina musi mute, la seme li tenpo pini? o pali e musi ni.
+  - o nasa mute.
+  - o kama sona e musi pona. o pali sama e musi pona mute. o kute e musi pona mute mute.
+  - tenpo suno ale, la o pali e sitelen tawa lili.
+  - ale li pona mute anu ike.
+  - jan ale li pakala, la ken la, sina pakala.
+  - o sona e ijo ike tawa sina.
+  - seme li ike mute mute?
+  - ala li mute.
+  - o toki ala e ni: ale li ike.
+  - sina pilin e ike, la o kon. sina pilin kin e ike, la o moku e telo. sina pilin kin e ike, la kama sona e tan.
+  - sina musi e sina, la sina musi e jan.
+- sijelo pona
+  - tenpo suno ale, la o pini lape lon tenpo sama. tenpo walo, la sina wile lape lili.
+  - sina moku e telo wawa, la o moku e moku "l-theanine".
+  - o moku e telo mute.
+  - o moku ala e moku ike. nasin lili li lon ala.
+  - o telo e sijelo sina kepeken telo lete.
+  - o moku e moku nasa. taso o moku lili e moku nasa.
+  - sina moku e telo nasa, la o moku e telo.
+  - o kute wawa e lawa sina.
+- tenpo
+  - o tawa ala tawa esun. o esun kepeken ilo nanpa.
+  - o pali ala e musi pi ilo nanpa pi pini ala. o pali ala e musi pi ilo nanpa pi jan mute.
+  - tenpo sina li lili. o kama jo pona e tenpo sina.
+  - sina awen, la sina weka e tenpo.
+- mani
+  - nanpa wan la, o pana e mani tan sijelo sina. kama la, o pana e mani tan mani weka pi ona. kama la, o awen e mani. kama la, o esun e ale.
+  - o esun e ijo ona. sama la, esun pi ijo ona li jo pi tenpo lili.
+  - tenpo suno ale, la o pali e len sina.
+- pilin lawa
+  - o tu e pali ike sina. o pali e pali lili. sina ken pali ala, la o ante e sona sina.
+  - sina sona ala, la o pana ala e sona.
+  - sina kama e pali, la o weka e sona pini.
+  - ---
+  - ---
+  - tenpo suno ale, la o lukin e sitelen lili pi sona.
+- ilo nanpa
+  - ---
+  - ---

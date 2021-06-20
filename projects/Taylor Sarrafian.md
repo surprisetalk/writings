@@ -2,6 +2,8 @@
 
 https://news.ycombinator.com/item?id=25135752
 
+https://news.ycombinator.com/item?id=25939969
+
 -->
 
 > I tried to teach myself to play the guitar. But I'm a horrible teacher — because I do not know how to play a guitar.
@@ -30,6 +32,8 @@ Knowing _why_ you're going somewhere doesn't guarantee the exact path to get the
 Values don't tell you where to go, but they point you in the right direction. Unfortunately, the compass I _want_ is not the compass I actually _have_.
 
 ### In Theory
+
+<!-- I think "sincerity" is more accurate than "honesty" -->
 
 In theory, my values are compassion and honesty. In an Optimal world, I would ooze empathy and kindness and give myself completely to every stranger that strikes up a conversation. But I'm not Optimal. I'm often stubborn and manipulative and full of self-criticism.
 

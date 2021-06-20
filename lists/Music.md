@@ -20,6 +20,11 @@ Coming soon!
 - ★★★☆☆ | Jacob Collier, Mahalia, Ty Dolla $ign :: _All I Need_
 - ★★★★☆ | Temples :: _Certainty_
 - ★★★★☆ | Ben Rosett, Eternity Forever :: _Cherry Blossom_
+- ★★★★☆ | Louis Cole :: _Doing the Things_
+- ★★☆☆☆ | Moe Shop :: _Cerise_
+- ★★★☆☆ | Reinabe :: _In the Object_
+- ★★★☆☆ | EASYFUN :: _Blink_
+- ★★★☆☆ | Hannah Diamond :: _Invisible_
 
 
 ### Albums
@@ -36,9 +41,168 @@ Coming soon!
 
 <!-- TODO: joanna newsom & bjork & underoath -->
 
+<!-- osterreich: https://open.spotify.com/album/1MEBWzMYHDEevewtmJB7zc?si=EYiQqLWxQ3meK6R754zn5g -->
+
+<!-- she is summer: water -->
+
+<!-- speed of sound in seawater -->
+
+<!-- youth novel -->
+
+<!-- add >4 stars to love on apple music -->
+<!-- add <2 stars to dislike on apple music -->
+
+<!-- soundcloud and /mu/ discovery -->
+
+<!-- absrdst's "driving me sane" is incredible -->
+
+- ☆☆☆☆☆ | Fishmans :: _Long Season_
+- ☆☆☆☆☆ | Nobuo Uematsu :: _FINAL FANTASY VII (Original Soundtrack)_
+- ★★★☆☆ | Eternity Forever & Ben Rosett :: _Unmixed. Unmastered. - EP_
+- ☆☆☆☆☆ | Chuck Sutton :: _I Know What I'm Doing*_
+- ☆☆☆☆☆ | Devics :: _Push the Heart_
+- ☆☆☆☆☆ | Godspeed You! Black Emperor :: _Lift Your Skinny Fists Like Antennas to Heaven_
+- ☆☆☆☆☆ | The Helix Nebula :: _Meridian_
+- ★★☆☆☆ | Macross 82-99 :: _CHAM!_
+- ★★★★☆ | Peggy Lee :: _Things Are Swingin'_
+- ☆☆☆☆☆ | Seiko Oomori :: _Muteki_
+- ☆☆☆☆☆ | Earthside :: _A Dream in Static_
+- ★★★★☆ | Enemies :: _Embark, Embrace_
+- ☆☆☆☆☆ | Bill Laurance :: _Flint_
+- ★★★★★ | Enya :: _A Day Without Rain_
+- ★★★★★ | Disasterpeace :: _Strays_
+- ★☆☆☆☆ | Kizuna AI :: _Replies - EP_
+- ★★☆☆☆ | Biig Piig :: _No Place for Patience, Vol. 3 - EP_
+- ★★★☆☆ | C418 :: _Minecraft - Volume Alpha_
+- ★★★☆☆ | The Fiery Furnaces :: _Bitter Tea_
+- ★★☆☆☆ | Planxty :: _Cold Blow and the Rainy Night_
+- ★★★★☆ | Porter Robinson :: _Worlds_
+- ★★★☆☆ | Porter Robinson :: _Nurture_
+- ☆☆☆☆☆ | Circa Survive :: _Violent Waves_
+- ☆☆☆☆☆ | ABSRDST :: _Imaginary Friend_
+- ☆☆☆☆☆ | Foxes :: _Glorious_
+- ★★★★☆ | Plini :: _Handmade Cities_
+- ★★☆☆☆ | Cecil Taylor :: _Unit Structures_
+- ★☆☆☆☆ | I See Stars :: _Renegades Forever_
+- ★★☆☆☆ | Tame Impala :: _The Slow Rush_
+- ★★☆☆☆ | Destroy Rebuild Until God Shows (D.R.U.G.S.) :: _D.R.U.G.S._
+- ★★☆☆☆ | Bring Me the Horizon :: _Sempiternal_
+- ★☆☆☆☆ | Morgan Page :: _Elevate_
+- ★★☆☆☆ | Chippr Jones :: _Tropics / Cosm - EP_
+- ★★★☆☆ | BADBADNOTGOOD & Ghostface Killah :: _SOUR SOUL_
+- ★★★☆☆ | By the End of Tonight :: _A Tribute to Tigers - EP_
+- ☆☆☆☆☆ | Frank Sinatra :: _Ring-A-Ding-Ding!_
+- ★★★★☆ | Charly Bliss :: _Guppy_
+- ★★★☆☆ | Planxty :: _The Well Below the Valley_
+- ★★☆☆☆ | Wovenhand :: _Blush Music_
+- ☆☆☆☆☆ | Norma Jean :: _Wrongdoers_ 
+- ★★★☆☆ | Ornette Coleman :: _The Shape of Jazz to Come_
+- ★★☆☆☆ | Kevin Morby :: _Singing Saw_
+- ★★★☆☆ | Louis Cole :: _Louis Cole_
+- ★★★☆☆ | Doss :: _Doss_
+- ☆☆☆☆☆ | Ween :: _Quebec_
+- ★★☆☆☆ | World's End Girlfriend & Vampillia :: _在りし日の声 Voices of Days Past_
+- ★★☆☆☆ | Röyksopp :: _Senior_
+- ★★★★☆ | Charles Mingus :: _Let My Children Hear Music_
+- ☆☆☆☆☆ | Planxty :: _The Well Below the Valley_
+- ☆☆☆☆☆ | Slime Girls :: _Vacation Wasteland_
+- ★★★★☆ | Rosemary Fairweather :: _Heavenly_
+- ★★★★★ | Underoath :: _Define the Great Line_
+- ★★★☆☆ | Rodan :: _Rusty_
+- ★★★★☆ | A Day to Remember :: _Old Record_
+- ★★★★★ | Return to Forever :: _Romantic Warrior_
+- ★★★★☆ | The Fall of Troy :: _Manipulator_
+- ★★★★★ | Flyleaf :: _Flyleaf_
+- ★★☆☆☆ | Girls Rituals :: _Reddishness_
+- ☆☆☆☆☆ | Desired :: _Plastic Whatever_
+- ☆☆☆☆☆ | Oneohtrix Point Never :: _Replica_
+- ★★★★☆ | Intervals :: _The Way Forward_
+- ☆☆☆☆☆ | Real Estate :: _In Mind_
+- ★★★☆☆ | Slow Magic :: _How to Run Away_
+- ★★★☆☆ | Sleep Cycle :: _Deakin_
+- ★★☆☆☆ | Fire! Orchestra :: _Enter_
+- ★☆☆☆☆ | Anberlin :: _Vital_
+- ☆☆☆☆☆ | tricot :: _Black_
+- ★★★☆☆ | Laura Stevenson :: _Cocksure_
+- ★★☆☆☆ | Dinosaur Jr. :: _You're Living All Over Me_
+- ★★★☆☆ | Nancy Sinatra :: _Nancy in London_
+- ★★★☆☆ | Eldar Djangirov :: _Eldar_
+- ☆☆☆☆☆ | Between the Buried and Me :: _The Great Misdirect_
+- ★★★☆☆ | The World Is A Beautiful Place & I Am No Longer Afraid To Die :: _Harmlessness_
+- ★★★☆☆ | Lisa Germano :: _Geek the Girl_
+- ☆☆☆☆☆ | Diane Cluck :: _Common Wealth_
+- ★★☆☆☆ | Analog Son :: _Funky Mother_
+- ★☆☆☆☆ | The Avalanches :: _We Will Always Love You_
+- ★☆☆☆☆ | The Hush Sound :: _So Sudden_
+- ☆☆☆☆☆ | Mount Eerie :: _A Crow Looked at Me_
+- ★★★★★ | Sleeping with Sirens :: _With Ears to See, and Eyes to Hear_
+- ★★★★★ | GFOTY :: _Gfotybucks_
+- ★☆☆☆☆ | Macross 82-99 :: _Idols, Sakura_
+- ★☆☆☆☆ | Primary & OHHYUK :: _Lucky You!_
+- ★★★★☆ | Sylvan Esso :: _Sylvan Esso_
+- ★★★★★ | Chick Corea :: _My Spanish Heart_
+- ☆☆☆☆☆ | Sigur Rós :: _Valtari_
+- ★★★☆☆ | States :: _Paradigm_
+- ★★☆☆☆ | Angels of Light :: _New Mother_
+- ☆☆☆☆☆ | Pere Ubu :: _The Modern Dance_
+- ★★★★☆ | Rustie :: _EVENIFUDONTBELIEVE_
+- ★★★★★ | Björk :: _SelmaSongs_
+- ★★★☆☆ | Cleric :: _Regressions_
+- ★★★★☆ | Eisley :: _I'm Only Dreaming... Of Days Long Past_
+- ☆☆☆☆☆ | Billy Woods :: _History Will Absolve Me_
+- ☆☆☆☆☆ | Deerhunter :: _Halcyon Digest_
+- ★★★☆☆ | Animal Collective :: _Spirit They're Gone, Spirit They've Vanished_
+- ★★★★★ | Toby Fox :: _UNDERTALE Soundtrack_
+- ★★☆☆☆ | Jamie Cullum :: _Pointless Nostalgic_
+- ☆☆☆☆☆ | Machine Girl :: _Gemini_
+- ★★★☆☆ | Heavy Heavy Low Low :: _Heavy Heavy Low Low_
+- ★★★★☆ | Kings of Convenience :: _Declaration Of Dependence_
+- ☆☆☆☆☆ | No Vacation :: _Phasing_
+- ☆☆☆☆☆ | Good Old War :: _Only Way To Be Alone_
+- ★★☆☆☆ | リアムMAZE1981 :: _Color Tv_
+- ☆☆☆☆☆ | death's dynamic shroud :: _Derelict Megatower I_
+- ☆☆☆☆☆ | Jyocho :: _The Beautiful Cycle of Terminal_
+- ★★☆☆☆ | Meishi Smile :: _Lust_
+- ★★☆☆☆ | Spazzkid :: _Desire_
+- ★☆☆☆☆ | Andy Stott :: _Luxury Problems_
+- ★★☆☆☆ | Low :: _Double Negative_
+- ☆☆☆☆☆ | Ramzoid :: _WORLD_
+- ☆☆☆☆☆ | Late Night Alumni :: _Eclipse_
+- ☆☆☆☆☆ | GoGo Penguin :: _Fanfares_
+- ☆☆☆☆☆ | Hiromi :: _Place to Be_
+- ☆☆☆☆☆ | Run the Jewels :: _Run the Jewels_
+- ★★★☆☆ | Groundislava :: _Endless Voyage_
+- ★★★☆☆ | Nancy Sinatra :: _How Does That Grab You?_
+- ☆☆☆☆☆ | The Flaming Lips :: _The Soft Bulletin_
+- ★★★☆☆ | Sentimental Scenery :: _Harp Song + Sentimentalism_
+- ☆☆☆☆☆ | Swans :: _The Seer_
+- ☆☆☆☆☆ | The Beatles :: _The Beatles_
+- ☆☆☆☆☆ | Béla Fleck :: _Perpetual Motion_
+- ★★★☆☆ | The Format :: _Interventions and Lullabies_
+- ★★☆☆☆ | Salem :: _King Night_
+- ★★☆☆☆ | Danny Brown :: _Old_
+- ★★★☆☆ | The Fall of Troy :: _OK#2_
+- ★★☆☆☆ | Poe :: _Hello_
+- ★★☆☆☆ | MASTER BOOT RECORD :: _Internet Protocol_
+- ★★★☆☆ | Car Seat Headrest :: _Twin Fantasy_
+- ★★★☆☆ | Sweet Valley :: _Stay Calm_
+- ★★★☆☆ | mewithoutYou :: _Pale Horses_
+- ☆☆☆☆☆ | Sithu Aye :: _Senpai EP II: The Noticing_
+- ☆☆☆☆☆ | A. G. Cook :: _Apple_
+- ★★★★☆ | Punch Brothers :: _Antifogmatic_
+- ★★★☆☆ | Night Tempo, 杏里 :: _Anri — Night Tempo presents the Showa Groove_
+- ★★★★☆ | ♥ GOJII ♥	:: _All My Heart_
+- ★★★★☆ | Eatmewhileimhot! :: _All My Friends_
+- ★★★★☆ | Punch Brothers :: _All Ashore_
+- ☆☆☆☆☆ | Maps & Atlases :: _Beware And Be Grateful_
+- ★★★★☆ | Charlie Haden, Carla Bley :: _The Ballad of the Fallen_
+- ★★★★☆ | Julia Holter :: _Aviary_
+- ★★☆☆☆ | Sun Ra :: _Atlantis_
+- ★★★☆☆ | Sufjan Stevens :: _The Ascension_
 - ★★☆☆☆ | Seirom :: _And The Light Swallowed Everything_
+- ★★★☆☆ | Sufjan Stevens :: _The Avalanche_
+- ☆☆☆☆☆ | Red Baraat :: _Bhangra Pirates_
 - ★★★★☆ | Muse :: _Black Holes and Revelations_
-- ☆☆☆☆☆ | Sufjan Stevens :: _The Ascension_
 - ★★☆☆☆ | Oklou :: _Avril_
 - ★★★☆☆ | Baths :: _Cerulean_
 - ★★★★★ | Björk :: _Biophilia_
@@ -212,7 +376,6 @@ Coming soon!
 - ★★★★★ | Cartel :: _Chroma_
 - ★★★☆☆ | Iglooghost :: _Chinese Nü Yr_
 - ★★★★☆ | Esperanza Spalding :: _Chamber Music Society_
-- ★★☆☆☆ | Macross 82-99 :: _CHAM!_
 - ★★☆☆☆ | mewithoutYou :: _Catch For Us The Foxes_
 - ★★★☆☆ | Sithu Aye :: _Cassini_
 - ★★☆☆☆ | City Girl :: _Celestial Angel_
@@ -360,7 +523,6 @@ Coming soon!
 - ☆☆☆☆☆ | TroyBoi :: _Left Is Right_
 - ☆☆☆☆☆ | Supernaive :: _Dazed & Confused_
 - ☆☆☆☆☆ | DROELOE :: _A Moment In Time_
-- ☆☆☆☆☆ | Plini :: _Handmade Cities_
 - ★★☆☆☆ | Steve Reich & POLIÇA & s t a r g a z e :: _Bruise Blood: Reimagining Steve Reich's Music for Pieces of Wood_
 - ☆☆☆☆☆ | 더 멜로디 :: _The Melody_
 - ☆☆☆☆☆ | Jaejoo Boys :: _유년에게_
@@ -464,7 +626,6 @@ Coming soon!
 - ☆☆☆☆☆ | Hammock :: _Oblivion Hymns_
 - ☆☆☆☆☆ | Hammock :: _An Introduction to Hammock_
 - ☆☆☆☆☆ | Hammock :: _Everything and Nothing_
-- ☆☆☆☆☆ | Jamie Cullum :: _Pointless Nostalgic_
 - ★☆☆☆☆ | Jamie Cullum :: _Catching Tales_
 - ☆☆☆☆☆ | Jamie Cullum :: _Twentysomething_
 - ☆☆☆☆☆ | Jamie Cullum :: _The Pursuit_
@@ -478,7 +639,6 @@ Coming soon!
 - ★★★★☆ | I See Stars :: _3-D_
 - ☆☆☆☆☆ | I See Stars :: _The End Of The World Party_
 - ☆☆☆☆☆ | I See Stars :: _Digital Renegade_
-- ☆☆☆☆☆ | I See Stars :: _Renegades Forever_
 - ☆☆☆☆☆ | I See Stars :: _Treehouse_
 - ☆☆☆☆☆ | Nancy Sinatra :: _Woman_
 - ☆☆☆☆☆ | Nancy Sinatra :: _Nancy In London_
@@ -512,11 +672,9 @@ Coming soon!
 - ☆☆☆☆☆ | Pat Benatar :: _True Love_
 - ☆☆☆☆☆ | Pat Benatar :: _Gravity's Rainbow_
 - ☆☆☆☆☆ | Pat Benatar :: _Innamorata_
-- ☆☆☆☆☆ | Good Old War :: _Only Way To Be Alone_
 - ☆☆☆☆☆ | Good Old War :: _Good Old War_
 - ☆☆☆☆☆ | Good Old War :: _Come Back As Rain_
 - ★☆☆☆☆ | Good Old War :: _Broken into Better Shape_
-- ☆☆☆☆☆ | Mount Eerie :: _A Crow Looked at Me_
 - ☆☆☆☆☆ | Cartel :: _Collider_
 - ★★★★☆ | The Academy Is... :: _Almost Here_
 - ☆☆☆☆☆ | The Academy Is... :: _Santi_
@@ -535,8 +693,6 @@ Coming soon!
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Fore!_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Picture This_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Sports_
-- ☆☆☆☆☆ | Flyleaf :: _Flyleaf_
-- ☆☆☆☆☆ | Foxes :: _Glorious_
 - ★☆☆☆☆ | Foxes :: _All I Need_
 - ☆☆☆☆☆ | Relient K :: _Relient K_
 - ★★☆☆☆ | Relient K :: _The Anatomy of the Tongue In Cheek_
@@ -564,7 +720,6 @@ Coming soon!
 - ☆☆☆☆☆ | Kings of Convenience :: _Versus_
 - ☆☆☆☆☆ | Kings of Convenience :: _Quiet Is The New Loud_
 - ☆☆☆☆☆ | Kings of Convenience :: _Riot On An Empty Street_
-- ☆☆☆☆☆ | Kings of Convenience :: _Declaration Of Dependence_
 - ☆☆☆☆☆ | Lights :: _The Listening_
 - ☆☆☆☆☆ | Lights :: _Siberia_
 - ☆☆☆☆☆ | Lights :: _Little Machines_
@@ -574,7 +729,6 @@ Coming soon!
 - ☆☆☆☆☆ | Röyksopp :: _The Understanding_
 - ☆☆☆☆☆ | Röyksopp :: _Röyksopp's Night Out_
 - ☆☆☆☆☆ | Röyksopp :: _Junior_
-- ☆☆☆☆☆ | Röyksopp :: _Senior_
 - ☆☆☆☆☆ | Röyksopp :: _The Inevitable End_
 - ☆☆☆☆☆ | Bright Eyes :: _I'm Wide Awake, It's Morning_
 - ☆☆☆☆☆ | Yeah Yeah Yeahs :: _Fever To Tell_
@@ -664,11 +818,9 @@ Coming soon!
 - ☆☆☆☆☆ | Oathbreaker :: _Rheia_
 - ☆☆☆☆☆ | Heather Woods Broderick :: _Glider_
 - ☆☆☆☆☆ | Heather Woods Broderick :: _From The Ground_
-- ☆☆☆☆☆ | Danny Brown :: _Old_
 - ☆☆☆☆☆ | Danny Brown :: _XXX_
 - ★★★★☆ | Danny Brown :: _Atrocity Exhibition_
 - ★★☆☆☆ | David Bowie :: _Blackstar_
-- ☆☆☆☆☆ | Swans :: _The Seer_
 - ☆☆☆☆☆ | Swans :: _To Be Kind_
 - ☆☆☆☆☆ | A Tribe Called Quest :: _We got it from Here... Thank You 4 Your service_
 - ★★★☆☆ | Frank Ocean :: _Blonde_
@@ -725,7 +877,6 @@ Coming soon!
 - ☆☆☆☆☆ | Cloudkicker :: _Live with Intronaut_
 - ☆☆☆☆☆ | Cloudkicker :: _Little Histories_
 - ☆☆☆☆☆ | Olivier Latry :: _Charles-Marie Widor: 5e & 6e Symphonies pour Orgue aux Grandes Orgues de Notre-Dame de Paris_
-- ☆☆☆☆☆ | Enya :: _A Day Without Rain_
 - ★☆☆☆☆ | Cut Copy :: _Bright Like Neon Love_
 - ☆☆☆☆☆ | Blank Banshee :: _Mega_
 - ☆☆☆☆☆ | Infinity Shred :: _Long Distance_
@@ -741,7 +892,6 @@ Coming soon!
 - ★★★★☆ | Mew :: _And The Glass Handed Kites_
 - ☆☆☆☆☆ | Mew :: _No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away_
 - ☆☆☆☆☆ | The Fall of Troy :: _Phantom on the Horizon_
-- ☆☆☆☆☆ | The Fall of Troy :: _OK#2_
 - ☆☆☆☆☆ | Circa Survive :: _Descensus_
 - ☆☆☆☆☆ | Scary Kids Scaring Kids :: _Scary Kids Scaring Kids_
 - ☆☆☆☆☆ | Regina Spektor :: _Soviet Kitsch (U.S. Version)_
@@ -754,7 +904,6 @@ Coming soon!
 - ☆☆☆☆☆ | Tycho :: _Epoch_
 - ☆☆☆☆☆ | Lone :: _Galaxy Garden_
 - ☆☆☆☆☆ | GoGo Penguin :: _Man Made Object (Deluxe)_
-- ☆☆☆☆☆ | GoGo Penguin :: _Fanfares_
 - ☆☆☆☆☆ | Chick Corea & Hiromi :: _Duet_
 - ☆☆☆☆☆ | Hiromi :: _Place To Be_
 - ☆☆☆☆☆ | Hiromi :: _Voice_
@@ -808,10 +957,8 @@ Coming soon!
 - ☆☆☆☆☆ | Ólafur Arnalds :: _Island Songs_
 - ☆☆☆☆☆ | Peter McConnell :: _Grim Fandango Remastered (Original Soundtrack)_
 - ☆☆☆☆☆ | Peter McConnell :: _Broken Age (Original Soundtrack)_
-- ☆☆☆☆☆ | Toby Fox :: _UNDERTALE Soundtrack_
 - ☆☆☆☆☆ | Disasterpeace :: _Level_
 - ☆☆☆☆☆ | Disasterpeace :: _Rise of the Obsidian Interstellar_
-- ☆☆☆☆☆ | Disasterpeace :: _Strays_
 - ☆☆☆☆☆ | Disasterpeace :: _Monsters Ate My Birthday Cake_
 - ☆☆☆☆☆ | Run The Jewels :: _Run the Jewels_
 - ☆☆☆☆☆ | Run The Jewels :: _Run the Jewels 2_
@@ -826,8 +973,6 @@ Coming soon!
 - ☆☆☆☆☆ | Oskar Schuster :: _Singur_
 - ☆☆☆☆☆ | Oskar Schuster :: _Sneeuwland_
 - ☆☆☆☆☆ | Ricardo Padua & Miku Hatsune :: _Electronic Heartbeat_
-- ☆☆☆☆☆ | Earthside :: _A Dream in Static_
-- ☆☆☆☆☆ | The Helix Nebula :: _Meridian_
 - ☆☆☆☆☆ | Hrvrd :: _The Inevitable And I_
 - ★★★★★ | Swimming With Dolphins :: _Ambient Blue_
 - ☆☆☆☆☆ | Townes Van Zandt :: _Townes Van Zandt_
@@ -860,7 +1005,6 @@ Coming soon!
 - ☆☆☆☆☆ | Emarosa :: _Relativity_
 - ☆☆☆☆☆ | Emarosa :: _This Is Your Way Out_
 - ☆☆☆☆☆ | Emarosa :: _Versus_
-- ☆☆☆☆☆ | BADBADNOTGOOD & Ghostface Killah :: _SOUR SOUL_
 - ☆☆☆☆☆ | BADBADNOTGOOD :: _IV_
 - ☆☆☆☆☆ | Oneohtrix Point Never :: _R Plus Seven_
 - ☆☆☆☆☆ | Arca :: _Stretch 2_
@@ -910,7 +1054,6 @@ Coming soon!
 - ☆☆☆☆☆ | Caravan Palace :: _<I°_°I>_
 - ☆☆☆☆☆ | Maximum Love :: _Midnight Astronaut_
 - ☆☆☆☆☆ | Tomggg :: _Butter Sugar Cream_
-- ☆☆☆☆☆ | Laura Stevenson :: _Cocksure_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Radio Music Society_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Esperanza_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Junjo_
@@ -929,7 +1072,6 @@ Coming soon!
 - ☆☆☆☆☆ | Kaskade :: _In The Moment_
 - ☆☆☆☆☆ | BADBADNOTGOOD :: _III_
 - ☆☆☆☆☆ | Eyeliner :: _High Fashion Mood Music_
-- ☆☆☆☆☆ | Oneohtrix Point Never :: _Replica_
 - ☆☆☆☆☆ | James Ferraro :: _Far Side Virtual_
 - ☆☆☆☆☆ | Strawberry Girls :: _Italian Ghosts_
 - ☆☆☆☆☆ | Strawberry Girls :: _French Ghetto_
@@ -942,11 +1084,9 @@ Coming soon!
 - ☆☆☆☆☆ | LukHash :: _The Other Side_
 - ☆☆☆☆☆ | Slime Girls :: _Heart On Wave_
 - ☆☆☆☆☆ | Slime Girls :: _Yumemi / Lonely Planet Girl_
-- ☆☆☆☆☆ | Slime Girls :: _Vacation Wasteland_
 - ☆☆☆☆☆ | Lifeformed :: _Fastfall - Dustforce Original Soundtrack_
 - ☆☆☆☆☆ | Empress Of :: _Me_
 - ☆☆☆☆☆ | Oneohtrix Point Never :: _Garden Of Delete_
-- ☆☆☆☆☆ | Rustie :: _EVENIFUDONTBELIEVE_
 - ★★☆☆☆ | Foxing :: _The Albatross_
 - ☆☆☆☆☆ | Foxing :: _Dealer_
 - ☆☆☆☆☆ | Listener :: _Time Is a Machine_
@@ -970,7 +1110,6 @@ Coming soon!
 - ☆☆☆☆☆ | Giraffes? Giraffes! :: _More Skin With Milk-Mouth_
 - ☆☆☆☆☆ | Giraffes? Giraffes! :: _Pink Magick_
 - ☆☆☆☆☆ | Enemies :: _We've Been Talking_
-- ☆☆☆☆☆ | Enemies :: _Embark, Embrace_
 - ☆☆☆☆☆ | Don Caballero :: _What Burns Never Returns_
 - ☆☆☆☆☆ | Don Caballero :: _Don Caballero 2_
 - ★★★☆☆ | Don Caballero :: _American Don_
@@ -1019,7 +1158,6 @@ Coming soon!
 - ☆☆☆☆☆ | Anamanaguchi :: _Endless Fantasy_
 - ☆☆☆☆☆ | Hermitude :: _HyperParadise_
 - ☆☆☆☆☆ | Hermitude :: _Dark Night Sweet Light_
-- ☆☆☆☆☆ | Eskmo :: _Terra_
 - ☆☆☆☆☆ | Eskmo :: _SOL_
 - ☆☆☆☆☆ | Slugabed :: _Coolest_
 - ☆☆☆☆☆ | Slugabed :: _Time Team_
@@ -1043,7 +1181,6 @@ Coming soon!
 - ☆☆☆☆☆ | Javelin :: _Hi Beams_
 - ☆☆☆☆☆ | Rush :: _Hemispheres_
 - ☆☆☆☆☆ | Rush :: _Moving Pictures (2011 Remaster)_
-- ☆☆☆☆☆ | Deerhunter :: _Halcyon Digest_
 - ☆☆☆☆☆ | Parov Stelar :: _Coco Part 1_
 - ☆☆☆☆☆ | Jean-Michel Jarre :: _Oxygène_
 - ☆☆☆☆☆ | Toundra :: _(II)_
@@ -1058,9 +1195,7 @@ Coming soon!
 - ☆☆☆☆☆ | Agent Fresco :: _Destrier (Bonus Edition)_
 - ★★☆☆☆ | Palm Reader :: _Beside the Ones We Love_
 - ☆☆☆☆☆ | Down I Go :: _You're Lucky God, That I Cannot Reach You_
-- ☆☆☆☆☆ | Late Night Alumni :: _Eclipse_
 - ☆☆☆☆☆ | Sally Shapiro :: _My Guilty Pleasure_
-- ☆☆☆☆☆ | Sally Shapiro :: _Somewhere Else_
 - ☆☆☆☆☆ | Riverside :: _Love, Fear and the Time Machine_
 - ☆☆☆☆☆ | Julia Holter :: _Have You In My Wilderness_
 - ☆☆☆☆☆ | Destroyer :: _Poison Season_
@@ -1072,7 +1207,6 @@ Coming soon!
 - ☆☆☆☆☆ | Leftover Cuties :: _The Spark & the Fire_
 - ☆☆☆☆☆ | Mystery Skulls :: _Forever_
 - ★★★★☆ | Punch Brothers :: _The Phosphorescent Blues_
-- ☆☆☆☆☆ | The World Is A Beautiful Place & I Am No Longer Afraid To Die :: _Harmlessness_
 - ☆☆☆☆☆ | Axes :: _Glory_
 - ☆☆☆☆☆ | Dirty Projectors :: _Swing Lo Magellan_
 - ★★★★☆ | Hop Along :: _Painted Shut_
@@ -1081,7 +1215,6 @@ Coming soon!
 - ★★★★☆ | Nuito :: _Unutella_
 - ☆☆☆☆☆ | tricot :: _The_
 - ☆☆☆☆☆ | Ólöf Arnalds :: _Vid Og Vid_
-- ☆☆☆☆☆ | mewithoutYou :: _Pale Horses_
 - ☆☆☆☆☆ | FKA twigs :: _M3LL155X_
 - ☆☆☆☆☆ | Machinedrum :: _Room(s)_
 - ☆☆☆☆☆ | Wovenhand :: _Refractory Obdurate_
@@ -1091,7 +1224,6 @@ Coming soon!
 - ☆☆☆☆☆ | Toundra :: _IV (NotSet)_
 - ☆☆☆☆☆ | Der Weg einer Freiheit :: _Stellar_
 - ☆☆☆☆☆ | Elder :: _Lore_
-- ☆☆☆☆☆ | Slow Magic :: _How to Run Away_
 - ★★☆☆☆ | Son Lux :: _Bones_
 - ★★★★☆ | Lido :: _I Love You_
 - ★★★★☆ | World's End Girlfriend :: _Hurtbreak Wonderland_
@@ -1278,3 +1410,210 @@ Coming soon!
 - https://sonemic.com/charts/
 - https://rateyourmusic.com/charts/top/album/all-time/g:exact,midwest%2demo/
 - https://www.youtube.com/watch?v=0IqOSrBZZ9g
+
+- https://en.wikipedia.org/wiki/Kota_Hoshino
+- https://www.google.com/search?hl=en&q=evergrace%20soundtrack
+
+- https://www.sputnikmusic.com/bestnewmusic/6
+- https://4chanmusic.fandom.com/wiki/Essential_Charts
+- https://vignette.wikia.nocookie.net/4chanmusic/images/b/bc/New_mucore.png/revision/latest?cb=20190604021413
+- https://vignette.wikia.nocookie.net/4chanmusic/images/7/76/Mucore.jpg/revision/latest?cb=20160725185538
+- https://vignette.wikia.nocookie.net/4chanmusic/images/4/46/Classical.jpg/revision/latest?cb=20130108181512
+- https://vignette.wikia.nocookie.net/4chanmusic/images/2/2e/Classical_6.1.png/revision/latest?cb=20150918021751
+- https://vignette.wikia.nocookie.net/4chanmusic/images/8/8a/1543456314971.png/revision/latest?cb=20181207153454
+- https://en.wikipedia.org/wiki/Medieval_music
+- https://en.wikipedia.org/wiki/Chanson
+- https://en.wikipedia.org/wiki/Ars_nova
+- https://en.wikipedia.org/wiki/Neo-Medieval_music
+- https://en.wikipedia.org/wiki/Extra_Life_(band)
+- https://soundcloud.com/hudsonmohawke
+- https://soundcloud.com/search/sounds?q=hudson%20mohawke&filter.duration=epic
+- https://soundcloud.com/hudsonmohawke/lantern-special
+- https://soundcloud.com/rinsefm/hudsonmohawke120415
+- https://soundcloud.com/platform/hud-mo
+- https://soundcloud.com/iller-mixhost/hudson-mohawke-essential-mix-11-28-2009
+- https://soundcloud.com/luckyme/mix02
+- https://soundcloud.com/92bpm/deviation-show-special-feat-hudson-mohawke-nov-01-2009
+- https://soundcloud.com/luckyme/rinse06
+- https://soundcloud.com/anonacct1/hudson-mohawke-diplo-and-friends-guest-mix-2014-9-21
+- https://soundcloud.com/jar3cki/hudson-mohawke-bbc-radio1-live
+- https://soundcloud.com/skelethan/hudson-mohawke-rustie-4am-drunk-mix
+- https://soundcloud.com/pastabagel/mockingbird-49-hudson-mohawke
+- https://rateyourmusic.com/customchart?page=2&chart_type=top&type=djmix&year=alltime&genre_include=1&include_child_genres=1&genres=&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=
+- https://www.youtube.com/watch?v=n7zyMGr9VfE
+- https://rateyourmusic.com/release/djmix/nicolas-jaar/the-essential-mix-bbc-edit/
+- https://rateyourmusic.com/release/djmix/dj-%E5%85%89%E5%85%89%E5%85%89/planetary-natural-love-gas-webbin-199999/
+- https://www.youtube.com/watch?v=S03nrwuKz1I
+- https://soundcloud.com/kelelam/aquaphoria
+- https://soundcloud.com/grindcoregaming/sets/rare-rcb-hexdmp3
+- https://www.youtube.com/watch?v=HcsW8d14CrM
+- https://soundcloud.com/tank-magazine/radio-tank-mix-a-g-cook
+- https://rateyourmusic.com/release/djmix/a-g-cook/radio-tank-mix/
+- https://soundcloud.com/tank-magazine/radio-tank-mix-a-g-cook
+- https://soundcloud.com/luckyme/rinse32
+- https://www.sputnikmusic.com/bestnewmusic
+- https://www.sputnikmusic.com/bands/Dance-Gavin-Dance/5724/
+- https://www.sputnikmusic.com/review/77480/Cat-Company-Cat-Company/
+- https://www.sputnikmusic.com/bands/Sianvar/48855/
+- https://www.sputnikmusic.com/bands/The-Fall-of-Troy/563/
+- https://www.sputnikmusic.com/bands/Secret-Band/24596/
+- https://www.sputnikmusic.com/review/80869/Denzel-Curry-and-Kenny-Beats-Unlocked/
+- https://www.sputnikmusic.com/review/81391/Hayley-Williams--Petals-For-Armor/
+- https://www.sputnikmusic.com/review/81295/Dance-Gavin-Dance-Afterburner/
+- https://www.sputnikmusic.com/review/80629/Burial-Tunes-2011-to-2019/
+- https://www.sputnikmusic.com/review/81184/Slayyyter-Slayyyter/
+- https://en.wikipedia.org/wiki/Kurt_Travis#2001%E2%80%9308:_Five_Minute_Ride,_No_Not_Constant,_and_O!_the_Joy
+
+- https://www.youtube.com/watch?v=-i3Otdvu9ao
+
+- https://www.reddit.com/r/AskReddit/comments/gq9zny/whats_your_favourite_angry_song/
+
+- https://soundcloud.com/introooo/soulwax-2manydjs-introversy
+- https://soundcloud.com/champagnedrip/treasure-trove
+- https://soundcloud.com/fredfalke/ultrakorea2016
+- https://soundcloud.com/ahbsnt-2/ahbsnt-solarity-2017-mix
+- https://soundcloud.com/nada_music/w-i-l-d-f-i-r-e-mix
+- https://soundcloud.com/tonileys/icecream-mixtape
+- https://soundcloud.com/fuzzyboi/rec2015-07-31-7h48m36
+- https://soundcloud.com/twintheory/wave-racer-2019-full-discography-mix
+- https://soundcloud.com/shleepytimeprod/shleepys-flight-to-heathrow-mix
+- https://soundcloud.com/animeoxxoox/denpa-p204-2nd-edition-ver-231
+- https://soundcloud.com/dj-no-grief/dolphin-booty-a-mix-by-dj-no-grief
+- https://www.youtube.com/watch?v=RqzGzwTY-6w
+- https://www.youtube.com/results?search_query=randy+mcstine
+- https://rateyourmusic.com/artist/johnny-cash
+- https://rateyourmusic.com/artist/sleepmakeswaves
+- https://rateyourmusic.com/artist/olafur_arnalds
+- https://www.youtube.com/results?search_query=bruce+smear
+- https://soundcloud.com/diablitodj/angel-baby-mix
+- https://soundcloud.com/snaretapes/snare-003-smear
+- https://soundcloud.com/tiny-mix-tapes/guest-mix-lil-ega-untitled
+- https://soundcloud.com/dismagazine/moonbow-bad-dre-amz-mix-1
+- https://soundcloud.com/lifeforce/life-force-radio-observatory-50
+- https://soundcloud.com/lifeforce/radio-observatory-63-with-ginji
+- https://soundcloud.com/tobago-tracks/grrl-30-min-mix-4-tobago-tracks-1
+- https://soundcloud.com/astronautico/astrocast40-morgan-hislop
+- https://soundcloud.com/brucesmear
+- https://sewerslvt.bandcamp.com/album/draining-love-story
+- https://sewerslvt.bandcamp.com/album/draining-love-story
+- https://www.youtube.com/results?search_query=yeule
+- https://www.youtube.com/watch?v=6GEI3PpXEAo
+- https://www.youtube.com/watch?v=_am0RobOxAs
+- https://www.youtube.com/watch?v=Q9XTqQbuavI
+- https://www.youtube.com/watch?v=JCHTX_pgw6A
+- https://www.youtube.com/watch?v=G4CKmzBf5Cs
+- https://rateyourmusic.com/artist/rachels
+- https://rateyourmusic.com/release/album/frank-ocean/blonde/
+- https://rateyourmusic.com/artist/death-grips
+- https://www.google.com/search?hl=en&q=spotify%20liked%20songs%20vs%20liked%20albums
+- https://community.spotify.com/t5/Your-Library/How-do-I-remove-a-large-number-of-songs-from-Liked-Songs/td-p/4791347
+- https://www.reddit.com/r/spotify/comments/ayh2ym/your_library_important_spotify_feature_changes/
+- https://soundcloud.com/search?q=100%20gecs
+- https://www.google.com/search?hl=en&q=wave%20racer%20album
+- https://soundcloud.com/search/sounds?q=introooo&filter.duration=epic
+- https://soundcloud.com/ahbsnt-2/ahbsnt-solarity-2017-mix
+- https://soundcloud.com/shleepytimeprod/shleepys-flight-to-heathrow-mix
+- https://soundcloud.com/zvk
+- https://soundcloud.com/zvk/likes
+- https://newtroopscollective.bandcamp.com/
+- https://psychedelevator.bandcamp.com/album/emergence
+
+
+- https://rateyourmusic.com/artist/viper-1
+- https://rateyourmusic.com/release/album/viper/youll-cowards-dont-even-smoke-crack-2/
+- https://rateyourmusic.com/artist/100-gecs
+- https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&genres=Bubblegum+Bass&include_child_genres=t&include=both&limit=none&countries=
+- https://rateyourmusic.com/release/album/new-sylveon/new-sylveon/
+- https://rateyourmusic.com/release/album/acrobatic-collision/born-gorgeous/
+- https://rateyourmusic.com/release/album/soda-lite/dreamlife/
+- https://rateyourmusic.com/release/album/braz_os/dizzy-punch/
+- https://rateyourmusic.com/release/album/aaron-corbett/sertralina/
+- https://rateyourmusic.com/release/album/maverick-mayhem/the-third-one/
+- https://rateyourmusic.com/release/album/polearm/therapy/
+- https://rateyourmusic.com/release/album/n_v_o_k_i___%CE%BB_n_n_%CE%BB/recreation/
+- https://rateyourmusic.com/release/album/bbswag/gec-grips/
+- https://rateyourmusic.com/release/album/various-artists/magic-yume-vol-2/
+- https://rateyourmusic.com/release/album/cutiecore/hi-cutie/
+- https://rateyourmusic.com/release/album/real-dominic/now-thats-what-i-call-cowardice/
+- https://rateyourmusic.com/release/album/sophie/oil-of-every-pearls-un-insides/
+- https://rateyourmusic.com/release/album/charli-xcx/charli/
+- https://rateyourmusic.com/release/album/hannah-diamond/reflections-1/
+- https://rateyourmusic.com/release/album/dorian-electra/flamboyant/
+- https://rateyourmusic.com/release/album/100-gecs/1000-gecs/
+- https://rateyourmusic.com/release/album/galen-tipton/nightbath/
+- https://rateyourmusic.com/release/album/osno1/remixes-2017/
+- https://rateyourmusic.com/release/album/rakky-ripper/neptune-diamond/
+- https://rateyourmusic.com/release/album/new-sylveon/loserpop/
+- https://rateyourmusic.com/release/album/treasure-hunt/gushers/
+- https://rateyourmusic.com/release/album/cashmere-cat/princess-catgirl/
+- https://rateyourmusic.com/release/album/zarya/18y_o/
+- https://rateyourmusic.com/release/album/dux_content/lifestyle/
+- https://rateyourmusic.com/release/album/boy-sim/pink-noise/
+- https://rateyourmusic.com/release/album/various-artists/deskpop-vr-in-association-with-audiowave-vr/
+- https://rateyourmusic.com/release/album/various-artists/a_s_k-apocalypse-survival-kit/
+- https://rateyourmusic.com/release/album/folie-douce/cold-confessions/
+- https://rateyourmusic.com/release/album/corinne/estrangement/
+- https://rateyourmusic.com/release/album/ethernet/xxx_scenequeen2008_xxx/
+- https://rateyourmusic.com/release/album/kogarashi/saint/
+- https://rateyourmusic.com/release/album/r-u-s-s-e-l-b-u-c-k/russelbuck/
+- https://rateyourmusic.com/search?searchterm=logic&searchtype=a&searchterm=logic&searchtype=a
+- https://rateyourmusic.com/artist/kanye-west
+- https://rateyourmusic.com/artist/jay-z
+
+- https://www.music-map.com
+- 
+- https://rateyourmusic.com/release/album/steely-dan/aja-1/
+- https://www.youtube.com/watch?v=SjXB894CZnM
+- https://rateyourmusic.com/artist/frank-sinatra
+- https://rateyourmusic.com/artist/frank-sinatra
+- https://rateyourmusic.com/genre/Swing+Revival/
+- https://rateyourmusic.com/release/album/peggy-lee/black-coffee-with-peggy-lee-1/
+- https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&genres=Vocal+Jazz&include_child_genres=t&include=both&limit=none&countries=
+- https://rateyourmusic.com/artist/dean-martin
+- https://rateyourmusic.com/artist/patsy_cline
+- https://rateyourmusic.com/artist/the_rat_pack
+- https://rateyourmusic.com/artist/peggy_lee
+- https://rateyourmusic.com/artist/anberlin
+- https://rateyourmusic.com/artist/the-dillinger-escape-plan
+- https://rateyourmusic.com/release/album/the-chariot/the-fiancee/
+- https://www.google.com/search?hl=en&q=chariot%20then%20came%20to%20kill
+- 
+- https://soundcloud.com/giovanni-palandrani/aquaria-at-hyperpop-festival
+- https://soundcloud.com/tank-magazine/tank-mix-umru
+- https://soundcloud.com/crackmagazine/pop-zone-2-umru
+- https://soundcloud.com/dummymag/dummy-mix-530-umru
+- https://soundcloud.com/sundaesauuce/extra-sauuce-guest-mix-010-umru
+- https://soundcloud.com/clubcringe/cringe36
+- https://soundcloud.com/beatlabradio/umru-exclusive-mix-beat-lab-radio-109
+- https://soundcloud.com/search?q=de%20de%20mouse
+- https://www.youtube.com/watch?v=Yc5iPDvmEpE
+- https://rateyourmusic.com/artist/king-crimson
+- https://www.youtube.com/watch?v=FyvrW-iRBzU
+- https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=bossa+nova&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=
+- https://www.youtube.com/results?search_query=vonetta
+- https://rateyourmusic.com/artist/hella
+- https://rateyourmusic.com/release/album/akron_family/akron_family/
+- https://rateyourmusic.com/release/album/clown-core/clown-core/
+- https://rateyourmusic.com/artist/naked-city
+
+- larnell lewis
+- wild ones
+- bobby tank nest hq minimix tracklist
+- julie london
+
+- https://edm.com/events/secret-sky-set-times
+- https://soundcloud.com/search?q=dv%20i
+- https://soundcloud.com/search?q=shadient
+- https://soundcloud.com/search?q=livetune
+- https://soundcloud.com/search?q=kz
+- https://soundcloud.com/search?q=hakushi%20hasegawa
+- https://soundcloud.com/search?q=nanobii
+- https://soundcloud.com/search?q=meesh
+- https://www.google.com/search?hl=en&q=meesh&stick=H4sIAAAAAAAAAOPgE-LRT9c3LDTLMk02rTRU4tbP1TcwNKhKNjK31NLOTrbSzy0tzkzWL0pNzi9KycxLj0_OKS0uSS2ySktNLCktSk1RSCwqySwuWcTKmpuaWpyxg5URALqc6CpVAAAA&sa=X&ved=2ahUKEwj71ZWrlajpAhXegXIEHYCUB4MQmxMoATAEegQIDBAD&biw=1763&bih=1041
+- https://soundcloud.com/search?q=wavedash
+
+- dorothy ashby
+
+- jinjer
+- groove metal
+- jinjer pisces live

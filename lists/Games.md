@@ -1,5 +1,12 @@
 ## Eventually
 
+- Little Devil Inside
+- Genshin Impact
+
+- Naissance
+
+- Smile for Me
+
 - [Return of the Obra Dinn](https://obradinn.com)
 - [VA-11 HALL-A](https://waifubartending.com)
 - [Super Amazing Wagon Adventure](http://www.sparsevector.com/wagon-adventure/)
@@ -32,6 +39,14 @@
 - fallout: new vegas
 - [disaster report 4](https://www.youtube.com/watch?v=O7xDkzNrEBg&list=LL&index=900)
 - lisa
+
+## [Noodle](https://www.youtube.com/watch?v=lz5xvWTodyw)
+
+- Pikuniku
+- Later Gator
+- A Short Hike
+- Superliminal
+- Hypnospace Outlaw
 
 ## [Adam Millard](https://www.youtube.com/user/Thefearalcarrot/videos)
 

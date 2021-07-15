@@ -23,17 +23,17 @@ strategize | purge-distractions    | never                     | Are there any e
 connect    | reach-out             | never                     | Did you reach out to somebody new?
 learn      | spaced-repetition     | never                     | Did you do a round of spaced-repetition cards?
 toil       | clear-slack-mentions  | repeated during 0600-1800 | Are Slack mentions at inbox-zero?
-toil       | clear-github          | repeated during 0800-1700 | Are all GitHub notifications cleared?
-toil       | clear-clubhouse       | repeated during 0800-1700 | Are all ClubHouse notifications cleared?
+toil       | clear-github          | repeated during 0700-1600 | Are all GitHub notifications cleared?
+toil       | clear-clubhouse       | repeated during 0700-1600 | Are all ClubHouse notifications cleared?
 toil       | clear-forums          | repeated during 0600-1800 | Are forums at inbox-zero?
 toil       | clear-texts           | once during 0600-2100     | Is iMessage at inbox-zero?
 toil       | clear-slack           | once during 0600-1800     | Is Slack at inbox-zero?
 toil       | clear-emails          | once during 0600-1800     | Are emails at inbox-zero?
 toil       | clear-tabs            | once during 0600-1800     | Are all browser tabs cleared from all devices?
 toil       | clear-task-inbox      | once during 0600-1900     | Did you clear `inbox.txt`?
-toil       | clubhouse-in-progress | repeated during 0800-1700 | Clear "In Progress" from ClubHouse.
-toil       | career                | repeated during 0800-1700 | Clear `next-career.txt`.
-toil       | clubhouse-dev-ready   | repeated during 0800-1700 | Clear "Dev Ready" from ClubHouse.
+toil       | clubhouse-in-progress | repeated during 0700-1500 | Clear "In Progress" from ClubHouse.
+toil       | career                | repeated during 0700-1500 | Clear `next-career.txt`.
+toil       | clubhouse-dev-ready   | repeated during 0700-1500 | Clear "Dev Ready" from ClubHouse.
 toil       | clear-physical-tasks  | repeated during 0600-2100 | Did you clear all "projects piles"?
 toil       | personal              | repeated during 0600-2100 | Clear Apple Reminders and `next-personal.txt` and project tasks from project files!
 tidy       | litter                | once during 1100-2100     | Is the kitty litter clean?

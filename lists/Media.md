@@ -2065,6 +2065,154 @@ Try APL | Hacker News: https://news.ycombinator.com/item?id=27460887
 Dog ejected from car during Sunday crash found on sheep farm, herding sheep | Hacker News: https://news.ycombinator.com/item?id=27462498
 Did I break you? Reverse dependency verification | Hacker News: https://news.ycombinator.com/item?id=27457557
 
+Husband of Amazon employee sentenced to prison for insider trading Amazon stock | Hacker News: https://news.ycombinator.com/item?id=27468838
+Good and Bad Elixir | Hacker News: https://news.ycombinator.com/item?id=27463725
+Software is eating the car | Hacker News: https://news.ycombinator.com/item?id=27462263
+Will Apple Mail threaten the newsletter boom? | Hacker News: https://news.ycombinator.com/item?id=27448240
+Inexpensive Countries Where $2k/Month Buys the Good Life | Hacker News: https://news.ycombinator.com/item?id=27468779
+
+Avoid News, Part 2: What the Stock Market Taught Me about News | Hacker News: https://news.ycombinator.com/item?id=27510448
+Don't just shorten your URL, make it suspicious and frightening (2010) | Hacker News: https://news.ycombinator.com/item?id=27517524
+Richard Feynman’s Integral Trick (2018) | Hacker News: https://news.ycombinator.com/item?id=27517685
+Sam Harris : UFOs: https://www.reddit.com/r/UFOs/comments/nx5gam/sam_harris/
+Books on the Creative Arts from the Laurence King Shop: https://www.laurenceking.com/books/
+4 Day Week and Part Time Remote Programming Jobs: https://4dayweek.io/?utm_source=newsletter
+Doom Running on an IKEA Lamp [video] | Hacker News: https://news.ycombinator.com/item?id=27498789
+‘Positive deviants’: Why rebellious workers spark great ideas | Hacker News: https://news.ycombinator.com/item?id=27498862
+Supernumerary Robotic Limbs | Hacker News: https://news.ycombinator.com/item?id=27486845
+The future of data storage is still magnetic tape (2018) | Hacker News: https://news.ycombinator.com/item?id=27491445
+Disasters I've seen in a microservices world | Hacker News: https://news.ycombinator.com/item?id=27492594
+LSD and psilocybin increase the fractal dimension of brain activity | Hacker News: https://news.ycombinator.com/item?id=27492024
+Up for Grabs | Hacker News: https://news.ycombinator.com/item?id=27498602
+All Programming Is Web Programming (2009) | Hacker News: https://news.ycombinator.com/item?id=27500414
+Non-ionizing radiation - Wikipedia: https://en.wikipedia.org/wiki/Non-ionizing_radiation
+Main is usually a function, so when is it not? (2015) | Hacker News: https://news.ycombinator.com/item?id=27504254
+Mary Mallon | Hacker News: https://news.ycombinator.com/item?id=27499201
+The Fed's Digital Dollar Would Be 'Nightmareville' for Privacy | Hacker News: https://news.ycombinator.com/item?id=27507980
+Rust meets the web – a clash of programming paradigms (2020) | Hacker News: https://news.ycombinator.com/item?id=27501262
+80% of tech could be built outside IT by 2024, thanks to low-code tools | Hacker News: https://news.ycombinator.com/item?id=27508206
+Finish Your Stuff (2015) | Hacker News: https://news.ycombinator.com/item?id=27515645
+Tron: Legacy - A Misunderstood Gem - YouTube: https://www.youtube.com/watch?v=AbbnsSr4O00
+Do you really need Redis? How to get away with just PostgreSQL | Hacker News: https://news.ycombinator.com/item?id=27482243
+Fewer young men are in the labor force, more are living at home | Hacker News: https://news.ycombinator.com/item?id=27473199
+Ethereum community has solved a major problem of the Internet: Single Sign-On | Hacker News: https://news.ycombinator.com/item?id=27477022
+Beware of Tight Feedback Loops (2020) | Hacker News: https://news.ycombinator.com/item?id=27482067
+The work-from-home future is destroying bosses' brains | Hacker News: https://news.ycombinator.com/item?id=27461970
+Win at Risk by using systems thinking | Hacker News: https://news.ycombinator.com/item?id=27484288
+I Miss the Old Internet (2019) | Hacker News: https://news.ycombinator.com/item?id=27491537
+Code 'meaning-making' helps creating more nuanced software | Hacker News: https://news.ycombinator.com/item?id=27483061
+As religious faith has declined, ideological intensity has risen | Hacker News: https://news.ycombinator.com/item?id=27473167
+Making invisible glue code first-class | Hacker News: https://news.ycombinator.com/item?id=27486706
+Today We’re Eating the Winners of the 1948 Chicken of Tomorrow Contest | Hacker News: https://news.ycombinator.com/item?id=27533174
+If you think psychological science is bad, imagine how bad it was in 1999 | Hacker News: https://news.ycombinator.com/item?id=27529119
+When pop history bombs: a response to Malcolm Gladwell | Hacker News: https://news.ycombinator.com/item?id=27506171
+Why I no longer contribute to Racket | Hacker News: https://news.ycombinator.com/item?id=27531508
+Bitcoin Emits Less Than 2% of World’s Military-Industrial Carbon Emissions | Hacker News: https://news.ycombinator.com/item?id=27533171
+DuckDuckGo’s Quest to Prove Online Privacy Is Possible | Hacker News: https://news.ycombinator.com/item?id=27527391
+How to Become a Bad Developer | Hacker News: https://news.ycombinator.com/item?id=27539342
+Notion pulled itself back from the brink of failure (2019) | Hacker News: https://news.ycombinator.com/item?id=27540471
+Deep reinforcement learning will transform manufacturing as we know it | Hacker News: https://news.ycombinator.com/item?id=27557856
+“Roughly one-third of students are in favor of banning controversial books” | Hacker News: https://news.ycombinator.com/item?id=27561807
+OpenCola (Drink) | Hacker News: https://news.ycombinator.com/item?id=27562770
+A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009) | Hacker News: https://news.ycombinator.com/item?id=27559618
+
+Amazon S3 quietly deprecates BitTorrent support | Hacker News: https://news.ycombinator.com/item?id=27524549
+Advanced console.log Tips and Tricks (2020) | Hacker News: https://news.ycombinator.com/item?id=27499335
+A boy, his brain, and a decades-long medical controversy | Hacker News: https://news.ycombinator.com/item?id=27509586
+Show HN: Influence, a Go-inspired 1-minute board game | Hacker News: https://news.ycombinator.com/item?id=27520884
+The 88x31 GIF Collection | Hacker News: https://news.ycombinator.com/item?id=27500624
+Redis at the Edge with Cloudflare Workers | Hacker News: https://news.ycombinator.com/item?id=27524717
+Troubled US teens left traumatised by tough love camps | Hacker News: https://news.ycombinator.com/item?id=27557516
+CatMeows: A Publicly-Available Dataset of Cat Vocalizations | Hacker News: https://news.ycombinator.com/item?id=27556544
+SNES – Super Mario World Widescreen | Hacker News: https://news.ycombinator.com/item?id=27554765
+Can programming be liberated from the von Neumann style? (1978) | Hacker News: https://news.ycombinator.com/item?id=27554355
+Kazakhstan’s forest is the birthplace of modern apples | Hacker News: https://news.ycombinator.com/item?id=27547342
+There Are Aliens, but Probably Not Here | Hacker News: https://news.ycombinator.com/item?id=27569520
+Do software engineers have leverage? | Hacker News: https://news.ycombinator.com/item?id=27569539
+Chilling Adventures of Sabrina: A Frustrating Waste of Potential - YouTube: https://www.youtube.com/watch?v=9co2PqKxNWc
+Bob vs Nintendo: The Story of Bob's Game - YouTube: https://www.youtube.com/watch?v=A47maEySTdI
+
+Non-Bullshit Newsletters | Hacker News: https://news.ycombinator.com/item?id=27542262
+The evolution of Smalltalk: from Smalltalk-72 through Squeak (2020) | Hacker News: https://news.ycombinator.com/item?id=27537913
+Typed Pipes in Every Shell | Hacker News: https://news.ycombinator.com/item?id=27535357
+After 50 years of the war on drugs, 'what good is it doing for us?' | Hacker News: https://news.ycombinator.com/item?id=27542443
+The Hair Dryer Incident (2014) | Hacker News: https://news.ycombinator.com/item?id=27542217
+Rethinking Triplebyte | Hacker News: https://news.ycombinator.com/item?id=27541676
+Rick Roderick Lectures - YouTube: https://www.youtube.com/playlist?list=PLcvjwyxdQk5FE3EvvB_S8m-nNWN1igNpb
+DenoDB | Hacker News: https://news.ycombinator.com/item?id=27546705
+HBO Max accidentally sent an integration email test to users | Hacker News: https://news.ycombinator.com/item?id=27546017
+Biochemical Pathway Maps | Hacker News: https://news.ycombinator.com/item?id=27544894
+How many flies are in my apartment? | Hacker News: https://news.ycombinator.com/item?id=27535573
+Antikernel: A Decentralized Secure Operating System Architecture (2016) [pdf] | Hacker News: https://news.ycombinator.com/item?id=27550974
+Renoise – A DAW with a tracker-like interface | Hacker News: https://news.ycombinator.com/item?id=27565392
+
+
+Ask HN: What's an interesting DIY genetic engineering project? | Hacker News: https://news.ycombinator.com/item?id=27475080
+How do I opt my access point out of Google Location services? | Hacker News: https://news.ycombinator.com/item?id=27517547
+The home computer as a cultural object is physically vanishing (2007) | Hacker News: https://news.ycombinator.com/item?id=27500054
+On Comments in Code | Hacker News: https://news.ycombinator.com/item?id=27519445
+Well-behaved bubbles often make history | Hacker News: https://news.ycombinator.com/item?id=27515120
+Principles for Constructing Better Graphics (2011) [pdf] | Hacker News: https://news.ycombinator.com/item?id=27500181
+Ask HN: How did an adult ADHD diagnosis help you? | Hacker News: https://news.ycombinator.com/item?id=27514005
+Operation Midnight Climax: How the CIA Dosed S.F. Citizens with LSD | Hacker News: https://news.ycombinator.com/item?id=27520016
+Why do hurricane lanterns look like that? - YouTube: https://www.youtube.com/watch?v=tURHTuKHBZs
+Financial Model... | Details: https://smash.gg/tournament/financial-modeling-world-cup-multiplayer-battle/details
+https://stripe.com/identity: https://stripe.com/identity
+The most copied StackOverflow snippet of all time is flawed (2019) | Hacker News: https://news.ycombinator.com/item?id=27533684
+Monetizing Stupid | Hacker News: https://news.ycombinator.com/item?id=27533872
+A Beginner’s Guide to Miles Davis | Hacker News: https://news.ycombinator.com/item?id=27525047
+Manufacturing next-generation electronics like they are T-Shirts | Hacker News: https://news.ycombinator.com/item?id=27526020
+Facebook will start putting ads in Oculus Quest apps | Hacker News: https://news.ycombinator.com/item?id=27532243
+Why you should not use (f)lex, yacc and bison | Hacker News: https://news.ycombinator.com/item?id=27532605
+Why bother with old technology? (2013) | Hacker News: https://news.ycombinator.com/item?id=27499344
+DuckDuckGo — Privacy, simplified.: https://duckduckgo.com/
+No Comments, Ever | Hacker News: https://news.ycombinator.com/item?id=27551248
+Multiple local news stations say the same thing verbatim [video] | Hacker News: https://news.ycombinator.com/item?id=27550122
+Alice’s Adventures in Equilibrium - Hussman Funds: https://www.hussmanfunds.com/comment/mc210614/
+Mathematicians welcome computer-assisted proof in ‘grand unification’ theory | Hacker News: https://news.ycombinator.com/item?id=27559917
+Michael Burry warns the 'mother of all crashes' is coming | Hacker News: https://news.ycombinator.com/item?id=27561526
+Jose Valim introduces LiveBook v0.2: inputs, graphs, and more | Hacker News: https://news.ycombinator.com/item?id=27560395
+How to change the locale of a PostgreSQL cluster - makandra dev: https://makandracards.com/makandra/18643-how-to-change-the-locale-of-a-postgresql-cluster
+
+Disasters I've seen in a microservices world | Hacker News: https://news.ycombinator.com/item?id=27492594
+LSD and psilocybin increase the fractal dimension of brain activity | Hacker News: https://news.ycombinator.com/item?id=27492024
+Humans are more dependent on water than many other mammals | Hacker News: https://news.ycombinator.com/item?id=27546663
+A good livestreaming setup is a well-tailored suit | Hacker News: https://news.ycombinator.com/item?id=27577432
+Enthusiastic amateurs advance science as they hunt for exotic mushrooms | Hacker News: https://news.ycombinator.com/item?id=27576169
+Time management trips I learned from years of hating Tim Ferriss (2009) | Hacker News: https://news.ycombinator.com/item?id=27576215
+USC professor’s DIY online teaching hack to engage students goes viral (2020) | Hacker News: https://news.ycombinator.com/item?id=27575635
+design - Is an event loop just a for/while loop with optimized polling? - Software Engineering Stack Exchange: https://softwareengineering.stackexchange.com/questions/214889/is-an-event-loop-just-a-for-while-loop-with-optimized-polling
+Bear plus snowflake equals polar bear - ⌨️🤷🏻‍♂️📷: https://andysalerno.com/posts/weird-emojis/
+ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.: https://github.com/ibraheemdev/modern-unix
+
+Git undo: We can do better | Hacker News: https://news.ycombinator.com/item?id=27579701
+We Can't Let People Work from Home, for Stupid Reasons | Hacker News: https://news.ycombinator.com/item?id=27580946
+60% of Millennials Earning over $100k Live Paycheck to Paycheck | Hacker News: https://news.ycombinator.com/item?id=27581105
+Apple is buliding the metaverse substrate: https://news.ycombinator.com/item?id=27582568
+
+Saffron as an Antidepressant | Hacker News: https://news.ycombinator.com/item?id=27596125
+Ask HN: 90s programmers, what did you expect the future of tech to look like? | Hacker News: https://news.ycombinator.com/item?id=27585956
+Maybe it’s time we re-think docs | Hacker News: https://news.ycombinator.com/item?id=27591737
+Ask HN: What's the most rewarding investment you've made in your career? | Hacker News: https://news.ycombinator.com/item?id=27591145
+
+josh groban on Twitter: "Hello Kitty is a cat. She has whiskers and a cat nose. Girls don't look like that. Stop this nonsense." / Twitter: https://mobile.twitter.com/joshgroban/status/504751676939841539
+Toxoplasmosis – A Global Threat | Hacker News: https://news.ycombinator.com/item?id=27599085
+Seventeen Listener Suggestions, Reviewed — The Anthropocene Reviewed — Overcast: https://overcast.fm/+l3vKUm2TQ/20:49
+Best performing assets against inflation | Hacker News: https://news.ycombinator.com/item?id=27590552
+iam8bit | Tell Me Why Vinyl Soundtrack - iam8bit: https://www.iam8bit.com/products/tell-me-why-vinyl-soundtrack?goal=0_e7557e3b34-cd5e228571-303584609&mc_cid=cd5e228571&mc_eid=261bcd1333
+Show HN: Then – Understand how you spend your time and what influences your mood | Hacker News: https://news.ycombinator.com/item?id=27592876
+Ask HN: Feeling guilty for doing the bare minimum at work | Hacker News: https://news.ycombinator.com/item?id=27593462
+California will pay off all past due rent | Hacker News: https://news.ycombinator.com/item?id=27594291
+Better Range Types in Postgres 14: Turning 100 Lines of SQL Into 3: https://blog.crunchydata.com/blog/better-range-types-in-postgres-14-turning-100-lines-of-sql-into-3
+What does First Normal Form actually mean?: https://www.cargocultcode.com/what-does-first-normal-form-mean/
+A new kind of database: Combining Postgres & Citus tables, feat. foreign keys: https://www.citusdata.com/blog/2021/06/18/foreign-keys-between-local-ref-tables/
+Robert Haas: Talking about the PostgreSQL Optimizer at CMU: http://rhaas.blogspot.com/2021/06/talking-about-postgresql-optimizer-at.html
+How To Create Sample Postgres Data - YouTube: https://www.youtube.com/playlist?list=PLsceB9ac9MHQxwkSyi5LeqonMnMW8KiBZ
+Zero-downtime schema migrations in Postgres using views – Fabian Lindfors: https://fabianlindfors.se/blog/schema-migrations-in-postgres/
+Logging Tips for Postgres, Featuring Your Slow Queries: https://blog.crunchydata.com/blog/tentative-crunchy-bridge-integration-with-logdna
+hmolinab/pg_notify_exporter: PostgreSQL Listen/Notify exporter for Prometheus: https://github.com/hmolinab/pg_notify_exporter
+
+
 -->
 
 ## 2019/04/06 0732h 

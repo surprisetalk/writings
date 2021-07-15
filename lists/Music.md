@@ -25,6 +25,8 @@ Coming soon!
 - ★★★☆☆ | Reinabe :: _In the Object_
 - ★★★☆☆ | EASYFUN :: _Blink_
 - ★★★☆☆ | Hannah Diamond :: _Invisible_
+- ★★★☆☆ | Giraffes? Giraffes! :: _SugaaaaaSpazzazazz_
+- ★★☆☆☆ | Bobby Tank & Godwolf :: _Paradox - Single_
 
 
 ### Albums
@@ -56,6 +58,72 @@ Coming soon!
 
 <!-- absrdst's "driving me sane" is incredible -->
 
+<!-- vylet pony -->
+
+<!-- re-listen to 3-stars to decide if they're really 2-stars -->
+
+- ★★★☆☆ | Danny Brown :: _uknowwhatimsayin¿_
+- ★★☆☆☆ | Maximum Love :: _Midnight Astronaut_
+- ★★★☆☆ | Snail's House :: _Ordinary Songs 2_
+- ★★★☆☆ | Macross 82-99 :: _Sailorwave II - EP_
+- ★★★★☆ | We The Kings :: _We The Kings_
+- ★★★☆☆ | John Mayer :: _Heavier Things_
+- ★★★☆☆ | Slayyyter :: _Troubled Paradise_
+- ★★★☆☆ | All Time Low :: _So Wrong, It's Right_
+- ☆☆☆☆☆ | Candy Claws :: _In the Dream of the Sea Life_
+- ★★★☆☆ | Casker :: _tender_
+- ★★★☆☆ | Waveshaper :: _Station Nova_
+- ★★★☆☆ | Tame Impala :: _InnerSpeaker_
+- ★★☆☆☆ | CocoRosie :: _La Maison de Mon Rêve_
+- ☆☆☆☆☆ | Lucas Lex :: _Spider_
+- ☆☆☆☆☆ | Jenny Hval :: _Viscera_
+- ★★★☆☆ | death's dynamic shroud :: _Regret When It Was Lost_
+- ★★★☆☆ | God Is an Astronaut :: _Helios / Erebus_
+- ★★★☆☆ | POLIÇA & s t a r g a z e :: _Music for the Long Emergency_
+- ☆☆☆☆☆ | Boldy James & Sterling Toles :: _Manger on McNichols_
+- ☆☆☆☆☆ | Between the Buried and Me :: _The Silent Circus_
+- ★★☆☆☆ | Senses Fail :: _If There is Light, It Will Find You_
+- ☆☆☆☆☆ | Snarky Puppy :: _The World is Getting Smaller_
+- ★★★★★ | Björk :: _Homogenic
+- ☆☆☆☆☆ | Mew :: _A Triumph for Man_
+- ☆☆☆☆☆ | Sweet Trip :: _You Will Never Know Why_
+- ☆☆☆☆☆ | MASS OF THE FERMENTING DREGS :: _Zero Comma Iro Toridori no Sekai_
+- ★★★☆☆ | Car Seat Headrest :: _Teens of Denial_
+- ☆☆☆☆☆ | EASYFUN :: _Deep Trouble - EP_
+- ★★☆☆☆ | Pusha T :: _DAYTONA_
+- ☆☆☆☆☆ | Arcade Fire :: _The Suburbs_
+- ★★★☆☆ | Louis Cole :: _LIVE 2019_
+- ☆☆☆☆☆ | Snail's House :: _Ordinary Songs 3_
+- ☆☆☆☆☆ | The Mars Volta :: _Octahedron_
+- ★★★☆☆ | Frank Sinatra :: _A Swingin' Affair!_
+- ★★☆☆☆ | mus.hiba :: _White Girl_
+- ☆☆☆☆☆ | By The End Of Tonight & Tera Melos :: _Complex Full Of Phantoms_
+- ★★★☆☆ | Jefferson Airplane :: _Surrealistic Pillow_
+- ★★☆☆☆ | Dr. Dog :: _Takers and Leavers_
+- ☆☆☆☆☆ | ♥ GOJII ♥	:: _Wishing Star - EP_
+- ★★★☆☆ | Fleet Foxes :: _Crack-Up_
+- ☆☆☆☆☆ | Sleeping With Sirens :: _Let's Cheers to This_
+- ★★☆☆☆ | Carly Rae Jepsen :: _Dedicated Side B_
+- ☆☆☆☆☆ | Johnny Yukon :: _Installation I_
+- ☆☆☆☆☆ | The Physics House Band :: _Horizons / Rapture_
+- ☆☆☆☆☆ | Underoath :: _They're Only Chasing Safety_
+- ★★★★★ | Sufjan Stevens :: _Illinois_
+- ★★★★★ | Anomalie :: _Métropole_
+- ☆☆☆☆☆ | BADBADNOTGOOD :: _IV_
+- ★☆☆☆☆ | BLOOM & Dylan Brady :: _Sinses_
+- ★★★☆☆ | Halsey :: _Manic_
+- ★★★☆☆ | Organ Freeman :: _Respect My Art_
+- ☆☆☆☆☆ | GoGo Penguin :: _Man Made Object_
+- ★★★★★ | GoGo Penguin :: _GoGo Penguin
+- ☆☆☆☆☆ | Charles Mingus :: _Pithecanthropus Erectus_
+- ☆☆☆☆☆ | kitixxxgaia :: _大森靖子_
+- ★★★★★ | Pink Floyd :: _The Dark Side of the Moon_
+- ★★★★★ | Björk :: _Debut_
+- ★★★★★ | CAPSULE :: _L.D.K. Lounge Designers Killer_
+- ★★☆☆☆ | Cult of Luna :: _Eternal Kingdom_
+- ★★★☆☆ | Air :: _Moon Safari_
+- ★★☆☆☆ | Julia Holter :: _Tragedy_
+- ★★☆☆☆ | Rosesleeves :: _9920Deadline_
 - ☆☆☆☆☆ | Fishmans :: _Long Season_
 - ☆☆☆☆☆ | Nobuo Uematsu :: _FINAL FANTASY VII (Original Soundtrack)_
 - ★★★☆☆ | Eternity Forever & Ben Rosett :: _Unmixed. Unmastered. - EP_
@@ -464,7 +532,6 @@ Coming soon!
 - ☆☆☆☆☆ | KNOWER :: _Think Thoughts_
 - ☆☆☆☆☆ | KNOWER :: _Let Go_
 - ☆☆☆☆☆ | KNOWER :: _Life_
-- ☆☆☆☆☆ | POLIÇA & s t a r g a z e :: _Music for the Long Emergency_
 - ☆☆☆☆☆ | Other Men :: _Wake Up Swimming_
 - ☆☆☆☆☆ | Charly Bliss :: _Guppy_
 - ☆☆☆☆☆ | Disco Inferno :: _D.I. Go Pop_
@@ -483,7 +550,6 @@ Coming soon!
 - ☆☆☆☆☆ | Push over :: _Demo EP_
 - ☆☆☆☆☆ | Diplo :: _F10RIDA_
 - ☆☆☆☆☆ | Archaeologist :: _Odysseys_
-- ☆☆☆☆☆ | Jefferson Airplane :: _Surrealistic Pillow_
 - ☆☆☆☆☆ | Various Artists :: _Furi (Original Game Soundtrack)_
 - ★★★★★ | Mew :: _Frengers_
 - ☆☆☆☆☆ | GFOTY :: _GFOTYBUCKS_
@@ -534,7 +600,6 @@ Coming soon!
 - ☆☆☆☆☆ | Sentimental Scenery :: _There Is Nowhere Else In The World_
 - ★★☆☆☆ | Sentimental Scenery :: _11 DAYS_
 - ☆☆☆☆☆ | Casker :: _Your Songs_
-- ☆☆☆☆☆ | Casker :: _tender_
 - ☆☆☆☆☆ | Casker :: _여정(旅程)_
 - ☆☆☆☆☆ | Casker :: _ground part 1_
 - ☆☆☆☆☆ | 어른아이 :: _B Tl B Tl (비틀비틀)_
@@ -546,7 +611,6 @@ Coming soon!
 - ☆☆☆☆☆ | 도나웨일 :: _Dive To Blue_
 - ☆☆☆☆☆ | 도나웨일 :: _Donawhale_
 - ☆☆☆☆☆ | Snarky Puppy :: _the only constant_
-- ☆☆☆☆☆ | Snarky Puppy :: _The World is Getting Smaller_
 - ★★☆☆☆ | Snarky Puppy :: _Bring Us The Bright_
 - ☆☆☆☆☆ | Snarky Puppy :: _GroundUP_
 - ☆☆☆☆☆ | Snarky Puppy & Metropole Orkest :: _Sylva_
@@ -555,7 +619,6 @@ Coming soon!
 - ☆☆☆☆☆ | Flap Jack :: _Odd Fart_
 - ☆☆☆☆☆ | Richard Dawson :: _Peasant_
 - ☆☆☆☆☆ | Tyler, The Creator :: _Flower Boy_
-- ☆☆☆☆☆ | Pink Floyd :: _The Dark Side of the Moon_
 - ☆☆☆☆☆ | Pink Floyd :: _Wish You Were Here_
 - ☆☆☆☆☆ | Pink Floyd :: _The Wall_
 - ★★★☆☆ | Manchester Orchestra :: _A Black Mile To The Surface_
@@ -574,8 +637,6 @@ Coming soon!
 - ☆☆☆☆☆ | Feist :: _Pleasure_
 - ★☆☆☆☆ | Kirin J Callinan :: _Bravado_
 - ☆☆☆☆☆ | The Mountain Goats :: _Goths_
-- ☆☆☆☆☆ | Fleet Foxes :: _Crack-Up_
-- ☆☆☆☆☆ | Snail's House :: _Ordinary Songs 3_
 - ☆☆☆☆☆ | Snail's House :: _Ordinary Songs_
 - ☆☆☆☆☆ | Snail's House :: _Ordinary Songs 2_
 - ☆☆☆☆☆ | Elder :: _Reflections of a Floating World_
@@ -597,7 +658,6 @@ Coming soon!
 - ☆☆☆☆☆ | Vector Hold :: _Night Marauder_
 - ☆☆☆☆☆ | Waveshaper :: _Retro Future_
 - ☆☆☆☆☆ | Waveshaper :: _Exploration 84_
-- ☆☆☆☆☆ | Waveshaper :: _Station Nova_
 - ☆☆☆☆☆ | Timecop1983 :: _Running in the Dark_
 - ☆☆☆☆☆ | Daniel Deluxe :: _Corruptor_
 - ★★☆☆☆ | OGRE Sound :: _Calico Noir_
@@ -647,7 +707,6 @@ Coming soon!
 - ☆☆☆☆☆ | Nancy Sinatra :: _Nancy & Lee_
 - ☆☆☆☆☆ | Nancy Sinatra :: _Shifting Gears_
 - ☆☆☆☆☆ | Dr. Dog :: _Easy Beat_
-- ☆☆☆☆☆ | Dr. Dog :: _Takers and Leavers_
 - ☆☆☆☆☆ | Dr. Dog :: _We All Belong_
 - ☆☆☆☆☆ | Dr. Dog :: _Passed Away, Vol. 1_
 - ☆☆☆☆☆ | Dr. Dog :: _Fate_
@@ -689,7 +748,7 @@ Coming soon!
 - ☆☆☆☆☆ | Pinback :: _Information Retrieved_
 - ☆☆☆☆☆ | Pinback :: _Some Offcell Voices_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Huey Lewis & The News_
-- ☆☆☆☆☆ | Huey Lewis & The News :: _Hard At Play_
+- ★☆☆☆☆ | Huey Lewis & The News :: _Hard At Play_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Fore!_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Picture This_
 - ☆☆☆☆☆ | Huey Lewis & The News :: _Sports_
@@ -752,7 +811,6 @@ Coming soon!
 - ☆☆☆☆☆ | Yuna :: _Chapters (Deluxe)_
 - ☆☆☆☆☆ | Yuna :: _Nocturnal_
 - ☆☆☆☆☆ | Yuna :: _Yuna_
-- ☆☆☆☆☆ | We The Kings :: _We The Kings_
 - ☆☆☆☆☆ | Gotye :: _Making Mirrors_
 - ☆☆☆☆☆ | Eurythmics :: _In The Garden_
 - ☆☆☆☆☆ | Eurythmics :: _Touch (Reissue - Deluxe Edition)_
@@ -903,7 +961,6 @@ Coming soon!
 - ☆☆☆☆☆ | Bon Iver :: _For Emma, Forever Ago_
 - ☆☆☆☆☆ | Tycho :: _Epoch_
 - ☆☆☆☆☆ | Lone :: _Galaxy Garden_
-- ☆☆☆☆☆ | GoGo Penguin :: _Man Made Object (Deluxe)_
 - ☆☆☆☆☆ | Chick Corea & Hiromi :: _Duet_
 - ☆☆☆☆☆ | Hiromi :: _Place To Be_
 - ☆☆☆☆☆ | Hiromi :: _Voice_
@@ -913,7 +970,6 @@ Coming soon!
 - ☆☆☆☆☆ | The Almost :: _Southern Weather_
 - ☆☆☆☆☆ | The Almost :: _Monster Monster_
 - ☆☆☆☆☆ | The Almost :: _Fear Inside Our Bones_
-- ☆☆☆☆☆ | All Time Low :: _So Wrong, It's Right_
 - ☆☆☆☆☆ | All Time Low :: _Future Hearts_
 - ☆☆☆☆☆ | Yellowcard :: _Ocean Avenue_
 - ☆☆☆☆☆ | Capital Lights :: _Rhythm 'N' Moves_
@@ -1005,7 +1061,6 @@ Coming soon!
 - ☆☆☆☆☆ | Emarosa :: _Relativity_
 - ☆☆☆☆☆ | Emarosa :: _This Is Your Way Out_
 - ☆☆☆☆☆ | Emarosa :: _Versus_
-- ☆☆☆☆☆ | BADBADNOTGOOD :: _IV_
 - ☆☆☆☆☆ | Oneohtrix Point Never :: _R Plus Seven_
 - ☆☆☆☆☆ | Arca :: _Stretch 2_
 - ☆☆☆☆☆ | DJ Shadow :: _The Mountain Will Fall_
@@ -1052,13 +1107,11 @@ Coming soon!
 - ☆☆☆☆☆ | Orchards :: _Constantly Moving_
 - ★★★★☆ | Johann Sebastian Bach & Glenn Gould :: _Bach: The Goldberg Variations, BWV 988 (1981)_
 - ☆☆☆☆☆ | Caravan Palace :: _<I°_°I>_
-- ☆☆☆☆☆ | Maximum Love :: _Midnight Astronaut_
 - ☆☆☆☆☆ | Tomggg :: _Butter Sugar Cream_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Radio Music Society_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Esperanza_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Junjo_
 - ★★★★★ | Tame Impala :: _Currents_
-- ☆☆☆☆☆ | Tame Impala :: _InnerSpeaker_
 - ☆☆☆☆☆ | Tame Impala :: _Lonerism_
 - ☆☆☆☆☆ | bôa :: _Twilight_
 - ☆☆☆☆☆ | Com Truise :: _Galactic Melt_
@@ -1102,7 +1155,6 @@ Coming soon!
 - ☆☆☆☆☆ | Quadrupède :: _T O G O B a N_
 - ☆☆☆☆☆ | Pneu :: _Highway to Health_
 - ☆☆☆☆☆ | Pneu :: _Pince monseigneur_
-- ☆☆☆☆☆ | The Physics House Band :: _Horizons / Rapture_
 - ☆☆☆☆☆ | Monobody :: _Monobody_
 - ☆☆☆☆☆ | The Littlest Viking :: _The Littlest Viking_
 - ☆☆☆☆☆ | LITE :: _Installation_
@@ -1210,7 +1262,6 @@ Coming soon!
 - ☆☆☆☆☆ | Axes :: _Glory_
 - ☆☆☆☆☆ | Dirty Projectors :: _Swing Lo Magellan_
 - ★★★★☆ | Hop Along :: _Painted Shut_
-- ☆☆☆☆☆ | By The End Of Tonight & Tera Melos :: _Complex Full Of Phantoms_
 - ☆☆☆☆☆ | Marnie Stern :: _This Is It and I Am It and You Are It and So Is..._
 - ★★★★☆ | Nuito :: _Unutella_
 - ☆☆☆☆☆ | tricot :: _The_

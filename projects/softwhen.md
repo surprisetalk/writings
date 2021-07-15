@@ -2,6 +2,8 @@ Coming soon!
 
 <!--
 
+call the channel: "Feature Creep"
+
 A channel about history of software.
 
 Once credibility has been established, ask to see people's old codebases.
@@ -61,5 +63,12 @@ I'll Accept Anything – Accepting every pull request submitted | Hacker News: h
 How A Pull Request Rocked My World | Hacker News: https://news.ycombinator.com/item?id=5157092
 Best reply to a Pull Request ever? | Hacker News: https://news.ycombinator.com/item?id=7103031
 Why do most top performers have the highest count of commits and pull requests? | Hacker News: https://news.ycombinator.com/item?id=25329108
+
+
+Series:
+- softwhen (history)
+- creep academy (instructional)
+  - an entire cs education on youtube
+- (non-series strong opinions)
 
 -->

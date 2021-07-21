@@ -62,6 +62,32 @@ Coming soon!
 
 <!-- re-listen to 3-stars to decide if they're really 2-stars -->
 
+- ☆☆☆☆☆ | Mew :: _Mew with Copenhagen Philharmonic_
+- ★★★★☆ | Death Grips :: _The Money Store_
+- ☆☆☆☆☆ | Tricot :: _10_
+- ☆☆☆☆☆ | Lights :: _Siberia_
+- ☆☆☆☆☆ | Piana :: _Ephemeral_
+- ★★☆☆☆ | James Ferraro :: _Far Side Virtual_
+- ☆☆☆☆☆ | Ahn Dayoung :: _ANTIHERO_
+- ★☆☆☆☆ | Frank Sinatra :: _Watertown_
+- ★★★☆☆ | Tycho :: _Epoch_
+- ★☆☆☆☆ | Burning Star Core :: _Blood Lightning 2007_
+- ★★☆☆☆ | Galen Tipton :: _Spell Books 01 - Ideonella Sakaiensis_
+- ★★☆☆☆ | Santana :: _Santana III_
+- ★★☆☆☆ | The Sweeplings :: _Rise & Fall_
+- ★★☆☆☆ | Toy-Box :: _Toyride_
+- ★★☆☆☆ | Angelo De Augustine :: _How Past Begins_
+- ☆☆☆☆☆ | Vasudeva :: _Life in Cycles_
+- ☆☆☆☆☆ | Thank You Scientist :: _Stranger Heads Prevail_
+- ★★★★☆ | FROMTHEHEART :: _"Things Happen, It's Okay!"_
+- ★★★★★ | Esperanza Spalding :: _Esperanza_
+- ★★☆☆☆ | Arcade Fire :: _Neon Bible_
+- ★★★☆☆ | Hudson Mohawke :: _Lantern_
+- ★★★★☆ | King Crimson :: _Discipline_
+- ★★☆☆☆ | Protomartyr :: _Ultimate Success Today_
+- ★★☆☆☆ | Snail's House :: _エイリアン☆ポップ II - EP_
+- ★★★☆☆ | Carpainter :: _Returning_
+- ★★☆☆☆ | Mi Ami :: _Steal Your Face_
 - ★★★☆☆ | Danny Brown :: _uknowwhatimsayin¿_
 - ★★☆☆☆ | Maximum Love :: _Midnight Astronaut_
 - ★★★☆☆ | Snail's House :: _Ordinary Songs 2_
@@ -638,7 +664,6 @@ Coming soon!
 - ★☆☆☆☆ | Kirin J Callinan :: _Bravado_
 - ☆☆☆☆☆ | The Mountain Goats :: _Goths_
 - ☆☆☆☆☆ | Snail's House :: _Ordinary Songs_
-- ☆☆☆☆☆ | Snail's House :: _Ordinary Songs 2_
 - ☆☆☆☆☆ | Elder :: _Reflections of a Floating World_
 - ☆☆☆☆☆ | Groundislava :: _Groundislava_
 - ☆☆☆☆☆ | Groundislava :: _Endless Voyage_
@@ -780,7 +805,6 @@ Coming soon!
 - ☆☆☆☆☆ | Kings of Convenience :: _Quiet Is The New Loud_
 - ☆☆☆☆☆ | Kings of Convenience :: _Riot On An Empty Street_
 - ☆☆☆☆☆ | Lights :: _The Listening_
-- ☆☆☆☆☆ | Lights :: _Siberia_
 - ☆☆☆☆☆ | Lights :: _Little Machines_
 - ☆☆☆☆☆ | Lights :: _Midnight Machines_
 - ☆☆☆☆☆ | Christine and the Queens :: _Christine And The Queens_
@@ -867,7 +891,6 @@ Coming soon!
 - ☆☆☆☆☆ | Moon Bounce :: _Wheelhouse EP_
 - ☆☆☆☆☆ | Moon Bounce :: _Drugs - Single_
 - ★★★★★ | Punch Brothers :: _Punch_
-- ☆☆☆☆☆ | Vasudeva :: _Life in Cycles_
 - ★★★★★ | Dance Gavin Dance :: _Downtown Battle Mountain_
 - ☆☆☆☆☆ | sleepmakeswaves :: _sleepmakeswaves_
 - ★★★★☆ | sleepmakeswaves :: _...And so We Destroyed Everything_
@@ -899,7 +922,6 @@ Coming soon!
 - ☆☆☆☆☆ | Run The Jewels :: _Run the Jewels 3_
 - ☆☆☆☆☆ | Corey Feldman :: _Angelic 2 the Core : Angelic Funkadelic / Angelic Rockadelic_
 - ☆☆☆☆☆ | Charli XCX :: _Vroom Vroom EP_
-- ☆☆☆☆☆ | The Sweeplings :: _Rise & Fall_
 - ★★★★★ | Lydia :: _Illuminate_
 - ☆☆☆☆☆ | Various Artists :: _Cloud Atlas: Original Motion Picture Soundtrack_
 - ★★★★★ | The Mars Volta :: _Deloused in the Comatorium_
@@ -959,7 +981,6 @@ Coming soon!
 - ☆☆☆☆☆ | Yellowcard :: _Yellowcard_
 - ☆☆☆☆☆ | The Fall of Troy :: _OK_
 - ☆☆☆☆☆ | Bon Iver :: _For Emma, Forever Ago_
-- ☆☆☆☆☆ | Tycho :: _Epoch_
 - ☆☆☆☆☆ | Lone :: _Galaxy Garden_
 - ☆☆☆☆☆ | Chick Corea & Hiromi :: _Duet_
 - ☆☆☆☆☆ | Hiromi :: _Place To Be_
@@ -1053,7 +1074,6 @@ Coming soon!
 - ☆☆☆☆☆ | Soda Island :: _A Trip To Soda Island_
 - ☆☆☆☆☆ | Edward Vanzet :: _Everyday_
 - ☆☆☆☆☆ | Made in Heights :: _MADE IN HEIGHTS_
-- ☆☆☆☆☆ | Angelo De Augustine :: _How Past Begins_
 - ☆☆☆☆☆ | Giraffes? Giraffes! :: _SugaaaaaSpazzazazz_
 - ★☆☆☆☆ | Emarosa :: _131_
 - ☆☆☆☆☆ | Emarosa :: _Emarosa_
@@ -1109,7 +1129,6 @@ Coming soon!
 - ☆☆☆☆☆ | Caravan Palace :: _<I°_°I>_
 - ☆☆☆☆☆ | Tomggg :: _Butter Sugar Cream_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Radio Music Society_
-- ☆☆☆☆☆ | Esperanza Spalding :: _Esperanza_
 - ☆☆☆☆☆ | Esperanza Spalding :: _Junjo_
 - ★★★★★ | Tame Impala :: _Currents_
 - ☆☆☆☆☆ | Tame Impala :: _Lonerism_
@@ -1125,7 +1144,6 @@ Coming soon!
 - ☆☆☆☆☆ | Kaskade :: _In The Moment_
 - ☆☆☆☆☆ | BADBADNOTGOOD :: _III_
 - ☆☆☆☆☆ | Eyeliner :: _High Fashion Mood Music_
-- ☆☆☆☆☆ | James Ferraro :: _Far Side Virtual_
 - ☆☆☆☆☆ | Strawberry Girls :: _Italian Ghosts_
 - ☆☆☆☆☆ | Strawberry Girls :: _French Ghetto_
 - ★★★★☆ | Strawberry Girls :: _American Graffiti_
@@ -1264,7 +1282,6 @@ Coming soon!
 - ★★★★☆ | Hop Along :: _Painted Shut_
 - ☆☆☆☆☆ | Marnie Stern :: _This Is It and I Am It and You Are It and So Is..._
 - ★★★★☆ | Nuito :: _Unutella_
-- ☆☆☆☆☆ | tricot :: _The_
 - ☆☆☆☆☆ | Ólöf Arnalds :: _Vid Og Vid_
 - ☆☆☆☆☆ | FKA twigs :: _M3LL155X_
 - ☆☆☆☆☆ | Machinedrum :: _Room(s)_
@@ -1668,3 +1685,9 @@ Coming soon!
 - jinjer
 - groove metal
 - jinjer pisces live
+
+- Stream Dream Logic by A. G. Cook | Listen online for free on SoundCloud: https://soundcloud.com/agcook/dream-logic
+- Stream PC Music x DISown Radio ft. A. G. Cook, GFOTY, Danny L Harle, Lil Data, Nu New Edition and Kane West by PC Music ♩ | Listen online for free on SoundCloud: https://soundcloud.com/pcmus/pc-music-x-disown
+- Stream A. G. Cook - Hollywood Ambient by A. G. Cook | Listen online for free on SoundCloud: https://soundcloud.com/agcook/hollywood-ambient
+- Stream A. G. Cook - Personal Computer Music by DISmagazine | DIS Magazine | Listen online for free on SoundCloud: https://soundcloud.com/dismagazine/a-g-cook-personal-computer
+

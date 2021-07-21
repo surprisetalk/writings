@@ -188,4 +188,6 @@ const log = (fs.readFileSync(`${__dirname}/log.csv`, `utf8`) || error(`${__dirna
         clearTimeout(timer);
     }
 
+    process.exit();
+
 })();

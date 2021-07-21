@@ -2213,6 +2213,7 @@ Logging Tips for Postgres, Featuring Your Slow Queries: https://blog.crunchydata
 hmolinab/pg_notify_exporter: PostgreSQL Listen/Notify exporter for Prometheus: https://github.com/hmolinab/pg_notify_exporter
 
 
+
 -->
 
 ## 2019/04/06 0732h 

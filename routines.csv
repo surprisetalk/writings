@@ -21,7 +21,8 @@ strategize | delegate              | never                     | Can any of thes
 strategize | cheat-codes           | never                     | Do any of these tasks have "cheat-codes"? Can any of them be solved in unconventional ways?
 strategize | purge-distractions    | never                     | Are there any expected distractions? Are you going to prevent them?
 connect    | reach-out             | never                     | Did you reach out to somebody new?
-learn      | spaced-repetition     | never                     | Did you do a round of spaced-repetition cards?
+learn      | spaced-repetition     | once per day              | Did you do a round of spaced-repetition cards?
+learn      | translate             | once per day              | Did you translate a paragraph into target languages?
 toil       | clear-slack-mentions  | repeated during 0600-1800 | Are Slack mentions at inbox-zero?
 toil       | clear-github          | repeated during 0700-1600 | Are all GitHub notifications cleared?
 toil       | clear-clubhouse       | repeated during 0700-1600 | Are all ClubHouse notifications cleared?

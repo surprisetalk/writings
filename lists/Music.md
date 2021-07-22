@@ -27,6 +27,7 @@ Coming soon!
 - ★★★☆☆ | Hannah Diamond :: _Invisible_
 - ★★★☆☆ | Giraffes? Giraffes! :: _SugaaaaaSpazzazazz_
 - ★★☆☆☆ | Bobby Tank & Godwolf :: _Paradox - Single_
+- ★★★★☆ | Moe Shop :: _Love Taste (feat. Jamie Paige & Shiki) - Single_
 
 
 ### Albums
@@ -62,6 +63,10 @@ Coming soon!
 
 <!-- re-listen to 3-stars to decide if they're really 2-stars -->
 
+- ★★☆☆☆ | Carly Rae Jepsen :: _E•MO•TION_
+- ★☆☆☆☆ | Noah Gundersen :: _Lover_
+- ☆☆☆☆☆ | Alan Jackson :: _High Mileage_
+- ☆☆☆☆☆ | Destroyer :: _Poison Season_
 - ☆☆☆☆☆ | Mew :: _Mew with Copenhagen Philharmonic_
 - ★★★★☆ | Death Grips :: _The Money Store_
 - ☆☆☆☆☆ | Tricot :: _10_
@@ -1268,7 +1273,6 @@ Coming soon!
 - ☆☆☆☆☆ | Sally Shapiro :: _My Guilty Pleasure_
 - ☆☆☆☆☆ | Riverside :: _Love, Fear and the Time Machine_
 - ☆☆☆☆☆ | Julia Holter :: _Have You In My Wilderness_
-- ☆☆☆☆☆ | Destroyer :: _Poison Season_
 - ☆☆☆☆☆ | Meg Myers :: _Sorry_
 - ★★☆☆☆ | Scale The Summit :: _Carving Desert Canyons_
 - ☆☆☆☆☆ | Scale The Summit :: _Monument_

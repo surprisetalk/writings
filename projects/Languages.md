@@ -2,6 +2,10 @@ Coming soon!
 
 <!--
 
+translate toki pona dictionary to other languages
+
+-----
+
 input hypothesis
 - https://news.ycombinator.com/item?id=24715328
 - https://www.youtube.com/watch?v=J_EQDtpYSNM

@@ -105,68 +105,81 @@ const log = (fs.readFileSync(`${__dirname}/log.csv`, `utf8`) || error(`${__dirna
             } 
             return char;
         };
-        switch (`${group}:${routine}`) {
-            case `frolic:good-tunes`:
-                // TODO: print a random good album with "Maybe _?"
-                break;
-            case `simplify:spark-joy`:
-                // TODO: print notes on spark joy
-                break;
-            case `nothing:nothing`:
-                // TODO: print a timer
-                break;
-            case `lift:lift`:
-                break;
-            case `fuel:meal-prep`:
-                // TODO: print notes
-                break;
-            case `fuel:supplements`:
-                // TODO: print notes
-                break;
-            case `groom:groom`:
-                // TODO: print notes
-                break;
-            case `review:review-yesterday`:
-                // TODO: print yesterday's log
-                break;
-            case `review:review-last-week`:
-                // TODO: print last weeks's log
-                break;
-            case `review:review-last-month`:
-                // TODO: print last months's log
-                break;
-            case `review:automate`:
-            case `calibrate:relax`:
-            case `calibrate:review-values`:
-            case `calibrate:review-goals`:
-            case `calibrate:review-systems`:
-            case `calibrate:shrine`:
-            case `strategize:review-calendar`:
-            case `strategize:review-tasks`:
-            case `strategize:break-down-tasks`:
-            case `strategize:revive-projects`:
-            case `strategize:delegate`:
-            case `strategize:cheat-codes`:
-            case `strategize:purge-distractions`:
-            case `connect:reach-out`:
-            case `learn:spaced-repetition`:
-            case `toil:clear-emails`:
-            case `toil:clear-messages`:
-            case `toil:clear-forums`:
-            case `toil:clear-tabs`:
-            case `toil:sort-task-inbox`:
-            case `toil:career`:
-                // TODO: open clubhouse links on toil:career
-                break;
-            case `toil:clear-physical-tasks `:
-            case `toil:projects`:
-        }
-        const timer = setTimeout(() => { appendLog(`timeout`, `${group}:${routine}`); process.exit(); }, 2 * 60 * 1000);
+        let timer = setTimeout(() => { appendLog(`timeout`, `${group}:${routine}`); process.exit(); }, 2 * 60 * 1000);
+        const eventStuff = () => {
+            switch (`${group}:${routine}`) {
+                case `frolic:good-tunes`:
+                    // TODO: print a random good album with "Maybe _?"
+                    break;
+                case `simplify:spark-joy`:
+                    // TODO: print notes on spark joy
+                    break;
+                case `nothing:nothing`:
+                    // TODO: print a timer
+                    break;
+                case `lift:lift`:
+                    break;
+                case `fuel:meal-prep`:
+                    // TODO: print notes
+                    break;
+                case `fuel:supplements`:
+                    // TODO: print notes
+                    break;
+                case `groom:groom`:
+                    // TODO: print notes
+                    break;
+                case `review:review-yesterday`:
+                    // TODO: print yesterday's log
+                    break;
+                case `review:review-last-week`:
+                    // TODO: print last weeks's log
+                    break;
+                case `review:review-last-month`:
+                    // TODO: print last months's log
+                    break;
+                case `learn:translate`:
+                    clearTimeout(timer);
+                    timer = setTimeout(() => { appendLog(`timeout`, `${group}:${routine}`); process.exit(); }, 10 * 60 * 1000);
+                    // TODO: Move paragraphs into array here on single line.
+                    const paragraphs = require(`./paragraphs.json`).data;
+                    paragraphs.sort(() => .5 - Math.random());
+                    console.log(`> ${paragraphs[0].paragraph}`);
+                    // TODO: Also supply other paragraphs in other languages, translating using `trans -brief -s english -t "..."`.
+                    // TODO: Also open up `trans -shell -brief -s $1 -t $2 $3` for each translation.
+                    break;
+                case `review:automate`:
+                case `calibrate:relax`:
+                case `calibrate:review-values`:
+                case `calibrate:review-goals`:
+                case `calibrate:review-systems`:
+                case `calibrate:shrine`:
+                case `strategize:review-calendar`:
+                case `strategize:review-tasks`:
+                case `strategize:break-down-tasks`:
+                case `strategize:revive-projects`:
+                case `strategize:delegate`:
+                case `strategize:cheat-codes`:
+                case `strategize:purge-distractions`:
+                case `connect:reach-out`:
+                case `learn:spaced-repetition`:
+                case `toil:clear-emails`:
+                case `toil:clear-messages`:
+                case `toil:clear-forums`:
+                case `toil:clear-tabs`:
+                case `toil:sort-task-inbox`:
+                case `toil:career`:
+                    // TODO: open clubhouse links on toil:career
+                    break;
+                case `toil:clear-physical-tasks `:
+                case `toil:projects`:
+            }
+        };
         // BUG: {isRepeated: true, window: null} is ignored.
         if (!isRepeated && !window) {
             if (!log.map(({info}) => `${info.group}:${info.routine}`).includes(`${group}:${routine}`)) {
                 console.log();
                 console.log(`${description} [done/skip]`);
+                eventStuff();
                 const char = await promptChar([`d`,`s`]);
                 appendLog(`input`, `${group}:${routine}:${char}`);
             }
@@ -174,6 +187,7 @@ const log = (fs.readFileSync(`${__dirname}/log.csv`, `utf8`) || error(`${__dirna
             if (!log.map(({info}) => `${info.group}:${info.routine}`).includes(`${group}:${routine}`)) {
                 console.log();
                 console.log(`${description} [done/skip]`);
+                eventStuff();
                 const char = await promptChar([`d`,`s`]);
                 appendLog(`input`, `${group}:${routine}:${char}`);
             }
@@ -181,6 +195,7 @@ const log = (fs.readFileSync(`${__dirname}/log.csv`, `utf8`) || error(`${__dirna
             if (!log.filter(({date}) => new Date().getTime() - date.getTime() < 60 * 60 * 1000).map(({info}) => `${info.group}:${info.routine}`).includes(`${group}:${routine}`)) {
                 console.log();
                 console.log(`${description} [done/skip]`);
+                eventStuff();
                 const char = await promptChar([`d`,`s`]);
                 appendLog(`input`, `${group}:${routine}:${char}`);
             }
